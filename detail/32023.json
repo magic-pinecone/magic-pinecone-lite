@@ -1,0 +1,18 @@
+{
+  "serial_no": "32023",
+  "objectives": "This course is aimed to provide students with practical knowledge of water in our living environments, namely the hydrology. Mechanisms dominating water circulation on and beneath the land surface, as well as returning back to the atmosphere, will be presented in lectures. Practical issues related to engineering hydrology, such as water resources, engineering design, flood routing, and climate change will be adopted in allied topics. This course is designed as the fundamental undergraduate course for students majoring in civil engineering. The materials covered in this course are essential to advanced courses or research in any hydrologic related discipline. Pre-required courses are calculus and fluid mechanics.“",
+  "content": "“1.Introduction\n2.Precipitation\n3.Interception, depression storage, infiltration\n4.Evapotranspiration\n5.Groundwater\n6.Runoff and river\n7.Hydrological measurements\n8.Discharge hydrograph\n9.Hydrograph estimation\n10.Flood routing\n11.Frequency analysis and risk assessment\n12.Hydrological design-estimation of retention pond capacity\n13.Climate change“",
+  "books": "“1.吳瑞賢，2012，工程水文學，第二版，科技圖書。\n2.Hornberger, et al., 1998, Elements of Physical Hydrology, Johns Hopkins Univ. Press.\n3.Chow, V.T., Maidment, D. R., and Mays, L. W., 1988, Applied Hydrology. McGraw-Hill.\n4.Jones, J. A. A., 1997, Global Hydrology, Longman.\n5.Ruddiman, W. F., 2001, Earth’s Climate: past and future, W.H. Freeman and Company.\n6.Dingman, S. L., 2002, Physical Hydrology, 2nd ed., Prentice Hall.\n7.Viessman, W. Jr. and G. L. Lewis, 1996, Introduction to Hydrology, 4th ed., Harper Collins.“",
+  "teaching_method": "講授",
+  "grading_policy": "期中考35％\n期末考35％\n作業20％\n課堂參與10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限三年級、四年級。指定課程:必須先修MA1003。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。指定課程:必須先修MA1003。"
+    }
+  ]
+}

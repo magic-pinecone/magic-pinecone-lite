@@ -1,0 +1,9 @@
+{
+  "serial_no": "64010",
+  "objectives": "This course focuses on applications of numerical models for groundwater flow and transport problems. Students in this class will learn a number of numerical models that are relative to groundwater flow and transport. The procedure to create conceptual model and interpretation of modeling results will be discussed through case studies.",
+  "content": "1.地下水水流與污染傳輸理論回顧\n2.數值方法之理論回顧\n3.地下水數值模式之概念模式建立\n4.模擬的物理及數值參數分析以及邊界條件設定\n5.案例實習",
+  "books": "Anderson M.P. and Woessner W.W, (1992), Applied Groundwater Modeling-Simulation of Flow and Advective Transport, Academic Press.\nWang H.F. and Anderson M.P.(1982), Introduction to Groundwater Modeling, Academic Press.",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "Grading Policy:\nMid term 30%\nFinal exam 30%\nHomework/mini projects 40%",
+  "distribution_conditions": []
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "53029",
+  "objectives": "進行數位家庭網路、平台和軟體發展相關規格與軟體工程方法之介紹。當使參與課程之學生研習數位家庭網路程式開發之介面,連結行動應用服務,引領學生構思“數位家庭”之創意情境及服務。",
+  "content": "1\t數位家庭簡介\n2\t數位家庭網路有線傳輸技術與標準\n3\t數位家庭網路有線傳輸技術與標準\n4\t數位家庭網路無線傳感傳輸技術與標準\n5\t數位家庭網路感測技術與標準\n6\t數位家庭網路開放式系統平台、技術與標準\n7\t數位家庭網路整合應用服務\n8\t期中考\n9\t數位家庭嵌入式平台之實驗開發環境建置與操作\n10\t數位家庭嵌入式平台之GPIO和感測模組\n11\t數位家庭嵌入式平台之ESP模組\n12\t數位家庭嵌入式平台之ECHONET Lite模組 I\n13\t數位家庭嵌入式平台之ECHONET Lite模組 II\n14\t數位家庭嵌入式平台之網路傳輸與數據平台模組\n15\t數位家庭嵌入式平台之資料加值分析模組\n16\t數位家庭嵌入式平台之期末專題構想簡報及報告\n17    期末專題製作與報告 I\n18\t期末專題製作與報告 II",
+  "books": "- 教師自製簡報檔及教材\n- 參考書(中文)：Journals and conference papers selected by instructors",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Midterm 50％\nHomework 20％\nProject presentation 15 ％\nFinal project report 15％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系碩士在職專班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系碩士在職專班。"
+    }
+  ]
+}

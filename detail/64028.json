@@ -1,0 +1,9 @@
+{
+  "serial_no": "64028",
+  "objectives": "認識地下環境中水流、化學、熱學、力學過程的模擬原理。學習操作本課程指定之THMC模擬軟體，強調應用於區域地下水資源管理與地下水污染整治之模擬分析與解決方案評估。可協助來自地球科學、永續學院及其他相關領域的學生，學習使用模擬方法理解與應對環境議題。",
+  "content": "1.\t地下環境模擬基礎理論\n2.\t地下水流理論介紹\n3.\t地下水污染反應傳輸理論介紹\n4.\tTHMC模組操作與分析\n5.\t實場模擬應用與實作",
+  "books": "1.\tWoessner, W. W., & Poeter, E. P. (2020). Hydrogeologic Properties of Earth Materials and Principles of Groundwater Flow. The Groundwater Project, Guelph, Ontario, Canada.\n2.\tTHMC Software User Manual & Tutorials",
+  "teaching_method": "講授",
+  "grading_policy": "作業35%\n期中考30%\n期末報告35%",
+  "distribution_conditions": []
+}

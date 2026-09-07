@@ -1,0 +1,18 @@
+{
+  "serial_no": "21055",
+  "objectives": "介紹統計推論之概念及理論。在第一學期 (統計推論 I) 將會介紹機率論相關的知識，以供第二學期 (統計推論 II) 詳細介紹統計推論的理論知識。",
+  "content": "Probability and distributions, Properties of random sample, Principles of data reduction, Point estimation, Hypothesis testing, Interval estimation, and Asymptotic evaluations.",
+  "books": "G Casella and RL Berger (2002). Statistical Inference (2nd Ed). Duxbury Advanced Series.",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "作業 (30％), 考試 (70％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限四年級。"
+    }
+  ]
+}

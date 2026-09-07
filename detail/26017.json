@@ -1,0 +1,26 @@
+{
+  "serial_no": "26017",
+  "objectives": "傅氏光學是光波在自由空間或光學系統中傳播的基礎理論，以較簡易的方式處理干涉與繞射的問題，是光學資訊處理與全像光學的重要基本課程。",
+  "content": "1. Fourier Transforming and convolution.\n\n2. Linear and Space-invariant System.\n\n3. Scalar Diffraction Theory.\n\n4. Fresnel and Fraunhofer Diffraction.\n\n5. Fourier Transforming and Imaging Properies of Lenses.\n\n6. Frequency Analysis of Optical Imaging Systems.\n\n7. Spatial Filtering and Optical Information Processing.\n\n8. Holography.",
+  "books": "Introduction to Fourier Optics by Goodman",
+  "teaching_method": "講授",
+  "grading_policy": "期中與期末考試\n\n預期達到之教育目標及對學生之要求：\n傅氏光學為：全像光學、光學訊號處理、Spatial Filtering的基本課程。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系碩士班、光電科學與工程學系照明與顯示科技碩士班、光電科學與工程學系光電產業碩士專班。年級:限非一年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限光電博士學位學程(台灣聯合大學系統)。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系碩士在職專班。"
+    }
+  ]
+}

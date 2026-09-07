@@ -1,0 +1,22 @@
+{
+  "serial_no": "32018",
+  "objectives": "1.學習利用土壤力學的理論，掌握靜止土壓力、主動及被動土壓力的概念，進行擋土\n結構的設計。\n2.了解淺基礎及深基礎的力傳遞方式及計算承載力的方法，並介紹不同基礎的施工方\n法。\n3. 結合材料力學及鋼筋混凝土的知識，來學習基本的基礎設計程序及不同基礎型式的\n施工方法。\n4. 認識邊坡破壞類型與機制，學習邊坡穩定分析方法與補強技術。\n5. 學習地盤調查的各種方法與實務。",
+  "content": "1.土壤剪力強度回顧\n2.側向土壓力理論及擋土牆設計\n3.淺基礎承載力理論及設計\n4 邊坡穩定設計\n5.地下探查\n6.深基礎承載力理論及設計",
+  "books": "“Principles of Geotechnical Engineering”, by Braja M. Das\n“Principles of Foundation Engineering“, by Braja, M. Das",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "作業:40％，考試:60％，出席上課:加分。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。"
+    }
+  ]
+}

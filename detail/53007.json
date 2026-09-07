@@ -1,0 +1,30 @@
+{
+  "serial_no": "53007",
+  "objectives": "培養學生具備以資料結構的軟體程式設計能力解決問題。",
+  "content": "週次\t內容\t備註\n1\tC程式語言\t語法/指位器\n2\t堆疊\n3\t佇列\n4\t遞迴\n5\t鏈結串列\n6\t鏈結串列\n7\t樹狀結構\n8\t樹狀結構\n9\t期中考\n10\t排序\n11\t排序\n12\t搜尋\n13\t搜尋\n14\t圖形與應用\n15\t圖形與應用\n16\t期末考 期末計畫展示",
+  "books": "教科書(英文)：Data Structures Using C, by Tanenbaum, Y Langsam and MJ. Augenstein, Prentice-Hall\n參考書(中文)：自行編撰投影片“",
+  "teaching_method": "講授",
+  "grading_policy": "期中考(Mid-term Exam) 30％\n期末考(Final Exam) 30％\n作業及小考(Homeworks) 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-通訊工程學系、雙主修-通訊工程學系、第二專長-通訊工程。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限資訊電機學院學士班。"
+    },
+    {
+      "priority": 5,
+      "rule": "系所:限電機工程學系、資訊工程學系。"
+    }
+  ]
+}

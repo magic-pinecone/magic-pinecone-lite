@@ -1,0 +1,9 @@
+{
+  "serial_no": "27014",
+  "objectives": "本課程目標在於幫助學生建立 Bayesian causal inference 的整體觀念，理解其在潛在結果架構下的核心概念、識別假設與推論邏輯，並進一步掌握 Bayesian 方法在因果推論中的優勢、限制與實務挑戰；同時介紹其在神經科學中的理論詮釋，以及在高維與非參數情境下的現代方法發展。透過本課程，學生將能從理論、方法到應用三個層面，系統性理解 Bayesian causal inference 的重要問題與研究方向。",
+  "content": "本課程將介紹 Bayesian causal inference 的基本架構，從潛在結果模型、因果效應定義與可識別條件出發，說明 Bayesian 推論如何處理反事實結果、傾向分數、敏感度分析，以及工具變數與時間變動處置等較複雜情境；同時也將延伸到 Bayesian nonparametric causal inference，介紹如 Gaussian process、BART 與高維調整等現代方法，並討論其在神經科學中作為解釋知覺整合與因果判斷的理論角色。藉由理論介紹與文獻導讀，幫助學生掌握 Bayesian 因果推論的核心概念、方法發展與跨領域應用。",
+  "books": "本課程以 Peng Ding 著作 A First Course in Causal Inference 為主要教科書，並搭配教師指定之期刊論文與補充講義作為輔助教材，以延伸介紹 Bayesian causal inference、Bayesian nonparametric causal inference，以及相關理論與應用發展。主要參考論文包括 Li, Ding and Mealli (2023), Bayesian causal inference: a critical review；Shams and Beierholm (2022), Bayesian causal inference: A unifying neuroscience theory；Linero and Antonelli (2023), The how and why of Bayesian nonparametric causal inference。",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "筆試50%、口試50%",
+  "distribution_conditions": []
+}

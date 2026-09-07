@@ -1,0 +1,14 @@
+{
+  "serial_no": "49011",
+  "objectives": "介紹使用SAP運籌管理模組時，所需具備的生產計劃與控制之相關知識。",
+  "content": "製造業與生產系統\n生產計劃與管理的架構 (MRP-II, MPC)\n生產系統的各種不同型態\n企業資源規劃系統 SAP 的原理與應用\n 生產計劃與管制 (SAP-PP)\n 物料需求管理 (SAP-MM)\n 銷售與配送 (SAP-SD)\n生產系統績效分析的方法\n精實生產\n個案討論",
+  "books": "教師自編講義",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "期末考: 60％\n課程作業: 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限會計研究所企業資源規劃會計碩士在職專班。"
+    }
+  ]
+}

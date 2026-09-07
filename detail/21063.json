@@ -1,0 +1,14 @@
+{
+  "serial_no": "21063",
+  "objectives": "本課程旨在培養研究生閱讀學術論文並建立獨立研究的能力。",
+  "content": "本課程將主要涵蓋數學影像處理、電腦視覺、資料科學、和機器學習等領域的最新進展。",
+  "books": "(1) G. Aubert and P. Kornprobst, Mathematical Problems in Image Processing: Partial Differential Equations and the Calculus of Variations, Second Edition, Springer, New York, 2006.\n(2) B. Bohn, J. Garcke, and M. Griebel, Algorithmic Mathematics in Machine Learning, SIAM, 2024.\n(3) D. Calvetti and E. Somersalo, Mathematics of Data Science, SIAM, 2021.\n(4) M. Elad, Sparse and Redundant Representations: from Theory to Applications in Signal and Image Processing, Springer, New York, 2010.",
+  "teaching_method": "研討\n\n個別指導",
+  "grading_policy": "Assignments 100％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

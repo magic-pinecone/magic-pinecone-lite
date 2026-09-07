@@ -1,0 +1,22 @@
+{
+  "serial_no": "33056",
+  "objectives": "金屬成型為許多精密機械製造與工程領域的應用學科與組成架構之一，更為機械系及許多工程學系訂為大學部必修基礎科目，本課程乃授與學生必要的金屬成型知識，包含了解生產機械零件、零組件可採用之金屬成型法，所需之設備；金屬成型後成品之特性，生產成本等，作為日後學習相關進階課程及各式工程應用之用。",
+  "content": "1.\tClass logistics, overview of metal forming\n2.\tIntroduction (Ch.1)\n3.\tMaterial Properties ＆ Attributes (Ch. 3, Ch. 5)\n4.\tParticulate Processing (Ch. 14, Ch. 15)\n5.\tMetal Forming and Sheet Metalworking (Ch. 16-18)\n6.\tTooling design/simulation---introduction\n7.\tTooling design/simulation---upsetting\n8.\tTooling design/simulation---forging\n9.\tTooling design/simulation---extruding\n10.\tTooling design/simulation---progressive die",
+  "books": "W. F. Hosford, Metal forming mechanics and metallurgy, 3E or 4E is OK\nSchuler metal forming handbook, 1998\nM.K. Groover, “Principles of Modern Manufacturing: Materials, Processes, and Systems” 4E, SI\nHeinz Tschaetsch, “Metal forming practise--Processes – Machines – Tools”",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "20％ participation and in-class HW/quiz\nmidterm ＆ presentation, 35％.\nFinal project, 45％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系碩士班、能源工程研究所碩士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限機械工程學系博士班、能源工程研究所博士班。"
+    }
+  ]
+}

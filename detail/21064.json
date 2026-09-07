@@ -1,0 +1,14 @@
+{
+  "serial_no": "21064",
+  "objectives": "訓練研究生閱讀論文的能力, 並培養獨立思考的習慣.“",
+  "content": "本課程主要涵蓋下面主題 :\n1.介紹數學分支領域最新進展。\n2.相關文獻研讀指導。\n3.個別主題的研究報告。",
+  "books": "人工智慧相關論文",
+  "teaching_method": "研討\n實習/實驗\n個別指導",
+  "grading_policy": "50％ 研究進度 50％ 論文報告",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

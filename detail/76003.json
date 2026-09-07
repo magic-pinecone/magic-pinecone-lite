@@ -1,0 +1,18 @@
+{
+  "serial_no": "76003",
+  "objectives": "協助學生撰寫論文",
+  "content": "論文撰寫",
+  "books": "論文",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "撰寫研究論文：100％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限客家語文暨社會科學學系客家研究碩士在職專班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限客家語文暨社會科學學系客家研究碩士在職專班。年級:限三年級、四年級、五年級。"
+    }
+  ]
+}

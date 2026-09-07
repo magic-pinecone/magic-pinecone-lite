@@ -1,0 +1,22 @@
+{
+  "serial_no": "24008",
+  "objectives": "基礎有機化學的學習。",
+  "content": "原則上授課 9 章：1. 結構與鍵結；2. 極性共價鍵、酸與鹼；3. 有機化合物：烷類與其立體化學；4. 有機化合物：環烷類與其立體化學；5. 四面體中心之立體化學；6. 有機化學反應總覽；7. 烯與炔；8. 烯與炔的反應；9. 芳香族化合物。",
+  "books": "Organic Chemistry with Biological Approach, Taiwan Ed, 2nd Print in 2019, by John McMurry",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "點名 10％、小考 12％、期中考 I  33％、期中考 II  27％、期末考  33％，考試日期於上課時宣佈。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-生命科學系、學分學程-生科職涯。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "23031",
+  "objectives": "本課程以觀念及應用為主，儘量避免繁複的理論推導。課程設計儘量讓課堂所學可應用於個人的研究。",
+  "content": "本課程將應用python、Excel等程式語言製圖，課程內容包括:\n\n1. Molecular Mechanics (Empirical Method); 2. Energy Minimization; 3. Semi-empirical Method; 4. Ab Initio and Density Functional Theory; 5. Molecular Dynamics and Monet Carlo:",
+  "books": "“1. W. J. Hehre, L. Radom, P. v.R. Schleyer, and J.A. Pople “Ab Initio Molecular Orbital Theory” 2. M.P. Allen and D.J. Tildesley “Computer Simulation of Liquids” 3. C. J. Cramer “Essentials of Computational Chemistry: Theories and Models”“",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "作業: 80％\n學習態度: 20％\n作業可和老師及同學間互相討論，但不可互相抄襲。抄襲者及借與他人抄襲者該次作業以零分計算。期末Presentation 同學可自行選定一篇和自己研究相關的計算化學論文進行報告, 或由教師指定。“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系碩士班、化學學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學學系。年級:限四年級、延修生。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。年級:限四年級、延修生。"
+    }
+  ]
+}

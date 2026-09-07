@@ -1,0 +1,22 @@
+{
+  "serial_no": "61011",
+  "objectives": "本課程為環境研究專業科目的入門課程，著重於廣泛與普遍的說明多項環境問題、成因與解決之道，如能源與資源的耗竭、空氣污染、水污染、廢棄物處理、臭氧層破洞、全球氣候變遷等，培養學生全面性的概念，引導學生了解環境與人類生活之關聯以及環境保護之重要性。",
+  "content": "1.   環境科學與永續性簡介\n\n2.   生態系統與能量\n\n3.   生態系統與物質\n\n4.   生態系統與生物\n\n5.   人口\n\n6.   衛生與環境毒理學\n\n7.   能源與化石燃料\n\n8.   核能與輻射\n\n9.   再生能源\n\n10. 資源\n\n11. 固體及有害廢棄物\n\n12. 循環經濟\n\n13. 水污染\n\n14. 空氣污染\n\n15. 全球氣候變遷",
+  "books": "Textbook:\nRaven, Hassenzahl, Hager, Gift and Berg; Environment, 9th Edition; Wiley, 2015\n\nReferences:\n1. Masters and Ela; Introduction to Environmental Engineering and Science, 3rd Edition; Pearson\n2. Global Environment Outlook\n3. BP Statistical Review of World Energy\n4. 全球環境變遷(柳中明編著，2版)\n5. 圖書館及網路資源",
+  "teaching_method": "講授",
+  "grading_policy": "1. Class Participation, Homework and Report 10-30％\n2. 3或4次考試 70-90％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限學分學程-生科職涯。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

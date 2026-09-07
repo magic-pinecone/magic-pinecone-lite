@@ -1,0 +1,26 @@
+{
+  "serial_no": "10007",
+  "objectives": "https://taicatw.net/fall-115/",
+  "content": "https://taicatw.net/fall-115/",
+  "books": "https://taicatw.net/fall-115/",
+  "teaching_method": "講授",
+  "grading_policy": "https://taicatw.net/fall-115/",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限碩士在職專班。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

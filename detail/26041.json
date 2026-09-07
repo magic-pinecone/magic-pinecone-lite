@@ -1,0 +1,9 @@
+{
+  "serial_no": "26041",
+  "objectives": "瞭解短脈衝雷射的產生、量測及應用。",
+  "content": "1. 雷射原理。\n2. 短脈衝雷射的產生: 鎖模。\n3. 短脈衝雷射的量測: AC, FROG, SPIDER, TADPOLE, MIIPS...\n4. 同調控制及短脈衝雷射的應用。",
+  "books": "1. Femtosecond laser pulses- principles and experiments. By Claude Rulliere.\n2. Frequency resolved optical gating- The measurement of ultrashort laser pulses. By Rick Trebino.",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "報告 100%",
+  "distribution_conditions": []
+}

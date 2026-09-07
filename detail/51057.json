@@ -1,0 +1,9 @@
+{
+  "serial_no": "51057",
+  "objectives": "訓練研究生具獨立研究之能力",
+  "content": "◎Analysis of phase locked loop\n-Blocks of phase locked loop\n-Order of the PLL system\n-Design procedure for PLL\n-PLL applications\n◎Microwave & Millimeter-wave oscillators design\n-Oscillation conditions\n-Two-port oscillators\n-Oscillator design and analysis\n-Oscillator configurations\n◎Microwave & Millimeter-wave frequency divider circuit\n-Analog divider\n-Digital divider\n-Design of the frequency divider\n-Low power design\n◎Other building blocks in PLLs\n-Phase frequency detector\n-Charge pumping\n-Programming counter\n-Control interface\n◎Phase noise\n-Phase noise in PLL\n-Phase noise characteristics\n-Analysis of the phase noise\n-Phase noise measurement",
+  "books": "\"教科書 U. Rohde, Microwave and wireless synthesizers: theory and design, John Wiley & Sons, Inc., 1997.\n參考書 R. E. Best, Phase-locked loops, McGraw-Hill, 1997\"",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "Midterm 30%\nTerm Project 40%\nHomework 30%",
+  "distribution_conditions": []
+}

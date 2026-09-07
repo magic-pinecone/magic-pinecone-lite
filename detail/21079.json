@@ -1,0 +1,14 @@
+{
+  "serial_no": "21079",
+  "objectives": "訓練研究生學術研究, 閱讀論文, 以及學術寫作的能力",
+  "content": "(1) 實驗設計與主動式學習議題\n(2) 充分維度縮減議題",
+  "books": "* Yang et al. (2026). Nearly Optimal Subdata Selection. arXiv preprint arXiv:2604.23930.\n* Stallrich et al. (2025). An optimal design framework for lasso sign recovery. Journal of the Royal Statistical Society Series B: Statistical Methodology, 87(5), 1457-1480.\n* Hung and Huang (2019). Sufficient dimension reduction via random‐partitions for the large‐p‐small‐n problem. Biometrics, 75(1), 245-255.\n* Zhang et al. (2026). Optimal sparse sliced inverse regression via random projection. Journal of Computational and Graphical Statistics, 35(2), 782-794.",
+  "teaching_method": "研討\n\n個別指導",
+  "grading_policy": "課程參與 50%; 報告 50%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

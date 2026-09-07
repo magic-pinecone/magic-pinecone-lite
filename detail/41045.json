@@ -1,0 +1,18 @@
+{
+  "serial_no": "41045",
+  "objectives": "經由學術演講與互動，建立博士班同學對學術研究的基本觀念",
+  "content": "邀請各領域專家學者演講",
+  "books": "演講者提供之投影片\n演講者建議之參考書籍",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "“期末報告: 60％\n出席與課程參與: 40％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系博士班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系博士班。"
+    }
+  ]
+}

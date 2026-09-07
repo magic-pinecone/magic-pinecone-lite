@@ -1,0 +1,9 @@
+{
+  "serial_no": "32050",
+  "objectives": "本課程的目標為利用一系列的實作課程與期末專題從基礎感測原理、電子電路、嵌入式系統、到物聯網的整合應用，讓非資訊科系的學生具備跨領域的知識與技術，並延伸至智慧節能的應用領域。",
+  "content": "•\t課程介紹\n•\tHUB 8735 ultra開發板環境與概念基礎\n•\t基礎感測\n•\t進階感測\n•\t溫濕度與OLED\n•\tWiFi與JSON解析\n•\tThingSpeak雲端圖表\n•\tLine機器人通知\n•\t期中報告\n•\tMQTT傳輸\n•\tHUB 8735 ultra影像傳輸\n•\tHUB 8735 ultra智慧辨識\n•\tNodered平台與流程\n•\tNodered儀表板\n•\tNodered雲端控制\n•\t期末報告",
+  "books": "授課教師準備的講義",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "作業(20%)：每堂課都有實作作業，希望學生能於課堂中完成\n出席(20%)：每周出席狀況\n報告(20%)：學生須繳交期末報告\n成果展覽(40%)：學生須於期末成果報告與作品展示",
+  "distribution_conditions": []
+}

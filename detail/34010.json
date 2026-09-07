@@ -1,0 +1,22 @@
+{
+  "serial_no": "34010",
+  "objectives": "本課程以《Introduction to Solid State Physics》第1至第6章為核心內容，介紹固態物理的基本概念與理論基礎。課程將建立學生對晶體結構、倒晶格、繞射理論、晶格振動、自由電子模型與能帶理論之理解，並培養學生分析固體材料結構、熱性質與電子性質的能力。\n\n學生完成本課程後，應能：\n\n理解晶體結構與晶格週期性之基本概念。\n熟悉 reciprocal lattice 與 diffraction 的物理意義。\n理解晶體鍵結與材料穩定性。\n分析晶格振動與 phonon 的基本性質。\n理解自由電子模型與費米統計。\n建立能帶理論與電子傳輸的基本觀念。\n連結固態物理理論與實驗技術，如 X-ray diffraction、neutron diffraction 與 Raman scattering。",
+  "content": "第一部分：晶體結構與對稱性\n晶格與基底\nUnit cell 與 primitive cell\nBravais lattices\nSC、BCC、FCC、HCP 結構\n密勒指數（Miller indices）\n晶體對稱性與配位數\n\n第二部分：倒晶格與繞射理論\nReciprocal lattice\nBragg diffraction\nLaue condition\nEwald sphere\nStructure factor\nX-ray 與 neutron diffraction 基本原理\n第一布里淵區\n\n第三部分：晶體鍵結與彈性性質\nIonic bonding\nCovalent bonding\nMetallic bonding\nvan der Waals interaction\nCohesive energy\nElastic constants\nStress 與 strain\n\n第四部分：晶格振動與聲子\n一維單原子鏈模型\n雙原子鏈模型\nDispersion relation\nAcoustic 與 optical phonons\nPhonon density of states\n熱容與晶格熱傳導\n\n第五部分：自由電子理論\nDrude model\nSommerfeld free-electron model\nFermi-Dirac statistics\nDensity of states\nFermi energy\n金屬導電性與熱性質\n\n第六部分：能帶理論\nBloch theorem\nNearly free electron model\nBrillouin zones\nBand formation\nMetals、semiconductors 與 insulators\nEffective mass",
+  "books": "固態物理學導論(Kittel :Introduction to Solid State Physics, 8/e)",
+  "teaching_method": "講授",
+  "grading_policy": "出席10%\n小考20%\n期中考35%\n期末考35%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學工程與材料工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限工學院學士班。"
+    }
+  ]
+}

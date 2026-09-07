@@ -1,0 +1,14 @@
+{
+  "serial_no": "49010",
+  "objectives": "與教師討論論文研究進度。",
+  "content": "依老師上課說明",
+  "books": "教師所提供之論文相關教材",
+  "teaching_method": "個別指導",
+  "grading_policy": "依老師上課說明",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限會計研究所企業資源規劃會計碩士在職專班。年級:限二年級。"
+    }
+  ]
+}

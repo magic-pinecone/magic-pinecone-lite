@@ -1,0 +1,9 @@
+{
+  "serial_no": "51053",
+  "objectives": "“Understanding the theory behind the operation of microwave circuits, and having the ability to design and analysis microwave passive circuits with the aid of modern CAD tools.“",
+  "content": "1. Introduction to microwave engineering\n2. Transmission line theory\n3. Transmission lines and waveguides\n4. Microwave network analysis\n5. Impedance matching and tuning\n6. Microwave resonators\n7. Power dividers and directional couplers\n8. Microwave filters and slow-wave structures",
+  "books": "“David. M. Pozar, “Microwave Engineering,” 4th Edition, John Wiley ＆ Sons, Inc., 2011.“",
+  "teaching_method": "講授",
+  "grading_policy": "“Homework: 30％, Midterm Exam: 35％, Final Exam: 35％“",
+  "distribution_conditions": []
+}

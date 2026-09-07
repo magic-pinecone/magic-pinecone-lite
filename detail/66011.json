@@ -1,0 +1,9 @@
+{
+  "serial_no": "66011",
+  "objectives": "讓學生了解現有的海洋衛星資料，其優缺點以及如可應用在學生的研究上。",
+  "content": "“1. Introduction: Brief introduction of the course and datasets.\n2. Sea Surface Temperature (SST): Infrared (AVHRR) and microwave (TMI and AMSR-E) data\n3. Surface wind vectors: Scatterometer (QuikSCAT, ASCAT)\n4. Active microwave remote sensing, satellite altimetry: TOPEX/Poseidon; AVISO, eddies, geostrophic current, ocean thermal structure.\n5. Precipitation: Tropical Rainfall Measuring Mission\n6. Ocean colour: SeaWiFS, chlorophyll\n7. Sea Surface Salinity (SSS)\n8. Equivalent water thickness (GRACE)\n9. Argo floats“",
+  "books": "“1. Satellite Meteorology: An Introduction, 1995 Academic Press by S.Q. Kidder and T.H. Vonder Haar\n2. Physical Principles of Remote Sensing, 2nd Edition, 2001, Cambridge University Press, by W.G. Rees\n3. An Introduction to Ocean Remote Sensing, 2004, Cambridge University Press by Selye Martin\n4. Atmospheric radiation, 2001, by K. N. Liou\n5. Satellite altimetry and earth sciences: A handbook of techniques and applications, 2001, by L.-L. Fu ＆ A. Cazenave.\n6. Picot, K. Case, S. Desai, and P. Vincent, AVISO and PODAAC User Handbook. IGRDR and GRD Jason Products. France: CNES, 2003. SMM-MU-M5-OP-13184-CN (AVISO), JPL D-21352 (PODAAC), NASA, USA.\n7. http://www.remss.com/\n8. https://www.aviso.altimetry.fr/en/my-aviso.html“",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "出席率：20％，實作：40％，報告：40％",
+  "distribution_conditions": []
+}

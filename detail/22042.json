@@ -1,0 +1,26 @@
+{
+  "serial_no": "22042",
+  "objectives": "學習基本天文觀測的觀念.",
+  "content": "“Astronomy is observational science: many discoveries in astronomy are from multi-wavelength observations. This course will give an overview on the fundamental concepts and techniques in observational astronomy. Most of the materials will be focused on optical astronomy, with few lectures devoted to the observations in other wavelengths.“",
+  "books": "“Reference textbook:\nObservational Astronomy\n2nd Edition\nD. Scott Birney, Guillermo Gonzalez, David Oesper\nHardback (ISBN-13: 9780521853705)\nPublication date: July 2006“",
+  "teaching_method": "講授",
+  "grading_policy": "報告: 30％\n期中考: 35％\n期末考: 35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系、理學院學士班。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限物理學系、理學院學士班。年級:限非三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限學分學程-天文、學分學程-太空科技與工程。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。"
+    }
+  ]
+}

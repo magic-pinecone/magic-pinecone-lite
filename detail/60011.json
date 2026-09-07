@@ -1,0 +1,14 @@
+{
+  "serial_no": "60011",
+  "objectives": "Learn the the principle to the electromagnetic exploration and methods",
+  "content": "Introduction of the principle to the electromagnetic exploration and the application of the EM methods in the geosciences surveys",
+  "books": "1. Electromagnetic methods in applied geophysics, Editor: Nabighian, SEG, investigation in geophysics no.3\n2. Applied Geophysics, Telford\n3. Exploration Geophysics of the Shallow subsurfaces, Burger, Princeton Hall PTR",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "出席表現/attendance 10%、個人報告/personal report50%、期末報告/term report 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球系統科學國際研究生博士學位學程。"
+    }
+  ]
+}

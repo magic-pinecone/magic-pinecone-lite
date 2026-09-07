@@ -1,0 +1,30 @@
+{
+  "serial_no": "51041",
+  "objectives": "CMOS超大規模積體電路（VLSI）設計、高速邏輯電路設計、算術電路及基本儲存電路導論。",
+  "content": "學期前半段\n*第1章 VLSI導論\n*第2章 金屬氧化物半導體（MOS）電晶體\n*第3章 CMOS製造工藝\n*第4章 電路特性與性能估算\n*第5章 CMOS電路與邏輯設計：靜態/動態邏輯（高速邏輯設計/本課程重點）\n-期中考（40%）\n-期中項目：高速分頻器電路（10%）\n\n學期後半段\n*第9章 快速雙操作數加法器/減法器\n*基礎記憶體（選修）\n*低功耗SRAM/DRAM（選修）\n-期末考\n-期末專案：32位加法器設計",
+  "books": "1 N. H. E. Weste 和 K. Eshraghian 著：《CMOS VLSI 設計原理》（Principles of CMOS VLSI Design）（請自行購買）\n2 N. H. E. Weste 與 D. M. Harris 著：《CMOS VLSI 設計：電路與系統視角》（CMOS VLSI Design: A Circuits and Systems Perspective）（請自行購買）\n3 講義：PowerPoint 投影片（請登記以取得紙本版）\n4 講義：書面講義（可透過網路取得）",
+  "teaching_method": "講授",
+  "grading_policy": "- 期中考 (40%)\n- 期中項目：高速分頻電路 (10%)\n- 期末考 (40%)\n- 期末專案：32位元加法器設計 (10%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系碩士班、電機工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限人工智慧國際碩士學位學程。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-電機工程學系、雙主修-電機工程學系。年級:限四年級。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "33052",
+  "objectives": "****** 本學期課程預計採用創新教學實踐方法，結合探究式學習與PBL學習法，需要自律的學生進行自我學習及探索。******\n\nThis course is divided into two parts, including computer vision and deep learning. The first part introduces the critical algorithms, methodologies, and applications. The second part is the deep learning-based models that are widely used in computer vision applications.",
+  "content": "Basics of computer vision, such as camera model, image formation, filtering, featuring and matching, and recognition.\nPopular deep learning models used in computer vision, such as CNN, RNN, LSTM, GAN, etc.",
+  "books": "No official textbook.\nComputer Vision: Algorithms and Applications. https://szeliski.org/Book/\nMultiple View Geometry in Computer Vision. https://www.cambridge.org/core/books/multiple-view-geometry-in-computer-vision/0B6F289C78B2B23F596CAA76D3D43F7A\nDeep Learning book by Ian Goodfellow, et al. http://www.deeplearningbook.org/",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "1. Programming assignments: 50％\n2. Project proposal: 20％\n3. Final project: 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班、機械工程學系博士班、機械工程學系光機電工程博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    }
+  ]
+}

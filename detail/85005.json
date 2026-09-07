@@ -1,0 +1,26 @@
+{
+  "serial_no": "85005",
+  "objectives": "主要教導學生瞭解二極體之元件特性與應用電路設計技術與雙載子接面電晶體之元件特性、偏壓電路與小訊號放大電路的分析與應用電路設計技術，以提昇學生類比電路之分析與設計能力",
+  "content": "“Week 1: 導論Week 2: 電阻電路Week 3: 電感與電容Week 4: 暫態分析Week 5: 交流弦波輸入之穩態分析 Week 6: 頻率響應Week 7: 波德圖 諧振Week 8: 邏輯電路1Week 9: 邏輯電路2Week 10:微電腦Week 11:電腦化儀表系統Week 12:二極體Week 13:放大器規格Week 14:放大器外部特性Week 15:運算放大器 1Week 16:運算放大器2Week 17:運算放大器3Week 18:主動濾波器“",
+  "books": "Electrical Engineering: Principles ＆ Applications by Allan R. Hambley",
+  "teaching_method": "講授",
+  "grading_policy": "“考試:70％\n作業出席:30％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限理學院學士班。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "41058",
+  "objectives": "本課程旨在協助學生建立機率與統計推論的基礎能力，並熟悉管理與商業研究中常用的統計分析方法。課程內容由隨機變數與機率分配開始，逐步介紹抽樣分配、估計與信賴區間、假設檢定、單一母體與兩母體之統計推論，以及實驗設計。透過基本觀念講解、例題分析與實際應用，使學生能理解統計方法背後的邏輯，並能正確解讀統計分析結果。",
+  "content": "隨機變數、離散與連續隨機變數、機率分配、期望值與變異數等基本概念\n母體與樣本、抽樣概念、抽樣分配、樣本平均數之分配，以及中央極限定理\n點估計與區間估計、信賴水準、誤差範圍，以及單一母體參數的信賴區間\n虛無假設與對立假設、第一類與第二類錯誤、顯著水準、p 值及單一母體之假設檢定\n兩母體平均數或比例之比較、獨立樣本與成對樣本，以及兩樣本信賴區間與假設檢定",
+  "books": "McClave, J. T., Benson, P. G., & Sincich, T. (2022). Statistics for business and economics (14th ed., Global ed.). Pearson.",
+  "teaching_method": "講授",
+  "grading_policy": "Exercises, Participation, and Attendance: 30%\nMidterm Exam: 30%\nFinal Exam: 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士在職專班。學院:限管理學院。系所:限企業管理學系碩士在職專班。"
+    }
+  ]
+}

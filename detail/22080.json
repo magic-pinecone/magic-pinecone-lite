@@ -1,0 +1,14 @@
+{
+  "serial_no": "22080",
+  "objectives": "This course contains basic physics knowledge necessary for the understanding of modern nanoscience and nanotechnology. It is so designed as to lay a physical foundation for the students whose majors are Chemistry and Biology.",
+  "content": "\"Introduction:\n Systematic of Making Things Smalle ; What are limits to smallness\n Self-Assembled Nano-Structure in Nature and Industry-1; Self-Assembled Nano-Structure in Nature and Industry-2   Quantum Nature of the Nano-world\n Optical Electronics of Low-D Materials\n Practical work: visiting Nanomaterials Lab and Nano-Industry\n Physical-based Experimental Approaches to Nanotechnology-1;\nPhysical-based Experimental Approaches to Nanotechnology-2\n Nanomedicine-1 ;  Nanomedicine-2    Bio and Nano-Electronic\n Nano Materials for Photovoltaic   Nano Materials for Thermoelectric\"",
+  "books": "\"Edward L. Wolf: Nanophysics and Nanotechnology, An introduction to Modern Concept in Nanoscience (Wiley VCH, 2004)\"",
+  "teaching_method": "講授",
+  "grading_policy": "To be announced.",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

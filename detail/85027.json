@@ -1,0 +1,26 @@
+{
+  "serial_no": "85027",
+  "objectives": "本課程講授現代分子醫學知識, 著重基礎知識與臨床醫學應用原理, 增強學生對醫學相關領域的了解。",
+  "content": "1. Molecular genetics-I\n2. Molecular genetics-II\n3. Molecular technology-I\n4. Molecular technology-II\n5. Eukaryotic transcription\n6. Transcription regulation-I\n7. Transcrition regulation-II\n8. Translation\n9. Midterm exam\n10. DNA damage and repair-I\n11. DNA damage and repair-II\n12. Molecular cancer biology-I\n13. Molecular cancer biology-II\n14. Basic immunology-I\n15. Basic immunology-II\n16. Final exam",
+  "books": "Lewin‘s GENES XII (Jocelyn E. Krebs, Elliott S. Goldstein, Stephen T. Kilpatrick)",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "期中考: 40％ 期末考: 40％ 出席率: 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

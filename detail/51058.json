@@ -1,0 +1,9 @@
+{
+  "serial_no": "51058",
+  "objectives": "\"Assure students have the fundamental knowledge of fuzzy logic, neural networks, genetic algorithms and intelligent control applications.\"",
+  "content": "◎Fuzzy Logic Control\nDiscussions on Ethics for Engineers.\n1. Fuzzy logic and approximate reasoning\n2. Fuzzy logic control system\n◎Artificial Neural Networks\n3. Feedforward neural networks and supervised learning\n4. Recurrent neural networks and supervised learning\n5. Self-organized neural networks\n◎Advanced Intelligent Control\n6 Genetic algorithms\n7 Integrating fuzzy systems and neural networks\n8 Lyapunov stability and intelligent control systems\n9 Applications of fuzzy and neural networks in control\n◎Paper Study\n10. Final Presentation",
+  "books": "\"教科書：\n1. C. T. Lin and C. S. G. Lee, Neural Fuzzy Systems. Prentice-Hall, 1996\n2. M. Negnevitsky, Artificial Intelligence. Addison Wesley, 2002\n\n參考書：\nRelated papers in intelligent control techniques for motor drives, 2001-2007\"",
+  "teaching_method": "講授",
+  "grading_policy": "成績計算：\n1.  Midterm examination: 35%\n2.  Computer simulation home works: 20%\n3.  Final report and presentation: 40%\n4.  Learning attitude: 5%",
+  "distribution_conditions": []
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "51036",
+  "objectives": "使學生了解電磁輻射的基本原理，使其具備在天線設計上研究或就業的能力。",
+  "content": "1.Basic Antenna Concepts\n2.Far-Field Integrals and Reciprocity\n3.Rodiation of Dipoles\n4.Array Analysis and Synthesis\n5.Introduction to Many Antennas",
+  "books": "\"教科書：\nAnnounced in class\n\n參考書：\n1.John D.Kraus,Antennas,McGraw-Hill Book ompany ,second edition ,1988\n2.R.S.Elliott, Antenna Theory and Design,Prentie-Hall ,Inc.1981\"",
+  "teaching_method": "講授",
+  "grading_policy": "期中考 50%\n期未報告 50%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系碩士班、電機工程學系博士班。"
+    }
+  ]
+}

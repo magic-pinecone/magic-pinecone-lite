@@ -1,0 +1,9 @@
+{
+  "serial_no": "26036",
+  "objectives": "學生修習本課程後預期將充分理解時域有限差分法之基礎與部分進階知識，並將透過自行撰寫MATLAB程式，充分掌握此數值計算方法於電磁光學領域之應用。",
+  "content": "1. Introduction\n\n2. Electromagnetics and FDTD\nReview of Maxwell’s Equations, Physical Boundary Conditions, Constitutive Relations, Flow of Maxwell’s Equations, Finite-Difference Approximation, The First FDTD Algorithm\n\n3. Formulation and Implementation of 1D FDTD (I)\nYee grid scheme, Finite-Difference Approximation of Maxwell’s Curl Equations, Governing Equations for 1D FDTD, Derivation of Basic Update Equations, Implementation of Basic Update Equation\n\n4. Formulation and Implementation of 1D FDTD (II)\nNumerical Boundary Conditions, Grid Resolution, Courant Stability Condition, Perfect 1D Boundary Condition, Sources, Total-Field/Scattered-Field Soft Source, Fourier Transform, Reflectance and Transmittance, Sequence for Code Development, Convergence, Grid Dispersion, Incorporating Loss\n\n5. Formulation and Implementation of 2D FDTD\nFrom 3D to 2D Maxwell’s Equations, Update Equations, Boundary Conditions, FDTD Algorithm for 2D Simulations, Minimizing Simulation Time, 2Grid Technique, Fitting Structures to a Cartesian Grid\n\n6. The Perfectly Matched Layer\nUniaxial Perfectly Matched Layer (UPML), Conventional PML, PML Parameters, Implementation of UPML in 2D FDTD, Ez Mode, TF/SF Source\n\n7. Grating Diffraction and Plane-Wave spectrum\nWave Vectors, Phase Matching at An Interface, Waves in Periodic Media, Plane Wave Spectrum",
+  "books": "A. Taflove, S. C. Hagness, Computational Electrodynamics, the Finite-Difference Time-Domain Method, 3rd ed, Artech House, 2005.",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "Mid-Term Exam: 20％, Homework/Project: 80％",
+  "distribution_conditions": []
+}

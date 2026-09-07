@@ -1,0 +1,9 @@
+{
+  "serial_no": "51051",
+  "objectives": "學生可以學到VLSI測試及可測性之觀念，以幫助學生未來晶片設計之需求。",
+  "content": "1.Introduction\n2.Fault Modeling\n3.Testability Measures\n4.Fault Simulation\n5.Test Generation for Combinationa and Sequential Circuits\n6.Design for Testability (DFT) and Built-In Self-Test (BIST)\n7.Test Standards: IEEE 1149.1/1500/1687/1838\n8.Memory Testing and Repair",
+  "books": "\"Textbook:Bushnell and Agrawal ,\"\"Essentials of Electronic Testing for Digital , Memory & Mixed-Signal VLSI Circuits\"\",Kluwer Academic Pubishers,2000\nReference:Abramovici,Breuer,& Friedman,Digital Systems Testing and Testable Design ,Revised Printing ,IEEE Press,1995(IEEE Order No. PC4186,isbn0-7803-1062-4)\"",
+  "teaching_method": "講授",
+  "grading_policy": "\"homework35%, (Midterm+Final) 65%\"",
+  "distribution_conditions": []
+}

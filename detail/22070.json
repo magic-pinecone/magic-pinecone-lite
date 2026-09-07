@@ -1,0 +1,14 @@
+{
+  "serial_no": "22070",
+  "objectives": "Provide students scientific knowledge to do the research work",
+  "content": "\"? Crystal Structure\n? Reciprocal Lattice\n? Crystal Binding\n? Phonons I. Crystal Vibrations\n? Phonons II. Thermal Properties\n? Free Electron Fermi Gas\n? Energy Bands\n? Semiconductor Crystals\n? Fermi Surfaces and Metal\"",
+  "books": "\"Introductionto Solid State Physics, Editor by Charles Kittel, the latest version.\"",
+  "teaching_method": "講授",
+  "grading_policy": "Homework (50%).\nExamination (50%).",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

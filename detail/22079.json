@@ -1,0 +1,14 @@
+{
+  "serial_no": "22079",
+  "objectives": "This course is offered for junior/senior undergraduate students and graduate students with physical science or engineering backgrounds who previously have no extensive exposure to biochemistry.",
+  "content": "\"This course consists of lecture series and hands-on experiments. The topics covered in this course include:\n(1) Basic Organic Chemistry\n(2) Biomolecules\n(3) Modern Bioanalytical Techniques\"",
+  "books": "\"1. General, Organic and Biochemistry, Katherine J. Denniston, Joseph J. Topping and Robert L. Caret, McGraw Hill, 2004.\n2. Bioanalytical Chemistry, Susan R. Mikkelsen and Eduardo Corton, John Wiley & Sons, 2004.\"",
+  "teaching_method": "講授",
+  "grading_policy": "To be announced.",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "85025",
+  "objectives": "掌握嵌入式系統的專業知識並奠定研究基礎\n提升嵌入式系統的設計與實作技能\n培養自主思考能力，並促進跨領域的創新與應用",
+  "content": "1嵌入式系統與互動技術的基礎概述\n2嵌入式系統及互動裝置的實例分析\n3微控制器程式結構設計\n4微控制器基礎操作與函式庫應用實習\n5輸入輸出控制與時序管理\n6感測器技術與應用基礎介紹\n7序列傳輸與類比數據讀取技術\n8感測器整合與實際應用\n9電子電路基礎知識與電路圖繪製技巧\n10藍牙技術與微控制器整合應用\n11專題開發與應用實作練習",
+  "books": "“Embedded System: A Unified Hardware/Software Introduction“, Frank Vahid, Tony Givargis, J. Wiley ＆ Sons (2002)",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "課堂表現    10％\n作業        30％\n課中報告    25％\n學期專題    25％\n出席率      10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "34003",
+  "objectives": "“1. Thermodynamics: To provides a macroscopic description of matters at equilibrium.\n2. Quantum mechanics: To provides our microscopic description of the maters.\n3. Statistical mechanics: To connects the microscopic, quantum mechanical description of constituent particles to\nthe macroscopic thermodynamic properties of matter.“",
+  "content": "1 The properties of gases (3 hrs)\n2 The First Law: the concepts (6 hrs)\n3* The First Law: the machinery (3 hrs)\n4 The Second Law: the concepts  (6 hrs)\n5 The Second Law: the machinery (6 hrs)\n6 Physical transformations of pure substances (3 hrs)\n7 Simple mixtures (6 hrs)\n8 Phase diagram (3 hrs)\n9* Chemical Equilibrium (3 hrs)",
+  "books": "“Text Book\nAtkins, P.W., Physical Chemistry, 7th ed., Oxford University Press, 2002.\n\nReferences\n1. Vemulapalli, G.K., Physical Chemistry, Prentice-Hall, Inc., 1993.\n2. Bromberg, J. Philip, Physical Chemistry, 2nd ed.,  Prentice-Hall, Inc., 1984.\n3. Barrow, Gordon M., Physical Chemistry, 6th ed., Mcgraw-Hill Companies, Inc., 1996.\n4. McQuarrie, Donald A. and Simon, John D., Physical Chemistry: A Molecular Approach, University Science Books, Sausalito, California, USA, 1997\n5. Mortimer, Robert G., Physical Chemistry, The Benjamin/Cummings Publishing, Inc., 1993.“",
+  "teaching_method": "講授",
+  "grading_policy": "“Two Examination  30 ％ each\nAttendance, Pop Quiz  20％\nHome Work 20 ％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學工程與材料工程學系、工學院學士班。"
+    }
+  ]
+}

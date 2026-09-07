@@ -1,0 +1,22 @@
+{
+  "serial_no": "21036",
+  "objectives": "本課程旨在介紹解析函數的理論基礎與複變函數的基本性質，使學生具備應用相關工具解決數學及其他領域實際問題的能力，並奠定進一步學習的理論基礎。",
+  "content": "1. Complex Numbers\n2. Analytic Functions\n3. Elementary Functions\n4. Integrals\n5. Series\n6. Residues and Poles\n7. Evaluation of improper integrals and examples",
+  "books": "Brown ＆Churchill: Complex Variables and Applications, 9th edition.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "上課表現 10％\n平時作業或小考 20％\n二次考試各佔 35%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限三年級。班別:限A。指定課程:必須擋修MA2045。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限四年級。指定課程:必須擋修MA2045。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。年級:限三年級、四年級。指定課程:必須擋修MA2045。"
+    }
+  ]
+}

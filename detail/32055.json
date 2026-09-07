@@ -1,0 +1,9 @@
+{
+  "serial_no": "32055",
+  "objectives": "熟悉土壤力學各項物性、力學實驗",
+  "content": "1. 課程 介紹及範圍 (Introduction of course)\n\n2. 量測理論及應用 (Theory of measurements and its application)\n\n3. 物理 模型 試驗介紹及因次分析 (Physical model tests and tests and dimensional analysis of model)\n\n4. 本系土力及岩試驗室設備 (Introduction of the facilities in NCU soil Lab.)\n\n5. 土樣之準備及修裁 (Sample preparation methods for sand and clay)\n\n6. 反水壓飽和土樣之理論與方法 (Theory of saturation methods and procedures used in soil testing)\n\n7. 三軸剪力試驗之背景及應用 (Theory and application of testing)\n\n8. 三軸剪力試驗之過程及結果存在誤差修正 (Errors and corrections in triaxial tests )\n\n9. 三軸剪力試驗結果之研判及分析 (Evaluation of (Evaluation of (Evaluation of testing results)\n\n10. 動態 三軸剪力試驗原理 (Principle of the cyclic triaxial test)\n\n11. 不同剪力試驗原理 (Principles of different types of shear tests)\n\n12. 壓密理論 (Consolidation theory)",
+  "books": "自編講義",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Middle Exam: 20％\nFinal Exam: 20％\nHome Work: 60％",
+  "distribution_conditions": []
+}

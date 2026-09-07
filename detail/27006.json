@@ -1,0 +1,14 @@
+{
+  "serial_no": "27006",
+  "objectives": "本課程為研究生提供人類運動控制領域之系統性導論。透過研讀與討論 Rosenbaum (2010) Human Motor Control 教科書，學生將能：(1) 理解運動控制的核心問題，包括動作選擇、序列化、時序控制與知覺—動作整合；(2) 掌握運動控制的生理與心理基礎，涵蓋神經肌肉系統、感覺回饋與運動學習；(3) 認識各類動作系統（步行、眼動、伸取與抓握、書寫、鍵盤操作、言語與歌唱、表情控制）之控制機制與相關研究；(4) 培養閱讀與批判性討論英文學術文獻的能力，為後續研究奠定基礎。",
+  "content": "依 Rosenbaum (2010) Human Motor Control (2nd ed.) 章節安排，每週進度如下：\n第01週 課程介紹與總覽；第02週 Ch.1 導論；第03週 Ch.2 核心問題；第04週 Ch.3 生理基礎；第05週 Ch.4 心理基礎；第06週 Ch.5 步行；第07週 Ch.6 眼動；第08週 期中複習與綜合討論；第09週 Ch.7 伸取與抓握；第10週 Ch.8 書寫與繪圖；第11週 Ch.9 鍵盤操作；第12週 Ch.10 言語與歌唱；第13週 Ch.11 表情（微笑）；第14週 Ch.12 延伸議題；第15週 綜整與結論；第16週 期末口頭報告。",
+  "books": "教科書：Rosenbaum, D. A. (2010). Human Motor Control (2nd ed.). Academic Press.\n參考書：Latash, M. L. (2012). Fundamentals of Motor Control. Academic Press.\n參考書：Wolpert, D. M., Diedrichsen, J., & Flanagan, J. R. (2011). Principles of sensorimotor learning. Nature Reviews Neuroscience, 12(12), 739–751.",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "章節導讀與帶領討論 30%、課堂參與及討論 20%、期末專題報告（書面）30%、期末口頭報告 20%。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限認知神經科學研究所碩士班、認知神經科學研究所博士班、跨領域神經科學博士學位學程(台灣聯合大學系統)、跨領域神經科學國際研究生博士學位學程、領域專長-腦與心智科學。"
+    }
+  ]
+}

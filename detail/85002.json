@@ -1,0 +1,22 @@
+{
+  "serial_no": "85002",
+  "objectives": "“to be able to design, write and debug Java and Python programs“",
+  "content": "“Java syntax basics\nJava OOP\nJava program examples\nJava GUI, Threads, Client-Server programming\nAndroid Applications\nAndroid App examples\nPython syntax basics\nPython OOP\nPython examples\nPython socket programming\ntensorflow basics\ntensorflow mechanics 101\ntensorflow convolutional neural networks\ntensorflow rnn“",
+  "books": "“Interdisciplinary Computing in Java Programming Language, Sun-Chong Wang 2003 Springer 266 pages ISBN 978-1-4615-0377-4“",
+  "teaching_method": "講授",
+  "grading_policy": "project",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    }
+  ]
+}

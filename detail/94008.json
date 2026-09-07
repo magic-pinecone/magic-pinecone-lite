@@ -1,0 +1,26 @@
+{
+  "serial_no": "94008",
+  "objectives": "\"The courses Accounting I, II focus on ways in which accounting principles are used in business operations.\"",
+  "content": "\"Students can learn the following topics.\nPart 1: ACCOUNTING in BUSINESS\nPart 2: ACCOUNTING PROCEDURES\nPart 3: ACCOUNTING for MERCHANDISING OPERATIONS\nPart 4: INVENTORIES and COST of SALES\nPart 5: ACCOUNTING for RECEIVABLES\nPart 6: ACCOUNTING for LONG-TERM ASSETS\nPart 7: CURRENT LIABILITIES\nPart 8: LONG-TERM LIABILITIES\nPart 9: ACCOUNTING for CORPORATIONS\nPart 10: REPORTING the STATEMENT of CASH FLOWS\nPart 11: TOPICS FOR FURTHER STUDY (optional)\nCash and Internal Controls\nFinancial Statement Analysis\nInvestments\nAccounting Ethics\nPart 12:Examination\"",
+  "books": "Text book: Fundamental Accounting Principles\nLarson Wild Chiappetta",
+  "teaching_method": "講授",
+  "grading_policy": "\"上課參與  10%\n小考  30％\n期中考  30％\n期末考  30%\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系碩士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

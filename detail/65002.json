@@ -1,0 +1,14 @@
+{
+  "serial_no": "65002",
+  "objectives": "計算機概論\nMatlab\nPython\n\n**僅提供地科院院學士班學生選修**",
+  "content": "授課時間16+2週Week 1 IntroductionWeek 2 Introduction to ComputersWeek 3 Introduction to ComputersWeek 4 Introduction to Computers ＆ Matlab BASICWeek 5 Matlab IF PLOTWeek 6 Matlab FOR LOOPWeek 7 Matlab FOPENWeek 8 Mid-term examWeek 9 Python introductionWeek 10 FunctionsWeek 11 Input/OutputWeek 12 Plot/VisualizeWeek 13 StatisticsWeek 14 RegressionWeek 15 Machining LearningWeek 16 Other applicationsWeek 17 Flexible useWeek 18 Flexible use",
+  "books": "計算機概論",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Matlab\n期中考 20％\n作業 30％\nPython\n出席及作業50％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。學院:限地球科學學院。系所:限地球科學學院學士班。"
+    }
+  ]
+}

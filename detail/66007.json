@@ -1,0 +1,9 @@
+{
+  "serial_no": "66007",
+  "objectives": "使學生學會使用Matlab及Fortran之程式撰寫及數據分析展示技巧，適合初學Matlab的同學選修",
+  "content": "Matlab 矩陣處理、Matlab 程式撰寫、Fortran 程式撰寫、資料分析與展示",
+  "books": "MATLAB 程式設計與應用\n作者：余建政、秦平源、高銘政\nISBN：9861504117",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "期中考： 30％，期末考40％，小考、作業、課堂參與30％",
+  "distribution_conditions": []
+}

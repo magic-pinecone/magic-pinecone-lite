@@ -1,0 +1,18 @@
+{
+  "serial_no": "87007",
+  "objectives": "這門課旨在介紹氫能源包括氫之生產、儲存與數種燃料電池的基本原理與操作，包括熱力學分析、電化學原理、傳輸現象與平衡方程式、單電池之組成元件、電池堆與燃料電池系統。另外也會介紹燃料電池的發展歷史、研發現況與未來展望。",
+  "content": "This course begins with an overview of hydrogen energy and the production and storage of hydrogen. Then it introduces the principle and operation of various types of fuel cells. Included are overview of fuel cell technology, the thermodynamics of fuel cells, introduction to electrochemical kinetics, transport-related phenomena and conservation equations for reacting multi-component systems, configuration of individual cell, stack and fuel cell system, fuel cell system design, and fuel cell performance modeling.\n\nCourse Contents:\nCh 1, Hydrogen Energy and Fossil Fuels\nCh 2, Introduction to Hydrogen Production Methods\nCh 3, Introduction to Hydrogen Storages\nCh 4, Basics of fuel cells\nCh 5, Thermodynamics of fuel cells\nCh 6, Introduction to electrochemical kinetics\nCh 7, Alkaline oxide fuel cells (AFCs)\nCh 8, Proton exchange membrane fuel cells (PEMFCs)\nCh 9, Direct methanol fuel cells (DMFCs)\nCh 10, Solid oxide fuel cells (SOFCs)\n\nLabs: PEM fuel cell operation and testing.",
+  "books": "Text: 1. Fuel Cell Fundamentals, 2nd Ed., O‘Hayre et al., John Wiley ＆ Sons, 2009. References: 1. Fuel Cell Systems Explained, 2nd Ed., Larminie and Dicks, Wiley, 2003. 2. Fuel Cells and their applications, Kordesch and Simader, VCH, 1996. 3. Fuel Cell Handbook, Appleby and Foulkes, Nostrand Reinhold, 1989. 4. 燃料電池，黃鎮江編著，全華科技，2003。 5. Journal of Power Sources. 6. International Journal of Hydrogen Energy",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Grading: (Subject to change.)\n1. Mid-term Exams 30 ％\n2. Homework ＆ Lab Report 30 ％\n3. Final (Exam or Report) 40 ％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限永續綠能科技博士學位學程。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    }
+  ]
+}

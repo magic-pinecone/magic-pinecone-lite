@@ -1,0 +1,18 @@
+{
+  "serial_no": "62002",
+  "objectives": "計算機概論MatlabPython",
+  "content": "授課時間18週Week 1 IntroductionWeek 2 Introduction to ComputersWeek 3 Introduction to ComputersWeek 4 Introduction to Computers ＆ Matlab BASICWeek 5 Matlab IF PLOTWeek 6 Matlab FOR LOOPWeek 7 Matlab FOPENWeek 8 Mid-term examWeek 9 PracticeWeek 10 OFF (Sport day)Week 11 Python introductionWeek 12 IF-else; FOR LOOPWeek 13 Functions PlotWeek 14 Functions PlotWeek 15 ClassWeek 16 PyCMT/ObspyWeek 17 PyCMT/ObspyWeek 18 PyCMT/Obspy",
+  "books": "計算機概論",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Matlab\n期中考 20％\n作業 30％\nPython\n出席及作業50％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班。年級:限一年級。"
+    }
+  ]
+}

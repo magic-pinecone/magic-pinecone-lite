@@ -1,0 +1,14 @@
+{
+  "serial_no": "54014",
+  "objectives": "“本課程的目標包含讓學生了解數位遊戲式學習研究領域的發展, 以及探討數位遊戲式學習的相關設計原則.“",
+  "content": "“Introduction to DGBL\nExploring existed systems / platforms / studies\nLiterature review in games and learning\nDGBL theories\nGroup project“",
+  "books": "Papers",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Group discussion (every week): 20％\nGroup project proposal presentation: 15％\nSystem exploration presentation: 15％\nGroup project final presentation: 30％\nPeer evaluation: 10％\nAttendance: 10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限網路學習科技研究所碩士在職專班。"
+    }
+  ]
+}

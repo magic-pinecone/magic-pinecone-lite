@@ -1,0 +1,26 @@
+{
+  "serial_no": "62011",
+  "objectives": "使學者了解地球物理探勘法內容主要包括震測重磁及地電等各方法內容包括基本原理儀器介紹野外施測資料處理以及地質解釋等\n利用不同儀器在地表進行測量，以推求地下岩層的物理特性。",
+  "content": "重、磁力部分\n1.介紹重力及磁力測量\n2.重力與磁力之應用\n3.資料處理流程及方法\n4.結果解釋及討論\n5.野外實作及儀器操作",
+  "books": "\"1. Fuefdamentals of Geophysics, W. Lowrie\nChap. 4.3\n2. Geotechnical and environmental geophysics, Vol 1.\nSP, Res & IP, EM\n3. Applied geophysics, Telford, et al.,\nChap. 5 Electrical properties of rocks\nChap. 6 Natural sources\nChap.7 EM methods\nChap. 8 Res.\nChap. 9 IP ,\"",
+  "teaching_method": "講授",
+  "grading_policy": "\"期中40%\n期末40%\n平時20%\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限地球科學學院學士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "指定課程:必須同修(含先修)GP3020。"
+    }
+  ]
+}

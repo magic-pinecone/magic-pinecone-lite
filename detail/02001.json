@@ -1,0 +1,9 @@
+{
+  "serial_no": "02001",
+  "objectives": "經由講授衛星測量之原理及應用實際資料使學生了解衛星運動、訊號處理、定位過程、誤差分析，並熟稔相關酬載的測量精度與使用時機，同時具備資料收集、處理、驗證、應用等獨立操作能力。探討大地測量、重力測量、全球導航定位系統的觀測方法與精度，並介紹資料後處理與平差計算。",
+  "content": "本課程包含原理介紹與資料實作。詳細講授內容包括衛星測高、重力測量、全球導航系統等衛星架構與測量方法，並將其觀測資料應用於地球物理、海平面與重力異常偵測。透過實作與理論並行，處理即時資料、統計分析、平差計算並連結科學應用。",
+  "books": "\"1. Kalua, W. (1960). Theory of Satellite Geodesy, Dover, ISBN: 0486414655.\n2. Leick, A. (2004). GPS satellite surveying. John Wiley & Sons.\n3. Seeber, G. (1993). Satellite Geodesy, de Gruyter, Berlin-New York.\n4. Torge, W. (1989). Gravimetry, W. deGruyter, Berlin\n5. 授課教師準備的講義\"",
+  "teaching_method": "講授",
+  "grading_policy": "\"實習與作業: 20%\n課堂測驗: 60%\n期末報告: 20%\"",
+  "distribution_conditions": []
+}

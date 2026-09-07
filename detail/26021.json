@@ -1,0 +1,9 @@
+{
+  "serial_no": "26021",
+  "objectives": "預期達到之教育目標及對學生之要求：\n從基礎的電磁波與非線性物質的作用到電光、聲光、二階非線性混波、准相位匹配、三階非線性混波及散射等非線性現象的理論與應用解析。本課程將透過學理的講授與實驗的驗證，增加學生的理解與活用。",
+  "content": "“1. Nonlinear Susceptibility\n2. Electromagnetic Wave in Anisotropic Media\n3. Electro-optics\n4. Acousto-optics\n5. Second Harmonic Generation (SHG)\n(Experiment: Critically phase-matched SHG in KTP)\n6. Other 2nd-order Nonlinear Frequency Conversions\n7. Quasi-phase-matching (QPM) Nonlinear Optics\n(Experiment: Optical parametric generation (OPG) from a PPLN crystal)\n8. Third-order Nonlinear Processes: third-harmonic generation, conjugate waves, Brillouin scattering, and Raman Scattering\n9. DC and AC Kerr Effects“",
+  "books": "“Textbook\n\n“Nonlinear Optics”, by R.W. Boyd, Academic Press (1992).\n\nReference Books\n\n1.“Principles of Nonlinear Optics Course Reader”, by Y. C. Huang (EE department, National Tsing-Hua Univ.; available in the清華水木書苑)\n\n2.“Nonlinear Optics”, by E.G.. Sauter, John Wiley ＆ Sons, 1996.\n\n3.“Fundamental of Photonics”, by Saleh ＆ Teich, John Wiley ＆   Sons, Inc.\n\n4.“Optical Waves in Crystals”, by Yariv and Yeh, John Wiley ＆ Sons, Inc.\n\n5. “Quantum Electronics”, by Yariv, John Wiley and Sons, Inc.“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "homework + two reports on nonlinear optics experiments + paper reading reports 60％;\nOne Final Exam             40％",
+  "distribution_conditions": []
+}

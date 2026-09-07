@@ -1,0 +1,9 @@
+{
+  "serial_no": "61033",
+  "objectives": "介紹利用全球衛星導航系統（GNSS） 進行氣象觀測相關技術\n包含地面GNSS觀測網，及掩星觀測衛星，反射訊號觀測海面風衛星任務，和極化掩星觀測任務。",
+  "content": "地面 GNSS 觀測網地面觀測站測量\nGNSS 訊號穿過大氣層時產生的「天頂總延遲」(Zenith Total Delay, ZTD)。藉由分析對流層中水氣所造成的訊號延遲，推導出可降水量 (Precipitable Water Vapor, PWV)。\n無線電掩星 (Radio Occultation, RO) 衛星任務\nGNSS 無線電掩星技術是指低軌道 (LEO) 衛星在 GNSS 衛星於地平線升起或落下時，擷取其穿過地球大氣層的訊號。當訊號因大氣折射而產生偏折時，即可反演推導出溫度、壓力與濕度的剖面資料。如 FORMOSAT-1和FORMOSAT-2 等任務提供了全球大氣的垂直剖面資料。\nGNSS 反射訊號 (GNSS-Reflectometry, GNSS-R)\n觀測海面風速GNSS-R 技術利用從地球表面反射的 GNSS 訊號。藉由分析訊號在海洋表面的散射情況，衛星可以判定海面粗糙度與風速。\n極化無線電掩星 (Polarimetric Radio Occultation, PRO)\n透過測量水平極化與垂直極化 GNSS 訊號之間的相位差來進行觀測。由於大雨滴呈現非球形（扁平狀），它們對不同極化方向的訊號會產生不同影響。這使得科學家能夠偵測並描繪大氣中的強降雨剖面，為我們理解極端天氣系統提供了新的維度。",
+  "books": "Eugene Hecht, Optics, 5ed, Pearson Education © 2017.\nALFRED LEICK, GPS satellite surveying, John Wiley & Sons Inc. 1994",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "100 %",
+  "distribution_conditions": []
+}

@@ -1,0 +1,9 @@
+{
+  "serial_no": "66006",
+  "objectives": "著重探討陸地水文循環之地表水與地下水之水文循環物理機制。地表水部分包含流域面積降水估計、蒸發散物理機制、河川洪水演算；地下水部分涵蓋土壤水分與地下水流計算。工程水文與分析將結合理論介紹與實務應用。",
+  "content": "1. 簡介水文循環概念\n2. 降水觀測與面積降水估計\n3. 蒸發散與截留過程\n4. 土壤水分與入滲\n5. 地下水與地表水交互關聯\n6. 河川演算與降雨逕流模擬\n7. 水文歷線分析\n8. 水文頻率分析",
+  "books": "“1. Dingman, S. L., 2002, Physical Hydrology, 2nd ed., Prentice Hall.\n2. Viessman, W. Jr. and G. L. Lewis, 2003, Introduction to Hydrology, 5th ed., Harper Collins.\n3. Brutsaert, W., 2005, Hydrology: An Introduction, Cambridge University Press.\n4. Bras, R. L., 1990, Hydrology: An Introduction to Hydrologic Science, Addision-Wesley.\n5. Chow, V. T., D. R. Maidment, and L. W. Mays, 1998, Applied Hydrology, McGraw-Hill.\n6. McCuen, R. H., 1998, Hydrologic Analysis and Design, Prentice Hall.“",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "小考與作業 (40％)、第一次考試 (30％)、第二次考試 (30％)",
+  "distribution_conditions": []
+}

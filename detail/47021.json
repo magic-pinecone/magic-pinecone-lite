@@ -1,0 +1,18 @@
+{
+  "serial_no": "47021",
+  "objectives": "本課程藉由課程講授、討論、與統計軟體(SPSS、AMOS、JASP)操作，介紹一些資料分析方法與模型的基本觀念，課程的內容以同學們進行畢業論文所需為原則。",
+  "content": "課程主題將包括：1. 因素分析 (EFA, CFA) / 相關分析 2. 變異數分析3. 迴歸分析：迴歸基本概念，假說檢定，虛擬變項設計與應用4. 干擾(調節)效果(moderation) / 中介效果(mediation)5. 調節式中介(moderated mediation) / 中介式調節(mediated moderation)6. 結構方程式模型(SEM)",
+  "books": "組織行為和人力資源研究方法入門(黃熾森, 2006).\n組織與管理研究的實證方法(陳曉萍, 徐淑英, 樊景立, 鄭伯壎, 2008).",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "考試 40％\n作業 40％ (統計軟體作業)\n課堂參與 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限人力資源管理研究所碩士在職專班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限人力資源管理研究所碩士在職專班。"
+    }
+  ]
+}

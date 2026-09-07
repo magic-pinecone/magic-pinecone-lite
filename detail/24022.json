@@ -1,0 +1,22 @@
+{
+  "serial_no": "24022",
+  "objectives": "讓學生學習到進階的分子細胞生物學知識",
+  "content": "Chapter 4 DNA, chromosomes and genomes\nChapter 5 DNA replication, repair, and recombination\nChapter 6 How cells read the genome: from DNA to protein\nChapter 7 Control of gene expression\nChapter 10 Membrane structure\nChapter 11 Membrane transport of small molecules and the electrical properties of membranes\nChapter 12 Intracellular compartments and protein sorting",
+  "books": "Molecular Biology of the Cell, eds. Alberts et al., 5th ed.",
+  "teaching_method": "講授",
+  "grading_policy": "考試(100%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班、碩士班、博士班。"
+    }
+  ]
+}

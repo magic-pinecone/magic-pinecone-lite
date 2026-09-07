@@ -1,0 +1,14 @@
+{
+  "serial_no": "23024",
+  "objectives": "增進學生閱讀及整理化學研究文獻的能力並練習簡報技巧。簡報後之問答則培養批判思考的能力。",
+  "content": "每星期由2位研究生輪流報告。報告30-40分鐘, 發問問題 10分鐘。文獻須出自該領域口碑良好的期刊，若文章較短需回顧與該文章相關的文獻，加以整理後並報告。",
+  "books": "無",
+  "teaching_method": "研討",
+  "grading_policy": "Presentation: 70％ Abstract: 10％ Question: 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系碩士班。年級:限一年級。學號:限雙號。"
+    }
+  ]
+}

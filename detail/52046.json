@@ -1,0 +1,14 @@
+{
+  "serial_no": "52046",
+  "objectives": "對多種資料表現形式，介紹多種領域的資料處理與分析手段。\n以演算法為主要介紹核心，受限於時間，無法對各領域深入實際鑽研。",
+  "content": "因應資料特性，學習多種資料處理分析方法。主要領域含: 時序時間相關，圖論，空間資料，社群網路關係，與文字探勘。\n以演算法為主要介紹核心，受限於時間，無法對各領域深入實際鑽研。",
+  "books": "\"Data Mining - Concepts and Techniques, \" by Jiawei Han and Micheline Kamber",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "期中考 30%, 期末考 30%, 研究主題計畫 35%\n平時成績 5%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    }
+  ]
+}

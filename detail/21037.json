@@ -1,0 +1,22 @@
+{
+  "serial_no": "21037",
+  "objectives": "本課程為統計科學之入門課程。從機率模型出發並輔以數學工具以及統計軟體R，本課程之目標為讓學生有基本統計知識並學習用統計思維來處理問題。",
+  "content": "課程內容包含描述性統計(summary statistics)、資料視覺化(data visualization)、抽樣分佈(sampling distribution)、點估計(point estimation)、區間估計(interval estimation)、以及假設檢定(hypothesis testing)。\n[不在分發條件中的學生歡迎來信索取密碼卡]",
+  "books": "英文教科書Mathematical Statistics and Data Analysis (3 ed.) by John A. Rice. Cengage Learning (2007)",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "平時成績：40％，期中考：30％，期末考：30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "指定課程:必須擋修MA2022。"
+    },
+    {
+      "priority": 2,
+      "rule": "指定課程:必須擋修MA2021。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

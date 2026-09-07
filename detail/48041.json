@@ -1,0 +1,18 @@
+{
+  "serial_no": "48041",
+  "objectives": "本課程提供財金系在職專班學生公司理財的知識。",
+  "content": "本課程由講座和文章簡報組成, 學生必須為選定的期刊文章做口頭報告。\n\n暫定課程表：\n9/18 (class 1, 2): 1.Introduction; 2.Financial Statement Analysis\n9/25 (class 3, 4): 1.Present value and discounted cash-flows; 2.Bond and Stock Valuation討論; 3.Case4: 產業鍊結盟與國際競爭力-巨大機械\n10/2 (class 5, 6): 1.NPV and Capital Investment Decisions; 2.討論 Case5: 生技製藥業的台積電-台灣神隆\n10/16 (class 7, 8): 1.Risk, Return, and CAPM; 2.Cost of Capital; 3.Case3:台北交通新勢力-微笑單車YouBike; 4.Case13:力特光電科技2006 (A)\n10/22 (class 9):暫訂：許家豪先生(安聯投信海外投資首席與債券基金經理人)",
+  "books": "課程資料：\n1. Ross, Westfield, Jordan, 財務管理, 12版, Annotated Edition (王明昌編譯), McGraw Hill (華泰文化代理)\n2. 鍾惠民、王燈山、邱敬貿編著, 財務管理個案策略與分析系列三, 新陸書局出版 (ISBN 978-986-5761-55-4)\nCase4: 產業鍊結盟與國際競爭力-巨大機械\nCase5: 生技製藥業的台積電-台灣神隆\nCase13:力特光電科技2006 (A)\nCase3:台北交通新勢力-微笑單車YouBike\n\n參考教科書:\n1. 謝劍平，2018年，財務管理：新觀念與本土化(第七版)，智勝書局發行",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "1. 案例研究討論與報告（40％）\n2. 作業（20％）\n3. 課堂討論和參與（30％）。\n4. 客座講師講座回顧報告（10％）",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系碩士在職專班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系碩士在職專班。"
+    }
+  ]
+}

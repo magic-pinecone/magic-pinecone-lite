@@ -1,0 +1,22 @@
+{
+  "serial_no": "62014",
+  "objectives": "地震學理論",
+  "content": "“1. 基本地震學理論: Waves on a string, Stress and strain, Seismic waves, Snell’s law, Plane wave reflection and transmission, Surface waves, Dispersion, Normal modes of the earth2. 地震學與地球內部構造: Refraction seismology, Reflection seismology, Seismic waves in a spherical earth, Body wave travel time studies, Anisotropic earth structure, Attenuation and anelasticity, Composition of the mantle and the core“",
+  "books": "“An Introduction to Seismology, Earthquakes, and Earth Structure by Seth Stein and Michael Wysession 2003, Blackwell Publishing",
+  "teaching_method": "講授",
+  "grading_policy": "40％ 作業與出席\n30％ 期中考\n30％ 期末考",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限地球科學學院學士班。"
+    }
+  ]
+}

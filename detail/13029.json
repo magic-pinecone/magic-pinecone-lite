@@ -1,0 +1,26 @@
+{
+  "serial_no": "13029",
+  "objectives": "Objectif du cours :\nCe cours a pour objectif de développer, par la pratique et en donnant les outils nécessaires à cette pratique, les compétences en traduction des étudiants.\n\nTraduire demande d’appréhender un texte dans sa globalité pour en restituer le plus précisément possible le sens et la logique dans une autre langue. Néanmoins, l‘aspect interprétatif étant inhérent à la traduction, plusieurs traductions d‘un même texte sont souvent possibles (tant sur le fond que sur la forme).\n\nLa pratique de la traduction permettra donc aux étudiants d‘être plus à même de discerner les différences entre les langues source et cible, ainsi que de développer et affiner leurs compétences lexicales, syntaxiques, sémantiques, interculturelles, et rédactionnelles.",
+  "content": "Contenu :\nDurant ce premier semestre, les étudiants seront amenés à traduire des textes sur l'environnement.\n\nLes textes choisis comprennent des articles, des essais, des extraits littéraires, ainsi que des sous-titres de documentaire.\n\nLors de ce premier semestre, les étudiants aborderont donc la traduction de textes informatifs, argumentatifs, et narratifs.",
+  "books": "Les textes étudiés seront donnés sur le syllabus distribué en cours en début de semestre.",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Présence et participation : 10％\nDevoirs en classe : 20％\nExamen de mi-semestre : 35％\nExamen final : 35％\n\n缺課5次，扣考",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限法國語文學系。年級:限三年級。學號:限單號。指定課程:必須先修FR2035、先修FR2036。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限法國語文學系。年級:限四年級。指定課程:必須先修FR2035、先修FR2036。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限雙主修-法國語文學系。指定課程:必須先修FR2035、先修FR2036。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班、碩士班、博士班。身份:限交換生。"
+    }
+  ]
+}

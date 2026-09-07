@@ -1,0 +1,22 @@
+{
+  "serial_no": "99002",
+  "objectives": "Teaching Goal\tThis course syllabus aims to provide a comprehensive overview of sustainable manufacturing and ERP, covering all aspects from basic concepts to practical applications, and combining theory and practice to enable students to have an in-depth understanding of all aspects and aspects of sustainable manufacturing and ERP. Management applications.\t這個課程大綱旨在提供一個全面的永續製造與 ERP 概述，涵蓋從基本概念到實踐應用的各個方面，並以理論與實踐相結合的方式，使學生深入理解永續製造與 ERP 的各個層面及管理上的應用。",
+  "content": "Teaching Content \tDue to the impact of climate change, issues of sustainable manufacturing and energy management, the ERP database has the richest historical data of enterprises. How to use AI to extract useful information to assist enterprises in data driven improvement and achieve efficient manufacturing The purpose is a very important topic in the future. This course covers all aspects from basic concepts to practical applications, and combines theory and practice to enable students to have an in-depth understanding of sustainable manufacturing and ERP at all levels and management applications.\t由於氣候變遷的影響, 永續製造與能源管理的議題; ERP 資料庫擁有企業最豐富的歷史資料, 如何利用 AI 萃取出有用的資訊, 協助企業以 data driven 為導向的改善，達成綠色永續製造的目的, 是未來很重要的課題. 本課程從基本概念到實踐應用的各個方面，並以理論與實踐相結合的方式，使學生深入理解永續製造與 ERP 的各個層面及管理上的應用。\n\n1 (09/01)\tBasic concepts of sustainable manufacturing\n2 (09/08)\tSustainable manufacturing strategies and frameworks\n3 (09/15)\tLean production management\n4 (09/22)\tResource efficiency and circular economy\n5 (09/29)\tEnergy efficiency management and energy saving technology\n6 (10/06)\tChallenges and opportunities of sustainable manufacturing\n7 (10/13)\tAI in Manufacturing/MES\n8 (10/20)\tERP/SCM System Overview\n9 (1027)\tThe combination of sustainable manufacturing and ERP\n10 (11/03)\tData Management and ERP\n11 (11/10)\tERP operation, maintenance and continuous improvement\n12 (11/17)\tDigital transformation of the supply chain\n13 (11/24)\tAI in ERP/SCM\n14 (12/01)\tAI in CRM\n15 (12/08)\tCase study and practical application\n16 (12/15)\tCourse Summary and Future Outlook",
+  "books": "1.\tGreen anufacturing-Fundamental and applications\n2.\tERP企業資源規劃導論(第六版)",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Class Participation (出席率)\t20％\nPaper/Theses Writing (報告/論文)\t30％\nPresentation (專題發表)\t30％\nAssignment (作業)\t20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限永續領導力碩士學位學程、永續領導力博士學位學程。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班、碩士班。學院:限管理學院。"
+    }
+  ]
+}

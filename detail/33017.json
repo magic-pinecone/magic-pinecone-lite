@@ -1,0 +1,22 @@
+{
+  "serial_no": "33017",
+  "objectives": "依每學期各個領域專題的指導教授決定",
+  "content": "依每學期各個領域專題的指導教授決定",
+  "books": "依每學期各個領域專題的指導教授決定",
+  "teaching_method": "實習/實驗\n個別指導",
+  "grading_policy": "依每學期各個領域專題的指導教授決定",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

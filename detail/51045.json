@@ -1,0 +1,14 @@
+{
+  "serial_no": "51045",
+  "objectives": "1.分組討論報告 2.安排研究生上台專題報告",
+  "content": "電力電子、電機控制、智慧型控制、微電網",
+  "books": "無",
+  "teaching_method": "研討",
+  "grading_policy": "出席、報告",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系碩士班、電機工程學系博士班。"
+    }
+  ]
+}

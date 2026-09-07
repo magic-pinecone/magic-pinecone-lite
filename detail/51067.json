@@ -1,0 +1,9 @@
+{
+  "serial_no": "51067",
+  "objectives": "培養學生具備 AI 晶片設計系統整合之能力與其終端應用",
+  "content": "1. Overview of DNN\n1.1 Background of DNN\n1.2 Popular DNNs and Datasets\n2. DNN Kernel for Design Process\n2.1 Benchmarking Metrics for DNN Hardware\n2.2 DNN Kernel Computation\n3. DNN Accelerator Architecture\n3.1 DNN Inference Accelerator Design\n3.2 Sparse DNN Accelerator Design\n3.3 In/Near Memory Accelerator Design\n4. DNN Accelerator Synthesis\n4.1 DNN Model and Hardware Co-Design\n4.2 DFT and reliability for DNN accelerator",
+  "books": "Design Deep Learning System\nDeep Learning Systems, Algorithms, Compilers, and Processors for Large-Scale Production",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "期中考 30％\n期末考 40％\n作業 30％",
+  "distribution_conditions": []
+}

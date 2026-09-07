@@ -1,0 +1,22 @@
+{
+  "serial_no": "22019",
+  "objectives": "了解物理的基本原理和定律\n熟悉理論推導與應用計算\n培養學習進階物理的能力",
+  "content": "力學\n流體力學\n熱力學\"",
+  "books": "Essential University Physics, Richard Wolfson",
+  "teaching_method": "講授",
+  "grading_policy": "作業：40%\n期中考 25%\n期末考 35%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "48033",
+  "objectives": "After completing the course, students should be able to\n1. understand classical and modern asset pricing models;\n2. estimate market and stock expected returns using different methodologies;\n3. critically evaluate empirical asset pricing papers;\n4. develop an original research proposal.",
+  "content": "Week\tDate\tTopic\n1\t2026/9/10\tCourse Introduction\n2\t2026/9/17\tPart I. Foundations I: No-Arbitrage and the Stochastic Discount Factor\n3\t2026/9/24\tIndependent Study (EGRIE)\n4\t2026/10/1\tPart I. Foundations II: Consumption-Based Asset Pricing\n5\t2026/10/8\tPart I. Foundations III: Linear Factor Models and Empirical Tests\n6\t2026/10/15\tMidterm\n7\t2026/10/22\tPart II. Market Equity Premium I: Historical Equity Premium & Equity Premium Puzzle\n8\t2026/10/29\tPart II. Market Equity Premium II: Return Predictability\n9\t2026/11/5\tPart II. Market Equity Premium III: Forward-Looking Equity Premium\n10\t2026/11/12\tPart III. Expected Returns of Individual Stocks I: Factor Models and Cross-Sectional Tests\n11\t2026/11/19\tPart III. Expected Returns of Individual Stocks II: Applications and Recent Literature\n12\t2026/11/26\tPart IV. Variance Risk Premium\n13\t2026/12/3\tFinal Exam\n14\t2026/12/10\tJournal Article Presentation I\n15\t2026/12/17\tJournal Article Presentation I\n16\t2026/12/24\tResearch Proposal Presentations",
+  "books": "Cochrane, J. H. (2009). Asset pricing: Revised edition. Princeton university press.\nBali, T. G., Engle, R. F., & Murray, S. (2016). Empirical asset pricing: The cross section of stock returns. John Wiley & Sons",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Final\t30%\nJournal article presentations and discussions\t20%\nResearch proposal\t25%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系博士班。"
+    }
+  ]
+}

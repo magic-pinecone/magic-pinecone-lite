@@ -1,0 +1,18 @@
+{
+  "serial_no": "61029",
+  "objectives": "介紹氣象雷達的基本原理以及在氣象上的應用",
+  "content": "課程綱要: 講授氣象雷達的基本觀測原理，以及其在監測與研究中小尺度劇烈天氣現象上的廣泛應用\n\n內容：\n(1) 電磁波傳播路徑。\n(2) 氣象雷達基本原理。\n(3) 天氣雷達方程。\n(4) 雷達重建風場結構技術。\n(5) 雙偏極化雷達介紹。\n(6) 定量降水估計與預報。\n(7) 雷達資料的反演與同化。",
+  "books": "“A Short History of Radar Meteorology, Historical Essays on Meteorology, 1919-1995, P. 57-98, Edited by J. R. Fleming\n\nDoppler Radar and Weather Observations\nR. Doviak and D. Zrnic\n\nRadar Meteorology\nH. Sauvageot\n\nRadar for Meteorologists\nR. E. Rinehart\n\nJournal papers“",
+  "teaching_method": "講授",
+  "grading_policy": "作業+報告(70％)、期中期末考(30％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限大氣科學學系大氣物理碩士班。"
+    }
+  ]
+}

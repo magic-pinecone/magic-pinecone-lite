@@ -1,0 +1,14 @@
+{
+  "serial_no": "53031",
+  "objectives": "教授2G至6G次世代前瞻無線通訊網路與傳輸技術之架構框架、無線通道模組、多工存取技術、通訊協定層、多天線、毫米波頻譜及其應用以及AI相關通訊技術，並瞭解當下潛在之國際發展趨勢，瞭解且研究未來潛在通訊系統、訊號處理或通訊網路及AI應用於通訊之發展。",
+  "content": "1\tIntroduction to 2G-6G\n2\tCellular Networks\n3\tWireless Protocols\n4\tWireless Protocols\n5\tTransmission Frame Structures\n6\tDivision, Multiplexing, Multiple Access\n7\tHandover Mechanisms\n8\tChannel Models and Network Performances\n9\tMidterm\n10\tNumerologies\n11\tMillimeter Wave\n12\tMIMO Beamforming\n13\tAI for Communications\n14\tIntegrated Sensing and Communications (ISAC)\n15\tReconfigurable Intelligent Surfaces (RIS)\n16\tFinal Report Presentation",
+  "books": "3GPP 規格書、IEEE論文",
+  "teaching_method": "講授",
+  "grading_policy": "上課參與10%\n小考30%\n期中考30 %\n期末報告30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士在職專班。學院:限資訊電機學院。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "63043",
+  "objectives": "太空科學專題與討論",
+  "content": "所有與太空科學相關的內容",
+  "books": "N/A",
+  "teaching_method": "個別指導",
+  "grading_policy": "討論 100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學院學士班。"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "serial_no": "51033",
+  "objectives": "使大學部學生對電磁學具有實際應用概念",
+  "content": "“◎Power meter and attenuator\n-Discussions on Ethics for Engineers\n-Power meter\n-Attenuator\n-S-parameters\n-Transmission line\n◎Network analyzer\n-S-parameters\n-Smith chart\n-Passive components\n-Active components\n◎Rectangular waveguide\n-Waveguide\n-Directional coupler\n-Magic-T\n-Cavity\n◎Impedance match\n-Measurement\n-EDA tool simulation\n-PCB fabrication\n-Single-section match\n◎Wireless communication\n-Satellite communication\n-Broadcast\n-Wireless LNA\n-Mobile communication“",
+  "books": "“教科書：自編講義\n參考書：David M. Pozar, Microwave Engineering, John Wiley ＆ Sons, Inc.“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "“Lab 100％“",
+  "distribution_conditions": []
+}

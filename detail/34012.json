@@ -1,0 +1,22 @@
+{
+  "serial_no": "34012",
+  "objectives": "\"The objective of the course is to introduce students the basic thermodynamic properties, the concepts of mass and energy conservation, the concepts of equilibrium, the laws of thermodynamics, and the thermodynamic differences between ideal and real systems. This course will also help students master those thermodynamics fundamentals and apply them, along with the equations of state and/or thermodynamics data in table or diagram forms, to solving the related engineering problems.\"",
+  "content": "\"The topics to be discussed in this course include:\n\nIntroduction to Thermodynamics\nConservation of Mass\nConservation of Energy\nEntropy: An Additional Balance Equation\nThe Thermodynamic Properties of Real Substance\nEquilibrium and Stability in One-Component Systems\nThe Thermodynamics of Multicomponent Mixtures\nEstimation of The Gibbs Energy and Fugacity of a Component in a Mixture\nVapor-Liquid Equilibrium in Mixtures\"",
+  "books": "\"Chemical, Biochemical, and Engineering Thermodynamics, 5th Edition by Stanley Sandler, Wiley, ISBN 978-1-11992-349-7\"",
+  "teaching_method": "講授",
+  "grading_policy": "In-class quiz 10%; homework 10%; midterm 40%; final 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學工程與材料工程學系、工學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "21056",
+  "objectives": "本課程旨在以測度論為基礎，建立研究所層級機率論的嚴謹入門框架。課程將以 Jeffrey S. Rosenthal 的 A First Look at Rigorous Probability Theory 作為主要教材，從為什麼機率論需要測度論開始，逐步介紹機率空間、sigma-algebras、隨機變數、分布、期望、獨立性、各種收斂模式、大數法則、弱收斂、特徵函數、中央極限定理、條件期望與鞅論等主題。\n\n本課程的特色是以機率直觀引導數學嚴謹性，而非先將測度論作為一門獨立技術課處理。課程目標是使學生能夠理解現代機率論的基本語言與核心極限定理，並培養閱讀進階機率論、隨機過程、統計理論、隨機分析、資訊理論與相關應用研究文獻的能力。",
+  "content": "本課程將以 Jeffrey S. Rosenthal 的 A First Look at Rigorous Probability Theory 為主要教材，並搭配 Durrett、Resnick、Chung 等教材作為補充。\n\n機率論 I 的目標，是把學生熟悉的大學部機率論，提升到可以嚴格處理極限定理與隨機模型的數學層次。大學部課程中常見的離散型與連續型隨機變數，在研究所機率論中會被統一放在測度論框架下處理。因此，本課程一開始會先說明為什麼機率論需要 sigma-algebras、measurable functions 與 probability measures，並用這些工具重新定義隨機變數、分布、期望值與獨立性。\n\n第一部分：測度論觀點下的機率基礎\n\n本部分將建立現代機率論的基本語言。我們會從「什麼事件可以被賦予機率」開始，介紹機率空間、隨機變數、分布與期望值。重點不是把測度論當成一門抽象技術課，而是理解測度論如何讓離散、連續與混合型隨機變數被放在同一個架構中處理。\n\n主要內容包括：\n1. 為什麼機率論需要測度論：離散、連續與混合型隨機變數；不可測集合的動機\n2. 機率空間：sample spaces, sigma-algebras, probability measures\n3. 機率測度的建構：extension theorem, Borel sigma-algebra, Uniform[0,1] distribution\n4. 隨機變數與分布：measurability, distributions, distribution functions\n5. 期望值與 Lebesgue integral：simple random variables, nonnegative random variables, integrability\n6. 獨立性：independent events, random variables, and sigma-algebras\n\n第二部分：收斂、極限定理與後續工具\n\n機率論的核心之一，是理解大量隨機現象在極限下會呈現什麼穩定行為。本部分將介紹隨機變數的各種收斂模式、基本機率不等式、Borel-Cantelli 引理、大數法則、弱收斂、特徵函數與中央極限定理。最後，若時間允許，也會介紹條件期望與鞅論的基本想法，作為後續學習隨機過程、統計理論與隨機分析的入口。\n\n主要內容包括：\n1. 機率不等式：Markov inequality, Chebyshev inequality, and related examples\n2. 收斂模式：almost sure convergence, convergence in probability, Lp convergence, convergence in distribution\n3. Borel-Cantelli lemmas and laws of large numbers\n4. Distributions of random variables and change of variables\n5. Weak convergence of probability measures\n6. Characteristic functions and continuity theorem\n7. Central limit theorem and selected variants\n8. Conditional probability and conditional expectation\n9. Martingales, stopping times, and basic martingale convergence ideas\n\n視學生背景與課程進度，Markov chains、Lebesgue decomposition、Radon-Nikodym theorem、Kolmogorov existence theorem 或 stochastic processes 相關內容將作為補充或選講主題。\n\n備註：\n本課程適合已修過大學部機率論與基礎分析課程的學生。具備初步實分析背景者較容易進入課程；測度論將在課堂中依機率論需求逐步補充。",
+  "books": "主要教材與參考書：\n\n1. Jeffrey S. Rosenthal, A First Look at Rigorous Probability Theory, 2nd Edition, World Scientific, 2006.\n2. Rick Durrett, Probability: Theory and Examples, Cambridge University Press.\n3. Sidney I. Resnick, A Probability Path, Birkhäuser.\n4. Kai Lai Chung, A Course in Probability Theory, Academic Press.",
+  "teaching_method": "講授",
+  "grading_policy": "作業或小考 30％、期中考 30％、期末考 30％、課堂參與 10％。 (暫定)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

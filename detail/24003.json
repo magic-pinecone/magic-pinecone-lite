@@ -1,0 +1,18 @@
+{
+  "serial_no": "24003",
+  "objectives": "生物學基本介紹。",
+  "content": "1.The cell\tIntroduction and Chapter 1 Biology: Exploring Life \t吳沛翊老師\n2.Chapter 3 The Molecules of Cells \t吳沛翊老師\n3.Chapter 4 A Tour of the Cell \t吳沛翊老師\n4.Chapter 5 The Working Cell \t吳沛翊老師\n5.Chapter 6 How Cells Harvest Chemical Energy\t吳沛翊老師\n6.第一次期中考 \t吳沛翊老師\n7.Cellular reproduction and genetics\tChapter 8 The Cellular Basis of Reproduction and Inheritance \t吳沛翊老師\n8.Chapter 9 Patterns of Inheritance\t吳沛翊老師\n9.Chapter 10 Molecular Biology of the Gene \t范世榮老師\n10.Chapter 11 How Genes Are Controlled\t范世榮老師\n11.第二次期中考\t范世榮老師\n12.Chapter 12 DNA Technology and Genomics \t陳師慶老師\n13.\tMicrobiology\tChapter 16 Microbial Life: Prokaryotes and Protists\t陳師慶老師\n14.Chapter 16 Microbial Life: Prokaryotes and Protists\t陳師慶老師\n15.補充教材：Introduction to Viruses\t陳師慶老師\n16.期末考\t陳師慶老師",
+  "books": "“Campbell Biology: Concepts ＆ Connections, Global Edition, By (author) Jane B. Reece , By (author) Jean L. Dickey , By (author) Martha R. Taylor , By (author) Eric J. Simon“",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "第一次考試 (30％)+第二次考試 (30％)+ 第三次考試 (30％) +Attendance/participation (10％) =100％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系、物理學系、理學院學士班、學分學程-生科職涯。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限第二專長-生物多樣性、第二專長-生物科技。"
+    }
+  ]
+}

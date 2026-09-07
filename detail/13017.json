@@ -1,0 +1,18 @@
+{
+  "serial_no": "13017",
+  "objectives": "Ce cours a pour objectif de développer les compétences en production écrite des étudiant·e·s, afin de les amener progressivement au niveau A2 du CECRL (Cadre Européen Commun de Référence pour les Langues).",
+  "content": "À l’issue de ce cours, les étudiant·e·s seront capables de :\n- Produire des textes simples, structurés et variés sur des sujets du quotidien.\n- Consolider et approfondir leurs compétences lexicales et syntaxiques.\n- Renforcer leur culture générale sur le monde français et francophone.\n\nLes étudiant·e·s s’exerceront individuellement ou en groupe à travers différents types de textes (descriptifs, narratifs, argumentatifs) portant sur des sujets du quotidien et des situations pouvant se produire dans des environnements francophones.\n\nPour enrichir les compétences culturelles, le cours s'appuiera sur des documents authentiques issus du monde francophone : textes, photographies, iconographies, vidéos, etc.",
+  "books": "Les documents et supports seront fournis par le professeur au cours du semestre.",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Assiduité : 10%\nExercices en classe : 40%\nExamen de mi-semestre : 20%\nExamen de fin de semestre : 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限法國語文學系。年級:限二年級。學號:限雙號。指定課程:必須先修FR1033、先修FR1034。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-法國語文學系、雙主修-法國語文學系。指定課程:必須先修FR1033、先修FR1034。"
+    }
+  ]
+}

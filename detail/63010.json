@@ -1,0 +1,22 @@
+{
+  "serial_no": "63010",
+  "objectives": "This course is designed for students in engineering, science, mathematics, and computer science, and teaches how a computer can be used to solve problems that may not be solvable by the techniques that are taught in most calculus courses. This course also shows how those problems that you may have solved before can be solved in a different way.",
+  "content": "Solving for nonlinear equations.\nSolving sets of equations.\nInterpolation and curve fitting.\nApproximation of equations.\nNumerical differentiation and integration.\nNumerical solutions of ordinary differental equations.",
+  "books": "Applied Numerical Analysis",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Homework",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限太空科學與工程學系。年級:限三年級。指定課程:必須先修SS1003。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。年級:限三年級、四年級。指定課程:必須先修SS1003。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。指定課程:必須先修SS1003。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "32094",
+  "objectives": "Build up the abilities of mathematical analysis of engineering problems.",
+  "content": "1) Functions of a complex variable\n2) Numerical methods\n3) Variational principles“",
+  "books": "Advanced Engineering Mathematics, E. Kreyzig (10th edition)",
+  "teaching_method": "講授",
+  "grading_policy": "Exam 90％, Homework 5％, Attendance (5％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限三年級、四年級。"
+    }
+  ]
+}

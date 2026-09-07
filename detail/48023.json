@@ -1,0 +1,14 @@
+{
+  "serial_no": "48023",
+  "objectives": "讓同學學習如何做學術論文，並督促同學的碩士論文進度",
+  "content": "1. Learning the structure of an academic dissertation\n2. Learning how to work on a dissertation in a solid way\n3. Learning the rules that students can't violate when working on a dissertation\n4. Monitoring the progress of students' dissertations and ensuring no one is left behind",
+  "books": "無，教材為自編",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "1. 出席 30%\n2. 碩士論文進度 30%\n3. 碩士論文進度報告 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系碩士班。年級:限二年級。"
+    }
+  ]
+}

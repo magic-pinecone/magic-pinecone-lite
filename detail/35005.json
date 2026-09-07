@@ -1,0 +1,18 @@
+{
+  "serial_no": "35005",
+  "objectives": "營建從業人員應需對工程會計具一定之認知與了解，以落實成本管控並符合現代高度整合專案工程之需求。本課程主要教導學生熟習會計之相關領域與原理，並佐以工程管理上之實例，幫助學生有效整合專案工程成本控制與施工管理。",
+  "content": "1\tCourse Introduction\n\n2\tAccounting in Action and Survey: Initial Assessment\n\n3\tRecording Process\n\n4\tAdjusting the Accounts\n\n5\tCompletion of the Accounting Cycle\n\n6\tOn-site Practice\t\t*Lesson learned report (1)\n\n7\tSpecial Edition: Prof Yu, University of Massachusetts, USA\t\t*Lesson learned report (2)\n\n8\tManagerial Accounting\n\n9\tMidterm Exam\n\n10\tProgress presentation\t\t*Abstract due\n\n11\tJob Order Cost Accounting\n\n12\tProcess Cost Accounting\n\n13\tFinancial Statement Analysis\n\n14\tSpecial Edition: Practitioner\t\t*Lesson learned report (3)\n\n15\tProject presentation (1)\n\n16\tProject presentation (2) and Feedback\t\t*Project due",
+  "books": "1.\tWeygandt, J. J., Kieso, D. E., ＆ Kimmel, P. D. (2011) Financial Accounting, ISBN: 9780470552001, John Wiley ＆ Sons, New York. (滄海代理)\n2.\tHalpin, W. D. (1985) Financial and Cost Concepts for Construction Management, ISBN: 0471897256, John Wiley ＆ Sons, New York.\n3.\tHorngren, C. T., Dater, S. M., and Foster, G. (2006) Cost Accounting, 12th ed. ISBN: 0131968521, Pearson Prentice Hall, Upper Saddle River, NJ. (東華代理)",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "隨堂Q＆A 10％\n專案摘要 5％\n進度簡報 (2)  30％\n期中考 25％\n簡報 (2) 20％\n學期專案 10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系營建管理碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系營建管理博士班。"
+    }
+  ]
+}

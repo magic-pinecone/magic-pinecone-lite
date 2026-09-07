@@ -1,0 +1,18 @@
+{
+  "serial_no": "51054",
+  "objectives": "課程將透過深入淺出的理論講解與實務經驗分享，使學生瞭解射頻積體電路原理及設計方法。",
+  "content": "Ch 1. 射頻積體電路設計簡介與專業倫理及社會責任之宣導\nChap. 2 射頻設計之基本概念與問題\nChap. 4 收發機架構\nChap. 5 低雜訊放大器\nChap. 6 混頻器\nChap. 7 被動元件\nChap. 8 振盪器",
+  "books": "“教科書：Behzad Razavi, “RF Microelectronics 2ed”, Prentice-Hall Inc., 2012“",
+  "teaching_method": "講授",
+  "grading_policy": "依學校行事曆舉行“期中考試 (每次含簡答觀念題,計算題6-10題) 50％\n期末考試50％“\n\n1. Midterm (50％) /Final term Examination (50％)\n2. 不定期隨堂測驗10％ (2-4次)\n3. 簽准教育性晶片條件: (1) 修課及格，(2)申請前需寄下線報告",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系碩士班、電機工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系。年級:限四年級。"
+    }
+  ]
+}

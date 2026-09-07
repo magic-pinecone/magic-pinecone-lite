@@ -1,0 +1,18 @@
+{
+  "serial_no": "46011",
+  "objectives": "人類是全球環境的重大威脅：天候日漸暖化，氣溫變化加劇，居住環境被破壞程度日益嚴重。有鑑於此，世界多數國家已採取因應措施，透過訂定相關法規（如ErP、RoHS、REACH、WEEE），提倡產業生態（industrial ecology），發展綠色經濟及永續產業等作為，期能於經濟發展及環境維護做到兩全其美。\n\n因應「永續」（sustainability）已成為世界各國經濟發展重要方針，多數企業業已扭轉傳統觀念，將過去視為包袱的「企業社會責任」（corporate social responsibility）轉化為成長動能。這些「企業公民」（corporate citizen）以正面態度將綠色及永續發展納入公司長期策略，要求組織內部各決策層級及各部門貫徹執行。除競爭力、股東權益、市占率及獲利等傳統考量外，它們也開始慎重評估其經濟活動為社會及環境帶來之影響，考慮員工家庭、社會公益道德、更多利害關係人及未來世代權益等諸多層面。為數眾多企業已積極開始樹立其永續形象，開發綠色科技或產品，以期在新的市場規則及產業動態下持續保有競爭優勢。\n\n供應鏈管理於上世紀九零年代成為企業至為重要之核心競爭力。在全球永續發展趨勢下，企業必須積極改造現有供應鏈管理系統，針對原物料及零組件來源、產品製造及運送、產品生命週期對環境影響、產品回收再利用、供應鏈能源使用及碳排放管理等諸多層面，重新檢視並加以適度調整，並有效聯合各供應鏈夥伴形成「永續供應鏈」，以期在成本、產品上市期限、市場競爭等諸多考量下，獲致最大經濟利益並符合社會大眾期盼及環境天候等相關規範，在「經濟」、「社會」、「環境」三大永續發展構面同時獲得三贏局面。\n\n基於以上，本課程將探索下列供應鏈管理及永續供應鏈相關議題，內容將涵蓋觀念、方法及如何以數學方法為永續供應鏈制定決策，並對產業最佳案例進行探討。",
+  "content": "供應鏈管理演化歷程︰原始、封閉式、綠色、永續\n供應鏈管理挑戰\n供應鏈物料需求最佳規劃\n供應鏈管理基礎數學模型\n永續發展肇因與基本理念\n永續供應鏈\n供應鏈目前發展、相關科技、熱門議題",
+  "books": "Textbook: “David Simchi-Levi, Philip Kaminsky, Edith Simchi-Levi. Designing and Managing the Supply Chain: Concepts, Strategies and Case Studies (third edition). McGraw-Hill Irwin” (華泰文化代理); other materials including research papers and in-dustry cases assembled by Prof. Wang",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "隨堂測試 10%，textbook reading 35%，semester project 55%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

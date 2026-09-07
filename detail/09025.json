@@ -1,0 +1,14 @@
+{
+  "serial_no": "09025",
+  "objectives": "英文授課",
+  "content": "英文授課",
+  "books": "無",
+  "teaching_method": "講授",
+  "grading_policy": "英文授課",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。"
+    }
+  ]
+}

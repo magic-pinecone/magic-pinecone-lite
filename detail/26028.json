@@ -1,0 +1,18 @@
+{
+  "serial_no": "26028",
+  "objectives": "使學生瞭解矽光子學的應用、基本元件及製程方法，並由透過簡易公式及數值模擬軟體的使用學習如何設計相關的波導元件。",
+  "content": "I. 矽光子學簡介\n2. 光波導\n3. 波導元件設計\n4. 矽基板上的發光元件\n5. 調變器\n6. 光偵測器\n7. 整合及封裝\n8. 應用",
+  "books": "1. \"Light-Materials Interactions and Applications in Optoelectronic Devices\" Chandel, A. & Chang, S. H. (2024).\n2. \"Integrated Photonics\" Pollock, C. & Lipson, M. (2003).",
+  "teaching_method": "講授",
+  "grading_policy": "作業 (2 times) : 20%     期中考 : 40%     期末考 : 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系半導體光電科技碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系碩士班、光電科學與工程學系博士班、光電博士學位學程(台灣聯合大學系統)。"
+    }
+  ]
+}

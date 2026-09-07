@@ -1,0 +1,18 @@
+{
+  "serial_no": "33061",
+  "objectives": "本課程主要以動力學觀點探討車輛的動態操控性能與穩定性能，該二種性能決定了汽車的安全性與商品性。首先介紹汽車底盤系統、車輛的操控性能指標以及其物理意義，然後介紹底盤各次系統的特性與這些性能指標的關係，再利用動態模型連結各項性能指標，以深入了解這些指標的理論基礎。最後，將介紹操控性能與穩定性能的客觀評價測試與解析方法。\n\n本課程為工程數學、自動控制及動力學等各學科的整合運用，期望以日常使用的車輛為平台，培養學生將機械相關理論應用實務問題的能力。於課程中，各重要動態模型將訓練學生撰寫Python或Matlab程式進行模擬分析，以培養下列能力：\n1.\t能夠發掘、分析工程問題，並且運用數學、科學、工程知識以及應用現代化工具、方法加以解決\n2.\t能夠規劃、設計與執行實驗，並且可以分析實驗結果與解釋數據所代表意義\n3.\t以程式語言實現車輛動態分析的邏輯以及數學運算的能力\n4.\t應用程式語言解決實務問題的能力\n5.\t簡報與書面報告的語言與文字論述的邏輯能力",
+  "content": "1. 車輛操控性與穩定性\n2. 輪胎動力學\n3. 轉向幾何與輪胎定位\n4. 縱向動態特性\n5. 轉向動態與性能\n6. 車輛整車模型與動態控制\n7. 車輛性能評價之理論與技術",
+  "books": "1. 自編教材\n2. 參考書目：\n(1) Fundamentals of Vehicle Dynamics, Thomas D. Gillespie, Society of Automotive Engineers, 1992/2.\n(2) The Automotive Chassis, Second edition, J.Reimpell, H.Stoll, J.W.Betzler, Butterworth-Heinemann, 2001.",
+  "teaching_method": "講授",
+  "grading_policy": "Homework: 10%*3\nMidden-evaluation: 30%\nFinal evaluation: 30%\nClass performance: 10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班、機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限三年級、四年級。"
+    }
+  ]
+}

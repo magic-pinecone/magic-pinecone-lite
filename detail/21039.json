@@ -1,0 +1,9 @@
+{
+  "serial_no": "21039",
+  "objectives": "學習圖論的基本觀念與重要定理.",
+  "content": "“圖論簡介, 演算法簡介, 樹, 匹配, 連通度, 平面圖, 著色, Hamilton 圖, Ramsey 理論, NP-完全問題.“",
+  "books": "“書名：演算法觀點的圖論（修訂版）作者： 張鎮華，蔡牧村出版社：國立臺灣大學出版中心“",
+  "teaching_method": "講授",
+  "grading_policy": "“期中50％\n期末50％“分別於學期第8週及16週時實施筆試。",
+  "distribution_conditions": []
+}

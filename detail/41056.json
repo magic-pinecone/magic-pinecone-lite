@@ -1,0 +1,18 @@
+{
+  "serial_no": "41056",
+  "objectives": "1. 理解問題解決的邏輯、流程與模型化思維。\n2. 學習如何 指揮 AI（ChatGPT、Gemini)定義、分析與解決問題。\n3. 建立資料導向（Data-Driven）與模型導向（Model-Driven）的決策思維。\n4. 能以創新方式應用AI於學術、職場與社會實務問題。\n5.AI 協作與批判思考能力，完成一項AI輔助專案。",
+  "content": "1 introduction AI augmented skills\n2 Problem defined and identify key issues\n3 Leading AI as co-pilot to solve problem\n4 Business cases -  financial  analysis\n5 Business cases - Operational research\n6 Business cases -  Forecadting\n7 Business cases -  Developing new product / service\n8 Research diagnostic process\n9 Individual team for working and lifelong learning",
+  "books": "Gemini ChatGpt",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "分組作業 50%\n出席 10%\n期末分組專案報告 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士在職專班。學院:限管理學院。系所:限企業管理學系碩士在職專班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系碩士在職專班。年級:限非一年級。"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "serial_no": "23036",
+  "objectives": "“This course is addressed to teach student how to use Powder X-ray diffraction (PXRD) to identify the phase composition, possible impurities, as well as crystallite sizes and crystal defects in their synthesized compounds. It is aimed to give a good understanding of the basics of diffraction on powder-like materials.“",
+  "content": "“1.) Brief history of X-ray invention and invention of X-ray diffraction (XRD)\n2.) Instrumentation: X-ray sources: X-ray diffractometers for powder XRD (PXRD); X-ray detectors\n3.) Basics of elastic scattering of X-rays on matter\n4.) Fourier Transform as a covenient mathematical tool for understanding diffraction effects\n5.) Bragg equation and indexing of X-ray powder patterns\n6.) Structure factors: calculation of the Bragg peak intensities of simple cubic lattices (FCC, BCC); multiplicity factor of a powder diffraction\n7.) Line profile analysis of PXRD: determination of crystallite size and crystal defects\n8.) Concept of reciprocal lattice and the Ewald construction; Application to 2-dimensional lattices\n9.) Determination of impurities and quantitative phase analysis in multi-component systems“",
+  "books": "“(Theory)\n1.) A. Guinier ““X-Ray Diffraction““ (in Crystals, Imperfect Crystals, and Amorphous Bodies)  1963\n2.) B.E. Warren ““X-Ray Diffraction““ 1990\n3.) J. Als-Nielsen ＆ D. McMorrow ““ Elements of Modern X-Ray Physics““ 2001\n(Practical Use)\n1.) A. Taylor ““X-ray Metallography““  1961\n2.) C. Suryanarayana, M. Grant Norton, “X-Ray Diffraction A Practical  Approach”, 1998.\n3.) V.K. Pecharsky and P.Y. Zavalij, “Fundamentals of Powder  Diffraction and Structural Characterization of Materials”, 2005.\n4.) B.D. Cullity ＆ S.R. Stock ““Elements of X-Ray Diffraction““, 2001“",
+  "teaching_method": "講授\n\n個別指導\n其他",
+  "grading_policy": "To be announced in the first hour oh the class",
+  "distribution_conditions": []
+}

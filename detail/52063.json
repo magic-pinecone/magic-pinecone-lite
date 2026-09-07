@@ -1,0 +1,14 @@
+{
+  "serial_no": "52063",
+  "objectives": "培養影音處理技術基礎概念，了解相關商務應用及產業發展趨勢。",
+  "content": "介紹影音處理基本技術、常見應用、商業模式、案例分析及市場發展概況。",
+  "books": "Multimedia Processing（影音多媒體）\nFundamentals of Multimedia\n作者：Ze-Nian Li、Mark Drew、Jiangchuan Liu",
+  "teaching_method": "講授",
+  "grading_policy": "課堂參與及討論：20%\n文獻閱讀／作業：20%\n專題報告：30%\n期末專題：30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系博士班。"
+    }
+  ]
+}

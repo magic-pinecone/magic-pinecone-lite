@@ -1,0 +1,22 @@
+{
+  "serial_no": "27008",
+  "objectives": "“建立學生以matlab分析線性與非線性腦訊號及腦科學大量資料的進階能力\n本課程本學期開始採取專題討論方式授課，每次指定一至二位學生報告專書特定章節，每位選課同學均須參與報告兩次以上，並負責撰寫實作該專書中所提及之程式“",
+  "content": "“A. Introduction to Brain connectivity\nB. Brain connectivity: Cross-Frequency Coupling\nC. Brain connectivity: Granger Prediction\nD. Brain connectivity: Mutual Information\nE. Brain connectivity: Graph Theory\nF. Statistical Analyses in Brain Science 1\nG. Statistical Analyses in Brain Science 2“",
+  "books": "“1. Analyzing neural time series data. Mike X. Cohen\n2. Hilbert-Huang Transform and Its Applications. Norden E Huang ＆ Samuel S P Shen“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "“報告: 40％\n實作: 40％\n出席: 20％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限生醫理工學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限領域專長-腦與心智科學。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

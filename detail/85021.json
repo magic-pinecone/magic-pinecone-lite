@@ -1,0 +1,22 @@
+{
+  "serial_no": "85021",
+  "objectives": "本課程主旨在於讓學生了解線性代數基本概念，並且能熟練地進行矩陣運算。除此之外，我們將介紹線性代數常見的演算法 (例如：主要成份分析和奇異值分解等)，和一套免費數值分析軟體 (Octave)，讓學生學習如何使用Octave執行相關演算法。",
+  "content": "1. 線性系統2. 矩陣運算3. 反矩陣4. 行列式5. 向量空間6. 線性獨立7. 座標轉換8. 內積空間9. 期中考10. 正交與標準正交基11. 線性轉換12. 矩陣之線性轉換13. 特徵值和特徵向量14. 正交對角15. 數值分析16. Octave 數值軟體介紹17. 主成分分析18. 期末考",
+  "books": "- Elementary Linear Algebra, by Ron Larson\n- Elementary Linear Algebra, by Howard Anton, Chris Rorres, Anton Kaul\n“",
+  "teaching_method": "講授",
+  "grading_policy": "課程參與(含出缺席) 20％\n小考 20％\n期中考 30％\n期末考 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    }
+  ]
+}

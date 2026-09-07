@@ -1,0 +1,18 @@
+{
+  "serial_no": "38002",
+  "objectives": "本課程將介紹傳統照明與前瞻光源相關知識，並讓同學們習得光源與系統分析的技巧。This course introduces fundamental knowledge of conventional lighting and advanced light sources, while providing students with the skills for analyzing light sources and lighting systems.",
+  "content": "1. 照明目的 (Purposes of lighting)\n2. 室內照明與室外照明 (Outdoor lighting & Indoor lighting)\n3. 色彩學簡介 (Introduction to chromatics)\n4. 光與視覺 (Light and vision)\n5. 矽光子-系統架構 (Silicon photonics – System structure)\n6. 矽光子-雷射 (Silicon photonics – Laser)\n7. 矽光子-光纖陣列 (Silicon photonics – Fiber array)\n8. 矽光子-PIC (Silicon photonics – PIC)\n9. AR-VR  - 系統架構 (AR-VR – System structure)\n10. AR-VR - Micro LED (AR-VR – Micro-LED)\n11. 系統或元件光學模擬 LightTools / Rsoft simulation (AR-VR, SiPH)",
+  "books": "1. Class notes\n2. Selected papers",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "依課堂說明",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限三年級、四年級。"
+    }
+  ]
+}

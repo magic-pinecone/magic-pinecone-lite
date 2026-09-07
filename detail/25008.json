@@ -1,0 +1,9 @@
+{
+  "serial_no": "25008",
+  "objectives": "介紹生物統計學於醫學、公共衛生及生命科學研究中的基本原理與方法。\n培養學生對生物醫學資料進行整理、分析與解釋之能力。\n建立學生在機率、統計推論、假設檢定及迴歸分析等統計方法之基礎。\n訓練學生運用統計軟體進行資料處理、分析與結果呈現。",
+  "content": "Elementary biostatistics\n1.\tHypothesis testing (one sample, two sample)\n2.\tHypothesis testing (multi-sample).\n3.\tNonparametric methods\n4.\tHypothesis testing Categorical data.\n5.\tDesign and analysis techniques for Epidemiologic studies\n6.\t**Large sample techniques",
+  "books": "Rosner, B. (2006). Fundamentals of Biostatistics 7th edition. Duxbury ISBN : 9780538735896",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "上課表現                  20%\n期中考                     35%\n期末考/期末報告      45%",
+  "distribution_conditions": []
+}

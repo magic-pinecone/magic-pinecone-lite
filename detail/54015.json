@@ -1,0 +1,14 @@
+{
+  "serial_no": "54015",
+  "objectives": "This course is especially designed for graduate students who major in learning technology. This course aims to gain participants’ understanding of nature of learning technology, design thinking, and the core concepts of Generative AI (GenAI). Moreover, this course will explore potential applications of Generative AI in education. This course is designed to provide participants with deep insights into GenAI-based learning technology by combining conceptual understanding with hands-on design practice. Through literature reviews, group discussions, and project-based activities, the course focuses equally on the fundamental understanding of GenAI and applying the fundamental understanding of GenAI to design and validate learning technology prototypes, such as a learning website, system, or app.",
+  "content": "By the end of the course, participants will be able to:\n1.be aware of the nature of learning technology\n2.have sufficient understanding of the nature of learning technology, the fundamental principles and historical development of Generative AI (e.g., from Transformer architecture to ChatGPT), and design thinking\n3.Gain proficiency in key Generative AI applications, including API integration, Prompt Engineering, and Multi-Agent Systems.",
+  "books": "Self-edited teaching materials",
+  "teaching_method": "講授",
+  "grading_policy": "1.Process:\n*Participation (30％):\na. Classroom participation (10％)\nb. Online community participation (20％; writing and reading notes)\n*Outcomes:\na.Individual understanding on digital learning understanding of the nature of learning technology, learner-centered design (LCD), and design thinking (30％)\nb.Prototype design: (40％) (peer evaluation and expert evaluation)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限網路學習科技研究所碩士在職專班。"
+    }
+  ]
+}

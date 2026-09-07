@@ -1,0 +1,22 @@
+{
+  "serial_no": "52065",
+  "objectives": "熟悉3D Rendering Pipe Line全流程的原理與實作",
+  "content": "(1)\tRasterization\n(2)\tTransformation\n(3)\tProjection\n(4)\tRay Casting\n(5)\tClipping\n(6)\tCulling, Z-buffer\n(7)\tLighting\n(8)\tShading\n(9)\tTexture Mapping\n(10)\tSpecial effect: Bumping\n(11)\tNoise Filtering\n(12)\tInterfaces",
+  "books": "Computer Graphics and Virtual Environments: From Realism to Real-Time\nMel Slater,  Anthony Steed,  Yiorgos Chrysanthou",
+  "teaching_method": "講授",
+  "grading_policy": "期末考: 40%\n作業: 60%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系、資訊電機學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限人工智慧國際碩士學位學程。"
+    }
+  ]
+}

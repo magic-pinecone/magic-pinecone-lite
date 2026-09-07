@@ -1,0 +1,9 @@
+{
+  "serial_no": "22015",
+  "objectives": "培育學生物理研究實作及思辯能力。運用如程式設計、自動控制等設計實驗架構，並能夠運用所學物理理論解釋實驗結果，完成基礎物理相關專題研究。",
+  "content": "程式語言: Python\n自動化控制: Arduino、LabView\n影像分析: Tracker、Python\n基礎電子電路\n專題研究",
+  "books": "自編講義及學術文章相關資源",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "每週書面報告(35％) + 口頭報告(15％) + 課堂表現(35％) + 期末書面與報告(15％)",
+  "distribution_conditions": []
+}

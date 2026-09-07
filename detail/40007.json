@@ -1,0 +1,14 @@
+{
+  "serial_no": "40007",
+  "objectives": "本課程前半部將介紹公司理財的基本概念以及其運用，同時介紹財務新知Real Options及Corporate Social Responsibility(CSR) 在公司理財之應用，並搭配相關的個案教學來加深學習的廣度及深度。",
+  "content": "財務管理導論\nIntroduction to Financial Management\nCAPM, 財務報表分析&應用\nFinancial Statements Analysis and Applications\n股票及債券評價: 理論與實務\n資本預算,融資決策 & Project Finance\nCapital Budgeting & Financing Decisions\n投資評估, 購併與專案分析 &CSR\nInvestment Assessment and Project Analysis\n企業風險管理\nCorporate Risk Management\n分組報告及期末考\nGrouping presentations & Final Examine",
+  "books": "財務管理",
+  "teaching_method": "講授",
+  "grading_policy": "出席率15%期末考30%專題發表30%角色扮演25%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限管理學院高階主管企管碩士班。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "21071",
+  "objectives": "\"訓練研究生閱讀論文的能力, 並培養獨立思考的習慣\"",
+  "content": "我們將著重於學習 `Algebraic Geometry (by Robin Hartshorne)\"這本書的第一、二章的必要習題，以更深入代數幾何的研究及其應用。",
+  "books": "1. Algebraic Geometry (by Robin Hartshorne)\n2. Introduction to algebraic curve (by William Fulton)\n3. Commutative Algebra with a View Toward Algebraic Geometry (by David Eisenbud)",
+  "teaching_method": "研討",
+  "grading_policy": "出席與平時討論 50分;\n口頭報告 50分",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

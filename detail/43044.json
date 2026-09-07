@@ -1,0 +1,18 @@
+{
+  "serial_no": "43044",
+  "objectives": "The class is organized for the students who are interested in E-Commerce technologies. The contents include basic knowledge for Internet, Cellular networks, Wireless networks, and Personal area network. The emerging technologies in these fields will be introduced and discussed. The possible applications will be also investigated in class. The curriculum is designed to make students be familiar with the issues in modern data and communication networks. The basic understandings about networking are helpful but not prerequisite. The contents include the following topics.",
+  "content": "-電子商務與網際網路\n-電子商務的特性與網際網路的關係\n-網際網路的法則\n-Web 2.0\n-雲端商務與雲端運算\n-Internet 網際網路\n-PSTN 公共交換電話網路\n-Cellular network 蜂巢式網路\n-Handoff vs Roaming 換手與漫遊\n-802.11無線網路\n-PAN 個人網路\n-RFID 無線射頻辨識\n-Localization 定位技術\n-Mobiles services",
+  "books": "Reference:\n\n-Research Literature\n\n-Harvard Business Review",
+  "teaching_method": "講授",
+  "grading_policy": "平時成績 30％ (含作業、出缺席、上課參與)\n\n學期報告 50％\n\n期末評量 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士在職專班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系碩士在職專班。"
+    }
+  ]
+}

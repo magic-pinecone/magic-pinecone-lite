@@ -1,0 +1,26 @@
+{
+  "serial_no": "36008",
+  "objectives": "“1. 說明整合型之廢棄物管理體系與零廢棄政策之目標與策略。\n2. 說明廢棄物相關管理技術之應用知識與未來技術發展趨勢。“",
+  "content": "固體廢棄物的產生主要源自於人類與動物之活動，其產生為一般無用或不要的固體廢棄物。然而，前述之被拋棄的廢棄物亦可被視為可再利用或是資源。本課程主要介紹整合型之固體廢棄物管理系統，在基於考量公共衛生、環境關懷及民眾期望之前提下，將廢棄物達到資源再利用之目的。本課程內容主要包括整合型管理體系之介紹、廢棄物數量與特性、收集與運輸系統、資源循環回收、焚化處理技術、堆肥處理技術與最終處置技術等。",
+  "books": "“1. INTEGRATED SOLID WASTE MANAGEMENT--Engineering Principles and Management Issues By George Tchobanoglous, Hilary Theisen and Samuel Vigil, McGraw-Hill, Inc., New York, USA, 1993.\n2. HAZARDOUS WASTES: Sources, Pathways, Receptors, By Richard J., Watts, John Wiley ＆ Sons, Inc., New York, USA, 1997.“",
+  "teaching_method": "講授",
+  "grading_policy": "期中考:30％; 期末考: 30％; 期末書面及口頭報告: 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限環境工程研究所碩士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限環境工程研究所博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

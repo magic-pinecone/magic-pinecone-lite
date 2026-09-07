@@ -1,0 +1,14 @@
+{
+  "serial_no": "60002",
+  "objectives": "了解生物相關物質(e.g., 碳)在海洋的循環過程的基本觀念及調控機制",
+  "content": "\"Week Date Topics (Quiz)”1 2022/9/14 Ho Overview & Introduction   2 2022/9/21 Ho Chemical Composition 1  3 2022/9/28 Ho Chemical Composition 2 (Quiz 1)4 2022/10/5 Ho Physical Processes5 2022/10/12 Ho Major Nutrient 16 2022/10/19 Ho Major Nutrient 27 2022/10/26 Ho Primary Production8 2022/11/2 Ho Dissolved Gases & Oxygen (Quiz 2)9 2022/11/9 Ho Dissolved Inorganic Carbon  10 2022/11/16 Ho Midterm 11 2022/11/23 Ho Trace elements 1  12 2022/11/30 Ho Trace elements 2   13 2022/12/7 Ho Particulate Organic Matter (Quiz 3)14 2022/12/14 Lee Organic Biogeochemistry 115 2022/12/21 Lee Organic Biogeochemistry 2 16 2022/12/28 Ho Marine Pollution 1 (Quiz 4)17 2023/1/4 Lee Marine pollution 218 2023/1/11 Ho Final Exam",
+  "books": "“Ocean Biogeochemical Dynamics” by Sarmiento and Gruber (2006)\"Introduction to Marine Biogeochemistry\" by Libes (2009)",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Midterm 30%\nFinal 30%\nQuiz (or homework) 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球系統科學國際研究生博士學位學程。"
+    }
+  ]
+}

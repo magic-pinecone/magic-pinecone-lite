@@ -1,0 +1,26 @@
+{
+  "serial_no": "43021",
+  "objectives": "This course aims to ground students in the foundations of current Management Information Systems while guiding them to explore paradigm shifts and future developments in the age of Artificial Intelligence. The objective is to provide students with a comprehensive overview of MIS development over nearly six decades, enabling them to understand the essence and evolutionary trajectory of the field, and then prepare them to critically examine how AI and other cutting-edge innovations are transforming information systems, reshaping organizational structures, and changing business practices.\n\nThrough this learning journey, students will develop critical thinking abilities, gain practical experience with AI-driven tools, and cultivate the adaptability needed to thrive in an unpredictable technological frontier. Ultimately, this course seeks to prepare forward-thinking MIS professionals who can bridge current practices with future possibilities, embrace uncertainty as opportunity, and lead innovation in the ongoing transformation of information systems.",
+  "content": "Recognizing that MIS has evolved continuously since its emergence in the United States in 1968, this course embraces the dynamic nature of our field as it adapts to ever-changing technologies. Like explorers venturing into uncharted territories, MIS professionals must navigate landscapes where each breakthrough brings unexpected challenges and opportunities.\n\nThis course prepares students for such exploration by integrating established theories with practical applications and emerging technologies. Students will first master core MIS principles, then examine how AI innovations drive changes in information systems, decision-making, and business models. Through theoretical inquiry, hands-on assignments, and collaborative projects, students will be equipped for future challenges.",
+  "books": "上課公佈",
+  "teaching_method": "講授\n研討\n\n其他",
+  "grading_policy": "上課公佈",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系。年級:限四年級。身份:限非重修生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系。身份:限重修生。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-資訊管理學系、雙主修-資訊管理學系、學分學程-電子商務(EC)。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

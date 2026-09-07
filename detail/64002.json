@@ -1,0 +1,14 @@
+{
+  "serial_no": "64002",
+  "objectives": "讓學生接觸各個相關領域的專家，瞭解各個相關領域的研究內容與發展近況，知己知彼而能融會貫通。",
+  "content": "專題演講",
+  "books": "無",
+  "teaching_method": "講授\n研討",
+  "grading_policy": ".出席 100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限應用地質研究所碩士班、應用地質研究所博士班。"
+    }
+  ]
+}

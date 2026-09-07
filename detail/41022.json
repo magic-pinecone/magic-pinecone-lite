@@ -1,0 +1,14 @@
+{
+  "serial_no": "41022",
+  "objectives": "本課程提供基礎與進階財務管理內容，使學生獲得必要財務管理知識和學習相關計算，於未來應用於解決實務問題。基礎課程內容包括：財務管理導論介紹、財務報表分析、金錢的時間價值、折現現金流量評價、淨現值法與其他投資準則；進階課程內容包括：資本投資決策。",
+  "content": "1.財務管理導論介紹\n2.財務報表分析\n3.金錢的時間價值\n4.折現現金流量評價\n5.淨現值法與其他投資準則\n6.資本投資決策",
+  "books": "教科書：\nStephen A. Ross, Randolph W. Westerfield, and Bradford D. Jordan,“Fundamentals of Corporate Finance”, 2025(14e), McGraw Hill Education (華泰文化代理).\n\n參考書：\n王明昌 編譯 (Ross, Westerfield, and Jordan著)，「財務管理(Fundamentals of Corporate Finance)」，2025 (14版)，華泰文化出版。",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "期中考：30％。\n期末考：30％。\n作業/報告：30％。\n學習態度: 5％。\n出席：5％。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系碩士班。年級:限一年級。身份:限非交換生。"
+    }
+  ]
+}

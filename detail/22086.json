@@ -1,0 +1,14 @@
+{
+  "serial_no": "22086",
+  "objectives": "學生在完成課程之後將具備以下能力: 1.理解核磁共振原理 2.理解核磁共振儀器工作原理 3.\t能分析脈衝序列 4.\t能夠執行簡單的核磁共振實驗。",
+  "content": "這個課程將涵蓋以下的主題:\n- 核磁共振發展的歷史\n- 以古典力學描述核磁共振\n- 量子力學的回顧\n- 孤立單自旋系統\n- 耦合雙自旋系統\n- 二維核磁共振光譜學\n- 三維核磁共振光譜學\n- 核磁共振弛豫\n- 固態核磁共振",
+  "books": "Reference books (optional)\nUnderstanding NMR Spectroscopy, Author: James Keeler, ISBN-10: 9780470746097\nPrinciples of Magnetic Resonance, Authors: Charles P. Slichter, ISBN: 978-3-642-08069-2",
+  "teaching_method": "講授",
+  "grading_policy": "作業習題(60%)與考試(40%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

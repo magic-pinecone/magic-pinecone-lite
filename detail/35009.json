@@ -1,0 +1,14 @@
+{
+  "serial_no": "35009",
+  "objectives": "本課程目標為使學生習得有效管理工程專案不同階段及控制成本所需之知識和技能。進而培育能夠有效規劃、估算、預算、監控和控制工程專案成本之專業人才，確保專案按時、按預算完成，同時維持工程品質並符合相關法規與標準。具體學習目標包含瞭解成本管理之基本概念及原則；學習估算營建專案包括人工、材料、設備、勞動力等之各種成本；如何制定有效之營建專案預算項目、資金分配和時程；監控營建專案實際成本與預算間之差異，及如何採取適當的措施來控制和調整成本；介紹風險評估並強調成本管理於整個營建專案管理過程中之角色；藉由分析營建專案案例，幫助學生將所學應用於實際情境，並解決實際問題。",
+  "content": "1\tCourse Introduction\n\n2\tCost concepts\n\n3\tMoney-Time Relationships and Applications\n\n4\tComparing Alternatives\n\n5\tProgress Presentation\n\n6\tMidterm Exam\t **Abstract due\n\n7\tValue Chain\n\n8\tProduct Costing Systems\n\n9\tActivity-Based Costing Systems\n\n10\tActivity-Based Management\n\n11\tSpecial Edition: Practitioner\t**Lesson learned report\n\n12\tManaging Customer Profitability\n\n13\tProcess Costing Systems\n\n14\tTerm presentation (1)\n\n15\tTerm presentation (2) and Feedback\n\n16\tFinal Exam\t**Project due",
+  "books": "1.\tFinancial and Cost Concepts for Construction Management; Author: Halpin, D.W.; ISBN: 0471897256.\n2.\tCost Management; Authors: Hilton, R.W., Maher, M.W., and Selto, F.M.; ISBN: 0072474343.",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "隨堂Q＆A  20％\n專案簡報 (2)  20％\n摘要  10％\n期中考  30％\n期末書面報告  10％\n期末考10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系營建管理碩士在職專班。"
+    }
+  ]
+}

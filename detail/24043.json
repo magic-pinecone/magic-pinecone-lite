@@ -1,0 +1,18 @@
+{
+  "serial_no": "24043",
+  "objectives": "活性氧屬(reactive oxygen species, ROS)或氧自由基(oxygen free radicals)。此外，致癌物質、藥物、污染物質、紫外線、X光、電磁波等外來物質也會導致自由基的產生。而人的情緒的緊繃如生氣、緊張等亦會產生自由基。自由基可能藉由接觸輻射及有毒化學物、過度日光曝曬，或經由不同的代謝作用，例如分解貯存的脂肪。自由基在生物細胞可誘導產生訊息傳遞作用，過量則可損DNA，protein，lipid 等造成。本課程期許學生了解生物醫學相關研究，學習思考和研究方法及大數據分析方法，搭配免費線上平台Datacamp(教學方案)，讓學生以自學之方法可以在家自行練習課堂所學技巧，透過平台可以隨時監控學生進度，並且在課餘時間開設工作坊可以讓同學們詢問問題以及協助同學們進行專題研究。此平台擁有即時回饋功能，比起以往授課學生必須回家花費大量時間找答案，可以大幅縮減學生對於程式學習的障礙。",
+  "content": "1.\tROS (Reactive oxygen species) and DNA damage。\n2.\tROS (Reactive oxygen species) and DNA damage。\n3.\tROS and protein damage。\n4.\tROS and protein damage。\\\n5.\tROS and lipid damage。\n6.\tROS and lipid damage。\n7.\tROS and gene Regulation\n8.\tROS and gene Regulation。\n9.\tROS and mitochondria。\n10.\tROS and mitochondria。\n11.\tROS and signal transduction。\n12.\tROS and signal transduction。\n13.\tROS and clinical diseases。\n14.\tROS and clinical diseases。\n15.\tSeminar。\n16.\tSeminar。\n17.\tSelf-directed Learning自行於線上平台操作練習\n18.\tSelf-directed Learning自行於線上平台操作練習",
+  "books": "自由基生物醫學: 藝軒出版社",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "考試 (50 ％) + Seminar (50 ％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    }
+  ]
+}

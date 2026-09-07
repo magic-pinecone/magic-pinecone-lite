@@ -1,0 +1,22 @@
+{
+  "serial_no": "53006",
+  "objectives": "教導學生如何運用基本半導體電子元件設計基本電路，以建立學生應用電子學解析電路問題及設計電路之工程能力。",
+  "content": "週次\t內容\t備註\n1\tChap1: Semiconductor Physics\n2\tChap1: Semiconductor Physics\n3\tChap2: Diode Circuits\n4\tChap2: Diode Circuits\n5\tChap2: Diode Circuits\n6\tChap3: The Field-Effect Transistor\n7\tChap3: The Field-Effect Transistor\n8\tChap3: The Field-Effect Transistor\n9\tMid-term Exams\n10\tChap4: FET Amplifiers\n11\tChap4: FET Amplifiers\n12\tChap4: FET Amplifiers\n13\tChap5: The Bipolar Junction Transistor (BJT)\n14\tChap5: The Bipolar Junction Transistor (BJT)\n15\tChap6: BJT Amplifiers  (Partial)\n16\tFinal Exams\n17\t線上教學\n18    線上教學",
+  "books": "教科書(英文)：D. A. Neamen, Microelectronics: Circuit Analysis and Design, McGraw-Hill, 4th ed., 2010. Ch1~Ch6 (滄海書局)\n參考書(英文)：S. Smith, Microelectronic Circuits, Oxford University Press, 6th ed., 2011. Ch1, 3, 4, 5, 6 (台北圖書)\n\n上課方式：投影片；板書；其他：線上學習",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "作業與小考 40％\n期中考     30％\n期末考    30％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系、資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-通訊工程學系、雙主修-通訊工程學系、第二專長-通訊工程。"
+    }
+  ]
+}

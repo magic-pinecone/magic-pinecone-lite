@@ -1,0 +1,22 @@
+{
+  "serial_no": "94010",
+  "objectives": "依授課教師上課發給同學的授課大綱規定",
+  "content": "依授課教師上課發給同學的授課大綱規定",
+  "books": "依授課教師上課發給同學的授課大綱規定",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "依授課教師上課發給同學的授課大綱規定",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

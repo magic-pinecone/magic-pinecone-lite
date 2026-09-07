@@ -1,0 +1,22 @@
+{
+  "serial_no": "26014",
+  "objectives": "電磁光學主要講述光場的電磁波本質與其和介質交互作用所產生的效應。在本課程中，我們將首先建立波與波動方程式的基礎概念，接著與馬克士威方程組結合並了解到光的電磁波本質，例如光場的偏振特性，以及其與介質交互作用的行為。除此之外，我們也將更進一步簡介在近代光學中的光子概念以及根據光粒子特性所衍生出的的應用。藉由電磁光學所建立的知識，能夠為後續如非線性光學、量子光學等進階光學研究奠定基礎。",
+  "content": "1. 波與波動方程式\n2. 電磁學理論及光波\n3. 偏振\n4. 光子\n5. 光-物質交互作用",
+  "books": "1. E. Hecht, “Optics“, 4th Ed., Addison Wesley Press, New York,  August 12, 2001, ISBN-10: 0805385665, ISBN-13: 978-0805385663“\n2. Modern Atomic and Optical Physics II Lectures by M.D. Lukin,",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "Pop quiz:15％\nMid-term:30％\nFinal exam: 40％\nFinal oral report: 15％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。"
+    }
+  ]
+}

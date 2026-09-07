@@ -1,0 +1,14 @@
+{
+  "serial_no": "21051",
+  "objectives": "“˙學生在修習完本課程後，能透過搜尋與閱讀論文，掌握機器人學的最新技術與脈絡。\nAfter taking this course, students can know state of the art robotics technology and roadmap through paper survey and reading.\n˙學生在修習完本課程後，能將數學理論透過程式實現在機器人平台上。\nAfter taking this course, students can implement mathematical theory to programs on robotic platforms.“",
+  "content": "“四、課程大網：(須中英對照，中文翻譯不妥，英文亦可)\n\n1. Introduction to robot operating system (ROS)\n2. Unmanned aerial vehicle (UAV)\n3. Mobile robots\n4. Perception algorithms\n5. Decision-making algorithms\n6. 3D mapping\n7. 3D searching\n8. Robot data analysis“",
+  "books": "There is no textbook. Students need to read and present state of the art research papers.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "“50％ paper presentation\n50％ experiment progress“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "指定課程:必須先修MA5039、先修MA5041。"
+    }
+  ]
+}

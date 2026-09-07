@@ -1,0 +1,26 @@
+{
+  "serial_no": "21027",
+  "objectives": "線性代數是研究向量空間與線性映射的一門數學分支。其內容涵蓋對直線、平面及更高維子空間的探討，同時也著重於各類向量空間的普遍性質。線性代數不僅是純數學與應用數學的核心領域，更廣泛應用於工程學、物理學、自然科學與計算機科學，並且是機器學習與深度學習的重要基礎工具。",
+  "content": "這門課程將介紹線性代數的基本概念，主要內容包括：\n(i) 向量與矩陣\n(ii) 線性方程組 Ax = b\n(iii) 基本子空間\n(iv) 正交性\n(v) 行列式\n(vi) 特徵值與特徵向量",
+  "books": "1. Introduction to Linear algebra (sixth edition) by Gilbert Strang",
+  "teaching_method": "講授",
+  "grading_policy": "平時考 30%、期中期末各35%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限一年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-數學系、雙主修-數學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限數學系、理學院學士班。年級:限非一年級。"
+    }
+  ]
+}

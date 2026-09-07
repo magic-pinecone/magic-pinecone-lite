@@ -1,0 +1,9 @@
+{
+  "serial_no": "62052",
+  "objectives": "地震學是科學的方法研究地震波，以了解地球的內部構造與地震發生的物理機制。本課程介紹地震學理論、如何量化地震波的觀測，期為地物領域研究生的基礎紮根。",
+  "content": "Introduction\nStress and Strain\nSeismic Wave Equations\nPlanes Waves in Layer Structures\nSurface Waves\nQ and attenuation\nSeismic Source and Green’s Functions\nHaskell Propagator Matrix\nNormal modes",
+  "books": "“Stein ＆ Wysession: An Introduction to Seismology, Earthquakes, and Earth Structure.\nAki ＆ Richards: Quantitative Seismology, 2nd edition.\nPeter Shearer: Introduction to Seismology, 3rd edition.“",
+  "teaching_method": "講授",
+  "grading_policy": "“Attendance (50％)\nHomework (50％)“",
+  "distribution_conditions": []
+}

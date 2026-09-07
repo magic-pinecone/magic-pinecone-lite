@@ -1,0 +1,22 @@
+{
+  "serial_no": "24016",
+  "objectives": "1. Study journal papers 2. Join group meeting 3.Hand-on experiments 4. Discussion",
+  "content": "1. Study journal papers 2. Join group meeting 3.Hand-on experiments 4. Discussion",
+  "books": "NA",
+  "teaching_method": "實習/實驗\n個別指導",
+  "grading_policy": "Attitude (50％) + attendance rate (50％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-生命科學系。"
+    }
+  ]
+}

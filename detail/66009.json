@@ -1,0 +1,9 @@
+{
+  "serial_no": "66009",
+  "objectives": "1.  知曉高頻海洋遙測雷達的觀測原理；\n2.  具備操作高頻海洋遙測雷達的能力",
+  "content": "1.\t電磁波與粗糙海面的散射原理\n2.\t海洋表面散射模型\n3.\t雷達天線\n4.\t表面海流反演理論\n5.\t波浪反演理論\n6.\t表面風場反演理論\n7.\t高頻雷達系統架構與部件\n8.\t架站實務\n9.\t測站現場參觀\n10.\t資料品管與資料後分析處理",
+  "books": "Microwave radar and radiometric remote sensing, 2014, F.T. Ulaby and D.G. Long, published by University of Michigan press",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "實作報告 100％",
+  "distribution_conditions": []
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "80013",
+  "objectives": "本課程聚焦於分析化學於產業排放與溫室氣體監測之應用，強調從「量測技術」延伸至「產業實務與淨零治理」之整合能力。\n相較於空氣污染監測與管制課程，本課程更著重於分析儀器原理、量測方法與數據品質控制，並深入探討其於固定污染源與溫室氣體盤查之應用。\n透過本課程，學生將能：\n1.\t理解分析化學於空氣污染與溫室氣體量測之核心原理\n2.\t掌握產業排放監測技術（VOC、THC、CEMS）\n3.\t建立溫室氣體量測與碳盤查基礎\n4.\t具備數據判讀與實務應用能力，支援淨零與環境治理",
+  "content": "一、分析化學基礎與量測原理（Foundation of Analytical Chemistry）\n分析化學基本概念：（Accuracy、Precision、Sensitivity）、偵測極限（LOD）、定量極限（LOQ）、校正方法（Calibration curve、Internal/External standard）、標準品與追溯性（Traceability）\n誤差分析與不確定度（Uncertainty analysis）、品質保證與品質控制（QA/QC）\n二、環境分析技術與儀器原理（Analytical Techniques & Instrumentation）\n氣相層析（GC）基本原理\n前濃縮技術\n採樣系統：\n線上 vs 離線分析\n三、數據品質與方法驗證（Data Quality & Method Validation）\n方法驗證（Method validation）、精密度與準確度評估、Drift與校正、Blank / Spike / Recovery、\nQA/QC在監測系統中的應用、\n數據異常判讀（Outlier / Instrument issue）、\n四、產業排放分析應用（Industrial Emission Analysis）\n固定污染源量測原理（THC / NMHC）、VOC speciation（PAMS）、CEMS分析系統\n工業製程與排放特性、排放係數與不確定度\n五、溫室氣體與碳分析（Greenhouse Gas & Carbon Analysis）\nCO₂ / CH₄ 量測原理、NDIR / CRDS 基本概念、碳盤查方法（ISO 14064）、碳足跡分析（LCA概念）、數據品質在碳盤查中的角色",
+  "books": "Vallero, D. A. (2014). Fundamentals of Air Pollution\nSkoog et al., Principles of Instrumental Analysis\nUS EPA Air Monitoring & PAMS Guidelines\nISO 14064 / ISO 14067\n教師自編教材（產業監測案例）",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "出席與課堂參與：50%\n期中報告：25%\n期末專題報告：25%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限地球科學學院。"
+    }
+  ]
+}

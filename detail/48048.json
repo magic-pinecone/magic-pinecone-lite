@@ -1,0 +1,18 @@
+{
+  "serial_no": "48048",
+  "objectives": "本課程旨在透過演示簡化/假設的企業個案，提升學生將公司財務理論應用於實務的能力。學生將學習如何以高度組織的方式摘要並報告個案，同時透過課堂上的討論以精進其財務直覺與分析能力。",
+  "content": "課程主題包括：財務報表分析，資金成本，資本預算，資本結構，國際財務管理，以及其他主題，例如支出政策，租賃決策和併購評估等。",
+  "books": "Case Studies in Finance: Managing for Corporate Value Creation, by Robert F. Bruner, Kenneth M. Eades, and Michael J. Schill. 8th Ed, McGraw-Hill Irwin: 2018.（老師協助購置個案）",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "出席狀況與課堂討論: 60％、作業: 40％、小組報告: 加分選項",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系碩士在職專班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系碩士在職專班。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "46018",
+  "objectives": "“This course consists of four parts, multivariate analysis, data mining, optimization, and decision analysis. In this course, theoretical ideas are presented to the degree needed for good understanding in making sound application. If students feel interested in some certain topics and want to study further, they know where to find the advance materials. In other words, this course provides students a broad view of methodologies which are useful to their research and future professional works. The course includes the following topics:\n1. Introduction to Multivariate Analysis: Classification and Clustering\n2. Introduction to Data Mining: Decision Trees; Baysian Network\n3. Introduction to Decision Analysis: Risk Aversion; Utility Function\n4. Introduction to Optimization: Dynamic Programming\n\nClass Participation. Class participation is crucial for learning the course content and for keeping in pace with the class progress.\n1) You should be prepared for each class and should try to contribute to class discussions. Active and cooperative learning will be encouraged. During the lecture, you are expected to answer/raise questions, and participate in small-group activities such as modeling and solving problems, and interpreting solutions.\n2) You should read the assigned sections from the textbook and any other course material that is posted online.\n\nPresentation. Each student needs to choose one or two topics, and prepare an introduction presentation and discussion for each topic. The students can find aids of related materials from the instructor, the reference books, and even internet. Self-learning experiences and presenting skills are one of the objectives in this course.“",
+  "content": "1. Descriptive Statistics\n2. Probability Distributions\n3. Sampling Distribution\n4. Estimation\n5. Hypothesis Testing\n6. Analysis of Variance\n7. Simple Linear Regression\n8. Multiple Regression",
+  "books": "“Statistics for Business and Economics by Anderson, Sweeney, Williams, Camm, and Cochran. 13e, 2016“",
+  "teaching_method": "講授",
+  "grading_policy": "30％  Homework ＆ Quizzes\n10％  Class participation ＆ attendance\n30％  Exam\n30％  Final exam",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限工業管理研究所碩士在職專班。"
+    }
+  ]
+}

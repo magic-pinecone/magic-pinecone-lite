@@ -1,0 +1,9 @@
+{
+  "serial_no": "02009",
+  "objectives": "1. 瞭解遙測影像及其處理與應用2. 基礎目標分類技術及國際發展3. 分組團隊合作及口頭表達能力",
+  "content": "遙測影像基礎數位影像加強輻射幾何校正目標識別分類",
+  "books": "Remote Sensing – Models and Methods for Image ProcessingBy Robert A. Schowengerdt\nRemote Sensing and Image Interpretation, 4th Ed.By Thomas M. Lillesand, Ralph W. Kiefer\nDigital Image ProcessingBy Rafael C. Gonzalez and Richard E. Woods",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "作業(20％)、電腦作業報告(40％)、分組專題(20％)、考試(20％)",
+  "distribution_conditions": []
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "27013",
+  "objectives": "數據科學的進展突飛猛進，本課程將向學生呈現多種現行可應用於認知神經科學的數據科學方法，並以與學生互動式的教學模式提升學生實務數據分析能力",
+  "content": "1.\tData Science and Cognitive Neuroscience\n2.\tLinear Algebra, and Regression\n3.\tSingular Value Decomposition (SVD) and Principal Component Analysis (PCA)\n4.  Independent Component Analysis (ICA) and its application to EEG data\n4.\tEmpirical Mode Decomposition (EMD) and Hilber-Huang Transform (HHT)\n5.\tHolo-Hilbert Spectral Analysis (HHSA) and EMD-based Connectivity Analysis\n6.\tHow to quantify complexity in the EEG data\n7.\tHow to measure probability density for EEG data\n8.  Statistical analyses for EEG data in Cognitive Neuroscience\n9.  Modeling behavior indexes and neural dynamics",
+  "books": "MATLAB for Brain and Cognitive Scientists (The MIT Press) by Mike X. Cohen",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "實作：60%; 作業：20%; 出席：20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限認知神經科學研究所碩士班、認知神經科學研究所博士班、跨領域神經科學博士學位學程(台灣聯合大學系統)、跨領域神經科學國際研究生博士學位學程。"
+    }
+  ]
+}

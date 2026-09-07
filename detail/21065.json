@@ -1,0 +1,14 @@
+{
+  "serial_no": "21065",
+  "objectives": "學習最新數學進展",
+  "content": "“本課程主要涵蓋下面主題 :\n1. 介紹數學分支領域最新進展。\n2. 相關文獻研讀指導。\n3. 個別主題的研究。“",
+  "books": "Selected papers.",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "交報告100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "63007",
+  "objectives": "瞭解目前國際遙測影像處理研究，並使用MATLAB或Python實現統計與人工智慧演算法",
+  "content": "1. 瞭解遙測影像處理\n2. 統計與人工智慧\n3. 演算法程式實踐",
+  "books": "Remote Sensing and Image Interpretation, 4th Ed.By Thomas M. Lillesand, Ralph W. Kiefer\nDigital Image ProcessingBy Rafael C. Gonzalez and Richard E. Woods\nJournal articles",
+  "teaching_method": "研討\n實習/實驗",
+  "grading_policy": "口頭報告(60％)、書面報告(40％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限太空科學與工程學系。年級:限二年級。"
+    }
+  ]
+}

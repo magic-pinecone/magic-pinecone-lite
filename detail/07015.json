@@ -1,0 +1,18 @@
+{
+  "serial_no": "07015",
+  "objectives": "本課程將從日常生活接觸到的產品以及材料來介紹各類物質對於人類的便利性及生活習慣所造成的改善(改變)。在介紹同時將會帶入材料科學的基本概念和重要原理，包括材料結構、性質、分類、及應用，以及材料發展的重要里程碑。",
+  "content": "1.材料，改變我們的世界 / Introduction: Material for Better Life\n2.衣 / Clothing (Fabric, functional textiles)\n3.行 / Transportation (Structural integrity, hardness)\n4.住 / Housing (Corrosion, strength)\n5.照明及顯示 / Lighting ＆ Display (Light, semiconductors)\n6.太空梭 / Spacecraft (Materials in extreme conditions)\n7.陶瓷材料 / Ceramics (Lattice vibrations, heat resistance)\n8.塑膠材料 / Plastics (Polymer science, plasticity)\n9.團體報告 (分散在學期後半) / Group Presentations (throughout latter half of semester)\n10.生醫材料 / Biomedical Materials (Biocompatibility, medical applications)\n11.吸附材料 / Adsorbent Materials (Surface science, adsorption)\n12.能源材料 / Energy Materials (Energy production, energy storage)\n13.薄膜科技 / Membrane Technology (Filtration, hydrophobicity)\n14.半導體材料 / Semiconductors (Bandgap, electronic properties)\n15.3D列印 / 3D Printing (Processing, design freedom)\n16.期末考(綜合10-16週) / Cumulative Final Exam (Weeks 10-16)",
+  "books": "1. 自編講義參考書目材料科學與工程, 作者: 朱世富, 2002年出版, ISBN: 957-512-655-6",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "出席15％;團體報告40％;期末考45％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。身份:限尚未取得與此課程同領域之核心必修通識課程學分者。指定課程:必須禁修CC0216。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "07011",
+  "objectives": "當遠古的人類在滿天星斗下凝望著天空，人類便開始學習從浩瀚的宇宙來思索人生的意義。本課程從觀察的角度，幫助學生來領略宇宙的奧秘。希望能透過分享各種美麗的天文影像與故事，讓學生了解宇宙的基本規律，同時感受生命在宇宙中的意義。",
+  "content": "週次\t 課程進度與內容\n1\t課程簡介\n2\t天文學簡介與天文歷史\n3\t認識星座與日常生活中的天文學\n4     天文望遠鏡簡介\n5\t太陽系天體\n6\t認識我們的恆星:太陽\n7\t星星的特性，誕生與演化\n8\t期中考\n9\t尋找系外行星與外星生命\n10\t奇特天體:黑洞,中子星和白矮星\n11\t我們的銀河系\n12\t星系世界\n13\t宇宙論\n14\t特別課題\n15\t重力波天文學\n16\t期末考",
+  "books": "“Foundations of Astronomy”, M. Seed ＆ D. Backman, Cengage Learning\n“21st Century Astronomy”, L. Kay, S. Palen ＆ G. Blumenthal, W. W. Norton ＆ Company\n“The Cosmos: Astronomy in the New Millennium”, J. Pasachoff ＆ A. Filippenko, Cambridge University Press",
+  "teaching_method": "講授",
+  "grading_policy": "期中考50％\n期末考50％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。身份:限尚未取得與此課程同領域之核心必修通識課程學分者。"
+    }
+  ]
+}

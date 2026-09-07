@@ -1,0 +1,14 @@
+{
+  "serial_no": "52068",
+  "objectives": "1. 學習 Linux Kernel 的原理\n2. 培養撰寫,修改 Kernel Code 的能力",
+  "content": "1) Intel x86 Architecture and Real Mode v.s. Protected Mode\n2) BIOS\n3) Memory Addressing\n4) Process\n5) Interrupts and Exceptions\n6) Kernel Synchronization\n7) Timing Measurements.\n8) Memory Management\n9) Process Address Space\n10) System Calls.",
+  "books": "Daniel P. Bovet and Marco Cesati, `` Understanding the Linux Kernel 3rd Edition,，， O，REILLY",
+  "teaching_method": "講授",
+  "grading_policy": "One Projects (50%)\nOne Exam. (46%)\nAttendance (4%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士在職專班。"
+    }
+  ]
+}

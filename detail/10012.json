@@ -1,0 +1,22 @@
+{
+  "serial_no": "10012",
+  "objectives": "https://taicatw.net/fall-115/\n\n培養學生具備 Physical AI 的理論基礎與實作能力，涵蓋機器人作業系統（ROS2）、自主導航（Nav2）、機械臂規劃（MoveIt2）、模擬轉移（Sim2Real）及模仿學習等核心技術，使學生能獨立完成從感知、規劃到行動的具身智慧系統開發。",
+  "content": "https://taicatw.net/fall-115/\n\nROS2 基礎（Node、Topic、Service、Action、tf2）、SLAM 與自主導航（Nav2、A*、DWB）、機械臂運動規劃（MoveIt2、URDF、FK/IK、碰撞偵測）、視覺感知與機器人控制、模擬環境（Isaac Sim、Isaac Lab、Domain Randomization）、模仿學習（遠端操控、ACT、Diffusion Policy）、Real2Sim（3D Gaussian Splatting、數位孿生）。\n\n實作平台：WildBot 移動式機械臂、LeRobot SO-101。",
+  "books": "https://taicatw.net/fall-115/\n\n無指定教科書。\n參考資料：NYCU TAICA Physical AI 課程講義、ROS2 官方文件、HuggingFace LeRobot 教學、NAPAI SIGRobot 系列演講錄影。",
+  "teaching_method": "講授",
+  "grading_policy": "https://taicatw.net/fall-115/",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限碩士在職專班。"
+    }
+  ]
+}

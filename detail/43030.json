@@ -1,0 +1,18 @@
+{
+  "serial_no": "43030",
+  "objectives": "密碼學是保障現代數位系統安全的關鍵技術，應用範圍包括電子商務、網路安全、金融交易以及個人資料隱私。\n本課程將從古典密碼學開始介紹，接著介紹現代密碼學，內容涵蓋常見的加解密技術與數位簽章機制。另外，考量到量子計算發展對現有密碼技術帶來的潛在威脅，本課程也將涵蓋後量子密碼學，說明可抵抗量子攻擊的新型技術。",
+  "content": "(第一週因公務請假，不上課)\n課程將包含以下內容：\n1. 古典密碼學 – 密碼學基礎與歷史背景\n2. 現代密碼學：\n- 對稱式密碼學 – 區塊加密、流加密、雜湊函數、認證加密\n- 非對稱式密碼學 – 金鑰交換、加解密、數位簽章、其餘進階主題\n4. 後量子密碼學 – 基於晶格密碼學",
+  "books": "1. Understanding Cryptography: From Established Symmetric and Asymmetric Ciphers to Post-Quantum Algorithms, Second Edition, Christof Paar, Jan Pelzl, Tim Güneysu\n2. A Graduate Course in Applied Cryptography (v.06), Dan Boneh and Victor Shoup\n3. An Introduction to Mathematical Cryptography, J.H. Silverman, Jill Pipher, Jeffrey Hoffstein\n4. Introduction to Modern Cryptography, Third Edition, Jonathan Katz and Yehuda Lindell\n5. The Joy of Cryptography: An Undergraduate Course in Provable Security, Mike Rosulek",
+  "teaching_method": "講授",
+  "grading_policy": "- 作業: 40%\n- 期中考: 30%\n- 期末考: 30",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系。年級:限三年級、四年級。"
+    }
+  ]
+}

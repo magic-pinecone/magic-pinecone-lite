@@ -1,0 +1,9 @@
+{
+  "serial_no": "32048",
+  "objectives": "本課程主要對原子尺度下模擬之方法，亦可稱為分子動力學，作一介紹。\n\n當尺度由巨觀逐步降至介觀甚至微觀時，材料的特性與力學行為將有極大的差異，而前述之特性或行為於微觀尺度下極不易由實驗方法而瞭解。為了能深入瞭解材料在微觀尺度下之特性，能將模擬尺度降至飛秒(femtosecond)與埃米(angstrom)的分子動力學便於數十年前起應蘊而生。",
+  "content": "1.古典力學複習\n\n2.蒙地卡羅方法\n\n3.分子動力學介紹(含程式)：\n\na.勢能函數、原子間作用力計算\n\nb.運動方程式\n\nc.初始條件\n\n4.分子動力學模擬(含程式)\n\na.初始條件與隨機數\n\nb.週期性邊界\n\nc.原子路徑之時間積分數值方法\n\nd.範例：氣體擴散\n\n5.分子動力學開源軟體LAMMPS介紹與實作\n\n6.後處理影像處理軟體OVITO介紹",
+  "books": "1.\t授課教師準備的講義\n2.\t M. P. Allen and D. J. Tildesley, Computer Simulation of Liquids (Oxford, 1987).\n3.\tD. Frenkel and B. Smit, Understanding Molecular Simulations: From Algorithms to Applications (Academic Press, San Diego, 2002).\n4.\tM. E. Tuckerman, Statistical Mechanics: Theory and Molecular Simulation (Oxford, 2010).",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "出席/課堂表現：15％\n平時作業：50％\n期末報告：35％",
+  "distribution_conditions": []
+}

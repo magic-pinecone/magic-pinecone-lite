@@ -1,0 +1,14 @@
+{
+  "serial_no": "25014",
+  "objectives": "藉由介紹數理統計領域中重要的理論發展與結果，訓練學生嚴謹的統計推論技術。",
+  "content": "1. Fundamentals of Statistics",
+  "books": "Textbook:\n\nShao Jun (2003). Mathematical Statistics, 2nd ed. , Springer.\n\nReference book:\n\n1. Peter J. Bickel and Kjell A. Doksum (2001). Mathematical Statistics, 2nd ed., Prentice Hall.\n\n2. Keith Knight (1999). Mathematical Statistics, Chapman & Hall.\n\n3. Thomas S. Ferguson (1999). A Course in Large Sample Theory, Chapman & Hall.\n\n4. Bobert J. Serfling (1980). Approximation Theorems of Mathematical Statistics, Wiley.\n\n5. Erich L. Lehmann (1998). Theory of Point Estimation, 2nd ed., Prentice Hall.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Homework 30%\n\nMidterm 30%\n\nFinal Exam 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限統計研究所博士班。"
+    }
+  ]
+}

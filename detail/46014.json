@@ -1,0 +1,18 @@
+{
+  "serial_no": "46014",
+  "objectives": "This course consists of two parts, multivariate analysis and data mining. In this course, theoretical ideas are presented to the degree needed for good understanding in making sound application. If students feel interested in some certain topics and want to study further, they know where to find the advance materials. In other words, this course provides students a broad view of methodologies which are useful to their research and future professional works. The course includes the following topics:\n1. Introduction to Multivariate Analysis: Multivariate Test, Linear Models, Classification and Clustering\n2. Introduction to Data Mining: Decision Trees, Baysian Network, Association Rules, and etc.\n** Learn how to organize multivariate data and identify situations where multivariate analysis is necessary and beneficial.\n** Learn the terminology and mathematical notation used to describe multivariate techniques.\n** Learn how to use computer software for multivariate methods\n** Learn how to self-learn a particular topic with guided materials, and share and present it to the class.\n** Maybe sparkle the interested research with some introduced ideas/topics in the class.",
+  "content": "Course Introduction/Python Illustration\nData Collection, Sampling Methods, Data Preparation, Data Partition\nLinear Model/Linear Regression/Matrix Representation\nMultivariate T-test\nMANOVA\nPrinciple Component Analysis\nFactor Analysis\nDisciminant Analysis\nLogistic Regression\nNeural Networks\nDecision Trees and Refression Trees\nBayesian Classification\nModel Evaluation\nClustering\nAssociation Rules\nProject Presentations",
+  "books": "Applied Multivariare Statistical Analysis, by R. A. Johnson and D. W. Wichern\nData Mining, by Jiawei Han and M. Kamber\nDecisions with Multiple Objectives, by R. Keeney and H. Raiffa",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Project\t\t\t40%\nPracticing/Exercise \t25%\nAttendance and Discussion\t10%\nFinal Examination\t\t25%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限工業管理研究所碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工業管理研究所碩士班。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "21045",
+  "objectives": "˙學生在修習完本課程後，能將資料科學理論透過程式實現在機器人平台上，解決真實的問題。",
+  "content": "“課程將以講授與計畫導向(Project- orientated)的方式，讓學生運用相關的數學與程式在機器人平台上完成一個專題計劃，此計畫由學生針對自己感興趣的真實應用提案。\n課綱如下:\n1. 簡介機器人軟體(ROS)\n2. 擷取機器人雷射、影像、位置資訊\n3. 貝氏定理\n4. 貝氏濾波器\n5. 資料分類\n1) Naive Bayes\n2) Perceptron\n3) Logistic regression\n4) Adaboost\n5) Deep learning\n6. 資料分群\n1) K-means\n2) EM\n7. 資料估測\n1) Kalman filter\n2) Extended Kalman filter\n8. 期中機器人競賽\n9. 期末專題展示與報告\n課程將以講授與計畫導向(Project- orientated)的方式，讓學生運用相關的數學與程式在機器人平台上完成一個專題計劃，此計畫由學生針對自己感興趣的真實應用提案。\n歷屆期末報告影片如下:\n2022 Fall: https://youtu.be/302SWWdSobU\n2021 Fall: https://youtu.be/q63ppZKZCAs\n2020 Fall: https://youtu.be/paVAIoyFMyQ\n2019 Fall: https://youtu.be/U6wQOqiuYWM\n2018 Fall: https://youtu.be/I8FFdIujz_I\n\n注意事項:\n1. 課程作業、期中考、期末計畫，皆可使用AI (e.g., ChatGPT)輔助開發程式。\n2. 在期中競賽與期末計畫中，學生可分組，兩人一組。\n3. 本課程的作業、期中競賽、期末計畫都需要寫程式，由於現在有AI工具輔助，\n可加速開發資料科學實作。\n4. 本課程使用““數學機器人實驗室““的機器人\nhttp://w2.math.ncu.edu.tw/about/aimakerlab\n5. 本課程教導學生從機器人上抓資料、分類、分群與估測。\n\n備註: 不滿足先修條件的學生，請於第一堂課出席，找老師討論拿密碼卡。\n課程網頁: https://sites.google.com/site/kuoshihtseng/courses/introduction-to-data-science\n課程規劃: 課程將上滿16週\n“",
+  "books": "“曾國師老師的講義。\nTextbook:\n[1] Pang-Ning Tan, Michael Steinbach and Vipin Kumar, ““Introduction to Data Mining,““ Addison-Wesley, 2018.\n[2] Christopher M. Bishop, “Pattern Recognition and Machine Learning,” Springer, 2006.“",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "“作業 (X3) 30％\n期中機器人競賽 30％\n期末計畫提案 (1-2 page) 10％\n期末計畫口頭報告與展示 10％\n期末計畫報告 (4-8 pages) 20％\n\n期中機器人競賽中，學生寫程式讓機器人執行同一目標(例如在系館偵測三個物件)，根據機器人效能評分。\n期末計畫中，學生需提出一個資料科學的應用，透過撰寫程式到機器人上來解決資料科學的問題。“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限三年級。班別:限B。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限理學院學士班。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系、理學院學士班。年級:限四年級。"
+    }
+  ]
+}

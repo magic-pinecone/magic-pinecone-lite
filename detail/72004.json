@@ -1,0 +1,18 @@
+{
+  "serial_no": "72004",
+  "objectives": "1.掌握客語詞彙、語法及介面研究的核心概念。\n2.分析客語構詞、詞義、分類詞與句法現象。\n3.運用詞彙—語法介面觀點解釋客語材料。\n4.辨析詞彙化、構式化、語法化及其演變機制。\n5.運用辭典、語料庫與田野資料完成客語研究。",
+  "content": "週次            課程主題\n第1週    詞彙研究基礎：詞彙與語法的基本研究單位\n第2週    詞彙研究基礎：構詞、詞類與詞彙化介面\n第3週    詞彙研究基礎：詞彙語意與語意—句法介面\n第4週    詞彙研究基礎：動詞語意、論元與事件結構\n第5週    客語構詞、小稱與詞彙範疇\n第6週    多義、近義與詞彙語意延伸\n第7週    名詞語意、量詞與分類詞\n第8週    期中考週：期中研究計畫發表與討論\n第9週     構式語法與客語多功能詞\n第10週   詞彙化與事件語意\n第11週   語法化與致使、被動構式\n第12週   詞彙動貌、時貌與強制轉換\n第13週   詞彙化、慣用化與構式固化\n第14週   客語跨腔變異、語言接觸與演變\n第15週   客語語料庫、辭典與研究方法\n第16週   期末考週：期末研究成果發表",
+  "books": "1.Brinton, Laurel J., and Elizabeth Closs Traugott. 2005. Lexicalization and Language Change. Cambridge: Cambridge University Press.\n2.Goldberg, Adele E. 1995. Constructions: A Construction Grammar Approach to Argument Structure. Chicago: University of Chicago Press.\n3.Lieber, Rochelle. 2021. Introducing Morphology. 3rd ed. Cambridge: Cambridge University Press.\n4.Hopper, P. J., & Traugott, E. C. (2013). 語法化 (張麗麗譯；第二版)。中研院語言所。(原著出版於 2003)\n5.董秀芳，2011，《詞彙化：漢語雙音詞的衍生和發展》，修訂本，北京：商務印書館。\n6.賴惠玲，2017，《語意學》，臺北：五南。\n7.賴文英，2015，《臺灣客語語法導論》，臺北：國立臺灣大學出版中心。\n8.羅肇錦，2026，《客語語法》桃園：國立中央大學出版中心。\n**各週指定閱讀列於紙本課綱",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "1.作業及課堂參與 30%\n2.課堂專題報告    15%\n3.期中研究計畫    20%\n4.期末研究論文    35%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限客家語文暨社會科學學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限客家語文暨社會科學學系客家社會及政策碩士班、客家語文暨社會科學學系客家語文碩士班、客家語文暨社會科學學系客家研究博士班。"
+    }
+  ]
+}

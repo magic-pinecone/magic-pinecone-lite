@@ -1,0 +1,18 @@
+{
+  "serial_no": "64016",
+  "objectives": "This course focuses on fundamental mathematics and computer programming for students in applied geology. Specific topics will include Python program language and the applications of computer code to solve mathematical problems with numerical methods.",
+  "content": "1.\tIntroduction and software installation for the Python programming environment\n2.\tVariables, operations, and I/O\n3.\tStatistical analysis and graphical visualization in Python\n4.\tSystems of linear algebraic equations\n5.\tInterpolation and curve fitting\n6.\tNumerical integration\n7.\tSolving ordinary differential equations (ODEs)\n8.\tSolving partial differential equations (PDEs)\n9.\tIntroduction to machine learning models",
+  "books": "Class handout",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "Assignments 50%, Midterm Exam 20%, Final Exam 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限應用地質研究所碩士班、應用地質研究所博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學系、地球科學學系地球物理碩士班。"
+    }
+  ]
+}

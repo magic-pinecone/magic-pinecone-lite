@@ -1,0 +1,18 @@
+{
+  "serial_no": "44014",
+  "objectives": "This course examines the design of mechanisms to allocate scarce resources and the creation of marketplaces using economic theory. We will focus on two primary areas: auctions and matching. In the auctions module, we will study various settings, ranging from first-price sealed-bid auctions to search engine auctions. We will analyze the theoretical properties of each auction type and evaluate their predictions in real-world settings. In the matching module, we will study resource allocation without the use of prices, focusing on well-known algorithms and their desirable properties.",
+  "content": "1st and 2nd price sealed-bid auction\nDutch, English auction, revenue equivalence\neBay and combinatorial auctions\nKeyword auctions and spectrum auctions\nOne-to-one matching, house allocation problem\nMany-to-one matching, school choice problem\nKidney exchange problem\nLiver exchange problem\nProbabilistic assignments",
+  "books": "Haeringer, G. (2018). Market design: auctions and matching. MIT Press.\nMilgrom, P. R. (2004). Putting auction theory to work. Cambridge University Press.\nRoth, A. E., & Sotomayor, M. A. O. (1990). Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis. Cambridge: Cambridge University Press.\nChe, Y. K., Chiappori, P. A., & Salanié, B. (2025). Handbook of the Economics of Matching (Vol. 2). Elsevier.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Quiz 30%\nParticipation 10%\nPresentation 60%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系。年級:限四年級。指定課程:必須先修EC2003。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限經濟學系。年級:限三年級。指定課程:必須先修EC2003。"
+    }
+  ]
+}

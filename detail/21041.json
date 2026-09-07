@@ -1,0 +1,18 @@
+{
+  "serial_no": "21041",
+  "objectives": "培養同學依據不同型態的問題及資料將所學做有效的整合以利問題的解決",
+  "content": "“資料探索, 資料管理, 視覺化, 描述統計, 基本推論統計“",
+  "books": "1. Ramsey, F., ＆ Schafer, D. (2012). The statistical sleuth: a course in methods of data analysis. Cengage Learning.\n\n2. Maindonald, J., and Braun, J. (2006). Data analysis and graphics using R: an example-based approach. Cambridge University Press.",
+  "teaching_method": "講授",
+  "grading_policy": "“平時成績(40％), 期中成績(30％), 期末成績(30％)“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "指定課程:必須擋修MA2011。"
+    },
+    {
+      "priority": 1,
+      "rule": "指定課程:必須擋修MA3025。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "64008",
+  "objectives": "本課程目標為讓學生習得地下水水流與汙染傳輸數值方法。",
+  "content": "地下水水流與汙染傳輸數值方法研究及案例討論。",
+  "books": "Handout",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "出席討論 50%\n報告 50%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限應用地質研究所碩士班、應用地質研究所博士班。"
+    }
+  ]
+}
