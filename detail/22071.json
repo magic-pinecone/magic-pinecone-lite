@@ -1,0 +1,14 @@
+{
+  "serial_no": "22071",
+  "objectives": "To enable students to understand the basic principles of thermodynamics and statistical mechanics commonly used in the field of chemistry, including ensembles, partition function, mean-field theory, correlation functions, especially in physical chemistry related fields.",
+  "content": "1. Review of Thermodynamics I: Fundamentals\n2. Review of Thermodynamics II: Conditions for Equilibrium and Stability\n3. Equilibrium Statistical Mechanics I: Ensembles and Partition Function\n4. Equilibrium Statistical Mechanics II: Non-Interacting Systems\n5. Equilibrium Statistical Mechanics III: Interacting Systems, Mean-Field Theory, and Phase Transition\n6. Equilibrium Statistical Mechanics IV: Pair Correlation Function and Classical Fluids\n7. Introduction to Non-Equilibrium Statistical Mechanics\n1. 總共有 16 周的課程 （每周 3 小時），課堂不點名。\n2. 總計有三到五次課堂作業。",
+  "books": "1. David Chandler, “Introduction to Modern Statistical Mechanics”.\n2. Mehran Kardar, “Statistical Physics of Particles”.\n3. R. K. Pathria, “Statistical Mechanics”.\n4. Kerson Huang, “Statistical Mechanics”",
+  "teaching_method": "講授",
+  "grading_policy": "o\t課堂作業\t\t\t40%\no\t期中考\t\t\t30%\no\t期末考\t\t\t30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

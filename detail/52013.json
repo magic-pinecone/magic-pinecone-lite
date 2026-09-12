@@ -1,0 +1,18 @@
+{
+  "serial_no": "52013",
+  "objectives": "完成本課程後，學生能夠：\n\n了解資訊工程各次領域的發展趨勢與前沿應用\n操作現代 AI 工具鏈（LLM API、AI 編程助理、雲端算力、Agent）\n閱讀並口頭報告資訊工程相關領域之英文學術論文\n以團隊合作方式規劃並執行一項應用研究專題\n以英語撰寫學術報告並進行同儕互評",
+  "content": "本課程以英語授課（EMI），帶領大二至大四學生認識資訊工程的核心領域，並動手實作現代資訊工程工具鏈。每次課程分兩部分：\n（1）09:00–10:30 實作課程：涵蓋 AI 編程助理、雲端算力與 tokens、LLM API、RAG、MCP/Agent、部署與評估；\n（2）10:30–12:00 邀請演講：業界與學術嘉賓分享資工各次領域的研究與職涯發展。\n學生將完成小組研究專題，並以英語撰寫與投稿學術報告。\n\n實作課程（每週 09:00–10:30，共 8 次）：\n1. 開發環境與協作：Git、GitHub、Docker\n2. 雲端算力與 tokens：Colab GPU、Ollama\n3. 機器學習與電腦視覺：OpenCV 範例\n4. LLM API 與提示工程：ChatGPT、Gemini、Claude\n5. AI 編程助理：Claude Code、Codex\n6. 部署與服務：Gradio、Hugging Face Spaces\n7. 評估與實驗記錄：LLM-as-judge、benchmark、成本與延遲\n8. AI Agent 與 Browser Use Agent\n\n邀請演講（每週 10:30–12:00，40–50 分鐘演講 + 15 分鐘 QA）：\n邀請業界與學術嘉賓演講，涵蓋雲端運算、機器人、自然語言處理、軟體工程及產業實務等主題。\n\n專題報告：提案簡報（期中）、文獻調查報告、期末成果展示、學術論文撰寫與同儕互評。",
+  "books": "無指定教科書。參考資料：\n- 演講嘉賓投影片\n- OpenAI、Anthropic、Google 官方 API 文件\n- Hugging Face 文件與模型庫\n- 授課教師指定學術論文",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "個人成績（60%）：\n- 實作練習（8次）：40%\n- 演講問問題：20% （每場演講提問得1分；優質問題可由授課教師或助教額外加分）\n\n期末專題成績（40%）：\n- 提案簡報（期中）：20%\n- 期末成果展示：20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊電機學院學士班。"
+    }
+  ]
+}

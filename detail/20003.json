@@ -1,0 +1,9 @@
+{
+  "serial_no": "20003",
+  "objectives": "學習生物資料處理的演算法、複雜度",
+  "content": "演算法簡介\nmotif查找算法\n貪心算法\n全局對齊算法\n局部對齊算法\n拼接對齊圖算法（期中考試）\nDNA陣列分析組合模式\n匹配聚類和 TreeHidden\n馬爾可夫模型爆炸和集群\n基因預測1\n基因預測2\n進化樹\n（期末考試）",
+  "books": "“An Introduction To Bioinformatics Algorithmsby Neil C. Jones, Pavel Pevzner“",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "“期中考：     30％\n期末考：     40％\n課堂表現：   30％“",
+  "distribution_conditions": []
+}

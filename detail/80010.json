@@ -1,0 +1,18 @@
+{
+  "serial_no": "80010",
+  "objectives": "無人機技術作為遙測工具的應用，是一項創新且新興的技術發展。本課程以航空動力學原理為基礎，介紹定翼與旋翼型無人機的操作原理，並以航空攝影應用為主軸，說明飛行與航拍任務的規劃方式。透過實作操作，學生將親自設計與組裝無人機，進行航拍任務，並產製空間資訊成果，如正射影像與地形模型，進一步應用於地理資訊系統（GIS）分析。",
+  "content": "Outline：\nWeek 1 - Course Introduction and Overview of UAV Applications and Trends\nWeek 2 - Fundamentals of Aerodynamics I: Lift, Thrust, and Gravity\nWeek 3 - Fundamentals of Aerodynamics II: Stability and Control\nWeek 4 - Introduction and Comparison of Fixed-Wing and Rotary-Wing UAVs\nWeek 5 - UAV Flight Control Systems and Sensors\nWeek 6 - UAV Regulations, Safety Procedures, and Flight Permit Applications\nWeek 7 - Aerial Mission Planning: Flight Path Design and Parameter Settings\nWeek 8 - UAV Assembly and Simulation Testing (Practical)\nWeek 9 - Flight Training and Manual/Autonomous Operation (Practical)\nWeek 10 - Aerial Photography and Imaging Techniques\nWeek 11 - Image Alignment and Orthorectification Principles\nWeek 12 - Processing Aerial Data: Point Clouds, DSM, and DTM\nWeek 13 - Using UAV Data for GIS Map Production\nWeek 14 - UAV Applications in Environmental Monitoring and Disaster Assessment\nWeek 15 - Student Project Presentations and Discussions\nWeek 16 - Course Review, Final Exam / Report Submission",
+  "books": "1.\tUnmanned Aircraft Systems: UAVS Design, Development and Deployment, P.G. Fahlstrom & T. J. Gleason, Wiley\n2.\tIntroduction to Photogrammetry, T Schenk, Ohio State University\n3.\tIntroduction to UAV Systems (4th ed.): Paul G. Fahlstrom & Thomas J. Gleason, Wiley\n4.\tUnmanned Aircraft Systems: The Definitive Guide: Reg Austin, Wiley\n5.\tSmall Unmanned Aircraft: Theory and Practice: Randal W. Beard & Timothy W. McLain, Princeton University Press\n6.\tRemote Sensing and Image Interpretation (7th ed.): Thomas M. Lillesand, Ralph W. Kiefer, Jonathan Chipman, Wiley\n7.\tGIS and the 2020 Census: Modernizing Official Statistics: John R. Weeks et al., Esri Press",
+  "teaching_method": "講授",
+  "grading_policy": "出席率Attendance：20%\n作業Homework：20%\n無人機實體成品final product：40%\n期末報告Final report：20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限地球科學學院。"
+    }
+  ]
+}

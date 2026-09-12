@@ -1,0 +1,18 @@
+{
+  "serial_no": "22026",
+  "objectives": "讓學生初步了解基礎物理知識，並運用所學的數學工具和邏輯推理分析物理問題。",
+  "content": "Part 1: Newtonian mechanics (8 weeks).\nPart 2: Oscillations, Waves, and Fluids (3 weeks).\nPart 3: Thermodynamics and Entropy (3 weeks).\n\n--------------------------------------------\nUseful references:\n\n1. R. Wolfson, Essential University Physics, Fourth Edition, Pearson (2020).\n\n2. Hugh D. Young and Roger A. Freedman, University Physics, Fifteenth Edition in SI Units, Pearson (2020).\n\n3. H. Benson, University Physics, Wiley (1996, 2019, 2025).\n\n4. E. Mazur, Principles & Practice of Physics, Pearson (2015).\n\n5. Fundamentals of Physics I with Ramamurti Shankar, YaleCourses: https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B [Or the book version: R. Shankar, Fundamentals of Physics I, Yale University Press (2019)].\n\n6. J. Sanny and S. Ling, University Physics Volume 1 and 2. [Online access: https://openstax.org/details/books/university-physics-volume-1 and https://openstax.org/details/books/university-physics-volume-2 ]\n\n7. R. Feynman, The Feynman Lectures on Physics Vol I (1963) [Online access: https://www.feynmanlectures.caltech.edu/I_toc.html].\n\n8. 李怡嚴, 大學物理學 第一~二冊, 東華書局 (1967) [Online access: https://www.lib.nthu.edu.tw/use/YYLEE.html].\n\n9. L. Susskind and G. Hrabovsky, Classical Mechanics: The Theoretical Minimum, UK Penguin (2014).",
+  "books": "B. Karaoglu, Classical Physics: A Two-Semester Coursebook, Springer (2019) [accessible electronically via the NCU library with eBook ISBN: 9783030384562]. Chapters 1 to 13 therein.",
+  "teaching_method": "講授",
+  "grading_policy": "Midterm exam 50％, final exam 50％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限非一年級。"
+    }
+  ]
+}

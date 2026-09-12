@@ -1,0 +1,14 @@
+{
+  "serial_no": "85034",
+  "objectives": "Nanotechnology is a cross-disciplinary subject. Recently, it has developed from physics, chemistry, materials and electronics in the scientific field to biomedicine. The key factor is the advancement of material development and device design progress. This course will focus on the fundamentals and applications of nanotechnology, including intrinsic property of nanomaterial, manufacturing processes, analysis, and promising application for future sensor technology.",
+  "content": "第1週　奈米科技導論\n第2–4週　奈米材料特性（一、二、三）\n第5–7週　微/奈米製程（一、二、三）\n第8週　期中考\n第9–12週　微/奈米材料分析（一、二、三、四）\n第13–14週　感測器設計（一、二）\n第15週　文獻討論與案例分享\n第16週　期末報告",
+  "books": "Handouts will be given inside the course.\n1.\t“D.A. Neamen, Semiconductor Physics and Devices”, 4th ed., McGraw Hill, 2011.2\n2.\tHandbook of Semiconductor Manufacturing Technology, Edited By Yoshio Nishi, Robert Doering, 2008.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Attendance 10％, Quiz tests 30 ％, Midterm exam 30％, Final Report 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系人工智慧精準醫療碩士在職專班。"
+    }
+  ]
+}

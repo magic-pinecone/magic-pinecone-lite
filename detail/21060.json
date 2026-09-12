@@ -1,0 +1,14 @@
+{
+  "serial_no": "21060",
+  "objectives": "To help graduate students to prepare the thesis writing.",
+  "content": "Students are expected to present some recent literature on data assimilation in conjunction with deep learning techniques",
+  "books": "1. Data Assimilation: Methods, Algorithms, and Applications, Asch, Bocquet and Modet, SIAM, 2016.\n2. Deep Data Assimilation: Integrating Deep Learning with Data Assimilation Arcucci, Zhu, Hu, Guo, Applied Sciences, 2021",
+  "teaching_method": "研討",
+  "grading_policy": "0",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

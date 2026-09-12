@@ -1,0 +1,14 @@
+{
+  "serial_no": "63016",
+  "objectives": "This class will be conducted in English.\n本課程的目的是教學生如何將已學過的數學和物理知識應用在進行真正的科學研究",
+  "content": "\"本課程是設計為1年的課程。但學生也可只修一個學期。\n每年，一個太陽事件/現象將被選擇作為主題。該課程將包括授課，準備和研究三個部分:\n授課：\n1. An introduction about solar structure from the core to the corona\n2. An introduction about different techniques and instruments of the solar observation\n3. The properties and physics of the chosen solar event or phenomena\n4. IDL and Linux\n5. Data downloading and processing procedures\n6. Analysis methods\n準備: (大約2個月)\n學生應完成以下幾點:\n1. 使用太陽的網站學習各種太陽觀測方法並對所選擇太陽事件/現象獲得初步的理解\n2. 每週討論科學論文以幫助理解所要研究的現象\n3. 練習matlab, IDL和Linux\n4. 開始下載數據\n\n研究：（直到學期結束）\n學生們開始採用不同的分析方法，檢查數據，並利用他們所學的物理和數學知識來理解結果\"",
+  "books": "TBD",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "midterm reports (45%) + final report (40%) + weekly reports + participation (15%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。年級:限二年級、三年級、四年級。"
+    }
+  ]
+}

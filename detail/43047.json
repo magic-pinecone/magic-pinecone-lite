@@ -1,0 +1,18 @@
+{
+  "serial_no": "43047",
+  "objectives": "“透過案例研討，讓學生瞭解企業在應用網路時所需的各種技術知識。除了基本的TCP/IP技術外，本課程亦將針對企業電腦網路的新興應用，例如VoIP, P2P, IPTV, Cloud Computing等做深入介紹與探討，以培養學生掌握電腦網路應用發展趨勢的能力。“",
+  "content": "Network Models\nNetwork Models\nUsing telephone and Cable Networks for Data Transmission\nMultiple Access\nWireless LANs\nBluetooth\nProject Reporting\nTutorial on Enterprise Network Planning\nLAN Interconnection Technologies\nNetwork Layer Protocols\nTransport Layer Protocols and QoS\nApplication Layer and Network Management\nProject Reporting",
+  "books": "“Behrouz A. Forouzan: Data Communications and Networking, 4th ed., McGraw-Hill, 2007. (新月圖書)“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "課堂表現及Projects (小組口頭報告及書面報告)  50％\n期中考    25％\n期末考    25％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士在職專班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系碩士在職專班。年級:限非一年級。"
+    }
+  ]
+}

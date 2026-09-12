@@ -1,0 +1,26 @@
+{
+  "serial_no": "98002",
+  "objectives": "《生物統計學 -- R語言應用》是一門使用R介紹統計概念的入門課程。我們將涵蓋一般資料分析中的常用描述統計(例如：集中(central)與離散(dispersion)趨勢指標、作圖)與推論統計方法（例如：t檢定(t-tests)、卡方分析(chi-squared analysis)、迴歸(regression)、信賴區間(confidence interval)、二項式檢定(binomial tests)等）。我們將運用理論近似值（例如，中央極限定理）和計算方法（例如，隨機化測試(randomization)和自舉法(bootstrap)）介紹統計推論概念。課程重點將放在理解這些方法並且以R語言實踐，以及解釋與呈現結果，而僅在有助於應用與理解時才強調數學計算與模型的推導。",
+  "content": "W01 (09/04) -- L01，課程導向；統計學基本概念，Ch1＆2，\nW02 (09/11) -- L02，機率， ，R lab#1\nW03 (09/18) -- L03，次數分配、圖表與摘要統計量，Ch3＆4，\nW04 (09/25) -- L04，相對量數與常態曲線，Ch5，R lab#2\nW05 (10/02) -- L05，線性相關，Ch6，\nW06 (10/09) -- L06，線性迴歸，Ch7，R lab#3\nW07 (10/16) -- L07，抽樣分配，Ch8，\nW08 (10/23) -- ，期中考試，，\nW09 (10/30) -- L08，假設檢定，Ch9＆10，R lab#4\nW10 (11/06) -- L09，t 檢定，Ch11＆12，\nW11 (11/13) -- ，中央大學運動會（無課程），，\nW12 (11/20) -- L10，單因子變異數分析（One-way ANOVA），Ch13，(預錄課程)\nW13 (11/27) -- L11，雙因子變異數分析（Two-way ANOVA），Ch14，R lab#5\nW14 (12/04) -- L12，重複量數變異數分析（Repeated-measure ANOVA），Ch15，R lab#6\nW15 (12/11) -- L13，非參數統計，Ch16，\nW16 (12/18) -- ，期末考試，，",
+  "books": "1. Textbook:\n•Statistics for Psychology: How and Why by James Evans.\nhttps://www.amazon.com/Statistics-Psychology-James-D-Evans/dp/B0CRGX2M4W\n2. References:\n• John Starmer’s StatQuest YT Channel: https://www.youtube.com/c/joshstarmer\n• Additional materials will be provided in eeclass",
+  "teaching_method": "講授",
+  "grading_policy": "評分標準，百分比，日期\n作業，40％，每週\n期中考試，20％，11/02\n期末考試，20％，12/28\n小測驗，20％，每週",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班、輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

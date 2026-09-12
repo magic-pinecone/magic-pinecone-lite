@@ -1,0 +1,18 @@
+{
+  "serial_no": "15013",
+  "objectives": "論文寫作指導",
+  "content": "論文寫作指導",
+  "books": "論文寫作指導",
+  "teaching_method": "個別指導",
+  "grading_policy": "論文寫作指導",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限歷史研究所碩士在職專班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限歷史研究所碩士在職專班。年級:限三年級、四年級、五年級。"
+    }
+  ]
+}

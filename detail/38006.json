@@ -1,0 +1,14 @@
+{
+  "serial_no": "38006",
+  "objectives": "本課程旨在教授微流體（Microfluidics）的基礎知識，包括理論背景與實際應用。",
+  "content": "I. 基礎背景\nII. 理論背景\nIII. 微微製造實務\nIV. 微流體元件與應用",
+  "books": "Patrick Tabeling “Introduction to microfluidics”Oxford university press 2005, ISBN:0-19-856864-9",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "主題討論：5%\n階段報告（一、二、三）\n包含主題論文（文獻回顧）報告、動手實作等：45%\n期中考：20%\n期末專題報告（簡報與書面報告）：20%\n課堂參與度：10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班。"
+    }
+  ]
+}

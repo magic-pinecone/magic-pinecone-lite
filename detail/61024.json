@@ -1,0 +1,22 @@
+{
+  "serial_no": "61024",
+  "objectives": "See right",
+  "content": "“This course of three credits is designed for MS and Ph.D. students, focusing on fundamental tropical cyclone dynamics and modeling. The first half of the course will be on the fundamental dynamics and governing equations and theories for tropical cyclones (TCs), and the second half will be devoted to more in-depth discussions on selected papers for simulations of typhoons/hurricanes pertaining to advanced potential vorticity (PV) dynamics and piecewise PV inversion, Sawyer–Eliassen (SE) diagnostics, vortex initialization, terrain effects on TC track and structure change, ocean-coupled modeling, and some data assimilation topics. A project program is designed to establish the modeling skill of shallow-water cyclones past mesoscale mountains, with focuses on track deflection and PV budget analysis. The students should be able to understand the essential dynamics, mathematic formulations and some useful theories for TCs and acquire some knowledge about numerical methods as well as practical modeling for a cyclonic vortex past terrain.“",
+  "books": "See right",
+  "teaching_method": "講授\n\n實習/實驗\n\n其他",
+  "grading_policy": "See right",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限大氣科學學系大氣物理碩士班、大氣科學學系大氣物理博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限地球科學學院學士班。年級:限四年級。"
+    }
+  ]
+}

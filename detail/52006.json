@@ -1,0 +1,30 @@
+{
+  "serial_no": "52006",
+  "objectives": "\"1. To demonstrate to students how mathematics can be applied to solve nontrivial real-life problems\n2. To gain more experience with mathematical thinking, arguments and proof techniques, which are essential in reasoning about computation\n3. To learn about a number of different discrete structures (e.g., sets, relations, graphs, trees, etc.) that provide the mathematical formalizations for many computational problems\n4. To hope that students will not only learn some powerful mathematical tools but also develop their ability to perceive, to formulate, and to solve mathematical problems\n5. To provide a gateway to more advanced courses in any computer science courses, including data structures, algorithm, database automata theory, computer security, etc.\"",
+  "content": "\"Topic 1: Logic and Proofs\nLogic(邏輯) is the study of reasoning (推理);\nLogic is used to prove programs do what they are alleged to do.\nMathematical Induction: (King and Mathematicians problem)\nTopic 2: Sets and Relations\nTopic 3: Functions\nTopic 4: Integer\nTopic 5 Induction and Recursion\nTopic 6 Principle and Counting, Permutations and Combinations\nTopic 7 Graphs\nTopic 8 Paths and Circuits\"",
+  "books": "\"Discrete Mathematics and Its Applications\nKenneth H, Rosen\"",
+  "teaching_method": "講授",
+  "grading_policy": "Exams * 3 :     midterm     30% * 2 =  60%\n+ final 35%\nHomework (5~6 homeworks)              5%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系。年級:限一年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限輔系-資訊工程學系、雙主修-資訊工程學系。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

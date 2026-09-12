@@ -1,0 +1,18 @@
+{
+  "serial_no": "48022",
+  "objectives": "透過演講者實務經驗的分享，擴展學生之視野，與精進學生之財金專業能力。",
+  "content": "專題演講",
+  "books": "無",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "課堂宣布",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系。年級:限四年級。"
+    }
+  ]
+}

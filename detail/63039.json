@@ -1,0 +1,14 @@
+{
+  "serial_no": "63039",
+  "objectives": "本課程主要在介紹大氣和地表（被動和主動）微波遙測的最新技術和進展，本課程收集了涵蓋微波遙測理論的專著和最成熟和最具代表性的應用。另外在實際應用方面，包括在日常氣象和環境監測與預報活動中改善微波觀測和產品的應用和解釋。",
+  "content": "本課程深入探討大氣與地表微波遙測的最先進技術與進展，涵蓋被動式與主動式微波遙測的相關內容。課程內容包括微波遙測的基本理論，例如微波輻射與不同環境組成部分的交互作用，以及各種輻射計系統的運作方式。課程分為幾個模塊，重點介紹微波遙測原理、主動與被動遙測的對比，以及微波觀測在氣象和環境監測中的實際應用。學生將深入探討進階主題，包括用於地表建模的被動微波遙測、大氣遙測技術，以及用於大氣層和電離層研究的無線電掩星法。課程的重要組成部分是動手應用，主要側重於微波影像的解釋、建模以及熱帶氣旋的分析。課程強調基於問題的學習，以增強學生將微波遙測數據應用於現實挑戰中的實際技能。",
+  "books": "1. Textbooks and online courses:\n•\tUlaby, F.T., R.K. Moore, and A. K. Fung, Microwave Remote Sensing – Active and Passive, Volumes 1 and 3, Artech House Inc., 2162 pp, 1981, ＆ 1986.\n•\tWoodhouse, I. H. (2017). Introduction to microwave remote sensing. CRC press.\n•\tLiou, Y.A., A.G. Pavelyev, S.S. Matugov, O.I. Yakovlev, and J. Wickert, 2010, Radio occultation method for remote sensing of the atmosphere and ionosphere. ISBN 978-953-7619-60-2, pp. 176, I-Tech Education and Publishing KG, Croatia. [http://sciyo.com/books/show/title/radio-occultation-method-for-remote-sensing-of-the-atmosphere-and-ionosphere.]\n•\tOnline course “Microwave Remote Sensing Topics Distance Learning Course”, University Corporation for Atmospheric Research. [https://www.meted.ucar.edu/education_training/course/15].\n•\tOnline course “Polar Satellite Products for the Operational Forecaster: Microwave Analysis of Tropical Cyclones”, University Corporation for Atmospheric Research. [https://www.meted.ucar.edu/education_training/course/15].\n2. References:\n•\tJansssen, M. A., (ed.), Atmospheric Remote Sensing by Microwave Radiometry, John Wiley ＆ Sons, INC., 572 pp, 1993.\n•\tLiou, Y.-A., 2010: Letter from the guest editor. GPS Solutions, 14, pp. 1-2, DOI: 10.1007/s10291-009-0151-2.\n•\tLiou, K.-N., 2002: An Introduction to Atmospheric Radiation, 2nd Edition, International Geophysics Series, Volume 84, Academic Press, 583 pp.",
+  "teaching_method": "講授\n研討\n\n其他",
+  "grading_policy": "1.\t期中25％ – 主題、架構、方法、挑戰\n2.\t期末50％– 進展、社會效益\n3.\t其他25％ – 參與、互動",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。年級:限一年級、二年級。"
+    }
+  ]
+}

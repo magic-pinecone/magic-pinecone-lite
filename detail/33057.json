@@ -1,0 +1,18 @@
+{
+  "serial_no": "33057",
+  "objectives": "為了確保機器及構件之功能正常、安全與耐久性，務必避免使其產生過大變形及耐久機械性質劣化，因此在從事工程設計時，有必要對工程材料的各項機械性質與行為能有所掌握，方能達成安全與可靠之設計。本課程主要介紹各項工程材料之機械性質，透過本課程之學習將可建立工程設計與分析所應必備之各種材料機械性質基本知識，以及奠立材料選擇之基本技能，對於日後從事工程設計，提升機械構件之可靠度或是進行各種材料與元件之破損與失效分析，皆有所助益。",
+  "content": "1. Introduction\n2. Structure and Deformation in Materials\n3. Survey of Engineering Materials\n4. Stress-Strain Equations and Models\n5. Mechanical Testing: Tension Test and Other Basic Test\n6. Review of Principal Stresses and Strains\n7. Failure Criteria\n8. Fracture\n9. Fatigue\n10. Plastic Deformation\n11. Creep and Stress Rupture",
+  "books": "N. E. Dowling, \"Mechanical Behavior of Materials:  Engineering Methods for Deformation, Fracture, and Fatigue,\" 5th Edition (Global Edition), Pearson, 2020. （高立圖書公司代理）",
+  "teaching_method": "講授",
+  "grading_policy": "作業： 30%\n期中考： 30%\n期末考： 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班、機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限三年級、四年級。"
+    }
+  ]
+}

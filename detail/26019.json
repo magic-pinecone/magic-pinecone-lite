@@ -1,0 +1,9 @@
+{
+  "serial_no": "26019",
+  "objectives": "教授數位影像處理的基本知識，涵蓋數位影像處理的原理、演算法和相關應用。",
+  "content": "\"1.Digital image fundamentals.\n2.Intensity transformations and spatial filtering.\n3.Filtering in the frequency domain.\n4.Image restoration and reconstruction.\n5.Morphological image processing.\n6.Segmentation.\n7.Object recognition.\"",
+  "books": "\"1.Digital Image Processing, 3rd edition, by R. C. Gonzalez and R. E. Woods, Pearson, 2008.\n2.Fundamentals of Digital Image Processing, by A. K. Jain, Prentice-Hall, 1989.\n3.Introduction to Machine Learning, 3rd edition, by E. Alpaydin, MIT Press, 2014.\n4.Toolbox in MATLAB.\"",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "\"Homework (30%)\nMid-term (30%)\nFinal exam and project (40%)\"",
+  "distribution_conditions": []
+}

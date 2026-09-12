@@ -1,0 +1,14 @@
+{
+  "serial_no": "21047",
+  "objectives": "培養獨立研究的能力",
+  "content": "讀書，討論，寫程式，做實驗",
+  "books": "無",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "主觀評價 100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限三年級、四年級。"
+    }
+  ]
+}

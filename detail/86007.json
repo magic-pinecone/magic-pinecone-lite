@@ -1,0 +1,18 @@
+{
+  "serial_no": "86007",
+  "objectives": "材料物理與化學導論為材料科學的更高級工作提供了基礎。該課程的重點是化學鍵，晶體結構，機械性能，相變和材料加工，以及材料的熱和電子性能。該課程通過對Schr?dinger方程，盒中電子問題和氫原子的波函數的簡單推導來介紹量子概念和波力學。作者還提出了材料科學領域發展的歷史觀點。在繼續介紹材料的各種特性和應用之前，他討論了Bose-Einstein，Maxwell-Boltzmann，Planck和Fermi-Dirac分佈函數。",
+  "content": "\"1.介紹\n從原子到固體;電子和離子; 離子的周期性和非週期性排列，薛定格波動方程\n2.具有周期性離子固體：晶體結構\n（2.a）空間格單位格，，七大晶系，14個Bravais（空間）格點組Wigner Seitz\n（2.b）晶體結構：定義，配位數，對稱性\n（2.c）晶體中的平面和方向米勒指數，平面之間的間距，晶體方向。\n3.倒晶格，布拉格散射，倒數格向量，布拉格定律。\n4. X射線散射和晶體結構確定\n5.各式晶體鍵\n價電子，結合力的類型實例，共價鍵和晶體，sp3鍵，金屬鍵。\n6.固體中的能態\n電子離子系統，Born-Oppenheimer近似。\n7.量子理論的電子模型\n一個電子波方程，電子波方程，費米能量分布，\n8.晶體振動\n第一布里淵區，態勢密度，德拜模型，熱容\"",
+  "books": "Introduction to the Physics and Chemistry of Materials (Robert J. Naumann)",
+  "teaching_method": "講授",
+  "grading_policy": "Attendance 10%; Homework: 20%; Midterm: 40% (2 midterms) ; Final: 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限永續去碳科技碩士學位學程。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    }
+  ]
+}

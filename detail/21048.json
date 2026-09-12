@@ -1,0 +1,9 @@
+{
+  "serial_no": "21048",
+  "objectives": "本課程介紹現代微分幾何的基礎理論，重點在於介紹光滑流形（smooth manifolds）的基礎。課程從光滑映射、切空間與向量場等基本概念出發，建立以座標無關方式描述幾何結構的理論框架。主要內容包括流形與子流形、光滑映射及浸入與嵌入、切叢與餘切叢、微分形式與外微分、單位分解（partitions of unity），以及流形上的積分理論。課程著重嚴謹的數學推理與例子的分析，並探討局部座標表示與整體幾何性質之間的關係。修習本課程後，學生將具備進一步學習微分幾何、拓撲學、數學物理及相關領域所需的基礎知識與工具。歡迎大三、大四修過高等微積分或分析導論的同學選修。",
+  "content": "1.\tReview of topology\n2.\tSmooth manifolds\n3.\tSmooth maps and partition of unity\n4.\tTangent vectors\n5.\tSubmersion, immersions and embeddings\n6.\tSubmanifolds\n7.\tTangent bundle\n8.\tVector bundles\n9.\tCotangent bundle\n10.\t Tensors\n11.\t Riemannian metrics\n12.\t Differential forms\n13.\t Orientations\n14.\t Integrations on manifolds\n15.\t De Rham cohomology",
+  "books": "教科書: 自製投影片\n參考書: 1. Introduction to smooth manifolds, Second Edition, GTM, by John M. Lee\n2. An introduction to manifolds, second edition, UTX, Loring W. Tu",
+  "teaching_method": "講授",
+  "grading_policy": "作業或小考：20% + 課堂參與：20% + 期中考 : 30% + 期末考或期末報告 : 30%",
+  "distribution_conditions": []
+}

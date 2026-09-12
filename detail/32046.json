@@ -1,0 +1,18 @@
+{
+  "serial_no": "32046",
+  "objectives": "透過介紹遙感探測原理與施測方法了解衛星運動、訊號處理、光譜分類、定位導航、誤差分析，並熟稔各式衛星觀測資料的精度與使用時機，同時具備資料收集、處理、驗證、應用等獨立操作能力。本課程將以地球觀測相關應用為主軸，對於結構監測、地物探勘、地質調查、水文監測、海洋遙測與皆能扮演輔助的角色。",
+  "content": "遙測基本概念，數位資料處理，衛星系統與酬載，遙測數據分析，影像圖形識別概念，時序變遷分析，地理資訊系統簡介，遙測資料幾何處理，三維資訊萃取，大氣輻射概念，大氣遙測，微波遙測，合成孔徑雷達，雷達簡介及其應用，衛星測量及導航，全球定位系統簡介，遙測綜合定位，衛星氣象。",
+  "books": "教科書：無（上課講義）\n參考書：\n1.\tT. Lilles and R. Kiefer, Remote Sensing and Image Interpretation\n2.\tS. Murai(ed.), Remote Sensing Note\n3.\tF. Sabins, Remote Sensing-Principles ＆ Interpretation",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "期中考 – 30％\n期末考 – 30％\n報告寫作 – 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限四年級。"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "serial_no": "21032",
+  "objectives": "學習常微分方程基本概念及解題技巧",
+  "content": "1. 概論\n2. 一階微分方程\n3. 二階線性微分方程\n4. 高階線性微分方程\n5. 級數解\n6. 拉普拉斯變換",
+  "books": "\"Elementary Differential Equations and Boiundary Value Problems\" by W. E. Boyce and R.C. DiPrima",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "期中與期末考各佔33%，兩次小考各佔17%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限二年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限二年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限數學系。年級:限四年級。班別:限A。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限理學院學士班。年級:限四年級。"
+    },
+    {
+      "priority": 5,
+      "rule": "系所:限數學系。年級:限三年級。班別:限A。"
+    },
+    {
+      "priority": 6,
+      "rule": "系所:限理學院學士班。年級:限三年級。"
+    }
+  ]
+}

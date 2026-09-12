@@ -1,0 +1,14 @@
+{
+  "serial_no": "24055",
+  "objectives": "訓練博士生教學",
+  "content": "1.準備授課講義教材，及授課PPT2.準備各大班實驗所需藥品之清點、採購3.配置各大班實驗所需培養基、試劑4.準備各大班實驗器具的清洗及滅菌5.協助上課時的秩序，隨時協助學生解答問題6.教學實習I：上台講習、指導實驗操作7.批閱學生所繳交的實驗報告I、並登記成績8.協助安排實驗課校外參訪行政工作9.教學實習II：上台講習、指導實驗操作10.批閱學生所繳交的實驗報告II、並登記成績11.期中考：印製考試卷、考試時監考12.配置各大班實驗所需培養基、試劑13.準備各大班實驗器具的清洗及滅菌14.教學實習III：上台講習、指導實驗操作15.批閱學生所繳交的實驗報告III、並登記成績16.教學實驗室清理、實驗器材清點及維護",
+  "books": "普通生物學實驗本、生物化學實驗本、植物生理學實驗本、動物生理學實驗本",
+  "teaching_method": "實習/實驗",
+  "grading_policy": "30％ reported three times, preparation and pre-made 30％, 20％ answered student questions the ability,correcting homework and exam 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系博士班。"
+    }
+  ]
+}

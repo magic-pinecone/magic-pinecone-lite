@@ -1,0 +1,18 @@
+{
+  "serial_no": "00013",
+  "objectives": "具備自行接觸日文的實用能力。",
+  "content": "1 助詞運用\n2 動詞運用\n3 透過小說學習道地日文\n\n4.教學方式：充分分析句子，達到以理解方式學習日文。",
+  "books": "1　教材1—『日文一(B)教材』---公布新ee-class 。\n2 教材2—『會話一(B)』---公布新ee-class。",
+  "teaching_method": "講授",
+  "grading_policy": "學期成績=每次筆試與口語作業之總平均。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。指定課程:必須擋修LN0025。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。指定課程:必須擋修LN0025。"
+    }
+  ]
+}

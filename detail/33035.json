@@ -1,0 +1,14 @@
+{
+  "serial_no": "33035",
+  "objectives": "本課程將延續本系所開設之「流體力學」（課號ME3081A/B/C），進一步針對經典流體力學問題進行深入探討。課程內容包含:管內流動、平板邊界層發展、外部流場特性以及基礎可壓縮流動等主題，以幫助學生掌握流體行為的基本原理與分析方法，並為後續進階課程如紊流理論、計算流體力學（CFD）或相關研究與應用奠定紮實基礎。",
+  "content": "1. 勢流理論之應用\n2. 黏性流體於管內之流動\n3. 外流場問題\n4. 邊界層理論\n5. 可壓縮流",
+  "books": "Gerhart, P. M., Gerhart, A. L., ＆ Hochstein, J. I. (2016). Munson, Young and Okiishi‘s fundamentals of fluid mechanics. John Wiley ＆ Sons.",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "1. 作業 (30%)\n2. 期中考 (25%)\n3. 期末考 (30%)\n4. 課堂表現 (15%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "指定課程:必須先修ME3081。"
+    }
+  ]
+}

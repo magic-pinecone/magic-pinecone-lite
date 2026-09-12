@@ -1,0 +1,14 @@
+{
+  "serial_no": "42018",
+  "objectives": "Course Introduction\nIntroduction of Social Network Analysis\nMathematical Foundations\nResearch Design\nData Collection\nData Management\nEgo and Large Networks\nTwo-mode Data\nCharacterizing Whole Networks\nCentrality",
+  "content": "Subgroups\nEquivalence\nMultivariate Techniques Used in Network Analysis\nVisualization\nTesting Hypotheses\nResearch Project Presentation",
+  "books": "Borgatti, S. P., Everett, M. G., & Johnson, J. C. (2018). Analyzing social networks (2 ed.). London: Sage Publications.\nMatthew O. Jackson, \"The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors\" (Vintage, 2019)",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Reading 20%\nMidterm 35%\nFinal report 35%\nParticipation 10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限國際經營管理碩士學位學程。"
+    }
+  ]
+}

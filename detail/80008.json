@@ -1,0 +1,18 @@
+{
+  "serial_no": "80008",
+  "objectives": "針對研究所學生教授鋰離子電池在材料與製程技術上之基本概念與專業知識。 (The course aims to teach basic concept and expertise of lithium ion battery materials and fabrication technology for graduate students)",
+  "content": "1.鋰離子電池基礎知識與工作原理 (Basics and working principle of LIBs)\n2.電池設計與製造 (Battery design and fabrication)\n3.正極材料 (Positive electrode materials)\n4.負極材料 (Negative electrode materials)\n5.電解質 (Electrolytes)\n6.電池材料研究方法 (Battery material investigation methods)\n7.鋰離子電池之應用與進展 (Applications and advances of LIBs)",
+  "books": "鋰離子電池原理與技術, 作者：黃可龍、王兆翔、劉素琴/編著, 出版社：五南, 出版日期：2010/05/25 (K. L. Huang, Z. X. Wang and S. Q. Liu, Lithium Ion Batteries Principles and Key Technology, Wu-Nan Book Inc., May/25th/2010)",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "期中考試 40%; 期末口頭發表 60%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限永續綠能科技碩士學位學程、永續綠能科技博士學位學程。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    }
+  ]
+}

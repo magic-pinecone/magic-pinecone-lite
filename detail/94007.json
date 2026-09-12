@@ -1,0 +1,30 @@
+{
+  "serial_no": "94007",
+  "objectives": "本課程為企業與組織管理的入門課程，管理學院各科系皆有提供本課程。雖然本課程會依各科系的專業差異而略有不同的專注，但架構及學習目標上是一致的，請見本表下方的『課程學習目標』部分。本課程的課程內容主要以基本的企業內功能與全球商業環境的介紹為主，因此課程涵蓋範圍包括創業特質、企業組織、商業道德、全球經濟體系、企業領導與團隊合作、以及企業內的基本功能，例如資訊科技、人力資源、行銷管理、生產管理等等。",
+  "content": "“Part 1: INTRODUCTION-Course introductionPart 2: THE CONTEMPORARY BUSINESS WORLD-Overview of contemporary business environment-Business ethics ＆ social responsibility-Entrepreneurship ＆ business ownership-The global context of businessPart 3: THE BUSINESS OF MANAGING-Business management-Organizing the business-Operations management ＆ qualityPart 4: PEOPLE IN ORGANIZATIONS-Employee behavior ＆ motivation-Term project proposal presentation: Selling your idea-Leadership and decision making-Human resource management ＆ labor relationsPart 5: PRINCIPLES OF MARKETING-Marketing processes and consumer behavior-Pricing, distributing and promoting productsPart 6: MANAGING INFORMATION-Information technology for business-The role of accounting information-Term project final presentation: Showing your accomplishmentEXAMINATION“",
+  "books": "“教科書 Ebert, R.J. and Griffin, R.W., Business Essentials 12th Edition (2019) Person International.參考書 1. Oliver Gassmann, Karolin Frankenberger, Michaela Csik 著， 劉慧玉譯， 2017， 航向成功企業的55種商業模式， 橡實文化。2. 劉承慧、 沈婉霖， 2013， 報告好好寫 --- 科技報告寫作通用手冊， 國立清華大學出版社。3. 王若葉， 2015， 如何寫好報告， 城邦文化事業。“",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "未定。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限管理學院。系所:限財務金融學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-財務金融學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "學院:限非管理學院。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

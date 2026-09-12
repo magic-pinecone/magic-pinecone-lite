@@ -1,0 +1,14 @@
+{
+  "serial_no": "74019",
+  "objectives": "請與指導教授商議，進行個別指導。",
+  "content": "請與指導教授商議，進行個別指導。",
+  "books": "請與指導教授商議，進行個別指導。",
+  "teaching_method": "個別指導",
+  "grading_policy": "100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限法律與政府學系碩士在職專班。年級:限二年級。"
+    }
+  ]
+}

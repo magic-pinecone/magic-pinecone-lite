@@ -1,0 +1,18 @@
+{
+  "serial_no": "25010",
+  "objectives": "The goal of this course is to let student have basic background in financial stochastic processes which can be used to study further quantitative finance.",
+  "content": "“Brownian Motion, Stochastic Integration and Ito-Doeblin Formula, Martingale Representation Theorem, Girsanov Theory, Black-Scholes Model and Option Pricing, Arbitrage Theory, Black-Scholes PDE, Feynman-Kac Representation.“",
+  "books": "“Steve E. Shreve: Stochastic Calculus for Finance II (Continuous-Time Models), Springer-Verlag,, 2004.“",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "“Midterm 30％, final 40％, oral presentation 30％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。指定課程:必須先修ST6021、先修ST6038。且檢定指定課程平均成績達70分以上。"
+    }
+  ]
+}

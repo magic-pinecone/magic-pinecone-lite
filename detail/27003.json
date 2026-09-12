@@ -1,0 +1,18 @@
+{
+  "serial_no": "27003",
+  "objectives": "本系列研討會的核心宗旨在於搭建前沿研究與學術對話的橋梁，透過邀請海內外頂尖專家學者，為本所注入國際化且最具前瞻性的科研視野。本課程旨在讓研究人員、教職員及高階研究生深入接觸認知神經科學領域的最新理論進展、創新實驗方法與重要實證發現。透過與頂尖科學家的面對面交流，與會者將能批判性地評估當前新興的科研趨勢——從先進的神經影像技術與計算模型，到臨床轉化醫學的應用——進而開拓跨學科研究合作的全新契機。",
+  "content": "Because this course relies on invited guest speakers, the content is dynamically structured around the pivotal domains of modern cognitive neuroscience. Rather than static textbook modules, the series is organized into thematic clusters that adapt to the expertise of the visiting lecturers:\n- Advanced Neural Architectures & Dynamics\nInvestigating the neural substrates of high-level cognition, including memory consolidation, executive function, attention, and sensory-motor integration.\n\n- Cutting-Edge Methodologies & Neuroinformatics\nExploring breakthroughs in non-invasive neuroimaging (fMRI, fNIRS), electrophysiology (high-density EEG/MEG), and the integration of open-source data pipelines (e.g., OpenNeuro) for reproducible brain analytics.\n\n- Computational Modeling & Philosophy of Mind\nBridging the gap between empirical data and theoretical frameworks, focusing on predictive coding, functionalist perspectives of cognitive architecture, and artificial intelligence models of neural processing.\n\n- Translational & Clinical Cognitive Neuroscience\nExamining how basic research alters our understanding of neurological, psychiatric, and developmental disorders, alongside the development of targeted biomarkers and neuromodulatory interventions.",
+  "books": "不適用",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "50% 出席\n50％ 課堂提問",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限認知神經科學研究所碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限認知神經科學研究所碩士班。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "36002",
+  "objectives": "本課程幫助學生了解能源使用、科技發展與環境永續之間的關係。課程提供有關不同能源來源的重要知識，包括化石燃料、核能以及再生能源，同時探討它們對空氣、水資源、氣候與生態系統所造成的環境影響。透過本課程，學生能夠以科學角度理解當前全球能源挑戰，例如氣候變遷、污染以及資源耗竭等問題。課程也鼓勵學生對能源節約、永續發展以及未來能源政策進行批判性思考。此外，本課程幫助學生認識在經濟成長與環境保護之間取得平衡的重要性。透過學習這些概念，學生能更加了解自己作為全球公民及未來專業人才所肩負的責任，並有能力為社會發展更潔淨、更安全且更永續的能源解決方案作出貢獻。",
+  "content": "1.\tEnergy Fundamentals, Energy Use in an Industrial Society\na.\tEnergy Basics (Forms of Energy)\nb.\tUnits of Energy\nc.\tEnergy Consumption\nd.\tThe Principle of Energy Conservation\ne.\tRenewable and Nonrenewable Energy Sources\n2.\tThe Fossil Fuels\na.\tCoal (The Formation of Coal, Coal Resources and Consumption)\nb.\tPetroleum (History of t Petroleum, Petroleum Refining Process)\nc.\tNatural Gas (History of Natural Gas, Natural Gas Refining Process)\n3.\tHeat Engines\na.\tThe Mechanical Equivalent of Heat\nb.\tThe Energy Content of Fuels\nc.\tThe Thermodynamics of Heat Engines\nd.\tGeneration of Electricity\ne.\tElectric Power Transmission\nf.\tPractical Heat Engines (Steam Engines, Gasoline Engines, Diesel Engines, Gas Turbines)\n4.\tRenewable Energy Sources I: Solar Energy\na.\tEnergy from the Sun\nb.\tPrinciple of Photovoltaic cell\nc.\tA Flat-Plate Collector System\nd.\tPassive Solar\ne.\tSolar Thermal Electric Power Generation\n5.\tRenewable Energy Sources II: Alternatives\na.\tHydropower\nb.\tWind Power\nc.\tOcean Thermal Energy Conversion\nd.\tBiomass as an Energy Feedstock\ne.\tBiomass: Municipal Solid Waste\nf.\tBiomass-Derived Liquid and Gaseous Fuels\ng.\tGeothermal Energy\nh.\tTidal Energy\ni.\tWave Energy\n6.\tThe Promise and Problems of Nuclear Energy\na.\tHistory of Nuclear Energy\nb.\tRadioactivity\nc.\tNuclear Reactors\nd.\tThe Boiling Water Reactor\ne.\tFuel Cycle\nf.\tUranium Resources\ng.\tEnvironmental and Safety Aspects of Nuclear Energy\nh.\tNuclear Reactor Accidents (Chernobyl, Fukushima Daiichi,\ni.\tThe Storage of High-Level Radioactive Waste\nj.\tThe Cost of Nuclear Power\nk.\tA Fusion Reactor\n7.\tEnergy storage\na.\tThermal energy storage\nb.\tChemical energy storage (Reversible Chemical Reactions)\nc.\tEnergy Storage in Organic Fuels\nd.\tMechanical Energy Storage\ne.\tElectromagnetic Energy Storage\nf.\tHydrogen Storage\ng.\tLead-Acid Batteries\nh.\tLithium Systems\ni.\tEnergy Storage for Medium- to Large-Scale Applications\n8.\tGreen transportation\na.\tElectric Vehicles\nb.\tHydrogen, Fuel Cells\nc.\tAlcohol as a Transportation Fuel\nd.\tHybrid Vehicles\ne.\tMass Transportation",
+  "books": "Energy and the Environment,  Robert A. Ristinen, Jack J. Kraushaar, Jeffrey T. Brack\nISBN: 978-1-119-80025-5",
+  "teaching_method": "講授",
+  "grading_policy": "期中考（40％）＋期末報告（40％）＋作業（20％）",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    }
+  ]
+}

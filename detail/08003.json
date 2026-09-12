@@ -1,0 +1,18 @@
+{
+  "serial_no": "08003",
+  "objectives": "TBA",
+  "content": "TBA",
+  "books": "TBA",
+  "teaching_method": "其他",
+  "grading_policy": "TBA",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限一年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。"
+    }
+  ]
+}

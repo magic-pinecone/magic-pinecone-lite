@@ -1,0 +1,30 @@
+{
+  "serial_no": "32075",
+  "objectives": "Introduction about the technologies for earthquake disaster mitigation.",
+  "content": "E-learning class\nTime：Friday 15:00-16:50 (CST)\n\nProf. Morikawa:\nEstimation of velocity structure or ground using microtremor survey\n\nProf. Peng-Yu Chen\nAdvances in Artificial Intelligence for Earthquake Hazard Mitigation\n\nDr. Tsuruta:\nTsunami damage assessment and countermeasures for coastal structures\n\nProf. Wen-Yi Hung\nCentrifuge Modeling on Geotechnical Earthquake Engineering\n\nProf. Yamazaki:\nDamage to Japanese wooden buildings by recent major earthquakes and seismic retrofitting solution\n\nProf. Chih-Shiuan Lin\nApplication of Particle Damping Technology for Vibration and Noise Control in Railway Systems\n\nProf. Matsuoka:\nEarthquake and Tsunami Damage Detection Using Remote Sensing Technology\n\nProf. Hin-Chi Lei\nStrong earthquake prediction by the strongest double intersections of circular arcs of earthquakes",
+  "books": "無",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Attendance 30％\nHome work 70％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士在職專班。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "serial_no": "98001",
+  "objectives": "了解基礎統計並運用電腦進行數據的統計分析",
+  "content": "1\t9/14\t\tIntroduction ＆ R Basic\n\n2\t9/21\t\tDescriptive Statistics ＆ Probability I\n\n3\t9/28\t\tDescriptive Statistics ＆ Probability II\n\n4\t10/5\t\tDiscrete Probability Distributions I\n\n5\t10/12\t\tDiscrete Probability DistributionsII\n\n6\t10/19\t\tMidterm I\n\n7\t10/26\t\tContinuous Probability Distributions I\n\n8\t11/2\t\tContinuous Probability Distributions II\n\n9\t11/9\t\tEstimation I\n\n10\t11/16\t\tEstimation II\n\n11\t11/23\t\tMidterm II\n\n12\t11/30\t\tHypothesis Testing I: One-Sample inference\n\n13\t12/7\t\tHypothesis Testing II: Two-Sample inference\n\n14\t12/14\t\tNonparametric Methods\n\n15\t12/21\t\tHypothesis Testing: Categorical Data\n\n16\t12/28\t\tFinal",
+  "books": "Fundamentals of Biostatistics, Bernard Rosner\nR Programming Manual:\nhttp://manuals.bioinformatics.ucr.edu/home/programming-in-r",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Participation\t30％\nMidterm\t40％\nFinal Exam\t30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限生命科學系。年級:限一年級、二年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限輔系-生命科學系、雙主修-生命科學系、學分學程-生科職涯、第二專長-生物多樣性、第二專長-生物科技。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

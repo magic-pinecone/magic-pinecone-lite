@@ -1,0 +1,18 @@
+{
+  "serial_no": "36006",
+  "objectives": "Physical Processes of Environmental Engineering",
+  "content": "“1.Introduction2.Fundamentals of Engineering Flow3.Fundamentals of Heat Transfer4.Fundamentals of Mass Transfer5.Diffusion6.Flotation/Sedimentation7.Flocculation8.Electrostatic Precipitation9.Filtration10.Absorption/Stripping11.Incineration“",
+  "books": "““Engineering Flow and Heat Exchange” by O. Levenspiel“Fundamentals of Momentum, Heat, and Mass Transfer” by J. R. Welty, C. E. Wicks, and R. E. Wilson“",
+  "teaching_method": "講授",
+  "grading_policy": "期中考(40％)+期末考(40％)+出席上課(10％)+作業(10％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    }
+  ]
+}

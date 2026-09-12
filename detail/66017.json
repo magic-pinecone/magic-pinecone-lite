@@ -1,0 +1,18 @@
+{
+  "serial_no": "66017",
+  "objectives": "指導教授個別指導學生以明確掌握論文研究進度與方向。",
+  "content": "此課程為博二及博三學生必修之論文指導課程，由各指導教授負責自己的研究生，指導其學位論文。",
+  "books": "無",
+  "teaching_method": "研討\n\n個別指導",
+  "grading_policy": "依指導教授",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限博士班。系所:限水文與海洋科學研究所博士班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限水文與海洋科學研究所博士班。"
+    }
+  ]
+}

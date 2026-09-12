@@ -1,0 +1,30 @@
+{
+  "serial_no": "48005",
+  "objectives": "This course introduces to the students the theoretical concepts and practical techniques of financial statement analysis. After taking this course, students should be able to:\n(1)\tEvaluate a company's financial well-being, current performance, and outlook by using financial statements and ratio analysis.\n(2)\tBe familiar with forecasting and planning techniques.\n(3)\tPrepare pro forma financial statements and assess the firm's valuation.",
+  "content": "課程時間為上午9:00~11:50\n\nWeek\tTopic\n1 (9/02)\tIntroduction\n2 (9/09)\tCh1. Interpreting Financial Statements & Ch2. Evaluating Financial Performance\n3 (9/16)\tCh.3. Financial Forecasting\n4 (9/23)\tCh.4. Managing Growth\n5 (9/30)\tGroup presentation 1\n6 (10/07)\tGroup presentation 1\n7 (10/14)\tStudy leave\n8 (10/21)\tMid-term\n9 (10/28)\tCh.6. The Financing Decision\n10 (11/04) Ch.7. Discounted Cash Flow\n11 (11/11) Ch.8. Risk Analysis in Investment Decision\n12 (11/18) Ch.9. Business Valuation and Corporate Restructuring\n13 (11/25) Group presentation 2\n14 (12/02) Group presentation 2\n15 (12/09) Study leave\n16 (12/16) Final-exam",
+  "books": "“Higgins, R.C., Koski, J.L.and Mitton, T. ““Analysis for financial management““ 13 ed., McGraw Hill, 2023.“",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Assignments  5％\nGroup presentation 35％\nMid-term exam  30％\nFinal exam 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系。年級:限四年級。身份:限非重修生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系。年級:限非一年級、非二年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-財務金融學系、雙主修-財務金融學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限學分學程-會計。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

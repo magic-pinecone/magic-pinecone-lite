@@ -1,0 +1,14 @@
+{
+  "serial_no": "22081",
+  "objectives": "讓學生進行lab. rotation以順利找定論文指導教授。",
+  "content": "\"For first year students (enrolled in 2016 and after 2016)\nDo research on current topics of Molecular Science and Technology, mainly do laboratory rotations in the first 2 semesters (2 - 4 labs each semester)\"",
+  "books": "None",
+  "teaching_method": "研討",
+  "grading_policy": "學生口頭或書面報告再由lab rotation老師給分",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "33006",
+  "objectives": "本課程教學目標主要在於訓練學生解決工程相關問題的數學能力，讓學生能夠從較實務性的工程相關問題和物理問題中，理解它們和數學上的相關性。藉由本課程中學得的數學能力，以解決工程上相關的問題。學生可透過本課程發展以下所列能力：\n一、熟悉各種不同形式之常微分方程式，並選擇合適解題技巧去解決相關數學問題。\n二、建構機械、物理系統數學方程式，解釋各項物理量，並應用相關數學方法求解。\n三、在各種數學方式中，培養學生以圖表、曲線方式表達出特定物理量與其函數值的關係，並了解其函數的趨勢及擾動狀況。",
+  "content": "\"Ordinary Differential Equations\n1. First-Order ODEs\n2. Second-Order Linear ODEs\n3. Higher Order Linear ODEs\n4. System of ODEs\n5. Series Solutions of ODEs.\n6. Laplace Transforms\n\nFourier Analysis.\n1. Fourier Series, Integrals, and Transforms.\"",
+  "books": "\"Erwin Kreyszig, \"\"Advanced Engineering Mathematics,\"\" 10th Ed.\n上課投影片\"",
+  "teaching_method": "講授",
+  "grading_policy": "作業10%\n考試90%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限二年級。學號:限雙號。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "94005",
+  "objectives": "This course is taught in English. Introduction to Business is a fundamental course in business and organizational management education. This course is offered by many departments in the management school. Although its contents may be varied due to the different professional focuses of the departments, the main teaching subjects and learning objectives (see below) of this course are maintained to be consistent among its instances. The major teaching subjects include global economic systems, organization structures, basic management functions (human resources, marketing, etc.), leadership ＆ teamwork, and business ethics.",
+  "content": "Part 1: INTRODUCTION\n-\tCourse introduction\nPart 2: THE CONTEMPORARY BUSINESS WORLD\n-\tOverview of contemporary business environment\n-\tBusiness ethics ＆ social responsibility\n-\tEntrepreneurship ＆ business ownership\n-\tThe global context of business\nPart 3: THE BUSINESS OF MANAGING\n-\tBusiness management\n-\tOrganizing the business\n-\tOperations management ＆ quality\nPart 4: PEOPLE IN ORGANIZATIONS\n-\tEmployee behavior ＆ motivation\n-\tTerm project proposal presentation: Selling your idea\n-\tLeadership and decision making\n-\tHuman resource management ＆ labor relations\nPart 5: PRINCIPLES OF MARKETING\n-\tMarketing processes and consumer behavior\n-\tPricing, distributing and promoting products\n-\tTerm project final presentation: Showing your accomplishment",
+  "books": "鄭仁偉（2017）。企業概論。華泰文化。",
+  "teaching_method": "講授\n研討\n\n其他",
+  "grading_policy": "0％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-企業管理學系、雙主修-企業管理學系、學分學程-企業管理。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

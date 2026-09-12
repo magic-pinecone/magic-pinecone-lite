@@ -1,0 +1,18 @@
+{
+  "serial_no": "13047",
+  "objectives": "本課程旨在引導法文系高年級學生掌握格雷瑪斯（Algirdas Julien Greimas, 1917−1992）結構語意學（Sémantique structurale, 1969）的核心方法論。透過理論講解與文本實證，學生將學會穿透自然語言表層句法，提取深層語意軸心（axe sémantique）。課程聚焦三大能力培養：其一，理解並實踐「文本客觀化」程序，掌握擱置主觀投射與外在指涉的分析技巧；其二，熟練運用 « sème » 與 « classème » 等基礎概念，建構微宇宙（« micro-univers »）的語意組合規則；其三，區分描述性、方法論與認識論三層語言階級，建立嚴謹的語意科學視角，為後續敘事學與詩學分析奠定堅實基礎。",
+  "content": "課程分為四個單元，由淺入深展開：\n\n第一單元「語意描述的層次劃分」：介紹三級語言（descriptif, méthodologique, épistémologique）的認識論條件，釐清語意科學如何超越經驗歸納，建立演繹性模型。\n\n第二單元「文本客觀化與重疊消除」：實證操作「去語法化」程序。學生將學習擱置人稱、時間與指示詞等主觀參數，並透過語素等價化約（réduction des équivalences sémémiques），識別並剝離表層句法造成的語意冗余。建立科學的描述程序。\n\n第三單元「微宇宙建構與組合演算法」：探討如 « actant », « sème », « classème » 與 « isotopie » 等概念工具。透過具體規則，分析語意單位如何依「至少兩語素」原則進行組合，並理解內隱宇宙（univers immanent）到表徵宇宙（univers manifesté）的轉換邏輯。\n\n第四單元「敘事顯現模式與綜合應用」：結合文本實例，運用 actantiel 句法與模態模型，分析敘事中的「契約」與「鬥爭」機制，將具體角色還原為功能位置。考察 énonciation 在 Greimas 與 Benveniste 的不同定義，再擴及語用學（la pragmatique）的觀點。\n\n視情況，我們再從語言學理論史的角度補充相關思潮脈動，以及反思提示詞的使用。",
+  "books": "詳見法文參考書單",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "詳參外文說明。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限法國語文學系碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限法國語文學系。年級:限四年級。"
+    }
+  ]
+}

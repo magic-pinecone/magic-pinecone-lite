@@ -1,0 +1,26 @@
+{
+  "serial_no": "21029",
+  "objectives": "本學期的目標是能在學期結束時，對抽象代數中的基礎「群論」有深刻的了解，並在學習的過程中，熟悉如何以數學邏輯與語言來推演數學證明。",
+  "content": "1. Groups and Subgroups\n2. Permutations, Cosets, Direct Products\n3. Homomorphisms and Factor Groups\n4. Isomorphism Theorems and Sylow Theorems",
+  "books": "A first course in Abstract Algebra by John Fraleigh, 7th edition",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "上課表現 10％\n平時作業或小考 15％\n二次考試共佔 75%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限二年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限二年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-數學系、雙主修-數學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限數學系、理學院學士班。年級:限非二年級。"
+    }
+  ]
+}

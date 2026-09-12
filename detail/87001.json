@@ -1,0 +1,18 @@
+{
+  "serial_no": "87001",
+  "objectives": "建立學生對電力電子電路的概念，瞭解如何分析電能轉換之動作原理，並將此原理應用至各種不同的電能轉換器。同時，基於電路學、電子學與控制理論的概念，建立電能轉換器之等效電路模型，並學習電能轉換器控制器之基本設計原理。",
+  "content": "主要介紹電力電子電路的基本原理，包括功率半導體元件、穩態等效電路模型之建置、電能轉換器之轉移函數，與控制器之設計。",
+  "books": "教科書：Fundamentals of Power Electronics/ Robert W. Erickson, Dragan Maksimovic/ Springer International Publishing\n參考書：Power Electronics/ Ned Mohan/ John Wiley.",
+  "teaching_method": "講授",
+  "grading_policy": "作業成績 30％\n期中考試 35％\n期末考試 35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限永續綠能科技碩士學位學程、永續綠能科技博士學位學程。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    }
+  ]
+}

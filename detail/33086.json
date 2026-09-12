@@ -1,0 +1,22 @@
+{
+  "serial_no": "33086",
+  "objectives": "本課程旨在讓學生瞭解光的基本原理與現象。授課內容包含有幾何光學與物理光學。在幾何光學部分，將以光線的直線傳播為基礎，介紹其理論、計算模型及適用範圍；在物理光學部分，將以電磁理論為基礎來探討光的波動物理現象，如偏振特性，干涉現象，繞射現象。",
+  "content": "本課程包含以下主題:\nImage formation\nAberration\nStop and Aperture\nIntroduction to wave optics\nElectromagnetic wave\nPolarization\nInterference /Diffraction*",
+  "books": "1. W. J. Smith,\"\"Modern Optical Engineering\"\", 3rd edition, McGraw-Hill\n2. F.L Pedrotti, L. M. Pedrotti and L. S. Pedrotti,\"\"Introduction to optics\"\", 3rd edition, Pearson Education, 2008",
+  "teaching_method": "講授",
+  "grading_policy": "作業30%，期中考:20%，期末考:30% 分組討論 20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班、機械工程學系工學博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限機械工程學系。年級:限三年級、四年級。"
+    }
+  ]
+}

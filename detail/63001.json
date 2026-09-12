@@ -1,0 +1,22 @@
+{
+  "serial_no": "63001",
+  "objectives": "提供學生正確使用教學與研究設備。",
+  "content": "環境保護暨安全衛生\n\n儀控程式設計\n\n基礎儀器使用 （電源供應、示波器、波型產生器等）\n\n電路設計\n\n電路板製作\n\n焊接與檢測\n\n資料擷取與數位資料處理\n\n基本圖學\n\n機構設計與分析\n\n電腦數值控制製作\n\n其他製作設備使用\n\n振動測試",
+  "books": "Moore, J. H., C. C. Davis, M. A. Coplan, and Building Scientific Apparatus, A Practical Guild to Design and Construction, 3rd ed., Westview Press, Cambridge, 2003.",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Practices\t100 ％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限太空科學與工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

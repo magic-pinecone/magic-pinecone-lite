@@ -1,0 +1,30 @@
+{
+  "serial_no": "44002",
+  "objectives": "本課程介紹基本的總體經濟理論與應用，希望修習者能理解台灣及世界重要的總體經濟現象，與政府的總體經濟政策效果，並奠下未來研讀進階總體經濟學的基礎。為達成這些目標，本課程除了介紹理論外，也會介紹與台灣總體經濟表現相關的議題，包括：台灣的實質薪資走勢、台灣的失業現象、台灣的貨幣供給年增率、GDP平減指數年增率與貨幣流通速度等，希望讓修習者對總體經濟理論與台灣總體經濟現象能有深刻的瞭解。",
+  "content": "1 ( 9 /5 )\t導論\n(Ch. 1：The Science of Macroeconomics)\n(Ch. 2：The Data of Macroeconomics)\n2 ( 9/12 )\t國民所得的衡量 (Ch. 3：National Income)\n3 ( 9/19 )\t貨幣體系 (Ch. 4：The Monetary System)\n4 ( 9/26 )\t通貨膨脹 (Ch. 5：Inflation)\n5 ( 10/3 )\t開放體系的總體經濟學 (Ch. 6：The Open Economy)\n6 ( 10/10 ) 國慶日放假1日\n7 ( 10/17 ) 失業與勞動市場\n(Ch. 7：Unemployment and the Labor Market)\n8 ( 10/24 ) 臺灣光復暨金門古寧頭大捷紀念日補假1日\n9 ( 10/31 ) 期中考 (Midterm Exam)\n10 ( 11/7 ) 檢討考卷\n11 ( 11/14 ) 經濟成長 (Ch. 8：Economic Growth I)\n12 ( 11/21 ) 經濟成長 (Ch. 9：Economic Growth II)\n13 ( 11/28 ) 經濟波動 (Ch. 10：Introduction to Economic Fluctuations)\n14 ( 12/5 ) 總合需求 (Ch. 11：Aggregate Demand I)\n15 ( 12/12 ) 總合需求 (Ch. 12：Aggregate Demand II)\n16 ( 12/19 ) 期末考 (Final Exam)",
+  "books": "(課程教材)\nMankiw (2025)，Macroeconomics (12th edition)，Macmillan Learning",
+  "teaching_method": "講授",
+  "grading_policy": "▓Assignment (作業) 9％\n▓Quiz 21％\n▓Midterm Test (期中考) 30％\n▓Final Test (期末考) 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系。年級:限二年級。指定課程:必須先修MT1011、先修MT1012。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限經濟學系。年級:限非一年級。指定課程:必須先修MT1011、先修MT1012。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-經濟學系、雙主修-經濟學系。指定課程:必須先修MT1011、先修MT1012。"
+    },
+    {
+      "priority": 4,
+      "rule": "學院:限管理學院。指定課程:必須先修MT1011、先修MT1012。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

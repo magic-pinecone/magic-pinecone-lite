@@ -1,0 +1,14 @@
+{
+  "serial_no": "43027",
+  "objectives": "\"The aim of this course is to provide students general knowledge of multimedia databases. Particularly, indexing techniques including feature extraction and representation, image annotation and categorization, etc. are introduced. In addition, the concept of retrieval strategies, such as browsing, query by content, etc. is provided. Finally, applications and research trends for multimedia databases will be discussed.\"",
+  "content": "1  Course introduction\n2  Introduction to multimedia databases\n3  Information Retrieval\n4  Image Retrieval\n5  Techniques for multimedia database indexing I (Presentations)\n6  Techniques for multimedia database indexing II (Presentations)\n7  Relevance Feedback (Presentations)\n8  Applications of multimedia databases I (Presentations)\n9  Applications of multimedia databases II (Presentations)\n10 Query strategies in multimedia databases (Presentations)\n11 HCI in multimedia databases (Presentations)\n12 Evaluation of multimedia retrieval systems (Presentations)\n13 Applications of multimedia databases II (Presentations)\n14 Research topics in multimedia databases I (Presentations)\n15 Research topics in multimedia databases II (Presentations)\n16 Research topics in multimedia databases III (Presentations)",
+  "books": "上課講義與投影片; 研究論文",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Personal Presentation: 50%\nAssignment: 40%\nClass Participation: 10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士班、資訊管理學系博士班。"
+    }
+  ]
+}

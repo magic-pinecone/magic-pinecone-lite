@@ -1,0 +1,18 @@
+{
+  "serial_no": "33049",
+  "objectives": "本課程之教學內容主要是對於平面顯示器製程與常用之材料製造方法和原理為學生進行教學。\n同時本課程亦會就顯示器的作用機制與市場方析，俾使學生能在本課程中除了能夠在學術上了解平面顯示器的相關知識外，亦能對於實際產業面有所認識與了解。\n使學生能夠了解目前平面顯示器如\nCRT、VFD、PDP、E-Paper、LCD、QD、OLED、LED……等顯示器的結構、原理與材料進行教學。",
+  "content": "1.平面顯示器常見術語\n2.平面顯示器歷史沿革簡介\n3.色彩\n4.CRT, VFD, PDP,EPD作用機制與原理\n5.TFT LCD 作用機制與原理\n6.OLED、量子點與LED原理\n7.Oral Presentation",
+  "books": "自編講義",
+  "teaching_method": "講授",
+  "grading_policy": "考試:60％\n課堂參與:20％\n口頭報告:12％\n書面報告: 8％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班。學院:限工學院。"
+    }
+  ]
+}

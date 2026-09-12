@@ -1,0 +1,9 @@
+{
+  "serial_no": "63024",
+  "objectives": "電磁波為基本物理研究最重要的工具之一，而天線則是無線電磁波發射與接收的工具，無線電磁波應用面極廣，凡涉及資訊的傳播及中間實物媒介的特性研究都需要了解無線電磁波。本課程專為高年級大學生與碩一生設計。",
+  "content": "課程內容包含：1. 基本線性分析，2. 電動力學基本原理，3.平面波傳播特性，4.無方向性媒介波傳播，5.有方向性媒介波傳播，6. 基本天線原理，7. 天線種類與介紹。",
+  "books": "1. Antennas, by John D. Kraus, McGraw-Hill Book Company, 1984\n2. Theory of Electromagnetic Waves, by Hollis C. Chen, McGraw-Hill Book Company, 1983",
+  "teaching_method": "講授",
+  "grading_policy": "作業 (20％), 期中考 (40％), 期末考 (40％)",
+  "distribution_conditions": []
+}

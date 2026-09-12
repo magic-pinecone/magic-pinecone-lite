@@ -1,0 +1,22 @@
+{
+  "serial_no": "85009",
+  "objectives": "了解基礎分子生物，醣類代謝，與能量產生",
+  "content": "分子生物學，醣類，酯肪，蛋白質代謝，酵素動力學",
+  "books": "Text Book:Essential Biochemistry, 5th Reginald H. Garrett, Charles M. Grisham\nMcKee and McKee, Biochemistry, 6th Edition",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "出席 10％ 期中考 40％ 期末考 40％ 報告 10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

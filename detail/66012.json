@@ -1,0 +1,9 @@
+{
+  "serial_no": "66012",
+  "objectives": "本課程教授對象主要為地球科學及環境工程相關科系大學部三、四年級以上之學生，課程內容包含基礎水文統計方法、設計暴雨分析方法、水文模式(GWLF、SWMM)原理與應用，搭配R/python語言分析資料與展示結果。目的為使學生了解水文相關統計、頻率分析、設計暴雨、水文模擬之方法，以及程式語言工具之使用，培養具水文分析能力之人才，並提升學生於水文領域實務應用之競爭力。",
+  "content": "1.Hydrological Frequency Analysis (I) and (II)\n2.Weather generation for future scenarios\n3.Future design storms\n4.Watershed Hydrology\n5.Streamflow simulation-GWLF\n6.Storm Water Management Model-SWMM\n7.Model performance evaluation\n8.Machine learning",
+  "books": "1.Bedient, P.B., Huber, W.C., 2008. Hydrology and Floodplain Analysis.\n\n2.Slides of ‘Stochastic Hydrology‘. Prof. Ke-Sheng Cheng. Department of Bioenvironmental Systems Engineering, National Taiwan University.\n\n3.Gironas, J., L. A. Roesner, AND J. Davis. Storm Water Management Model Applications Manual. U.S. Environmental Protection Agency, Washington, DC, EPA/600/R-09/077, 2009.",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "期中報告(20％)，期末報告(20％)，作業與課堂參與 (60％)",
+  "distribution_conditions": []
+}

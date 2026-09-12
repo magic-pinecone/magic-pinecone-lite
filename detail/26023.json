@@ -1,0 +1,9 @@
+{
+  "serial_no": "26023",
+  "objectives": "以光學之課題進行學習程式寫作與矽光子元件設計，並配合使用生成式AI工具產生程式。",
+  "content": "使用Matlab計算以下光學問題:\n快速傅立業轉換\nEffective index\nFabry-Perot interferometer\nHelmholtz equation數值解\nSchrodinger equation數值解\nBeam Propagation Method\nFinite-Difference Time-Domain Method\nDesign of Silicon photonics devices",
+  "books": "“K. Kawano, T. Kitoh, ‘Introduction to optical waveguide analysis,‘ John Willy ＆ Sons, Inc.(please download the electric book in library)\nJoseph W. Goodman, ‘Introduction to Fourier Optics,‘ McGRAW-HILL internaltion editions“",
+  "teaching_method": "講授",
+  "grading_policy": "1.\t出席 (20％)\n2.\t每個程式作業10分(於下次上課前繳交。遲交一天扣該作業1分，部分或全部抄襲同學程式者，抄襲與被抄襲的同學，此作業分數0分。亦將被要求重寫，其學期總成績不會超過71分) (50％)\n3.\t課堂表現與整體表現 ( 30％)\n4. 請病假要在請假日前後拿看病單據給老師看, 請事假必須在上課前出示證明文件。\n5. 本課程共16週，除校訂假日外，每週均須上課(包含校訂期中週)",
+  "distribution_conditions": []
+}

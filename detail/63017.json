@@ -1,0 +1,9 @@
+{
+  "serial_no": "63017",
+  "objectives": "根據大一大二所學習到一些重要的基礎數學知識，包括微積分、傅立葉級數(Fourier Series)、傅立葉分析(Fourier Analysis)、傅立葉轉換(Fourier Transform)、複數表示式(Complex Representation)、相關函數(Correlation Function)、摺積運算(Convolution)、以及機率與統計等。在本門課程中，將詳細說明這些數學運算所具有的物理意義，並教同學如何利用這些數學知識，實務運用在雷達回波訊號的分析與處理上，進行頻譜分析(Spectral Analysis)、濾波處理(Filtering)、相關分析(Correlation Analysis)、以及統計分析(Statistical Analysis)，以獲得的目標物的參數與特性，例如目標物的距離與方位、目標物雷達截面積(Radar Cross Section)、目標物的徑向速度(Radial Velocity)、或都卜勒速度(Doppler Velocity)、目標物的擾動程度等等，以達到目標物的定位、追蹤、與偵蒐目的。本課程將以中壢特高頻雷達實際觀測的資料為例，讓同學學學習到前述的雷達訊號分析與處理技術，以利後續的運用。",
+  "content": "一、脈波雷達系統簡介\n\n- 雷達系統方塊圖\n\n- 發射機與接收機\n\n- 天線場型\n\n- 雷達回波訊雜比\n\n二、數學基礎\n\n- 複數訊號\n\n- 傅立葉轉換\n\n- 相關函數\n\n- 摺積\n\n- 機率統計\n\n三、雷達回波機制\n\n- 散射與反射\n\n- 都卜勒頻移\n\n四、回波分析與處理\n\n- 雷達回波頻譜\n\n- 回波參數化\n\n- 系統分析概念-濾波與系統相位偏差\n\n- 同相積與非同向積分\n\n- 相位加碼技術\n\n五、雷達訊號分析實務\n\n- 雷達頻譜的模擬\n\n- 雷達頻譜實作分析",
+  "books": "William L. Melvin and James A. Scheer,\nPrinciples of Modern Radar, SciTech Publishing, Edison, NJ, 2014, ISBN 978-1-61353-032-0 (PDF)",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "一、每周習題演示(40％)\n二、指定作業與學習心得(30％)\n三、實作(30％)",
+  "distribution_conditions": []
+}

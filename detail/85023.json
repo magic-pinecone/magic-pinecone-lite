@@ -1,0 +1,18 @@
+{
+  "serial_no": "85023",
+  "objectives": "進入仿生材料暨組織工程實驗室學習再生醫學相關知識及實驗技術",
+  "content": "1. 再生醫學相關知識及實驗技術\n\n2. 參與實驗室會議",
+  "books": "教師自編教材",
+  "teaching_method": "研討\n實習/實驗\n個別指導",
+  "grading_policy": "實作：60％\n出席：20％\n討論：20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "serial_no": "02002",
+  "objectives": "2021-2030年是聯合國海洋永續發展的關鍵十年，本課程將讓學生了解到基礎的海洋物理及海洋化學知識，讓學生足夠理解全球海洋的性質和特徵。海洋學是一門科學，專注於解釋水在地球各個部分發生的所有物理和生物化學過程。描述性海洋學描述了海洋中水團的分佈和特徵和研究海洋中水的運動及其運動原因的部分；化學海洋學負責研究海水化學成分的部分及分析人類活動的排放而產生的水的化學組成發生的所有變化。本課程內容包括海洋地理、海洋循環、海洋數據分析及方法、大氣化學、海洋營養鹽及初級生產力、太平洋及大西洋的水體詳細特徵。本課程隨課有四次的MATLAB實作學習，讓同學們實際接觸到海洋基本性質與再分析資料的分層數據。\n\n(本課程不限任何科系背景，歡迎大學部選修)",
+  "content": "Week 1 (2026/09/07) 課程介紹\nWeek 2-3 (2026/09/14、09/21) 海洋地形、海水物理特性、海水的溫度和鹽度分佈  (MATLAB I)\nWeek 4 (2026/09/28) 教師節放假\nWeek 5-7 (2026/10/05、10/12、10/19) 海水典型分布特徵、環流和水團、化學示踪劑在海洋學中的應用、海水主要成分的組成、大氣化學、海洋中的微量營養 (MATLAB II)\nWeek 8 (2026/10/26) 臺灣光復節放假\nWeek 9 (2026/11/02) 觀測方法技術和儀器\nWeek 10 (2026/11/09) 期中作業 / 亞洲遙感會議 (不上課)\nWeek 11-12 (2026/11/16、11/23) 海洋數據分析概念、質量、鹽分和熱量收支和風力 (MATLAB III)\nWeek 13-14 (2026/11/30、12/07) 太平洋、大西洋 (MATLAB IV)\nWeek 15 (2026/12/14) 期末口頭報告\nWeek 16 (2026/12/21) 書面報告繳交",
+  "books": "Chemical Oceanography 4th Edition By Frank J. Millero；Descriptive Physical Oceanography 6th Edition By Lynne Talley；Introduction to satellite oceanography by G. A. Maul",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Midterm Homework 50％\nFinal Report 50％",
+  "distribution_conditions": []
+}

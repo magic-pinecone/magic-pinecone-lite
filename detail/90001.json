@@ -1,0 +1,18 @@
+{
+  "serial_no": "90001",
+  "objectives": "“介紹細胞之生化生理及細胞培養的方法, 著重於觀念的建立與邏輯思考“",
+  "content": "“The lecture is updated with the latest research in the field of cell biology, and it provides an exceptional framework for learning cell biology and cell culture.\n\nIntroduction of cell and cell culture\nBuilding blocks and polymers\nNucleic Acid\nPeptide and Protein\nDNA replication and repair\nTranscription\nTranslation\nCell cycle and cell division\nStem cell\nCell physiology- apoptosis\nCell physiology- autophagy\nCell culture techniques“",
+  "books": "“Molecular Biology of the Cell 7/e 2022, ISBN-13碼:9780815344643, 作者: Alberts“",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "“Midterm Exam 30 ％\nHomework 30 ％\nFinal Presentation 40 ％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系生物醫學工程碩士班、生醫科學與工程學系生物醫學工程博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限非生醫科學與工程學系生物醫學工程碩士班、非生醫科學與工程學系生物醫學工程博士班。"
+    }
+  ]
+}

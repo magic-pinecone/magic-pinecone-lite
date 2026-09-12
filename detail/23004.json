@@ -1,0 +1,18 @@
+{
+  "serial_no": "23004",
+  "objectives": "化學實驗操作的學習",
+  "content": "依上課章節順序設計，基本上安排十個實驗。",
+  "books": "講義",
+  "teaching_method": "講授",
+  "grading_policy": "實驗報告 40％、實驗精神 30％、期末考 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

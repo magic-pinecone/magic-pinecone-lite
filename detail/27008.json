@@ -1,0 +1,22 @@
+{
+  "serial_no": "27008",
+  "objectives": "“建立學生以matlab分析線性與非線性腦訊號及腦科學大量資料的能力\n本課程本學期開始因加入大學部腦與認知領域專長模組課程，將從基礎MATLAB教起，基礎MATLAB教學約四週時間。每位選課同學均須於期末進行一次專題報告。",
+  "content": "MATLAB在腦科學訊號及巨量資料上的應用\n一、\t(第一週) Orientation: 帶電腦，MATLAB安裝及基本概念\n二、\t矩陣、陣列、函式 (第二週)\n三、\t字串、多維陣列、異質陣列，結構陣列 (第三週)\n四、\t字串、多維陣列、異質陣列，結構陣列(第四週)\n五、\t程式流程控制、繪圖\n六、\t陣列運算(線性代數、奇異值分解等)\n七、\t傅立葉分析與小波分析\n八、\t期中考 (10/27; Midterm)\n九、\t經驗模態分解(EMD) & Hilbert-Huang Transform (HHT)\n十、\t\t雙層經驗模態分解(Two-layer EMD)\n十一、\tHolo-Hilbert Spectral Analysis (HHSA)\n十二、\tInter-trial Phase Clustering (ITPC) and Inter-site Phase Clustering (ISPC)\n十三、\tCross-frequency Coupling (CFC) and Phase-amplitude Coupling (PAC)\n十四、\t學生實作報告(12/8; Student presentation)\n十五、\t學生實作報告(12/15; Student presentation)\n十六、\t期末考週 (12/22; Final exam)",
+  "books": "“1. Analyzing neural time series data. Mike X. Cohen\n2. Hilbert-Huang Transform and Its Applications. Norden E Huang ＆ Samuel S P Shen“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "“期中考: 25%\n期末考: 25%\n報告: 30％\n出席: 20％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限生醫理工學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限領域專長-腦與心智科學。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

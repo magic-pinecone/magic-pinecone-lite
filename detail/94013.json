@@ -1,0 +1,26 @@
+{
+  "serial_no": "94013",
+  "objectives": "本課程教導 Python 程式設計的基礎知識、概念和技術。本課程的主要目標是賦予學生透過程式設計分析和解釋數據的技能，並做出適當的決策。\n修習本課程的學生將能夠完成與 Python 語言程式設計基本題目，並理解程式設計中使用的基本概念和技術。\n本課程介紹 Python 程式設計的基本概念、語法與實作技巧，培養學生的運算思維、程式設計及問題解決能力。課程透過程式實作及應用，引導學生將問題轉化為可執行的程式。修習本課程後，學生將具備閱讀、撰寫及修改基礎 Python 程式的能力，並為後續資料分析及財金相關課程的學習奠定基礎。",
+  "content": "Topic 0: Course Introduction\n-\tCourse Orientation\n-\tWhy Python? Why Programming?\n-\tFinance careers\n\nTopic 1: Let's Code\n-\tGoogle Colab\n-\tYour first Python program\n-\tData Types & Operations\n-\tVariables and Assignments\n-\tPackages (NumPy & Matplotlib)\n-\tDrawing with Math\n\nTopic 2: Once and for All\n-\tFinance Challenge: Long-term Investment\n-\tFunction\n-\tOptimization with SciPy\n\nTopic 3: The Vectorization Mindset\n-\tLists, Tuples & Sets\n-\tNumPy Arrays & Vectorized Operations\n-\tBoolean Indexing\n\nTopic 4: What If...? What Else?\n-\tConditional statements (if / elif / else)\n-\tComparison and Logical Operators\n-\tProgram flow control\n\nTopic 5: Break the Loop\n-\tFor Loops\n-\tWhile Loops\n\nTopic 6: Game On: Deal or No Deal\n-\tFinance Challenge: Risk and Return\n-\tDictionary\n-\tProgram Design\n\nTopic 7: A Random World\n-\tFinance Challenge: Risk Management\n-\tRandom number generation\n-\tProbability distributions with SciPy\n-\tMonte Carlo simulation (Parallel Worlds)\n\nTopic 8: DataPanda\n-\tData formats: CSV, Excel, JSON, XML\n-\tImporting and exporting data\n-\tData exploration\n\nTopic 9: Filter Out the Impossible\n-\tData filtering\n-\tSorting\n-\tGroupBy and aggregation\n\nTopic 10: Let the Data Speak\n-\tData visualization\n-\tMoving averages\n-\t(Optional) Data Detective\n-\t(Optional) Introduction to Machine Learning\n\nFinal Exam\nTerm Project",
+  "books": "自編講義。\n少年Py的大冒險：成為Python數據分析達人的第一門課 (蔡炎龍等人，全華圖書，2023)\n金融科技實戰：Python與量化投資 (蔡立耑，博碩，2018)",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導\n其他",
+  "grading_policy": "後續公布",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-財務金融學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

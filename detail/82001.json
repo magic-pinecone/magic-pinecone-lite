@@ -1,0 +1,14 @@
+{
+  "serial_no": "82001",
+  "objectives": "This course intends to introduce the basic neuroscience.",
+  "content": "The course is designed for students without Neuroscience background, or even without Biology\nbackground, or even without Biology background. The scope of the course covers the basic structure and sensory and motor function of the nervous system, as well as the high function of the brain and related diseases. Students are expected to gain a broad perspective of how neural information is processed in the brain, and how brain activity determines individual behaviors in response to environmental stress.",
+  "books": "Exploring the Brain, 4TH edition, 2015, edited by Mark Bear, Barry Connors, and Michael Paradiso, Lippincott, Williams ＆ Wilkins, Baltimore, Maryland, USA",
+  "teaching_method": "講授",
+  "grading_policy": "期中+期末考",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限跨領域神經科學國際研究生博士學位學程。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "21030",
+  "objectives": "本課程之主要目標是學習解大型線性系統與特徵值問題的數值方法，並藉由學習這些數值方法的過程對線性代數中與應用相關之重要內容進行深化了解。學生同時必須學習如何借助電腦解決線性代數相關問題的技巧。",
+  "content": "本課程將討論科學計算與資料科學中衍生的兩大課題：大型線性方程組求解與特徵值問題。基本課程將包括：條件數的定義、穩定性的觀念、以向量及矩陣的模來進行誤差估計、由線性方程組的求解問題介紹順向及逆向的誤差分析觀念、直接與迭代特徵值演算法、最小平方法等。在本課程中，學生需撰寫程式以進行數值實驗來應証各種數值方法的理論分析並討論其優缺點。針對每個主題，我們也將進行小組實務個案研究分析。建議進度：1. 以迭代法解線性系統：矩陣與向量的範數介紹、特徵值與特徵向量、雅可比迭代法、高斯．賽德爾迭代法、SOR、共軛梯度法。2. 近似理論：最小平方法及正交多項式。3. 特徵值的近似：冪法、奇異值分解。4. 以直接法解線性系統：LU分解與Cholesky分解。",
+  "books": "1. Numerical Analysis, R. L Burden and J.D. Fairs, Brooks/Cole, 2010.2. Numerical Linear Algebra, Lloyd N. Trefethen, David Bau III, SIAM Society for Industrial and Applied Mathematics, 1997.3. Scientific Computing with Case Studies, D.P. O’Leary, SIAM, 2009.4. 張智星，MATLAB程式設計與應用",
+  "teaching_method": "講授",
+  "grading_policy": "期中期末考各占學期成績之35%、小考占百分之30%。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限二年級。班別:限B。指定課程:必須先修MA2007、先修MA2008、先修MA1018。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限四年級。班別:限B。指定課程:必須先修MA2007、先修MA2008、先修MA1018。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限數學系。年級:限三年級。班別:限B。指定課程:必須先修MA2007、先修MA2008、先修MA1018。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限理學院學士班。年級:限二年級、三年級、四年級。指定課程:必須先修MA2007、先修MA2008、先修MA1018。"
+    }
+  ]
+}

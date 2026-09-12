@@ -1,0 +1,26 @@
+{
+  "serial_no": "51008",
+  "objectives": "\"學習電荷在靜止時或移動中所造成的效應。瞭解基礎電磁原理與應用，建立繼續修習如微波工程及天線工程相關專業課程之根基。\nTo study the effects of electric charges that are at rest or in motion. To understand the basic principles in electromagnetics and the related applications. To lay the foundation for learning advanced topics such as microwave engineering and antenna engineering.\"",
+  "content": "\"- The Electromagnetic Model\n- Vector Analysis\n- Static Electric Fields\n- Solutions of Electrostatic Problems (Optional)\n- Steady Electric Currents\n- Static Magnetic Fields\n- Time-Varying Fields and Maxwell’s Equations (Optional)\"",
+  "books": "\"David K. Cheng \"\"Field and Wave Electromagnetics,\"\" 2nd ed., Addison-Wesley, 1989.\"",
+  "teaching_method": "講授",
+  "grading_policy": "1. 考試 (75%)\n2. 作業 (25%)\n3. 參與 (加分)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限二年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班、輔系-電機工程學系、雙主修-電機工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

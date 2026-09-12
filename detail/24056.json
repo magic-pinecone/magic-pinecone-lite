@@ -1,0 +1,22 @@
+{
+  "serial_no": "24056",
+  "objectives": "1.\t深入探討微生物學的最新研究趨勢與應用。\n2.\t培養學生獨立閱讀、思考及批判性分析高階研究文獻的能力。\n3.\t透過報告、討論與專題製作，強化學生的學術溝通與表達能力。\n4.\t引導學生了解微生物於環境、健康、產業及基因工程之重要角色。",
+  "content": "週次\t主題 (Topic)\t備註\n第1週\t課程介紹與微生物學研究前沿概覽\t分組與主題選擇\n第2週\t微生物基因體學 (Microbial Genomics)含次世代定序介紹\n第3週\t微生物代謝體學與系統生物學\t代謝分析與代謝網路模擬\n第4週\t環境微生物與生物修復 (Bioremediation)\t含污染物降解案例\n第5週\t微生物群聚與群體感應 (Quorum Sensing)\n第6週\t微生物與宿主互作 (Microbe-Host Interactions)\t含腸道菌相研究\n第7週\t臨床微生物與耐藥性\tAMR趨勢與機制\n第8週\t合成生物學在微生物上的應用\n第9週\t期中口頭報告 (Midterm Presentation)\t小組報告\n第10週\t工業微生物與發酵技術\t含代謝工程應用\n第11週\t病毒學新興議題（如病毒與癌症）\n第12週\t極端環境微生物 (Extremophiles)\n第13週\t微生物與氣候變遷\t含甲烷/CO₂代謝\n第14週\t微生物群體動態與演化\t含實驗演化設計\n第15週\t學術論文撰寫與發表技巧\t搭配案例分析\n第16週\t期末專題簡報與討論\t書面報告繳交\n第17週 彈性教學-自主討論學習\n第18週 彈性教學-自主討論學習",
+  "books": "1.\tBrock Biology of Microorganisms (最新英文版)\n2.\tEnvironmental Microbiology by Maier et al.\n3.\tPrinciples of Microbial Diversity by James W. Brown\n4.\t各週指定期刊文獻（Nature Microbiology, ISME J., Frontiers, mBio, 等）",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "•\t教師講授 (50%)\n•\t文獻導讀與討論 (30%)\n•\t學生口頭報告與專題簡報 (20%)\n•\t中英文雙語授課，搭配PPT、圖表、影片與研究數據呈現。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班、碩士班、博士班。"
+    }
+  ]
+}

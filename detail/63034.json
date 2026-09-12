@@ -1,0 +1,9 @@
+{
+  "serial_no": "63034",
+  "objectives": "“A presentation of the fundamentals of plasma measurement with a wide variety of applications in science, engineering, and other fields.“",
+  "content": "“Basic equations of plasma diagnostics: kinetic theory of gases, theory of diodes, plasma sheaths (low voltage DC sheath approximation, Bohm sheath model, Child law sheath, etc.)\n\nLangmuir probes: I-V curves, single probes (planer, cylindrical probes, and spherical probes), and double probes\n\nIon probes: theory of ion fluxes, data fitting to I-V curves, and oordinate transformation and data calibration\n\nFor more information, please visit http://athena.ss.ncu.edu.tw/“",
+  "books": "“References:\n\nForrester, A. T., Large Ion Beams, Fundamentals of Generation and Propagation, John Wiley ＆ Sons Inc., 1988\nHuddlestone, R. H. and S. L. Leonard, Plasma Diagnostic Techniques, 1968\nHutchinson I. H., Principles of Plasma Diagnostics, Cambridge University Press, New York, 1987\nKruer, W. The Physics of Laser Plasma Interactions, Addison-Wesley Publishing Company, 1988\nLochte-Holtgreven, W., Plasma Diagnostics, North-Holland Publishing Company, Amsterdam, 1968\nRoth, J. R., Industrial Plasma Engineering, Volume 1: Principles, IOP Publishing Ltd, Bristol, 1995“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "“Practices will be exercised during the mid-term and final weeks. After the practices, you would submit your reports for grading.“",
+  "distribution_conditions": []
+}

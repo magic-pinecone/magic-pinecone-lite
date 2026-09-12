@@ -1,0 +1,18 @@
+{
+  "serial_no": "10011",
+  "objectives": "https://taicatw.net/fall-115/",
+  "content": "https://taicatw.net/fall-115/",
+  "books": "https://taicatw.net/fall-115/",
+  "teaching_method": "講授",
+  "grading_policy": "https://taicatw.net/fall-115/",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "52050",
+  "objectives": "\"1.培養學生硬體之應用能力，以Arduino為基底的iOT物聯網晶片LinkIt 7697進行基礎之教學，使用C/C++語言。\n2.以7697與Zenbo機器人結合應用，進行程式設計進階之教學，使用Android語言。\n3.以Microsoft Azure AI服務，進行AI程式設計教學與應用，使用C#語言。\n4.結合課程所教內容，與數位劇場結合，構思設計期末專題。\"",
+  "content": "\"本課程以實作為主，並非完全上課型態。\n1.人數：因教材數量限制，限額20-24人。\n2.分組：4-5人一組，每組必須自行攜帶筆記型電腦(Windows作業系統)。\n3.程式能力要求：修課同學具Android/C#程式語言能力。\n4.實習：因課程特殊需求，某些課程時段將另外安排實習時間，可與助教排定預約時間。\n5.作業：每次課後均安排作業。\n6.期中會有期中成績評量與期中專題\n7.期末會有期末成績評量與期末專題\n8.課程大綱：\n(1)Arduino-連接麵包板/sensor\n(2)Arduino-Grove sensor\n(3)Arduino-App Inventor(BLE)\n(4)Arduino-WiFi/MCS雲服務\n(5)Arduino-機器人組裝與控制\n(6)Android基礎\n(7)Zenbo-遠端連線與控制\n(8)Zenbo-動作控制\n(9)數位劇場應用\n(10)AI-語音辨識與合成\n(11)AI-影像辨識\n(12)AI-姿勢辨識\n(13)AI-LUIS+Bot\"",
+  "books": "自編教材",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "1.作業45% 2.期中成績評量&期中專題25% 3.期末成績評量&期末專題30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限二年級、三年級、四年級。"
+    }
+  ]
+}

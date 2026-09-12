@@ -1,0 +1,26 @@
+{
+  "serial_no": "48019",
+  "objectives": "幫助學生達到成為一個合格股權分析師的最基本要件\nHelping students equip with basic skillsets of a qualified equity research analyst",
+  "content": "財務模型建立，實務股權評價觀念與技巧，公開演講技巧\nFinancial models construction, basic valuation methodology, presentation skills",
+  "books": "以業界經驗與教師本身自有教材為主，無教科書\nMainly self-prepared materials and experience sharing",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "課堂作業 (class assignment)： 20%\n課堂參與 (class participation)：30％\n期末報告 (final presentation)：50％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、財務金融學系碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系、財務金融學系。年級:限三年級、四年級。指定課程:必須先修MT1031、先修MT1032。"
+    },
+    {
+      "priority": 3,
+      "rule": "學院:限管理學院。年級:限三年級、四年級。指定課程:必須先修MT1031、先修MT1032。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。指定課程:必須先修MT1031、先修MT1032。"
+    }
+  ]
+}

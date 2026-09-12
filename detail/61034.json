@@ -1,0 +1,9 @@
+{
+  "serial_no": "61034",
+  "objectives": "建立學生分析大數據及使用AI的實際運用的技能。\n使學生了解統計上及AI上數據處理及分析技巧的不同。",
+  "content": "一、何謂大數據資料，如何適當整理大數據資料。\n二、何謂降維，如何將大數據資料轉換成可理解資訊（運用統計及AI方法）。\n三、如何運用運用統計及AI方法分析可理解之大數據資料。\n四、如何運用運用統計及AI方法製作大數據資料為基礎之預測模型。",
+  "books": "None.",
+  "teaching_method": "講授",
+  "grading_policy": "Homework 50％\nMid-term Presentation/Report 20％\nFinal Presentation/Report 30％",
+  "distribution_conditions": []
+}

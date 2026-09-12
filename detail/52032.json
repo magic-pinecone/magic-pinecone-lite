@@ -1,0 +1,22 @@
+{
+  "serial_no": "52032",
+  "objectives": "本課程的目標是提供圖挖掘和圖最佳化問題的廣泛介紹，包括基礎概念、方法、應用等。",
+  "content": "圖是一種廣泛應用於多種現實場景中的表示方法。通過定義作為節點的物件及物件間的關係，社交網路、交通網路、蛋白質結構、語言模型和知識圖等各種資料，都能以圖來展現。在本課程中，我們將首先介紹圖的基本模式和原理，隨後探討圖生成器。接著，我們將介紹重要的圖技術和關鍵的圖最佳化問題，以及其中涉及的圖查詢和索引方法。此外，本課程還將涵蓋圖深度學習的相關內容。",
+  "books": "參考書:\n1. Deepayan Chakrabarti and Christos Faloutsos. Graph Mining: Laws, Tools, and Case Studies. Synthesis Lecture on Data Mining and Knowledge Discovery\n2. Charu C. Aggarwal and Haixun Wang (Eds.). Managing and Mining Graph Data. Springer.",
+  "teaching_method": "講授",
+  "grading_policy": "作業 (15％)\n文獻報告 (15％)\n期中考試 (30％)\n期末專題 (35％)\n課堂參與 (5％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限人工智慧國際碩士學位學程。"
+    }
+  ]
+}

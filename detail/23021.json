@@ -1,0 +1,26 @@
+{
+  "serial_no": "23021",
+  "objectives": "本課程旨在培養學生掌握環境分析技術的理論基礎與實際應用，能夠熟悉現代化學分析方法與儀器對不同基質中之化學物質進行檢測與數據分析。學生將學習如何鑑定及定量環境樣品中之各類污染物，並將所學技術應用於環境品質評估與解決實際環境問題。通過本課程，學生將提升在環境科學領域中從事研究與實務工作的能力。",
+  "content": "A. 基礎統計與分析實驗室品保品管：共2週\nB. 大氣污染物分析：共7週\nB.1 空氣樣品收集與前處理\nB.2 空氣品質指標物質\nB.3 揮發性有機化合物\nB.4 溫室氣體\nB.5 氣膠\nB.6 同位素\nB.7 氣象參數觀測\nC. 水中污染物分析：共7週\nC.1 陰陽離子、pH、導電度\nC.2 重金屬\nC.3 無機化合物\nC.4 有機酸\nC.5 持久性有機污染物\nC.6 殘留農藥\nC.7 環境微生物\nD. 新興污染物分析：共2週\nD.1 塑膠微粒\nD.2 工業化學物質\nD.3 藥物和個人護理用品\nD.4 內分泌干擾物質",
+  "books": "1. Quality Assurance and Quality Control in the Analytical Chemical Laboratory, 2nd edition, by P. Konieczka and J. Namieśnik, 2020.\n2. Chemistry of the Upper and Lower Atmosphere: Theory, Experiments, and Applications, by B.J. Finlayson-Pitts and J.N. Pitts, 1999.\n3. Continuous Emission Monitoring, 3rd edition, by J.A. Jahnke, 2022.\n4. Chromatographic Analysis of the Environment, 3rd edition, edited by L.M Nollet, 2006.\n5. 環境分析-原理與應用, by楊末雄等, 2012.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "1. Exam (30％)\n2. Report and oral discussion (50％)\n3. Attendance and learning attitude (20％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限工學院。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限地球科學學院。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

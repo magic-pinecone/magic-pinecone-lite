@@ -1,0 +1,22 @@
+{
+  "serial_no": "32057",
+  "objectives": "This course offers an introduction to finite element (FE) methods applied as applied to (initial) boundary value problems in engineering. Throughout the course, the FE method will be applied to transient and steady-state heat conduction, and elastostatics for continua. Finite element analysis of reticulated structures will also be discussed. MATLAB programming will be used to practice the calculation of common elements.",
+  "content": "The class is designed to cover basic theory and demonstration of concept. Solved example problems and homework assignments will reinforce the materials covered during lectures. The tentative list of topics to be covered is listed below and closely follows chapters in the textbook. The schedule is subjected to change depending on time constraints. The course will occasionally utilize MATLAB when working on example problem and assignments. MATLAB access is provided through NCU computer center to all enrolled students or can be used in the computer office of the civil engineering department.\n\nHandouts, assignments, homework solutions, etc., will be provided through the course web page. Bi-weekly problem sets will be assigned as shown below. These assignments are designed to cement your basic understanding of the principles covered in class. Due to limited lecture time, some ideas and applications may be introduced in the homework assignments.\n\nCourse Topics\n\nWeek 1 – Week 3:\n\n- Math preliminaries: Vectors, tensors, vector calculus, grad, div, divergence theorem, summation convention, matrix algebra\n\n- Boundary value problems in Elasticity\n\nWeek 4 – Week 9:\n\n- Ritz and Galerkin methods\n\n- FE method for 1D problems: weak (variational) forms, shape functions, stiffness matrix, global assembly, boundary conditions, node numbering, the isoparametric concept\n\n- Principle of virtual work\n\n- Computer implementation\n\n- Midterm exam\n\nWeek 10 – Week 17:\n\n- FE method for multi-dimensional problem: 2D heat conduction, isoparametric concept, element shape functions\n\n- 2D/3D linear elasticity\n\n- Numerical integration: Gauss quadrature, element stiffness matrix, load vectors, stabilized conforming nodal integration\n\n- Computer implementation\n\nWeek 18 (depends on schedule):\n\n- Computer implementation\n\n- Review of contents\n\n- Final exam",
+  "books": "Hughes TJR, The Finite Element Method: Linear Static and Dynamic\nFinite Element Analysis, Dover 2000 (recommended)\nHjelmstad KD, Fundamentals of Structural Mechanics, 2nd ed.,\nSpringer, 2005 (recommended)",
+  "teaching_method": "講授",
+  "grading_policy": "Homework (30％) Midterm Exam (35％) Final Exam (35％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限土木工程學系。年級:限三年級。"
+    }
+  ]
+}

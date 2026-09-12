@@ -1,0 +1,14 @@
+{
+  "serial_no": "22069",
+  "objectives": "\"The course is intended to give the students a basic training in quantum mechanics. In the first semester we learned the necessary mathematical tools, developed the subject from the postulates of quantum mechanics, and addressed the indispensable preliminaries. In this coming second semester of the course, the emphasis of the course will be on the second half of the following textbook.\"",
+  "content": "\"Symmetry and their consequences\nRotational invariance and angular momentum\nThe hydrogen atom\nSpin\nAddition of angular momenta\nVariational and WKB methods\nPerturbation theories\nScattering theory\"",
+  "books": "\"Principles of Quantum Mechanics, Second Edition, by R. Shankar, (Plenum)\nQuantum Physics, Second Edition, by Stephen Gasiorowicz, (Wiley)\"",
+  "teaching_method": "講授",
+  "grading_policy": "Homework (50%).\nExamination (50%).",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

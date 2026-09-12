@@ -1,0 +1,18 @@
+{
+  "serial_no": "24049",
+  "objectives": "<<選課前，請先與授課老師聯絡討論。>>\n表徵的演化是生物多樣性的根本。近年來，隨著分子生物學的突飛猛進，我們對表徵演化遺傳基礎的認知，已從傳統遺傳學跨越至分子遺傳學的範疇。\n本專題研究課程旨在引導學生透過研讀尖端期刊的研究報告，對此研究領域建立深厚的學理基礎。本課程的核心目標如下：\n1. 深入理解：使學生掌握從傳統遺傳學到分子遺傳學在表徵演化理論上的發展與演變。\n2. 文獻評析：培養學生批判性閱讀學術期刊的能力，藉此掌握當前的研究趨勢與分子技術應用。\n3. 研究實踐：引導學生將課堂所學之理論架構與研究方法，具體應用於其自身的學位論文研究中。",
+  "content": "1.Introduction\n2.Principle of Phenotypic Evolution\n3.Genetic Basis of Phenotypic Evolution\n4.Principle of Molecular Genetics\n5. Population Genetics I\n6. Population Genetics II\n7. Molecular Basis for Phenotypic Change\n8. Genome Organization for Phenotypic Change\n9. Cis and Trans Regulation\n10. Evo-Devo in Embryogenesis\n11. Epigenetic Contribution in Phenotypic Evolution\n12. Case Study I: Phenotypic Plasticity\n13. Case Study II: Modularity\n14. Case Study III: Body Color\n15. Case Study IV: Body Plan\n16. Case Study V: Behavior and Physiology\n17. Self-learning: paper reading and experiments\n18. Self-learning: paper reading and experiments",
+  "books": "專業領域科學期刊文章",
+  "teaching_method": "個別指導\n其他",
+  "grading_policy": "Discussion and Participation 100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    }
+  ]
+}

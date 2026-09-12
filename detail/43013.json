@@ -1,0 +1,26 @@
+{
+  "serial_no": "43013",
+  "objectives": "1. 增進組織行為概念的知識與理解。\n2. 應用組織行為概念於真實世界中管理的問題。\n3. 鼓勵學生應用所學以強化成為管理者與領導者的能力。",
+  "content": "什麼是組織行為學？\n組織中的多元性、公平性與包容性\n態度\n情緒與心境\n人格與個體差異\n知覺與個人決策\n動機理論\n群體\n理解工作團隊\n溝通\n領導力、權力與政治\n衝突與協商\n組織文化與變革",
+  "books": "Robbins, S.P. & Judge, T.A. (2022). Essentials of Organizational Behavior, 15the. Pearson Publishing Co. 滄海",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "期中評量(25%)、期末評量(25%) 課堂參與(25%)、分組活動(25%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系。身份:限重修生。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-資訊管理學系、雙主修-資訊管理學系、學分學程-電子商務(EC)、學分學程-創意與創業。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

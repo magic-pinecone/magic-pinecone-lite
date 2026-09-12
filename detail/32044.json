@@ -1,0 +1,26 @@
+{
+  "serial_no": "32044",
+  "objectives": "“The course aims to impart moderate to advanced knowledge regarding probability and statistics, and the application to reliability and risk assessment, especially in geotechnical engineering.  After the course, the students are able to evaluate the reliability of geotechnical facilities, and make proper decisions during reliability-based designs.“",
+  "content": "“Review of probability and statistics\nBayesian approach\nFunction of random variable\nMonte Carlo Simulation\nPoint estimate method\nFirst-order second-moment approach\nAdvanced first-order second-moment approach\nMarkov chain\nLoad and resistance factor design“",
+  "books": "“Probability concept in engineering: emphasis on applications to civil and environmental engineering, 2nd ed., by A. Ang abd W. Tang\nRisk assessment in geotechnical engineering, by G. Fenton and D.V. Griffiths“",
+  "teaching_method": "講授",
+  "grading_policy": "考試 90%\n作業5%\n課堂表現5%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系碩士在職專班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限土木工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限土木工程學系。年級:限三年級。"
+    }
+  ]
+}

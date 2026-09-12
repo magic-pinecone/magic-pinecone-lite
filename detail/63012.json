@@ -1,0 +1,26 @@
+{
+  "serial_no": "63012",
+  "objectives": "This class will be taught in English.\n目標是向學生傳授太陽/恆星內部結構的物理。",
+  "content": "“太陽內部結構\n課程將涵蓋以下主題：\n1。狀態方程\n2。靜力平衡\n3。能源運輸（輻射和對流）\n4。核反應\n5。恆星結構的數值計算“",
+  "books": "“Lecture Notes on Stellar Structure and Evolution, by Joergen Christensen-Dalsgaard“",
+  "teaching_method": "講授",
+  "grading_policy": "功課（25％）\n考試（75％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限太空科學與工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班。年級:限三年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限太空科學與工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限太空科學與工程學系。年級:限二年級。"
+    }
+  ]
+}

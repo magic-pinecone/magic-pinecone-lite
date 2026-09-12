@@ -1,0 +1,14 @@
+{
+  "serial_no": "21076",
+  "objectives": "研討碩士論文之研究與寫作。",
+  "content": "研讀與討論碩士論文相關議題與文獻。",
+  "books": "研究文獻。",
+  "teaching_method": "研討\n\n個別指導",
+  "grading_policy": "出席與綜合表現。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "85011",
+  "objectives": "本課程之目的在協助學生理解與學習於人工智慧以及機械學習領域之中的數學基礎，進而獲得對資料分析、建模與分群之能力。",
+  "content": "Week 1~2: 線性映射\nWeek 3~4: 仿射空間\nWeek 5~6: 正交投影\nWeek 7~8: 旋轉\nWeek 9: 期中報告\nWeek 10~11: 特徵值分解與對角化\nWeek 12~13: 奇異值分解\nWeek 14~15: 矩陣梯度\nWeek 16~17: 背向傳遞與自動微分\nWeek 18: 期末報告",
+  "books": "1. Deep Learning (Adaptive Computation and Machine Learning series), by I. Goodfellow, Y. Bengio, and A. Courville\n2. Pattern Recognition and Machine Learning, by C. M. Bishop\n3. Machine Learning - A Probabilistic Perspective, by K. P. Murphy",
+  "teaching_method": "講授",
+  "grading_policy": "課程參與 20％、期中報告 40％、期末報告 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    }
+  ]
+}

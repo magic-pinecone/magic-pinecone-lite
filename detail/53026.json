@@ -1,0 +1,18 @@
+{
+  "serial_no": "53026",
+  "objectives": "使修課同學具備從事數位訊號處理之工作所需之實力。",
+  "content": "週次\t內容\t備註\n1\tIntroduction of Signal and Signal Processing\n2\tDiscrete-Time Signals and Systems\n3\tDiscrete-Time Fourier Transform\n4\tDiscrete-Time Fourier Transform\n5\tDigital Processing of Continuous-Time Signals\n6\tFinite-Length Discrete Transform\n7\tFinite-Length Discrete Transform\n8\tMidterm exam.\n9\tz-Transform\n10\tz-Transform\n11\tLTI Discrete-Time Systems in the Transform-Domain\n12\tDigital Filter Structures\n13\tFIR Digital Filter Design\n14\tDSP Algorithm Implementation\n15\tMultirate Digital Signal Processing Fundamentals\n16\tFinal exam.",
+  "books": "1.教科書：S.K. Mitra, Digital Signal Processing-A Computer-BasedApproach, McGraw-Hill 滄海書局\n2.參考書：S.K. Mitra, Digital Signal Processing Laboratory Using MATLAB, McGraw-Hill\n3.輔助教材：軟體Matlab",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "Homework (including computer exercises): 25％\nFinal project:(extra credits for best ones): 15％\nMidterm exam: 30％\nFinal exam: 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系碩士在職專班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系碩士在職專班。"
+    }
+  ]
+}

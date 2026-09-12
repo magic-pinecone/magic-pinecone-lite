@@ -1,0 +1,18 @@
+{
+  "serial_no": "33059",
+  "objectives": "絕大部分之實際流場為紊流，本課將嚐試從紊流定義開始，以基礎觀測實驗為輔，介紹Kolmogorov相似性假設、紊流長度和時間尺度、動量紊流傳輸、Reynolds方程式、紊流動力學(含動能、渦度等)以及紊流之統計描述等等，以讓學生學習到（1）紊流基本認識；（2）處理紊流問題之某些方法和其限制；（3）部份紊流仍未解的挑戰處。",
+  "content": "\"教學大綱：\n1. 認識紊流（例如：自然和工程流場等）\n2. 流體力學基礎回顧\n3. 紊流的起源與產生\n4. 紊流之現象描述\n5. 紊流之能量傳遞輸送機制\n6. 紊流運動學\n7. 紊流動力學\n8. 紊流之時空特徵結構與間歇性\n9. 紊流的基礎應用\n10. 紊流問題之矛盾與謬思\"",
+  "books": "\"Tennekes, H. & Lumley, J.L. 1972 A First Course in Turbulence, MIT Press, Cambridge.\nFrisch, U. 1995 Turbulence, Cambridge University Press, Cambridge.\nCurrie, I.G. 1974 Fundamental Mechanics of Fluids, McGraw-Hill, New York.\nWhite, F.M. 2006 Viscous Fluid Flow, 3rd Ed., McGraw-Hill, Boston.\nVan Dyke, M. 1982 An Album of Fluid Motion, Parabolic Press, Stanford.\"",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Lectures\n-- review of basic fluid mechanics\n-- introduction of fundamental turbulence concept and model\n-- physical interpretations\n-- mathematical\n-- correct/ask questions\nHome Works\n-- rationale for problems, normally due following week, returned and discussed week after\n-- ~ 20% of grade\nAssignments\t(to be announced)\n-- read the assigned paper, give its incremental presentation, and have group discussion in the class\n-- 1~3 papers depending on the actual process (e.g., understanding)\n-- ~ 25% of grade (individual presentation, group discussion, Q&A)\nReviewing papers or Final exam\t(to be announced)\n-- Mid-term Exam (~25%)\n-- select a topic of interest, relevant to turbulence; you may talk to me about it; date to submit a topic will be given\n-- find and read 1~2 key papers; go through of J. of Fluid Mech., Annual Review Fluid Mech., Physics of Fluids, etc\n-- hand in a 2-3 pages outline; date of due will be given in the class\n-- hand in review (up-to-date); date of due will be given\n-- oral presentation; date will be given\n-- ~30% of grade",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、能源工程研究所碩士班、機械工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    }
+  ]
+}

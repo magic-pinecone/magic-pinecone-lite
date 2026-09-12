@@ -1,0 +1,22 @@
+{
+  "serial_no": "24007",
+  "objectives": "實驗操作課程 熟習生物化學相關實驗技巧",
+  "content": "第一週 ：課程介紹/防護具、實驗室廢棄物及危害預防教育訓練\n第二週 ：實驗室安全衛生教育訓練、化學性、生物性危害通識教育訓練/Pipetman構造介紹及操作說明\n第三週 ：胺基酸紫外光譜分析及應用(UV absorbance)\n第四週 ：蛋白質濃度測定(Bradford’s method)\n第五週 ：細菌的培養與觀察\n第六週 ：大腸桿菌勝任細胞之製作及轉型作用\n第七週 ：大腸桿菌質體DNA的抽取\n第八週 ：期中考週\n第九週 ：核酸內切酶切割及切割產物電泳\n第十週 ：聚合酶鏈鎖反應原理、應用、操作\n第十週 ： PCR產物電泳分析\n第十一週：蛋白質的純化\n第十二週：SDS-PAGE原理 (製膠)\n第十三週：聚丙醯胺凝膠電泳法(SDS-PAGE跑膠)\n十四週：生物資訊\n第十五週：大學部專題實驗室說明會\n第十六週：期末考",
+  "books": "實驗講義Biochemistry (4th Ed.) Mathews, Van Holde, Appling,Anthony-Cahill",
+  "teaching_method": "實習/實驗\n個別指導",
+  "grading_policy": "學期評分：實驗報告50％，期末考25％，小考10％，平時成績15％。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

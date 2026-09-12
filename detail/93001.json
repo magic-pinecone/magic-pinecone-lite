@@ -1,0 +1,26 @@
+{
+  "serial_no": "93001",
+  "objectives": "現代社會中，電腦在日常生活與產業發展中扮演關鍵角色，例如工業製程自動化、科學計算與分子模擬皆高度依賴程式運算。本課程以 Python 為主要教學語言，循序漸進地介紹程式設計基礎，並透過實作範例引導學生應用程式語言解決化學與材料工程中的實際問題。課程強調實用導向，培養學生撰寫與應用程式的能力，為後續專業課程與研究奠定基礎。",
+  "content": "1. 學習程式語言前的暖身知識\n2. Python的基本概念\n3. 流程控制：條件判斷\n4. 流程控制：迴圈\n5. 函數\n6. 序列集合(I)：字串與串列\n7. 序列集合(II)：二維串列與元組\n8. 映射與集合型別：字典與集合\n9. NumPy數值計算\n10. Matplotlib資料視覺化",
+  "books": "1. Art Yudin. Basic Python for Data Management, Finance, and Marketing Advance Your Career by Learning the Most Powerful Analytical. 1st ed., Apress (2021)\n2. José Unpingco. Python Programming for Data Analysis. Springer (2021)\n3. Kevin Wilson The Absolute Beginner's Guide to Python Programming A Step-by-Step Guide with Examples and Lab Exercises. 1st ed., Apress (2022)\n4. Paul Deitel, Harvey Deitel. Intro to Python for Computer Science and Data Science. Global ed., Pearson FT Press (2022)",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "期中考_1: 20％\n期中考_2: 20％\n期末考: 20％\n作業或小考: 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限化學工程與材料工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

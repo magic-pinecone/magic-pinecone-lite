@@ -1,0 +1,18 @@
+{
+  "serial_no": "62009",
+  "objectives": "(1) 學習矩陣及行列式的性質與運算。\n(2) 學習向量空間與正交性的概念，及其在求解線性聯立方程式的應用（線性回歸法）。\n(3) 學習線性轉換，以了解矩陣本徵值及本徵向量的意義及應用。\n(4) Matlab程式演練。",
+  "content": "1、線性方程式（Systems of Linear Equations）--介紹線性聯立方程式的來源與意義。\n2、矩陣（Matrices and Determinants）--說明矩陣及行列式的結構及運算技巧, 實例分析。\n3、向量空間及子空間（Vector Spaces and Subspaces）--介紹向量空間之意義。\n4、正交性（Orthogonality）--說明向量空間的正交性及其在least squares method上的意義。\n5、線性轉換（Linear Transformations）--說明線性轉換之目的及技巧。\n6、特徵值問題（Eigenvalue Problems）--說明特徵值的意義及其在物理或工程上之應用。\n7、奇異值分解（Singular Value Decomposition）\n修課限制: 限地科系，外系密碼卡“",
+  "books": "教科書\nLay, D. C., R. S. Lay, and J. J. McDonald, Linear Algebra and its Applications, 5th ed., Pearson, 2015.\n參考書\n1、Strang, G., Introduction to Linear Algebra, 4th ed., Wellesley-Cambridge Press, 2009. (Textbook website: http://math.mit.edu/linearalgebra/)\n2、線性代數的世界，李國偉譯，天下遠見出版，2005.“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "“平時考核(作業): 40％\n\n小考: 20％\n\n期中考: 15％\n\n期末考: 20％\n\n上課出席: 5％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "13027",
+  "objectives": "Ce cours s‘attache à développer les capacités d‘expression écrite des étudiants à travers la formulation de textes structurés de niveaux simple et intermédiaire et le renforcement de la maîtrise des aspects lexicaux, syntaxiques, analytiques et formels.\nL‘utilisation des outils de l‘IA pour l‘expression écrite est abordée.",
+  "content": "Groupe A:\n\nLe cours est construit autour de l‘analyse et la production de divers types de textes (descriptif, narratif, explicatif et argumentatif) et la maîtrise grammaticale et syntaxique du français écrit, notamment des connecteurs logiques. Les étudiants s‘exerceront à produire, selon un rythme progressif, les textes suivants : lettres de types divers (invitation, renseignement, correspondance, motivation), textes de présentation/description de faits et de nouvelles, textes de fiction, articles de journaux, et ébauche de composition argumentée.\n\nGroupe B:\n\nLes étudiants devront produire des énoncés construits de différentes : énoncés descriptifs (petite note de synthèse, résumé de documents, rédaction de portraits), énoncés narratifs (courts récits de fiction à partir de nouvelles littéraires simples), énoncés argumentatifs (recherche argumentaire et développement critique sur des sujets polémiques).",
+  "books": "Polycopiés préparés et distribués par le professeur",
+  "teaching_method": "講授",
+  "grading_policy": "Participation en cours et attitude : 15 ％\nPrésentation en classe et interrogations écrites : 25 ％\nExamens de mi-semestre et fin de semestre : 60 ％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限法國語文學系。年級:限三年級。學號:限單號。指定課程:必須先修FR2031、先修FR2032。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限法國語文學系。年級:限四年級。指定課程:必須先修FR2031、先修FR2032。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限雙主修-法國語文學系。指定課程:必須先修FR2031、先修FR2032。"
+    }
+  ]
+}

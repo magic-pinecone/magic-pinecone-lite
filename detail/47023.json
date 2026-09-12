@@ -1,0 +1,18 @@
+{
+  "serial_no": "47023",
+  "objectives": "論文寫作",
+  "content": "論文寫作",
+  "books": "教師與指導學生討論後定之",
+  "teaching_method": "個別指導",
+  "grading_policy": "■Paper/Theses Writing (報告/論文)\t100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限人力資源管理研究所碩士在職專班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限人力資源管理研究所碩士在職專班。"
+    }
+  ]
+}

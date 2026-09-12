@@ -1,0 +1,22 @@
+{
+  "serial_no": "62027",
+  "objectives": "本課程教授沈積學與地層學。課程內容包括沈積物的成因、搬運、沈積岩的物理性質、組成、分類以及成岩作用。沈積環境、地層學以及盆地分析也是授課內容之一。本課程另包含2天的野外地質訓練。",
+  "content": "“課程內容見：http://basin.earth.ncu.edu.tw/Course/Sedimentary/Syllabus.htm\n講議下載：http://basin.earth.ncu.edu.tw/Course/Sedimentary/notes/notes.htm“",
+  "books": "無",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Midterm exam 30％\nFinal exam 30％\nField trip 20％\nAssignments 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限地球科學學院學士班。"
+    }
+  ]
+}

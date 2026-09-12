@@ -1,0 +1,18 @@
+{
+  "serial_no": "33025",
+  "objectives": "“熱是能量作用的一種方式，在有溫度梯度的情況下，以傳導、對流及輻射的方式傳遞，此課程介紹各種熱傳遞的方式及在應用於工程的實例。學生將能展示以下能力：\n(1) 瞭解熱傳導、熱對流及熱輻射三種熱傳方式的原理及基本性質。\n(2) 以數值方法解簡單熱傳方程式\n(3) 無因次參數的使用\n(4) 建立模型，分析及描述系統熱傳遞“",
+  "content": "“熱是能量作用的一種方式，在有溫度梯度的情況下，以傳導、對流及輻射的方式傳遞，此課程介紹各種熱傳遞的方式及在應用於工程的實例。學生Chap. 1  Essential Concepts\nChap. 2  Fundamental Concepts of Conduction\nChap. 3  Steady-State, One-dimensional Conduction\nChap. 4  Steady-State , Multi-dimensional Conduction\nChap. 5  Time-Dependent Conduction\nChap. 6  Fundamental Concepts of Convection\nChap. 7  External Forced Convection\nChap. 8  Internal Forced Convection\nChap. 9  Natural Convection\nChap. 10     Fundamental Concepts of Radiation\nChap. 11   Radiative Transfer Between Two or More Surfaces“",
+  "books": "Text Book：\tF. P. Incropera, D. P. DeWitt, T. L., Bergman, and A. S. Lavine, Global Edition, 2017, “Principles of Heat and Mass Transfer,” 滄海, (04) 2708-8787\nReferences：\t1. J. P. Holman, 9th Ed., 2002, “Heat Transfer,” 美亞, (02) 2703-3016\n2. J. Taine and J-P Petit, 1993, “Heat Transfer,” 高立, (02) 2361-5330",
+  "teaching_method": "講授",
+  "grading_policy": "作業10％，小考30％，期中考30％，期末考30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限三年級。班別:限C。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限一年級、二年級、四年級。"
+    }
+  ]
+}

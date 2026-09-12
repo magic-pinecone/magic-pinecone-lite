@@ -1,0 +1,18 @@
+{
+  "serial_no": "53030",
+  "objectives": "將介紹目前主要的無線區域網路的技術，以WiFi技術為主。課程內容將介紹系統架構與通訊協定(Protocol)之運作、特性與效能。",
+  "content": "週次\t內容\t備註\n1\tIEEE 802 計畫簡介\n2\tIEEE 802.3 協定介紹\n3\tIEEE 802.3 協定介紹\n4\tIEEE 802.11 PHY介紹\n5\tIEEE 802.11 PHY介紹\n6\tIEEE 802.11 MAC介紹\n7\tIEEE 802.11 MAC介紹\n8\t期中考\n9\tIEEE 802.11a/b PHY介紹\n10\tIEEE 802.11a/b PHY介紹\n11\tIEEE 802.11g PHY介紹\n12\tIEEE 802.11n PHY介紹\n13\tIEEE 802.11n PHY介紹\n14\tIEEE 802.11 MAC介紹\n15\tIEEE 802.11n MAC介紹\n16\tIEEE 802.11n MAC介紹\n17\tIEEE 802.11ac/ad/ax/ay PHY/MAC 簡介\n18\t期末考",
+  "books": "教科書：IEEE 802.11x規格書",
+  "teaching_method": "講授",
+  "grading_policy": "•\t期中考(Mid-term Exam) 30%\n•\t期末考(Final Exam) 30%\n•\t作業及小考(Homeworks) 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系碩士在職專班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士在職專班。學院:限資訊電機學院。"
+    }
+  ]
+}

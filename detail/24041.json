@@ -1,0 +1,30 @@
+{
+  "serial_no": "24041",
+  "objectives": "質體 (plasmid) 是染色體外，帶有遺傳訊息的DNA。在分子遺傳及基因重組的研究與實驗上，質體扮演著不可或缺的角色。然而，實驗室裡用到的質體只是所有質體的一小部份，自然界更存在著各式不同性質的質體。本課程主要即在對質體的特性作介紹，以期習修者能對質體有概括的認識。",
+  "content": "授課大綱\n\n週次\n\n1.  The structure and organization of plasmid\nUnderstanding DNA\n2.  Plasmid classification\nIncompatibility\n3.  Theory for the preparation of plasmid DNA\nCsCl banding and alkaline denaturation\n4.  Structural fluidity of plasmid genomes\ntransposons and recombination\n5.  Essential components of replication control systems\n6.  Strategies of replication control\npassive and active\n7.  The control of plasmid replication\nAntisense RNA inhibitors\nColE1-like plasmid\nRom: a matchmaker protein\npT181:transcriptional attenuation\n8.  Plasmid instability\n9.  Mid-term Exam\n10.  Plasmid distribution at cell division\n11.  Stability functions of high copy number plasmid\nCopy number variance\nOligomers of natural plasmid\nColicin productin\n12.  Active partition system\n13.  Mechanisms of plasmid spread\nTransduction\nTransformation\nConjugation\n14.  Plasmids and the spread of antibiotic resistance\nMechanisms of antibiotic resistance\n15.  The clinical consequences of antibiotic resistance\n16.  Agrobacterium Ti and Ri plasmid\n17.  Plasmid biotechnology – cloning and expression vectors\n18.  Final Exam",
+  "books": "隨堂筆記",
+  "teaching_method": "講授\n研討\n\n其他",
+  "grading_policy": "Mid-term exam: 40％\nFinal exam: 40％\nTerm paper (or presentation) 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限學分學程-生科職涯。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班、碩士班、博士班。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

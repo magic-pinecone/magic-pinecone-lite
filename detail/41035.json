@@ -1,0 +1,18 @@
+{
+  "serial_no": "41035",
+  "objectives": "本課程旨在深入探討 SAP ERP S/4 HANA GUI/FIORI系統 。學生將學習核心組織結構配置，並透過 後勤模組與程式語言的交互堆疊協助，更全面掌握各模組（SAP FI／CO／WM／EAM／PS／CS）核心功能，包含採購、銷售、應付帳款與成本中心會計、庫存管理、專案管理及客戶服務。同時，本課程結合 SAP Learning Hub 線上電子學習資源、後勤資源及程式語言，輔導學生考取 SAP TS 410 財務模組及SAP 業界原廠專業認證。",
+  "content": "Part 1\nSAP S/4HANA Enterprise Management: Overview\nNew User Experience: SAP Fiori UX\nSystem-wide concepts\nRecord to Report Processing: Financial Accounting and Management Accounting\nHire to Retire Processing in SAP S/4HANA\nSource to Pay Processing in SAP S/4HANA\nWarehouse ＆ Inventory Management\nDesign to Operate Processing in SAP S/4HANA\nLead to Cash Processing in SAP S/4HANA\nProject System\nSAP Enterprise Asset Management\n\nPart 2\nIntroduction to SAP Programming Development  Tools and\nUse Open SQL and native SQL to extract all your Part 1 practice.\n\nPart 3\nthe SAP TS 410 Financials certification and obtain official SAP certifications.",
+  "books": "TS410 Integrated Business Process in SAP S/4HANA\nCourse Version 17 (2020)\nMaterial Number:50156658\n\nSAP Programming for SAP HANA\nCourse Version 17 (2020)\nMaterial Number:50151161\n\nSelf-edited SAP moudles' teaching materials",
+  "teaching_method": "講授",
+  "grading_policy": "The SAP moudles homework will contribute 30％ toward the grade, and the TS410 exercise and SAP certification will contribute 70％ toward the grade.",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。學院:限管理學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。學院:限管理學院。"
+    }
+  ]
+}

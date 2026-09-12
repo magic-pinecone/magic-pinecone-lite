@@ -1,0 +1,22 @@
+{
+  "serial_no": "34006",
+  "objectives": "本課程指在銜接普化課程，以無機化學，固態化學及奈米材料化學為主。",
+  "content": "第一章 引言\n\n第二章 固態化學\n\n第三章 酸與鹼\n\n第四章 電化學\n\n第五章 自然界與工業中的元素\n\n第六章 金屬\n\n第七章 奈米材料\n\n第八章 材料分析",
+  "books": "1. Materials Chemistry, 4th edition, Bradley D. Fahlman.\nhttps://link.springer.com/book/10.1007/978-3-031-18784-1\n2. Chemistry: The Molecular Nature of Matter, M. S. Silberberg. 2nd ed., McGraw-Hill: New York, 2000.\n3. Chemical Principles, 5th edition, Peter Atkins and Loretta Jones\n4. Nanostructures and Nanomaterials: Synthesis, Properties and Applications, 2nd edition, Guozhong Cao, Imperial College Press.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "出席情況：10％\n口頭報告：30％\n期中考試：30％\n期末考試：30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學工程與材料工程學系、工學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

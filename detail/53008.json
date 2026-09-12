@@ -1,0 +1,26 @@
+{
+  "serial_no": "53008",
+  "objectives": "使學生了解複數函數、Cauchy 定理、複數級數、殘值積分及保角映射等基本原理與應用。",
+  "content": "週次 內容\n1 複數基礎與運算\n2 解析函數與複數微分\n3 Cauchy-Riemann 方程式\n4 基本複數函數\n5 曲線積分與路徑獨立性\n6 Cauchy 積分理論\n7 Cauchy 積分延伸公式\n8.期中測驗\n9 指數級數\n10 Taylor 級數\n11 Laurent 級數\n12 零點與極點\n13 殘值定裡\n14 殘值積分與應用\n15 保角映射\n16 期末測驗",
+  "books": "主要教科書(英文)：\n1. E. B. Saff and A. D. Snider, Fundamentals of Complex Analysis: Engineering, Science, and Mathematics, 3rd Edition, 2014.\n2. D. G. Zill and P. D. Shanahan, Complex Analysis: A First Course with Applications, 3rd Edition, 2015.\n參考書(英文)：\nJ. W. Brown and R. V. Churchill, Complex Variables and Applications, McGraw-Hill, 9th ed. 2014.\"",
+  "teaching_method": "講授",
+  "grading_policy": "作業及小考:30%\n期中考:40%\n期末考:30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系、資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-通訊工程學系、雙主修-通訊工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。"
+    }
+  ]
+}

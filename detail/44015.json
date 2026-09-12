@@ -1,0 +1,22 @@
+{
+  "serial_no": "44015",
+  "objectives": "本課程的主要目標是介紹經濟預測方法, 學習基本的時間序列計量模型, 以及如何分析資料,將其應用於商業和經濟議題。學生將從本課程中學習的基本技能包括：\n1)\t以圖形和統計方法分析數據資料;\n2)\t了解經濟預測方法的基礎知識, 學習建模技術;\n3)\t估計預測模型;\n4)\t解釋估計結果或形成政策意涵。\n5)     經濟直覺訓練",
+  "content": "Course Outline:\n- Linear Regression Model and Hypothesis Testing\n- Dynamic Regression Models (Forecasting Models)\n- Forecasting Evaluation\n- What to Forecast? How to Forecast?\n\nThe specific contents that will be instructed include:\n\tData collection, organization, and basic analysis (e.g.主計總處資料庫, 美國聯準會資料FRED)\n\tFundamental statistical and regression concepts (線性迴歸模型複習)\n\tThe formulation and specification of forecasting models (時間序列預測模型, 預測評估)\n\tIntuition training (預測直覺訓練) (Judgment in forecasting involves analytic and intuitive processes.)",
+  "books": "Suggested Reference Book:\n1) Hill, R.C., Griffiths, W.E. and Lim, G.C. Principles of Econometrics, fourth edition, John Wiley & Sons, Inc., 2011.\n2) P.H. Franses, D. van Dijk, and A. Opschoor, Time Series Models for Business and Economic Forecasting, 2nd edition, Cambridge University Press, 2014.\n3) Diebold, F.X. Elements of Forecasting with Economic Applications, , 4th edition, Cengage Learning Pub, 2006.\n4) Baumohl, Bernard, The Secret of Economic Indicators: Hidden Clues to Future Economic Trends and Investment Opportunities, third edition, FT Press, 2012.\n\nFree-access Open Textbooks: (advanced level)\nDiebold, Francis .X. (2017), Forecasting: in Economics, Business, Finance and Beyond, Department of Economics, University of Pennsylvania.\nhttps://www.sas.upenn.edu/~fdiebold/Textbooks.html",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "1) 作業與隨堂測驗 (30%):\n2) 出席率(20%) 每次缺課扣10分\n3) Forecast Project (total 50%):\nStudents are required to carry out a forecast project and report the results in a written paper. You can work on an individual project or form a team that is consist of at most two students.\n- Project proposal (5%)\n- In-class presentation of forecasting result (25%)\n- Term paper (20%) 期末書面報告: about 8-15 pages",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限雙主修-經濟學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-經濟學系。年級:限三年級、四年級。"
+    }
+  ]
+}

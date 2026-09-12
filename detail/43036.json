@@ -1,0 +1,22 @@
+{
+  "serial_no": "43036",
+  "objectives": "課程目標：培養學生掌握電腦網路安全相關的基本知識、技術及應用能力，並為進一步從事資訊安全的相關研究或職涯發展奠定基礎。",
+  "content": "先備知識：企業資料通訊\n課程大綱：\n1.What Is Information Security?\n2.Types of Attacks\n3.Hacker Techniques\n4.Information Security Services\n5.Security Policy\n6.Managing Risk\n7.Information Security Process\n8.Firewalls\n9.Virtual Private Networks\n10.Encryption\n11.Intrusion Detection\n12.Paper Reading and Project Reports",
+  "books": "“上課用書：\nE. Maiwald, Fundamentals of Network Security, McGraw Hill, 2004\n\n參考書：\n1. W. Stallings, Cryptography and Network Security: Principles and Practice, 4th Edition, Prentice-Hall, 2006\n2. C. Pfleeger and S. Pfleeger, Security in Computing, 3rd  Edition,  Prentice-Hall, 2003.“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "作業：2個作業(含分組報告及思科學院線上課程修課） 30％\n期中考：  30％\n期末考:：  30％\n上課表現： 10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士班、資訊管理學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。年級:限四年級。"
+    }
+  ]
+}

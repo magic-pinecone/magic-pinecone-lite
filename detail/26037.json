@@ -1,0 +1,14 @@
+{
+  "serial_no": "26037",
+  "objectives": "幫助學生認識不同領域的最新工程技術。",
+  "content": "每週定期邀請光電及其他領域之專家學者，至系上發表演講。",
+  "books": "無",
+  "teaching_method": "講授",
+  "grading_policy": "“出席率：35％\n向講者提問：65％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系碩士在職專班。"
+    }
+  ]
+}

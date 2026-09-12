@@ -1,0 +1,22 @@
+{
+  "serial_no": "23012",
+  "objectives": "教授學生基本量子力學觀念與量子力學在化學上的應用",
+  "content": "量子力學概念與基本理論、氫原子結構、多電子原子結構、分子結構、群論及分子之對稱性質、轉動與振動光譜學簡介、電子光譜學簡介、磁共振光譜學簡介、分子間作用力",
+  "books": "Peter Atkins, Julio de Paula, and James Keeler, ”Atkins’ Physical Chemistry”, International Ed., Oxford University Press (2018).",
+  "teaching_method": "講授",
+  "grading_policy": "期中考50%, 期末考40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學學系。年級:限四年級、延修生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限三年級、四年級、延修生。"
+    }
+  ]
+}

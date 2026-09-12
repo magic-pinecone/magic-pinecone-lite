@@ -1,0 +1,18 @@
+{
+  "serial_no": "00019",
+  "objectives": "透過小說 學習道地日文",
+  "content": "透過實況的場面學習全面應用的日文",
+  "books": "容疑者ｘ的獻身",
+  "teaching_method": "講授",
+  "grading_policy": "所有平時成績之總平均 = 學期成績",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。指定課程:必須擋修LN0027。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。指定課程:必須擋修LN0027。"
+    }
+  ]
+}

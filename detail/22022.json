@@ -1,0 +1,22 @@
+{
+  "serial_no": "22022",
+  "objectives": "As a freshman-level calculus-based physics course for science and/or engineering students, the primary goal of PH1031 is to introduce the students to the core principles of physics that will serve as the basis for more advanced courses in their respective fields.",
+  "content": "Key topics of PH1031 include kinetics, Newton’s laws, work and energy, gravity, multi-particle and rigid-body dynamics, oscillations and waves, as well as heat and thermodynamics. PH1035 also emphasizes the application of calculus and basic\nvector analysis to physics. Lectures will closely follow the textbook (Chapters 1–19, except for 14 and 17), focusing on essential concepts due to time constraints, ensuring that students grasp the most fundamental and critical material.",
+  "books": "University Physics (4th ed.) by H. Benson",
+  "teaching_method": "講授",
+  "grading_policy": "Semester grade = Quizzes (30%) + Midterm (30%) + Final (40%).",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

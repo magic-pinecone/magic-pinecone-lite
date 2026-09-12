@@ -1,0 +1,18 @@
+{
+  "serial_no": "22049",
+  "objectives": "To get familiar with the basic concepts and calculations that will be used in research related to quantum systems.",
+  "content": "1. History: The goal of quantum mechanics.\n2. Quantum dynamics\n3. Multiple degrees of freedom\n4. One-dimensional systems\n5. Angular momentum\n6. Addition of angular momentum\n7. Perturbation\n8. Entanglement\n9. Relativity",
+  "books": "From qubit to qubit, Jeremy Levy, \tarXiv:2605.01585.\nModern quantum mechanics, J.J. Sakurai\nPrinciples of quantum mechanics, R. Shankar\nLectures on quantum mechanics, S. Weinberg",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Homework: 70%\nFinal exam: 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限物理學系、理學院學士班。年級:限四年級。"
+    }
+  ]
+}

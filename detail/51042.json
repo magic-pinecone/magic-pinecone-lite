@@ -1,0 +1,22 @@
+{
+  "serial_no": "51042",
+  "objectives": "本課程旨在介紹半導體元件之基本物理原理與操作機制，內容涵蓋半導體中的能帶與載子行為、均勻與非均勻半導體之電性分析、pn 接面元件、MOSFET 與雙極性接面電晶體（BJT）等核心元件。透過理論推導與元件特性分析，使學生建立固態電子元件之基礎觀念，並具備分析與理解現代半導體元件操作原理及其應用之能",
+  "content": "1. 半導體中的電子能量與能態\n2. 均勻半導體（Homogeneous Semiconductors）\n3. 均勻半導體中的電流傳輸\n4. 非均勻半導體（Nonhomogeneous Semiconductors）\n5. 基本 pn 同質接面（Prototype pn Homojunctions）\n6. MOSFET（金氧半場效電晶體）\n7. 雙極性接面電晶體：靜態特性（Bipolar Junction Transistors: Statics）",
+  "books": "1. Semiconductor Physics and Devices: Basic Principles, 4th edition\nDONALD A. NEAMEN\n2. “Fundamentals of Semiconductor Devices““, Anderson, 2005, McGraw-Hill Education.",
+  "teaching_method": "講授",
+  "grading_policy": "考試 70％ 作業/報告/小考30％ (確切百分比將在 上課時公布)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系碩士班、電機工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。學院:限資訊電機學院。系所:限電機工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。學院:限資訊電機學院。年級:限四年級。"
+    }
+  ]
+}

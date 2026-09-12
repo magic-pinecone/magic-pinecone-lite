@@ -1,0 +1,22 @@
+{
+  "serial_no": "62019",
+  "objectives": "“1. 傅氏轉換的意義及積分運算\n2. 數位化的過程及衍生的問題\n3. 數位傅氏轉換的運作及快速傅氏轉換\n4. 摺積、相關及其定律\n5. 濾波器設計\n6. 多維傅氏轉換“",
+  "content": "“第一部分：傅氏轉換積分運算及其意義\n1）傅氏積分及其意義 2）傅氏轉換特性 3）摺積及相關\n第二部分：數位傅氏轉換及快速傅氏轉換\n1）數位化的過程及映頻效應 2）數位傅氏轉換 3）快速傅氏轉換\n第三部分：應用\n1）Z 轉換 2）濾波器設計 3）解迴旋“",
+  "books": "“1. Fourier Analysis, by C.Y. Wang\n2. The Fast Fourier Transform And Its Applications, by E. Oran Brigham\n3. Time Series Analysis, forecasting and control, by G. P. Box, G. M. Jekins, G. C. Reinsel“",
+  "teaching_method": "講授",
+  "grading_policy": "“作業：20％\n出席：20％\n期中考：30％\n期末考：30％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限學分學程-地球科學資訊。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限地球科學學院學士班。"
+    }
+  ]
+}

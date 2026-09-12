@@ -1,0 +1,26 @@
+{
+  "serial_no": "63006",
+  "objectives": "本課程提供工程數學所需要的預備知識，第一學期包含解常微分方程以及特殊函數介紹，第二學期包含Laplace transform＆傅立葉轉換以及解析偏微分方程，需要預備基本函數微分與積分的技巧以及線性代數，相關的基礎數學知識應用於工程以及科學相關領域。",
+  "content": "First semester includes:\n\nP A R T A Ordinary Differential Equations (ODEs)\n\nCHAPTER 1 First-Order ODEs\n\nCHAPTER 2 Second-Order Linear ODEs\n\nCHAPTER 3 Higher Order Linear ODEs\n\nCHAPTER 4 Systems of ODEs. Phase Plane. Qualitative Methods\n\n(First semester: Exam1: Chap1-2, Exam2: Chap3-4)\n\nSecond semester includes:\nCHAPTER 5 Series Solutions of ODEs. Special Functions\n\nCHAPTER 6 Laplace Transforms\n\nCHAPTER 11 Fourier Analysis.\nCHAPTER 12 Partial Differential Equations (PDEs)\n\n(Second semester: Exam1: Chap5/6, Exam2: Chap11-12)",
+  "books": "Advanced Engineering Mathematics 10th\nErwin Kreyszig\nISBN-10 ‏ : ‎ 0470458364\nISBN-13 ‏ : ‎ 978-0470458365",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "Exercise 20％+Exam 80％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限太空科學與工程學系。年級:限二年級。指定課程:必須先修MA1003、先修MA1004。且檢定指定課程平均成績達60分以上。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限太空科學與工程學系。年級:限三年級、四年級。指定課程:必須先修MA1003、先修MA1004。且檢定指定課程平均成績達60分以上。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-太空科學與工程學系、雙主修-太空科學與工程學系。指定課程:必須先修MA1003、先修MA1004。且檢定指定課程平均成績達60分以上。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班。年級:限非一年級。指定課程:必須先修MA1003、先修MA1004。且檢定指定課程平均成績達60分以上。"
+    }
+  ]
+}

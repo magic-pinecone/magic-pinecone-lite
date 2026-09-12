@@ -1,0 +1,18 @@
+{
+  "serial_no": "24044",
+  "objectives": "本課程為3學分，旨在深入介紹神經系統疾病與神經精神疾病之生物學機制。為了全面理解不同發展性、神經退化性、神經性及精神疾病中腦部結構與功能的改變，本課程將整合分子、細胞與系統層級的觀點進行探討。\n修課學生需具備生物化學及細胞與分子生物學之基礎知識。透過閱讀與分析原始研究論文、課堂討論與口頭報告，學生將培養解析與詮釋該領域最新研究成果的能力。\n修課完成後，學生應能：(1) 說明主要神經系統與神經精神疾病的核心病理生理機制；(2) 批判性評估科學證據；以及 (3) 在專業與學術場合中，有效表達與溝通與上述疾病相關之複雜科學概念。",
+  "content": "周次\t課程內容\n1\t課程介紹與評分解說\n2\t阿茲海默症\n3\t帕金森氏症\n4\t亨丁頓舞蹈症\n5\t創傷性腦損傷\n6\t中風\n7\t成癮（物質使用障礙）\n8\t期中報告 I\n9\t期中報告 II\n10\t憂鬱症\n11\t自閉症類群障礙\n12\t躁鬱症\n13\t人格障礙症\n14\t思覺失調症\n15\t期末報告I\n16\t期末報告II\n17\t閱讀神經疾病期刊文獻\n18\t觀看神經領域演講影片",
+  "books": "神經領域期刊文獻，包括但不限於以下期刊: Nature, Science, Cell, Neuron, Nature Neuroscience, Molecular Psychiatry, Biological psychiatry, Nature Communication.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "期中報告(Mid-term presentation) 30%\n期末報告(Final presentation) 30%\n課堂討論 (Discussion) 20%\n出席 (Attendance) 20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    }
+  ]
+}

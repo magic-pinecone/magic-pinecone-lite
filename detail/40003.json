@@ -1,0 +1,14 @@
+{
+  "serial_no": "40003",
+  "objectives": "幫助學生從市場的角度，分析資訊與科技在公司經營的角色，進而學習如何以資訊與科技，創造競爭優勢。",
+  "content": "“科技的發展（尤其是資訊科技）在過去幾年來，變化很快，消費者的需求及市場的競爭態勢也因而改變，這些改變對企業經營的意涵為何？除了傳統資訊系統管理的部分，本課程希望從市場的角度，探討資訊與科技在企業經營管理的角色．課程主要分成四個主題 Management of Information System：資訊系統管理 Management of Information Goods：數位商品管理 eBusiness Model：電子商務營運模式 Management of Technology Innovation：技術創新管理“",
+  "books": "個案",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "出席、作業、專題發表",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限管理學院高階主管企管碩士班。"
+    }
+  ]
+}

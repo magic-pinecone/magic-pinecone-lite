@@ -1,0 +1,22 @@
+{
+  "serial_no": "43002",
+  "objectives": "本課程旨在向資訊管理學系一年級大學生介紹程式語言的基本概念。\n課程包含廣泛的程式設計練習，幫助學生理解核心程式概念，並探索其在相關領域中的應用。\n本課程致力於營造一個富有啟發性且具挑戰性的學習環境。學生將學習如何設計與實作程式來解決實際問題，為未來進一步學習程式設計與軟體開發奠定基礎。\n為了促進自主學習，本課程強調定期安排難度逐步提升的作業，鼓勵學生進行閱讀、批判性思考與討論。\n即時回饋也是課程的重要組成部分，並透過入口網站（EECalss）上的課程網頁提供支援。",
+  "content": "電腦與程式設計概論\nC 語言概述\n使用函式進行由上而下（Top-down）設計\n選擇結構：if 與 switch 判斷式\n重複與迴圈敘述（Loop）\n指標與模組化程式設計\n陣列（Arrays）\n字串（Strings）\n遞迴（Recursion）\n結構（Structure）與聯合（Union）型別\n期末專題展示（Final Project Demo）",
+  "books": "King, K. N., C Programming A Modern Approach 2nd Ed( C 89, C 99),‎ W. W. Norton & Company, 2008/05. ISBN：9780393979503. (開發)\nHanly, Jeri R. and Koffman, Elliot B., Problem Solving and Program Design in C, 7/e (開發) OR 8/e (新月/東華), Pearson FT Press, ISBN-13:9781292098814",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "In-class exercise(20%)\nhomework(20%)\nQuiz(30%) - 3次\nFinal project presentation and demo(30%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系。年級:限一年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-資訊管理學系、雙主修-資訊管理學系。"
+    }
+  ]
+}

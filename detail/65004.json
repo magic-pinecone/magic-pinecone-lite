@@ -1,0 +1,14 @@
+{
+  "serial_no": "65004",
+  "objectives": "提升大氣科學研究基本能力與技術分析",
+  "content": "-       大氣科學資料分析\n-       文獻導讀",
+  "books": "無",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "報告: 100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學院學士班。"
+    }
+  ]
+}

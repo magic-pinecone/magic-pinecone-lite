@@ -1,0 +1,18 @@
+{
+  "serial_no": "61026",
+  "objectives": "介紹地球物理流體力學的控制方程式， 基礎理論，與相關的數學方法的進階知識",
+  "content": "“第一章: 地球物理流體力學的初步介紹。\n第二章: 地球物理流體力學的基礎\n第三章: 非粘滯性的淺水理論。\n第四章: 模差與粘滯流體。“",
+  "books": "“Geophysical Fluid Dynamics,Second edition.\nJoseph Pedlosky,\nSpringer-Verlag“",
+  "teaching_method": "講授",
+  "grading_policy": "“筆試  50％\n出席考核 50％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班。學院:限地球科學學院。"
+    }
+  ]
+}

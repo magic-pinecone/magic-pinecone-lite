@@ -1,0 +1,22 @@
+{
+  "serial_no": "33055",
+  "objectives": "教導學生明瞭固體力學之基本知識及線性彈性力學所呈現之物理現象；傳授學生分析線彈性材料受外力加載後變形與應力的方法與技巧，期使學生能將所學的知識應用於解釋與解決與固體力學相關的課題。",
+  "content": "(1)\tIndex Notation and Tensor Analysis\n(2)\tStress Tensor and Equilibrium Equations\n(3)\tDeformation and Strain\n(4)\tConstitutive Equations and Material Symmetry\n(5)\tLinearized Theory of Elasticity\n(6)\tOne-Dimensional Problems\n(7)\tTwo-Dimensional Problems\n(8)\tTorsion Problems\n(9)\tBending Problems\n(10)\tPlate Problems",
+  "books": "Text books:\n\nReismann, H., Elastic plates Theory and application, New York Wiley, 1988.\n\nSadd, M. H., Elasticity : Theory, Application, and Numerics 4th edition, Elsevier, 2020.\n\nReference:\n\nFung, Y. C., Foundations of Solid Mechanics, Prentice-Hall, 1969.\n\nAtkin and Fox, An Introduction to the Theory of Elasticity, Longman, 1980.\n\nTimoshenko, S.P. and Goodier, J.N., Theory of Elasticity, McGraw-Hill, 1982.\n\nFung, Y. C. and Tong, Pin, Classical and Computational Solid Mechanics, World Scientific, 2001.",
+  "teaching_method": "講授",
+  "grading_policy": "30％ 期中考\n30％ 期末考\n30％ 作業\n10％ 課堂表現",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    }
+  ]
+}

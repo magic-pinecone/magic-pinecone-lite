@@ -1,0 +1,30 @@
+{
+  "serial_no": "23014",
+  "objectives": "讓學生具有紮實的無機化學基礎知識",
+  "content": "1. Introduction to inorganic chemistry\n2. Atomic structure\n3. Simple bonding theory\n4. Symmetry and group theory\n5. Molecular orbitals\n6. Acid-base and donor-acceptor chemistry\n7. The crystalline solid state",
+  "books": "“Gary L. Miessler, Paul J. Fischer, Donald A. Tarr\nInorganic Chemistry, 5th ed.“",
+  "teaching_method": "講授",
+  "grading_policy": "筆記、作業、出席、課堂表現（25％）\n三次考試，每次佔 25％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學學系。年級:限四年級、延修生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-化學學系、雙主修-化學學系。年級:限三年級、四年級、延修生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限三年級、四年級、延修生。"
+    },
+    {
+      "priority": 3,
+      "rule": "指定課程:必須先修CM1001、先修CM1002。"
+    }
+  ]
+}

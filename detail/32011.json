@@ -1,0 +1,26 @@
+{
+  "serial_no": "32011",
+  "objectives": "使學生了解流體力學之基本理論及工程應用",
+  "content": "1.流體基本性質\n\n2.流體靜力學\n\n3.流場控制方程式\n\n4.層流\n\n5.亂流\n\n6.壓力管流及渠流",
+  "books": "Engineering Fluid Mechanics by Crowe, Roberson and Elger (12th edition)",
+  "teaching_method": "講授\n\n個別指導\n其他",
+  "grading_policy": "Exams: 二次期中考，一次期末考，不定期小考 (皆 closed books)\n評 分(暫定):\nHomework : 10％\nQuizs(含點名) : 10％\nMidterm 1 : 25％\nMidterm 2 : 25％\nFinal : 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限二年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-土木工程學系、雙主修-土木工程學系。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "33018",
+  "objectives": "依每學期各個領域專題的指導教授決定",
+  "content": "依每學期各個領域專題的指導教授決定",
+  "books": "依每學期各個領域專題的指導教授決定",
+  "teaching_method": "實習/實驗\n個別指導",
+  "grading_policy": "依每學期各個領域專題的指導教授決定",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "指定課程:必須先修ME3011。"
+    }
+  ]
+}

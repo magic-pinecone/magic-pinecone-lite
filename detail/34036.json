@@ -1,0 +1,9 @@
+{
+  "serial_no": "34036",
+  "objectives": "輸送現象在解釋物理世界的許多現象中扮演著至關重要的角色。本課程將特別針對化學工程領域中質量傳送的重要性。在講授相關理論與建立對質傳的理解之後，學員將進一步瞭解此類現象的具體單元操作實例。",
+  "content": "本課程將涵蓋以下主題:\n\n* 質傳基礎\n* 擴散係數\n* 質傳微分方程式\n* 穩態分子擴散\n* 非穩態分子擴散\n* 對流質傳\n* 相間對流質傳\n* 單元操作: 氣體吸收、蒸餾、膜分離製程",
+  "books": "Fundamentals of Momentum, Heat and Mass Transfer (6th Edition, International Student Version, Wiley) by JR Welty, GL Rorrer, DG Foster.\n\nUnit Operations of Chemical Engineering (7th Edition, McGraw-Hill International Edition) by WL McCabe, JC Smith, P Harriott",
+  "teaching_method": "講授",
+  "grading_policy": "小考20%\n作業20%\n期中考30%\n期末考30%",
+  "distribution_conditions": []
+}

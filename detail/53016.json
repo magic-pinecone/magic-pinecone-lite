@@ -1,0 +1,18 @@
+{
+  "serial_no": "53016",
+  "objectives": "培養學生系統效能模型建立、理論分析、與軟體模擬之能力。",
+  "content": "週次\t內容\t備註\n1\t課程內容介紹及系統效能簡介\n2\t機率及隨機程序(1)\n3\t機率及隨機程序(2)\n4\t訊務模型與分佈函數及馬可夫鏈\n5\t小考\n6\t排隊模型 – M/M/1\n7\tLittle’s Formula\n8\tM/M/1/k\n9\tM/M/c\n10\tM/M/c/k\n11\tM/G/1\n12\tM/M/infinity\n13\tErlang Model\n14\t期中考\n15\tNetwork Queue\n16\tNetwork Queue\n17\t自主學習\n18\t自主學習報告",
+  "books": "教科書(英文)：Thomas G. Robertazzi, Computer Networks and Systems – Queuing Theory and Performance Evaluation, 3rd Edition, Springer, 2000.\n參考書(英文)：John, N. Daigle, Queuing Theory with Applications to Packet Telecommunication, Springer, 2005.",
+  "teaching_method": "講授\n研討\n\n其他",
+  "grading_policy": "Mid. exam.: 30％\nFinal exam.: 40％\n程式作業: 20％\n出席及課堂討論狀況: 10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。學院:限資訊電機學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。學院:限資訊電機學院。年級:限四年級。"
+    }
+  ]
+}

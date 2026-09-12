@@ -1,0 +1,14 @@
+{
+  "serial_no": "23025",
+  "objectives": "學習資料收集與資料表達",
+  "content": "學生做40 ~ 50分鐘與化學有關題目之演講，教師做指導、講解、及提問題。",
+  "books": "與化學有關之專業雜誌",
+  "teaching_method": "研討\n\n個別指導",
+  "grading_policy": "針對學生對所講題目之瞭解、材料之準備、及演講之技術評分",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系碩士班。年級:限二年級。學號:限單號。"
+    }
+  ]
+}

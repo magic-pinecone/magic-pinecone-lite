@@ -1,0 +1,9 @@
+{
+  "serial_no": "66008",
+  "objectives": "使學生學會使用三維NS-VOF數值模式，並獨立解決實際流體動力學問題",
+  "content": "基礎計算流體動力學、離散運算子、流體體積法、投影法、有限體積法、3D NS-VOF 模式",
+  "books": "“1. Handouts\n2. Ferziger, J.H. and Peric, M. 2002 Computational Methods for fluid Dynamics. 3rd Ed. Springer.\n3. Versteeg, H.K. and Malalasekera, W. 1996 An Introduction to Computational Fluid Dynamics: The Finite Volume Method. Prentice Hall.“",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "期中考30％、期末報告40％、課堂參與及作業30％",
+  "distribution_conditions": []
+}

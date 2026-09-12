@@ -1,0 +1,22 @@
+{
+  "serial_no": "61005",
+  "objectives": "1.\t了解大氣測計的基本概念與觀測資料之特性與應用。\n2.\t了解地面氣象觀測之儀器特性、觀測原理與應用。\n3.\t了解高空觀測之儀器特性、觀測原理與應用。\n4.\t了解雷達與衛星等大氣遙測之基礎原理及遙測影像之分析與應用。\n5.\t了解其他特種大氣觀測之儀器與觀測方法。",
+  "content": "臺灣氣象觀測介紹\n中大測站參觀與測量\n單位與量測準確度、Design thinking\n天氣現象與編碼(含地面狀態)\n雲\n能見度\n大氣壓力\n風\n溫度\n溼度\n降水\n大氣輻射與日照\n氣象雷達簡介\n氣象衛星簡介\n野外教室教學",
+  "books": "1.\t氣 象 測 報 手 冊，中 央 氣 象 局，2004。\n2.\tThe Weather Observer’s Handbook, Stephen Burt, 2012. (圖書館電子書下載)\n3.\tGuide to Meteorological Instruments and Methods of Observation (8th Edition), WMO, 2008. (網路搜尋下載)\n4.\t大 氣 測 計 學 (第 二 版)， 劉 明 揚，2011。\n5.\t氣 象 電 碼 手 冊，中 央 氣 象 局，1986。",
+  "teaching_method": "講授",
+  "grading_policy": "個人作業 40％、期中考 30％、期末考 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限大氣科學學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-大氣科學系。"
+    }
+  ]
+}

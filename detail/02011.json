@@ -1,0 +1,9 @@
+{
+  "serial_no": "02011",
+  "objectives": "介紹數位訊號與系統以及取樣定理。分析線性非時變系統及設計濾波器。並包括傅立葉轉換、Z轉換分析",
+  "content": "1. 離散訊號與系統2. 連續訊號的取樣3. 離散傅立葉轉換4. z-轉換5. 線性非時變系統6. 設計濾波器",
+  "books": "Textbook:Digital Signal Processing - A computer-based approach, 3rd Edition, McGraw-Hillby Sanjit K. Mitra, References:1. A.V. Oppenheim and R.W. Schafer, Discrete-time Signal Processing, 2nd Edition, Prentice Hall2. J.G. Proakis and D.K. Manolakis, Digital Signal Processing, 4th Edition, Prentice Hall3.  M. Weeks, Digital Signal Processing-Using Matlab and Wavelets, Infinity Science PressSoftware: MATLAB, PYTHON",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "作業30％, 專題10％, 分組專題20％, 期中、期末考40％",
+  "distribution_conditions": []
+}

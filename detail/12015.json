@@ -1,0 +1,22 @@
+{
+  "serial_no": "12015",
+  "objectives": "This course is designed to develop students‘ skills in writing and textual analysis.",
+  "content": "\"In this course you will have weekly readings, mainly your writing, put on the board and analyzed as building toward a course theme.",
+  "books": "Film texts.",
+  "teaching_method": "講授",
+  "grading_policy": "\"A midterm paper and a final, paper that is, not a finale, not a grand exit, nothing is ever final except catastrophe, plus weekly writing.\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限英美語文學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限英美語文學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-英美語文學系、雙主修-英美語文學系。"
+    }
+  ]
+}

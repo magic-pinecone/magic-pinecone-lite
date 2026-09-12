@@ -1,0 +1,22 @@
+{
+  "serial_no": "33032",
+  "objectives": "The objective of this course is to equip undergraduate students with a foundational understanding of feedback control systems, including basic concepts, principles, and applications. The curriculum will cover topics such as dynamic modeling, response analysis, stability, and classical control methods in the time domain, including PID, Root Locus for design and analysis.\n\nOutcomes:\n1. Students can model the system in the Laplace domain.\n2. Students can construct a feedback system for control.\n3. Students can analyze the system in the time domain.\n4. Students can design a controller in the time domain to elevate system performance.",
+  "content": "1.\tIntroduction & Review prior knowledge\n2.\tBlock Diagram\n3.\tModeling of Dynamic Systems\n4.\tDynamic Response\n5.\tTime Domain Analysis & Design\n6.\tRoot Locus Analysis & Design\n\nThe specific class content will be adjusted according to the actual teaching situation.",
+  "books": "Textbook: lecture notes\nReference:\n1.\t“Automatic Control Systems 10/e”, F. Golnaraghi, B. C. Kuo, McGraw Hill LLC\n2.\t“Feedback Control of Dynamic Systems 8/e”, G. F. Franklin, J. D. Powell, A. Emami-Naeini",
+  "teaching_method": "講授",
+  "grading_policy": "Homework: 40%\nMidterm: 30%\nFinal report: 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限三年級。學號:限單號。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限工學院學士班。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "53022",
+  "objectives": "本門課程旨在教授學生矩陣理論的基礎知識，同時介紹在無線通訊以及訊號處理領域中經常應用的矩陣分析技術。",
+  "content": "1\t線性代數(I)\n2\t線性代數(II)\n3\t內積空間(I)\n4\t內積空間(II)\n5\t正交投影與斜投影\n6\t最小平方問題\n7\t舒爾分解\n8\t期中考\n9\t同步對角化與可么正對角化\n10\t奇異值分解(I)\n11\t奇異值分解(II)\n12\t線性系統擾動分析(I)\n13\t線性系統擾動分析(II)\n14\t線性系統擾動分析(III)\n15\t期末專題\n16\t期末專題",
+  "books": "教科書(英文)：R. A. Horn and C. R. Johnson, Matrix Analysis, Cambridge University Press, 1985.\n參考書(英文)：A. J. Laub, Matrix Analysis for Scientists and Engineers, SIAM,\t2005.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "小考/上課參與：30％\n期中考：35％\n期末考/期末報告：35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系碩士班、通訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限碩士班、博士班。學院:限資訊電機學院。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。學院:限資訊電機學院。年級:限四年級。"
+    }
+  ]
+}

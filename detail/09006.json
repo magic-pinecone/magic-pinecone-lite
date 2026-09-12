@@ -1,0 +1,22 @@
+{
+  "serial_no": "09006",
+  "objectives": "本課程的宗旨在提供學生一個進行跨領域討論的環境，讓來自不同領域的教師與學生就從哲學到自然與社會科學，以及工程等議題進行對話。\n除了授課教師之外，根據討論主題會有文學、哲學、數學、物理學、生命科學、資訊科學與教育學等領域的教師與專家參與每周討論。",
+  "content": "1. 從思辨模式到自由思考。\n2. 文學敘事中的思辨。\n3. 科學方法中的思辯。\n4. 社會科學: 從根基到新挑戰。\n預計每個主題討論三到四週。",
+  "books": "依討論內容決定",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "In-class discussion and presentation 10%\nWeekly report 50%\nMidterm report 20%\nFinal report 20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。系所:限學分學程-跨領域榮譽。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "52015",
+  "objectives": "期望透過此門課程所教授之內容幫助同學對計算機網路有更深層的認識，並了解計算機網路的應用",
+  "content": "(1) Computer Networks and the Internet\n(2) Application Layer\n(3) Transport Layer\n(4) The Network Layer\n(5) The Link Layer and Local Area Networks",
+  "books": "\"J. F. Kurose and K. W. Ross, “Computer Networking,” Pearson.",
+  "teaching_method": "講授",
+  "grading_policy": "出席  5%、作業 35%～45%、期中考 25%～30%、期末考 25%～30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系。年級:限三年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-資訊工程學系、雙主修-資訊工程學系、第二專長-資訊工程程式設計。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。"
+    }
+  ]
+}

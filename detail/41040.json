@@ -1,0 +1,26 @@
+{
+  "serial_no": "41040",
+  "objectives": "Training Business Major students with the knowledge and skill of constructing Language Model from scratch and fine tune pre trained models for business applications.",
+  "content": "Introduction of Large Language Model\nUp and Running with TensorFlow\nIntroduction with Artificial Neural Network\nTraining Deep Neural Nets\nTokens and Embeddings/working with text data\nLooking Inside Large Language Models\nCoding attention mechanism\nImplementing a GTP model from scratch to generate text\nPretraining on unlabeled data\nFine Tuning for Classification\nFine Tuning to Follow Instructions/Fine Tuning Generation Models\nPrompt Engineering\nSemantic search and Retrieval Augmented Generation\nText Classification\nText Classification and Topic Modeling",
+  "books": "1. Aurélien Géron, Hands-On Machine Learning with Scikit-Learn and TensorFlow,  O’Reilly Media, Inc., 2017\n2.SEBASTIAN RASCHKA, Build a Large Language Model (From Scratch), Manning Publications Co, 2025\n3.Jay Alammar and Maarten Grootendorst, Hands-On Large Language Models,  O’Reilly Media, Inc.,2024",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Assignment 30% Presentation 40% Final 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系碩士班、企業管理學系博士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

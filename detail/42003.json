@@ -1,0 +1,18 @@
+{
+  "serial_no": "42003",
+  "objectives": "This course will be divided into two parts:\n(1)\tThe review of corporate finance\n(2)\tSelected papers presentation",
+  "content": "The review of corporate finance\nWe will review the fundamental theory of corporate finance, which includes Basic Quantitative Analysis, risk profile, present and future value, NPV (IRR), risk and return, portfolio theory, CAPM, and bond pricing. So, I will adopt the slides to do the teaching and provide some practical problems (for the exam)\n\nSelected papers presentation\nPresentation and Written Report (Selected papers presentation)\nFinal report",
+  "books": "CORPORATE FINANCE, Allen Brealey Myers",
+  "teaching_method": "講授",
+  "grading_policy": "will be announced in the first class.",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限國際經營管理碩士學位學程。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限國際經營管理碩士學位學程。年級:限二年級。"
+    }
+  ]
+}

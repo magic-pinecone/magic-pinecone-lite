@@ -1,0 +1,14 @@
+{
+  "serial_no": "25012",
+  "objectives": "隨著各式科學領域中大數據的迅速發展，統計學習已成為一門重要的研究領域。本課程聚焦於理論與計算並重的統計方法介紹與應用，目的在於培養學生建構模型與分析複雜資料的能力。",
+  "content": "This course introduces the fundamental concepts and methodologies in statistical learning. Emphasis is placed on both the theoretical foundations and computational implementations of modern statistical methods. The tentative course outline is as follows:\n1.\tIntroduction of Statistical Learning\n2.\tLinear Regression\n3.\tClassification Techniques\n4.\tResampling Methods\n5.\tModel Selection and Regularization for Linear Models\n6.\tBasis Expansions and Nonlinear Regression\n7.\tTree-Based Methods, Bagging, and Random Forests\n8.\tBoosting and Ensemble Learning\n9.\tSupport Vector Machines (SVMs)\n10.\tDeep Learning Fundamentals\n11.\tUnsupervised Learning",
+  "books": "James G., Witten D., Hastie T., and Tibshirani R. (2021). An Introduction to Statistical Learning with Applications in R, Springer.",
+  "teaching_method": "講授",
+  "grading_policy": "Homework (40%)\nMidterm (30%)\nFinal Exam / report (30%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限統計研究所碩士班、統計研究所博士班。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "36013",
+  "objectives": "介紹環工物化處理程序之原理 操控因子 使學生對於各處理系統之基本學理有更多的基礎",
+  "content": "“Chemical Reactions and Equilibrium\nMass Balance and Reactor\nPrecipitation\nFlocculation/Coagulation\nSedimentation\nFiltration\nAdvanced Oxidation Processes (and Disinfection)\nAeration and Absorption\nAdsorption\nMembrane“",
+  "books": "AWWA, “Water Quality and Treatment”, 4th ed., Mc-Graw Hill, 1990.\nSamual W. Faust and Osman M, Aly, “Adsorption Processes for Water Treatment,” Butterworths, Boston, 1987.\nC. Gottschalk, J. A. Libra, A. Saupe, “Ozonation of Water and Waste Water,” Wiley-Vch, New York, 2000.\nE. A. Bryanc, G. P. Fulton, G. C. Budd, “Disinfection Alternatives for Safe Drinking Water,” Van Nostrand Reinhold, NewYork, 1992.“",
+  "teaching_method": "講授",
+  "grading_policy": "“Home work 60 ％, Mid-term 20％, Final 20％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限環境工程研究所碩士在職專班。"
+    }
+  ]
+}

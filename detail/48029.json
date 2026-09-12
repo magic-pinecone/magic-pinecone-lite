@@ -1,0 +1,18 @@
+{
+  "serial_no": "48029",
+  "objectives": "This course is designed to provide you with a solid background for financial theory. This course will provide the students an overview of theoretical background on different topics, so the students will be prepared for studying advanced theory and exploring empirical idea. It is your responsibility to be well prepared in class. While going over the fundamentals without utilizing advanced mathematics, I expect the student to focus on broader topic and intuition instead of just the technical specifics. In addition, I expect you to be able to efficiently communicating the research agenda and implications starting from someone else’s work.",
+  "content": "Intro; Consumption and production; Firm value, Financing and investment; Financial systems and governance; Micro foundation; Risk; Mean-variance portfolio choice, CAPM, APT and factor model; Other topics in asset pricing; Derivative pricing; Imperfect capital markets",
+  "books": "Text: Financial Economics (1st ed.) by Fabozzi, Neave, Zhou, Wiley, 2012 (https://tsanghai.com.tw/book_detail.php?c=537&no=3125)\nJournal articles (if necessary)\n\nReferences:\n•\tFinancial Theory and Corporate Policy (4th international ed.), by Copeland, Weston, and Shastri, Addison Wesley ,2013\n•\tTheoretical Foundations of Corporate Finance (1st ed.), by de Matos, Princeton University Press, 2001\n•\tAsset Pricing (Rev. ed.), by Cochrane, Princeton University Press, 2005\n•\tTheory of Asset Pricing (1st ed.), by Pennachi, Pearson, 2007",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "TBA; there will be a final exam",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系博士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。學院:限管理學院。"
+    }
+  ]
+}

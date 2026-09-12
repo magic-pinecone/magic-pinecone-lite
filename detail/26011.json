@@ -1,0 +1,9 @@
+{
+  "serial_no": "26011",
+  "objectives": "This course covers methods to solve partial differential equations and major topics in complex analysis.  It aims to prepare students with basic mathematical tools for studying professional courses in scientific and engineering fields.",
+  "content": "1. Fourier Analysis\n2. Partial Differential Equations\n3. Complex Analysis\n(a) Complex Numbers and Functions\n(b) Complex Integration\n(c) Complex Power Series\n(d) Residue Integration\n(e) Conformal Mapping\n(f) Potential Theory",
+  "books": "E. Kreyszig, Advanced Engineering Mathematics, 10th edition update, Wiley (2018).",
+  "teaching_method": "講授",
+  "grading_policy": "Homework 30%, Midterm Exam 30%, Final Exam 30%, Attendance & Participation 10%",
+  "distribution_conditions": []
+}
