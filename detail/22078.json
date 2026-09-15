@@ -1,0 +1,14 @@
+{
+  "serial_no": "22078",
+  "objectives": "\"初級中文課程,教學著重中文聽與寫.\"",
+  "content": "中文聽與寫",
+  "books": "Courses notes",
+  "teaching_method": "講授",
+  "grading_policy": "\"Attendance &Performances: 30%\nHomework Assignments: 30%\nMidterm Exam: 20%\nFinal Exam: 20%\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

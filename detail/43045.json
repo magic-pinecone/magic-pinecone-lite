@@ -1,0 +1,18 @@
+{
+  "serial_no": "43045",
+  "objectives": "本課程目標有以下：\n(1) 理解供應鏈管理的基本概念與重要性：學生將能理解供應鏈管理的核心概念、功能與在企業競爭中的關鍵角色。\n(2) 掌握供應鏈各個環節的運作模式與協調機制：學生能分析供應鏈中採購、生產、物流、配送與資訊流之間的相互關係，並理解其整合的重要性。\n(3) 學習供應鏈策略規劃與決策分析工具：學生能運用便利的工具（如需求預測、供應鏈網絡設計等）進行供應鏈規劃與優化。\n(4) 了解全球供應鏈管理與永續發展的趨勢：學生將能探討全球化背景下的供應鏈挑戰，如風險管理、道德採購、綠色供應鏈與科技應用。",
+  "content": "課程內容主要是包含以下幾大主題：Building a strategic framework to analyze supply chains, designing the supply chain network, planning and coordinating demand and supply in a supply chain, planning and managing inventories in a supply chain, designing and planning transportation networks, and managing cross-functional drivers in a supply chain. 課程由兩位教師共同教授。陳老師的部分：除了上述教學內容之外，每周將有學生小組進行當周次主題的個案分享。張李老師的部分：主要講授經濟對供應鏈管理的分析方法，同學需報告經濟模型在供應鏈管理上的相關應用論文。",
+  "books": "Sunil Chopra, Supply Chain Management- Strategy, Planning, and Operation (7th Edition). Pearson International. ISBN: 978-1-292-25789-1",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "陳老師部分(50%)：隨堂驗收 20%; 小組分享 30%\n張李老師部分(50%)：期末報告 50%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士在職專班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系碩士在職專班。年級:限非一年級。"
+    }
+  ]
+}

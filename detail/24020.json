@@ -1,0 +1,22 @@
+{
+  "serial_no": "24020",
+  "objectives": "“This subject is designed for undergraduate and postgraduate students who have no previous training in embryology and developmental biology related fields.   This subject is a one year course with two credits for each semester.  Interested students should have basic knowledge in Cell Biology, Biochemistry, and Molecular Biology, before they take this subject.   Students taking this subject will be introduced with the early development of four model animals, including fruit fly, zebra fish, nematode, and mouse/human.  Later in the second semester, the development of various organs in mammals and chicks will be discussed in detail.  The creation of organisms by the fertilization of sperms and eggs will also be discussed.  The application of these knowledge in biomedical research and clinical therapy will be discussed at the end of each chapter.  Apart from lectures in the classes in the classroom, students are also required to perform two experiments to observe the developments of C. elegans and chicks in the specified periods.“",
+  "content": "Week\tTopics\tInstructors\n1\tChapter 1 Introduction to Developmental Biology\t陳盛良\n2\tChapter 3: Specification - Cell commitment and early development\t陳盛良\n3\tChapter 4 Fertilization\t陳盛良\n4\tChapter 4 Fertilization\t陳盛良\n5\tChapter 14 Sex determination\t陳盛良\n6\tChapter 14 Sex determination\t陳盛良\n7\tChapter 7 Early development in sea urchins\t陳盛良\n8\tMid-term examination\t陳盛良\n9\tChapter 7 Early development in sea urchins\t陳盛良\n10\tChapter 5 Early development in  C. elegans\t陳盛良\n11\tChapter 6 The genetics of axis specification in Drosophila\t陳盛良\n12\tChapter  6 The genetics of axis specification in Drosophila\t陳盛良\n13\tChapter 6 The genetics of axis specification in Drosophila\t陳盛良\n14\tChapter 8 Early development in amphibians\t陳盛良\n15\tChapter 9 Early development in amphibians\t陳盛良\n16\tFinal examination\t陳盛良\n17\t彈性教學\t陳盛良\n18\t彈性教學\t陳盛良",
+  "books": "“Text book: Developmental Biology, 8th edition 2006, by Scott F. Gilbert\n\nReferences:\n1. Principles of Development:  Lewis Wolpert\n\n2. Principles of  Developmental Biology: F. H. Wilt ＆ S. C.Hake“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Midterm exam: 50%\nFinal exam: 50％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限學分學程-生科職涯。"
+    }
+  ]
+}

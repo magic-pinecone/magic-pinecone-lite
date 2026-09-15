@@ -1,0 +1,9 @@
+{
+  "serial_no": "02010",
+  "objectives": "光學遙測原理、特性及應用概念之簡介與培育",
+  "content": "1. 輻射的基本觀念;\n2. 地球能量來源;\n3. 大氣的吸收、發射及散射;\n4. 輻射傳送方程 ;\n5. 遙測基本原理 ;\n6. 遙測儀器與感測器 ;\n7. 遙測光譜波段與特色 ;\n8. 衛星光學影像之簡介 ;\n9. 遙測應用與未來展望",
+  "books": "1. Grant W. Petty：A First Course In Atmospheric Radiation. 2nd Edition, Sundog publishing, Madison Wisconsin, 2006.\n2. Kuo-Nan Liou：An Introduction to Atmospheric Radiation. Academic Press, 1980.\n3. John R. Jensen: Remote Sensing of the Environment, Pearson, NJ, 2007.",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "1.考試(Exams)：40％;\n2.讀書心得報告(Report)：50％;\n3.上課互動表現(Class activity)：10％",
+  "distribution_conditions": []
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "21056",
+  "objectives": "本課程以測度論為基礎，建立研究所層級機率論的嚴謹入門框架。主要教材為 Joel A. Tropp 的 CMS/ACM 117: Probability Theory & Computational Mathematics 講義，授課範圍涵蓋 Part I（Measure Theory）、Part II（Probability Foundations），以及 Part III 的獨立和與大數法則，至第 15 章為止。\n\n課程將以具體例子引導抽象概念，透過測度與積分統一處理離散、連續及混合型分布，並從矩、尾端機率與 L^p／L^2 空間的觀點理解隨機變數。最後運用獨立性、機率不等式及收斂工具，建立弱大數法則與強大數法則，說明樣本平均、事件頻率與 Monte Carlo 積分的理論基礎。\n\n修課後，學生應能：\n1. 正確使用 sigma-algebra、測度、可測函數與 Lebesgue 積分的基本語言。\n2. 理解並應用單調收斂定理、Fatou 引理、控制收斂定理及 Tonelli／Fubini 定理。\n3. 掌握隨機變數、分布、期望、矩、尾端機率與獨立性的嚴格定義及基本性質。\n4. 理解 L^p 空間及 L^2 的內積、正交與最佳平方誤差近似觀點。\n5. 區分 L^p 收斂、依機率收斂與幾乎必然收斂，並理解大數法則的假設、證明與應用。\n6. 培養閱讀定理、辨認假設、構造例子與書寫數學證明的能力，為後續機率論及隨機過程課程奠定基礎。",
+  "content": "本課程以 Tropp 講義第 1–15 章的核心內容為主線，採 16 週安排：4 週測度論、5 週機率基礎、4 週獨立和與大數法則，另以 3 週進行考試。各章之星號延伸、技術性附錄及較長的建構證明，依課堂進度選讀。\n\n一、測度論（Part I，第 1–6 章）\n\n從整數上的 counting measure、Dirac measure 與加權測度出發，建立抽象測度空間、sigma-algebra、可數可加性、零測集與幾乎處處的觀念。接著介紹實數線上的 Borel 集、Lebesgue 測度、分布函數與可測函數，並發展 Lebesgue 積分、主要收斂定理及乘積測度。\n\n主要內容：\n1. 整數上的測度、一般測度空間與測度的基本性質。\n2. Borel 集、Lebesgue 測度、分布函數及可測性。\n3. 非負函數的積分、正負部分、可積性與簡單函數逼近。\n4. 單調收斂定理、Fatou 引理與控制收斂定理。\n5. 乘積測度及 Tonelli／Fubini 定理。\n\n二、機率基礎（Part II，第 7–13 章）\n\n以測度論語言重新建立機率空間、隨機變數、分布與期望，並透過凸性、不等式及函數空間結構理解隨機變數。特別強調矩與尾端機率的關係，以及 L^2 中的正交、共變異數與投影幾何。\n\n主要內容：\n1. 機率空間、隨機變數、分布、分布函數與期望。\n2. 凸函數、Jensen 不等式、Markov 不等式、矩與尾端機率。\n3. L^p 空間、Hölder／Minkowski 不等式、L^p 收斂與完備性。\n4. L^2 空間、Cauchy–Schwarz 不等式、共變異數、正交與最佳平方誤差近似。\n5. 事件、隨機變數與 sigma-algebras 的獨立性；乘積分布及獨立序列的存在性。\n\n三、獨立和與大數法則（Part III，第 14–15 章）\n\n以部分和、running average 與樣本路徑為核心，介紹依機率收斂及幾乎必然收斂，建立弱大數法則與強大數法則。課堂完整講授 Chebyshev 弱大數法則與 Cantelli 強大數法則的證明，並介紹一般 L^1 條件下 Kolmogorov 強大數法則的敘述與應用。\n\n主要內容：\n1. 獨立隨機變數的部分和、樣本平均與基本應用。\n2. 依機率收斂、幾乎必然收斂及其與 L^p 收斂的關係。\n3. Chebyshev 不等式與弱大數法則。\n4. Borel–Cantelli 引理與 Cantelli 強大數法則。\n5. Kolmogorov 強大數法則的敘述、假設與意義。\n6. 事件頻率、樣本平均與 Monte Carlo 積分；更新計數的應用視進度選講。\n\n先備知識：\n大學部機率論與線性代數。具備集合、數列與函數收斂、連續性及基本積分概念；不要求已修過完整測度論。",
+  "books": "主要教材：\nJoel A. Tropp, CMS/ACM 117: Probability Theory & Computational Mathematics, Fall 2024 lecture notes, Caltech.\n本學期使用 Part I（第 1–6 章）、Part II（第 7–13 章）及 Part III 的第 14–15 章，以課堂指定內容為準。\n\n補充教材：\nJeffrey S. Rosenthal, A First Look at Rigorous Probability Theory, 2nd ed., World Scientific, 2006.\n用於測度與積分、機率基礎、收斂與大數法則的補充閱讀。\n\n進階參考書：\n1. Rick Durrett, Probability: Theory and Examples, Cambridge University Press.\n2. Sidney I. Resnick, A Probability Path, Birkhäuser.\n3. Kai Lai Chung, A Course in Probability Theory, Academic Press.\n\n課堂另提供必要的補充說明及考前練習題池。參考書不要求逐章閱讀。",
+  "teaching_method": "講授",
+  "grading_policy": "Exam 1：35％。\nExam 2：35％。\nExam 3：35％。\nAttendance／課堂出席表現：0–10 分。\n\n三次考試每次滿分均為 100 分，各以原始考試分數乘以 0.35 計入學期成績。Attendance 依教師平時課堂觀察綜合評定，不採正式點名。\n\n學期成績計算方式：\n學期成績 = min{99, 0.35 × Exam 1 + 0.35 × Exam 2 + 0.35 × Exam 3 + Attendance}。\n\n原始加權總分最高為 115 分，包含 15 分額外計分空間；加權總分超過 99 分時，學期成績以 99 分計。\n\n本課程不安排需繳交及計分的作業。每次考試前公告練習題池，考試包含基本定義、定理及題池相關內容。考試暫定安排於第 5、11、16 週，實際日期與範圍依課堂公告辦理。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "61030",
+  "objectives": "“Introduce the basic pricinples in variational method, and the data assimilation techniques used in meteorology, including 3DVAR, 4DVAR and EnKF.“",
+  "content": "“1. Extreme values under a multi-dimensional condition.\n2. Getting extreme values with constraints.\n3. Variation and derivative.\n4. Constraints and Lagrange multiplier.\n5. Application of variational analysis in mechanics.\n6. Approximate solutions in variational analysis.\n7. Optimal interpolation.\n8. 3DVAR\n9. Kalman filter and Ensemble Kalman filter.\n10. Tangent linear model, adjoint equation, and 4DVAR.\n11 Application of variational analysis in meteorology.“",
+  "books": "“ Method of Applied Mathematics (by Hilderbrand)\n 大氣科學中的反問題：曾忠一\n Dynamic data assimilation: A least squares approach (by J. Lewis, S. Lakshmivarahan, and S. K. Dhall)\n Atmospheric Modeling, data assimilation and predictability (by Eugenia Kalnay)\n Journal papers.“",
+  "teaching_method": "講授",
+  "grading_policy": "Homework and tests: 70 ％\nFinal oral report: 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系大氣物理碩士班。"
+    }
+  ]
+}

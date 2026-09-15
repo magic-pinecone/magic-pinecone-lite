@@ -1,0 +1,14 @@
+{
+  "serial_no": "22088",
+  "objectives": "提供學生學習尖端量測科技之專業知識與其應用，由時間、空間與質量之計量開始，涵蓋各種光譜、電子能譜、Ｘ光吸收譜等等與相關顯微影像技術，藉由對其理論基礎、實作系統之演進與最新趨勢之深入了解，有能力迎接當代科技之挑戰與創新契機。",
+  "content": "週次 Week\t日期Date\t單元主題 Topic\nWeek 1\t9/2\t(Li-Chyong Chen) Time, space & mass (I and II): Metrology, science & technology in various temporal, length and gravimetric scales\nWeek 2\t9/9\nWeek 3\t9/16\t(Kuei-Hsien Chen) Pressure, from high pressure to UHV\nWeek 4\t9/23\t(Chih-Wei Chang) Phonon, calorimetry, temperature, Boltzmann distribution, KBT\nWeek 5\t9/30\t(Heng-Liang Wu) Charge, EC measurements and charge transfer across the interface\nWeek 6\t10/7\t(Danru Qu) Spin, magnetism, Hall effects and Josephson junctions\nWeek 7\t10/14\t(Wei-Ting Chen) XRD & neutron diffraction\nWeek 8\t10/21\tMidterm: Oral Presentation\nWeek 9\t10/28\t(Li-Chyong Chen) SEM/CL/EBSD/EDX & AFM/SECM\nEssay Due\nWeek 10\t11/4\t(Ming-Wen Chu) TEM, EELS, STEM, Cs-TEM/STEM\nWeek 11\t11/11\t(Woei-Wu Pai) STM, STS\nWeek 12\t11/18\t(Mohammad Qorbani) Raman, UV-VIS, XPS/UPS\nWeek 13\t11/25\t(Shao-Yu Chen) PL, TRPL, exciton science\nWeek 14\t12/2\t(Yu-Jung Lu) SNOM, confocal microscopy & ultrafast pump-probe TAS\nWeek 15\t12/9\t(Yang-Gu Lin) XAS, in-situ/operando XAS, etc., current status/future perspective of NSRRC\nWeek 16\t12/16\tFinal Exam (Written Test)",
+  "books": "•\tHIGGINS, K.; Miner, D., SMITH, C. N.; SULLIVAN, D.B. (2004), A walk through time (version 1.2.1). [Online] Available: http://physics.nist.gov/time [2010, July 12]. National Institute of Standards and Technology, Gaithersburg, MD.\n•\tSWYT, Dennis A (2001), Length and dimensional measurements at NIST. Journal of Research of the National Institute of Standards and Technology, 106.1: 1.\n•\tJABBOUR, Zeina J.; YANIV, Simone L. (2001), The kilogram and measurements of mass and force. Journal of Research of the National Institute of Standards and Technology, 106.1: 25.\n•\tCHANG, C. W. (2018), Non-diffusive thermal conduction in one-dimensional materials. AAPPS Bulletin 28, vol 6, p15.\n•\tCULLITY, B. D. and STOCK, S. R. (2001), Elements of X-ray diffractions, 3rd Ed., Pearson\n•\tREIMER, Ludwig (2008), Transmission electron microscopy: physics of imaging formation, Chapter 7 (Electron Scattering), Springer.",
+  "teaching_method": "講授",
+  "grading_policy": "期末紙筆測驗: 45%\n口頭報告: 20%\n專題研究報告(書面) : 20%\n課堂表現: 15%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

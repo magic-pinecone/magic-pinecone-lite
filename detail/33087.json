@@ -1,0 +1,22 @@
+{
+  "serial_no": "33087",
+  "objectives": "使學生學習並建立工程光學設計與應用的技巧與能力",
+  "content": "第1章 簡介\n第2章 理論基礎\n2.1幾何光學\n2.2 輻射度學與光度學\n2.2.1輻射度學\n2.2.2 光度學\n第3章 光學設計軟體\n第4章 光學元件分析與設計\n4.1 單透鏡設計\n4.2 膠合透鏡設計\n4.3 透鏡陣列設計\n4.3 稜鏡設計\n4.4 稜鏡陣列設計\n4.5 反射鏡\n第5章 光學系統設計與實例探討\n第6章 光學材料與鍍膜介紹",
+  "books": "“教科書：\n講義\n\n參考書：\nModern Optical Engineering，, W.J. Smith.\nOptics by Hecht，, Addison Wesley.\nFundamentals of Photonics，, by B.E.A. Saleh ＆ M.C. Teich, Wiley.\nOptical Electronics，, by Amnon Yariv.\nMicrooptics，, by S. Sinzinger, and J. Jahns.“",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "期末報告：佔 60 % ；期末檢討報告：佔 12 % ；平常成績：28 %。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    }
+  ]
+}

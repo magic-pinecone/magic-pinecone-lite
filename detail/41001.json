@@ -1,0 +1,30 @@
+{
+  "serial_no": "41001",
+  "objectives": "本課程提供基礎財務管理內容，使學生獲得必要財務管理知識和學習相關計算，於未來應用於解決實務問題。課程內容包括：財務管理導論介紹、財務報表分析、金錢的時間價值、折現現金流量評價、淨現值法與其他投資準則。",
+  "content": "1.財務管理導論介紹\n2.財務報表分析\n3.金錢的時間價值\n4.折現現金流量評價\n5.淨現值法與其他投資準則",
+  "books": "教科書：\nStephen A. Ross, Randolph W. Westerfield, and Bradford D. Jordan,“Fundamentals of Corporate Finance”, 2025(14e), McGraw Hill Education (華泰文化代理).\n\n參考書：\n王明昌 編譯 (Ross, Westerfield, and Jordan著)，「財務管理(Fundamentals of Corporate Finance)」，2025 (14版)，華泰文化出版。",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "期中考：30％。\n期末考：30％。\n小考：10％ (2次，每次5％)。\n作業：20％。\n學習態度: 5％。\n出席：5％。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限二年級。班別:限A。身份:限非交換生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限三年級、四年級。班別:限A。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-企業管理學系、雙主修-企業管理學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限學分學程-會計、學分學程-資訊管理、學分學程-電子商務(EC)、學分學程-創意與創業。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

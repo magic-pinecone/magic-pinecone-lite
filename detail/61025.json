@@ -1,0 +1,18 @@
+{
+  "serial_no": "61025",
+  "objectives": "在教導研究生深入了解並學會使用，近30年來在大氣科學研究領域中經常被使用的幾個高等統計與高等應用數學方法。期能增強同學在資料處理與研究方法之能力，進而擴充其專業知識與研究領域。",
+  "content": "1) Review of basic statistics and Time Series Analysis (單元至多元迴歸分析)  2) Digital filter and smoothing: high pass， low pass， and band pass filter.   Least-square fit， Murakami method，  Lanczos method， and others.  3) FFT (Fast Fourier Transfer Method): ECMWF‘s FFT991 analysis  4) Spectral Transfer Method and Analysis: Double FFT and Spheric harmonic analysis  5) Principal component analysis (PCA): variance， covariance， auto-correlation and lag correlation， …SVD (Singular Value Decomposition)，  EOF(empirical orthogonal fuction) analysis， extended-EOF analysis， SSA (singular spectral analysis)， CCA (canonical correlation analysis)， and heterogeneous correlation maps， etc.  6)  multivariate analyses: introduction to factor analysis， cluster analysis， Discriminant Analysis， and Neural Network Analysis (if time available)",
+  "books": "1. Digital filters  2. Principal component analysis in meteorology and oceanography.  3. Numerical recipes.  4. papers",
+  "teaching_method": "講授",
+  "grading_policy": "30\n30\n40",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限大氣科學學系大氣物理碩士班。"
+    }
+  ]
+}

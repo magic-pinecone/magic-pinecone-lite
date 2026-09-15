@@ -1,0 +1,22 @@
+{
+  "serial_no": "32080",
+  "objectives": "訓練學生上台報告的能力。",
+  "content": "外請講員。\n同學輪流上台報告。",
+  "books": "無",
+  "teaching_method": "講授",
+  "grading_policy": "出勤佔70%+上台報告者15-30% (未上台報告者10-20%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班。年級:限一年級、二年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系博士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    }
+  ]
+}

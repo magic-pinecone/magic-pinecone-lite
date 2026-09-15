@@ -1,0 +1,14 @@
+{
+  "serial_no": "25007",
+  "objectives": "Experience on reading, thinking and making presentation.",
+  "content": "Depends on research areas.",
+  "books": "期刊",
+  "teaching_method": "研討",
+  "grading_policy": "Presentation and discussion:\n\nAbstract 20%\nPresentation 40%\nRaising questions 20% (4% each)\nDiscussion, attendance… 20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限統計研究所碩士班、統計研究所博士班。"
+    }
+  ]
+}

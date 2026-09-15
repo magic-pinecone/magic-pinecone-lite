@@ -1,0 +1,14 @@
+{
+  "serial_no": "21078",
+  "objectives": "本課程旨在引導學生學習群表現理論的基本概念與方法，並透過閱讀、討論與上台報告，培養學生清晰表達數學思維的能力。同時，本課程也希望訓練學生主動整理文獻、思考問題與探索例子的能力，逐步養成獨立學習與研究的習慣。課程後期將鼓勵學生依據個人興趣選擇相關主題，進一步發展為有限群表現理論相關的大學生專題成果。",
+  "content": "本課程主要介紹有限群 representation theory 的基本概念、工具與重要例子。內容包含 irreducible representations、characters、character tables、restriction、induction 等基本工具，並將討論 symmetric groups、dihedral groups 及其他 small finite groups 的 representation theory。課程將透過具體例子的計算與比較，引導學生理解有限群表現理論的核心思想與應用方式。\n\n此外，課程中將安排博士生進行進階主題導讀，介紹與 Lie theory 相關的主題，以拓展學生的數學視野。課程後期將依學生興趣發展相關專題方向，逐步形成有限群表現理論相關的大學生專題成果。",
+  "books": "1. J.-P. Serre, Linear Representations of Finite Groups\n\n2. Bruce E. Sagan, The Symmetric Group\n\n3. William Fulton and Joe Harris, Representation Theory: A First Course",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "上台報告 100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班。"
+    }
+  ]
+}

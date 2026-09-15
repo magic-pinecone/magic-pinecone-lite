@@ -1,0 +1,26 @@
+{
+  "serial_no": "51005",
+  "objectives": "學習電機領域內必要的數學基礎，已備未來電機專業所需。",
+  "content": "1.矩陣及方程式系統\n2. 行列式\n3. 向量空間\n4. 線性轉換\n5. 正交性\n6. 特徵值與特徵向量",
+  "books": "Linear Algebra with Applications (10th edition)  (Written by S.J. Leon and L.d. Pillis；滄海書局出版)",
+  "teaching_method": "講授",
+  "grading_policy": "三次考試各佔30％,上課表現 10％ .",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。學院:限資訊電機學院。系所:限電機工程學系。年級:限一年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。學院:限資訊電機學院。系所:限資訊電機學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。學院:限資訊電機學院。系所:限電機工程學系、資訊電機學院學士班。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

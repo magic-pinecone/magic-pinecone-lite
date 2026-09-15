@@ -1,0 +1,26 @@
+{
+  "serial_no": "22035",
+  "objectives": "建立學生基本現代天文學知識",
+  "content": "1. 現代天文學簡介  2. 天體動力學  3. 光與輻射  4. 可見光望遠鏡  5. 其他波段望遠鏡  6. 地球與日月  7. 月球與行星  8. 恆星I:測量恆星9. 恆星II：靜態的恆星",
+  "books": "Astronomy by Fraknoi, Morrison, Wolff 本書可以合法免費下載網址: https://openstax.org/details/books/astronomy?Book％20details  Astronomy Today, 9th edition, by Chaisson and McMillan",
+  "teaching_method": "講授",
+  "grading_policy": "平時成績(30％):以課堂表現(10％)與口頭報告(20％)評分\n期中考(35％)\n期末考(35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系、理學院學士班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限物理學系、理學院學士班。年級:限非二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限學分學程-天文、學分學程-太空科技與工程。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。"
+    }
+  ]
+}

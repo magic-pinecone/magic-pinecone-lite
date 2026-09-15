@@ -1,0 +1,14 @@
+{
+  "serial_no": "13010",
+  "objectives": "本課程的宗旨在於增進初學者的法文字彙，提昇其理解與分析能力，加強基本的文法觀念。",
+  "content": "除了有一固定的基礎法文教本之外，另外廣泛閱讀各類型(文學與非文學)的作品。大致涵蓋詩歌、寓言、童話、童謠、漫畫、格言、諺語、笑話、謎語、日記、書信、遊記、訪談、新聞時事、體育報導、分類廣告、觀光導覽等不同類別。\n課程進行一方面解釋文意，釐清艱深字句、文法；另一方面扼要地說明各種類型之主要特徵。",
+  "books": "1.APOLLINAIRE Guillaume, Calligrammes.\n2.BAUDELAIRE Charles, Le Spleen de Paris.\n3.BRASSENS Georges, Poemes et chansons.\n4.COLUCHE, Et vous trouvez ca drole ?\n5.HERGE, Les Aventures de Tintin, volume 5 : Le Lotus bleu.\n6.IONESCO Eugene, La Lecon.\n7.LA FONTAINE Jean de, Fables.\n8.PEREC Georges, Je me souviens.\n9.PEREC Georges, Nouveaux jeux interessants.\n10.PREVERT Jacques, Paroles.\n11.RENARD Jules, Histoires naturelles.\n12.SAINT-EXUPERY Antoine de, Lettres a sa mere.\n13.SOLLERS Philippe, L’Annee du Tigre.\n14.TISSERON Serge, Journal d’un psychanalyste.",
+  "teaching_method": "講授",
+  "grading_policy": "1.出席率，課堂表現。\n2.平時測驗，期中考，期末考。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限法國語文學系。年級:限一年級。"
+    }
+  ]
+}

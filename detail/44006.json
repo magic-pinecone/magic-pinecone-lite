@@ -1,0 +1,22 @@
+{
+  "serial_no": "44006",
+  "objectives": "“Purpose of the course: The course of Money and Banking covers three main themes. First, we introduce the structure, instruments, operation, and regulations of the financial markets. Their relationship with and impacts on the economy will be emphasized in particular. Second, we will introduce the roles, operation, management, and supervision of the banking system. Its potential problems and relationship with the economy are the focuses of discussion. Last, we will introduce the central banks, monetary policies, and the international financial system. Generally speaking, this course provides a broad view of the monetary and financial sectors of an economy, and how they interact with the economy to affect its performance.“",
+  "content": "1\t9/4\t課程介紹 and  Ch1 貨幣的本質與功能\n2     9/11\tCh2 貨幣的演進 (I)\n3    9/18\tCh2 貨幣的演進 (II)\nCh3 金融體系簡介\n4     9/25\tCh4 金融市場工具\n5      10/2\tCh5 利率的行為暨利率期限結構理論\n6.    10/9\t資本市場(股票市場)介紹 , 資產需求理論  (本週可能出國開會, 後續課程略有調整)\n7.   10/16\t 報告: 投資簡報\n8.   10/23\t Mid-term exam\n9.   10/30\t Ch6 外匯市場的基本概念\n10.   11/6\t全校運動會 (停課)\n11.   11/13\tCh7 銀行業\n12.   11/20\tCh8 其他的金融中介機構 (其它版本)\n13    11/27\tCh8金融科技與未來的銀行業\n14.    12/4\tCh10 我國的金融改革\n15.    12/11\tTerm Exam\n16.   12/18\t股市投資報告\n\n課程可能因應教學需要而有所微調“",
+  "books": "“Course Material 李榮謙, 2023, 貨幣銀行學 (十四版), 智勝文化\nOther Material Mishkin, F.S., 2019, The Economics of Money, Banking, and Financial Markets, 12th edition, Addison-Wesley.",
+  "teaching_method": "講授",
+  "grading_policy": "“■Class Participation (出席率) 5％\n■Midterm Test (期中考) 40％\n■Final Test (期末考)  40％\n■Presentation 15％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-經濟學系、雙主修-經濟學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學院:限管理學院。年級:限三年級、四年級。指定課程:必須先修MT1011、先修MT1012。"
+    }
+  ]
+}

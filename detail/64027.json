@@ -1,0 +1,9 @@
+{
+  "serial_no": "64027",
+  "objectives": "學習地下水與污染物在含水層中之流動行為與物理機制",
+  "content": "授課內容包含：\n1. 地下水文簡介\n2. 地球表面的水文過程\n3. 水文地質概念\n4. 地下水流基本原理\n5. 地下水流動理論\n6. 地下水污染傳輸簡介\n7. 地下水的污染來源和類型\n8. 地下水污染調查\n9. 地下水污染傳輸機制\n10. 地下水污染傳輸模擬\n11. 非水相流體行為",
+  "books": "Text:\n\tSchwartz, F. W. and Hubao Zhang, 2003, Fundamentals of Ground Water, John Wiley and Sons.\n\tBedient, P. B., H. S. Rifai, and C. J. Newell, 1999, Ground Water Contamination transport and Remediation, Prentice Hall PTR.\nReference:\n\tYeh, Tian-Chyi, Raziuddin Khaleel, Kenneth C. Carroll, 2015, Flow through Heterogeneous Geologic Media, Cambridge University Press, New York.\n\tFetter, C. W., Thomas Boving, David Kreamer, 2017, Contaminant Hydrogeology, Third Edition, Waveland Press.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "出席與課堂表現 40%\n報告與作業 40%\n期中考 20%",
+  "distribution_conditions": []
+}

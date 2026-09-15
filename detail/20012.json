@@ -1,0 +1,9 @@
+{
+  "serial_no": "20012",
+  "objectives": "本課程旨在使學生：\n1. 建立質譜分析的核心物理與化學原理（離子化、質荷比、偵測）\n2. 熟悉各類質譜儀架構（如四極桿、飛行時間等）\n3. 理解不同離子化技術的適用情境（如 ESI、MALDI）\n4. 能解讀基礎質譜圖（fragmentation pattern、isotope pattern）\n5. 為後續進階應用（蛋白體學、代謝體學等）奠定基礎\n6. 培養閱讀與分析質譜相關論文的能力",
+  "content": "1.\t課程導論與質譜發展史\n2.\t質譜基本原理\n3.\t真空系統與儀器架構\n4.\t離子化技術 I：硬式游離\n5.\t離子化技術 II：軟式游離\n6.\t離子化技術 III：MALDI\n7.\t質量分析器 I\n8.\t質量分析器 II\n9.\t偵測器與訊號處理\n10.\t質譜圖判讀 I\n11.\t質譜圖判讀 II\n12.\t串聯質譜\n13.\t定量分析\n14.\t樣品前處理\n15.\t論文導讀與報告\n16.\t期末專題報告",
+  "books": "質譜分析技術原理與應用 (ISBN：9789572199923)\nMass spectrometry principles and applications (ISBN 9781118681947)",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "出席: 40％\n期中報告: 30％\n期末報告: 30％",
+  "distribution_conditions": []
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "12019",
+  "objectives": "This course introduces students to linguistic analysis using contemporary digital tools and authentic food discourse data. Students will explore how linguistic patterns, meanings, identities, and social relationships are constructed through approaches such as discourse analysis and corpus-informed analysis. Digital tools including concordance tools, word clouds, frequency analysis, Google Trends, and AI-assisted analysis will be introduced as methods for investigating language use. Through project-based learning and hands-on data analysis, students will critically examine both the possibilities and limitations of digital tools and AI in linguistic inquiry.",
+  "content": "1\t\tIntroduction: What Is Linguistic Analysis?\n2\t\tLanguage, culture, and meaning\n3\t\tCollecting digital data\n4\t\tWord frequency and word clouds\n5\t\tConcordance and collocation\n6\t\tFood, identity, and evaluation\n7\t\tDigital discourse and social media\n8\t\tProject proposal workshop\n9\t\tMidterm project check-in\n10\t\tTrends and language change\n11\t\tAI as a linguistic tool\n12\t\tHuman analysis vs AI analysis\n13\t\tVisualizing linguistic patterns\n14\t\tProject workshop\n15\t\tFinal project presentations\n16\t\tFinal project due\n\nThis syllabus is tentative and subject to revision.",
+  "books": "Jurafsky. 2015. The Language of Food\nReadings and worksheets provided by the instructor",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "Participation & Discussion\t30%\nProject Proposal\t10%\nProject Progress\t15%\nFinal Project Presentation\t15%\nFinal Project Paper\t30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限英美語文學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限雙主修-英美語文學系。"
+    }
+  ]
+}

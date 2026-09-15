@@ -1,0 +1,22 @@
+{
+  "serial_no": "53035",
+  "objectives": "介紹量子資訊與量子通訊的基本概念與方法，使學生理解量子位元、量子閘、量子糾纏、量子演算法及量子通訊協定，並透過期末專題培養文獻閱讀、實作分析及口頭與書面表達能力。",
+  "content": "1\t課程導論與簡介\n2\t量子特性基礎介紹 & 修課能力前測\n3\t量子資訊與通訊導論\n4\t數學預備知識與基礎量子力學\n5\t量子位元 (Qubit) 與基本原理及不可複製定理\n6\t量子閘與量子電路\n7\t量子糾纏與其應用\n8\tMidterm\n9\t糾纏純化與交換\n10\t量子金鑰分發 (QKD) 協議\n11\t進階量子金鑰分發 (QKD) 協議\n12\t量子密碼學主題討論\n13\t量子網際網路與未來應用\n14\t期末專題討論\n15\t期末專題報告 (I)\n16\t期末專題報告 (II)",
+  "books": "參考書(英文)：Michael A. Nielsen, and Isaac L. Chuang, Quantum Computation and Quantum Information, 2002.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "出席、作業及課堂表現 – 40%\n紙筆測驗 (含前測、期中考) – 40%\n期末專題報告 – 20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系碩士班、通訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。系所:限資訊電機學院。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。系所:限資訊電機學院。年級:限四年級。"
+    }
+  ]
+}

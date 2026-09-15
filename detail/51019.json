@@ -1,0 +1,26 @@
+{
+  "serial_no": "51019",
+  "objectives": "控制系統理論基礎之學習，讓修課學生了解什麼是控制系統，使其後續能對系統做基本的控制設計與效能分析。修習本課程後學生會了解如何描述線性系統的動態方程，判斷系統的穩定性，同時了解時域、S域、頻域，極點與頻率響應分析等技術。",
+  "content": "1. Introduce to Control Systems\n2. Modeling of Dynamic Systems\n3.Solution of Differential Equations of Dynamic Systems\n4.Block Diagrams and Signal-Flow Graphs\n5.Stability of Linear Control Systems\n6.Important Components of Feedback Control Systems\n7.Time-Domain Performance of Control Systems\n8.State-Space Analysis and Control Design\n9.Root-Locus Analysis",
+  "books": "Automatic Control Systems, by Farid Golnaraghi, Benjamin C. Kuo, 10th Edition, 2017.",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "1. 出席與課堂討論（9%）\n2. 三次個人作業（21%）（個人）\n3. 期中考（30%）\n4. 期末專題與口頭報告（40%）（分組）",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系、資訊電機學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

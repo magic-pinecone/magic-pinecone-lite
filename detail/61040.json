@@ -1,0 +1,9 @@
+{
+  "serial_no": "61040",
+  "objectives": "1. Weather radar system, subsystems, and design trade-offs\n2. Acquisition process of weather data\n3. Statistical properties of weather signals\n4. Implement basic processing techniques\n5. Procedure of radar data quality control\n\n1.氣象雷達系統、子系統與設計權衡\n2.氣象資料的擷取程序\n3.氣象上雷達訊號的統計特性\n4.實作基礎處理技術\n5.雷達資料品質管理流程",
+  "content": "This course provides an introduction to radar design trade-offs, antennas, transmitters, and coherent receivers. Analysis of radar signals as noise-corrupted stochastic processes, with emphasis on digital signal processing for Doppler spectrum and moment estimation. Applications of weather radars will also be introduced and discussed. Students will have opportunities to practice how to conduct radar data quality.\n\n本課程將介紹雷達設計的權衡取捨、天線、發射機與相干接收機。課程核心包含將雷達訊號視為受雜訊干擾的隨機程序（Stochastic processes）進行分析，並著重於多普勒頻譜與動差估計（Moment estimation）的數位訊號處理技術。\n此外，課程也將介紹與討論氣象雷達的實際應用。學生可以親自實作並練習如何進行雷達資料的品質管制（Quality control）",
+  "books": "Doppler Radar and Weathe r Observations” Richard Doviak and Dusan Zrnic, 2 nd Edition, Dover , 2016\nRadar for Meteorologists” R. E. Rinehart, 5 th Edition.\nPolarimetric Doppler Weather Radar: Principles and Applications” V. N. Bringi and V. Chandrasekar, Cambridge, 2001",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "考試30%\n作業30%\n報告40%",
+  "distribution_conditions": []
+}

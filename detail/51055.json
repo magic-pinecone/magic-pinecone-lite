@@ -1,0 +1,9 @@
+{
+  "serial_no": "51055",
+  "objectives": "對材料科學基本瞭解",
+  "content": "\"1. Basic Quantum Mechanics\n1.1Schrodinger Equation\n1.2The Square Well\n1.3The Harmonic Oscillator (Phonon and Photon)\n1.4 The Hydrogen Atom (3D and 2D exciton Bound and Contiuum States)\n1.5Time-Independent Perturbation Theory\n1.6Time-Dependent Perturbation Theory\n2. Periodic Lattice of Atoms\n2.1 Reciprocal Lattice, Bloch Theorem\n2.2Tight Binding Approximation\n2.3 K．p Theory\n2.4Degenerate Valence Bands\n3. Mesoscopic Semiconductor Structure\n3.1 Envelope Function Approximation\n3.2Conduction Band Electrons in Quantum Wells\n3.3Degenerate Hole Bands in Quantum Wells\n4. Phonons, Crystal Vibrations and Thermal Physics\n4.1 Vibration of Crystals with Monatomic basis\n4.2Two Atoms per Primitive Basis\n4.3 Phonon Heat Capacity\n5. Free Carrier Transitions\n5.1Optical Dipole Transitions\n5.2Kinetics of Optical Interband Transitions\n5.3Coherent Regime: Optical Bloch equations\n5.4Quasi-Equilibrium Regime: Free Carrier Absorption\n6. Ideal Quantum Gases\n6.1 The Ideal Fermi Gas\n6.2The Ideal Bose Gas\n6.3 Ideal Quantum Gases in d Dimensions\"",
+  "books": "\"教科書：\nTextbook:Introduction to Solid State Physics (Charles Kittel)\n參考書：\nReferences:\n(1)Quantum Theory of the Optical and Electronic Properties\nof Semiconductor (H. Haug and S. W. koch)\n(2)Solid State Physics (N. W. Ashcroft, and N. DavidMermin)\n(3)Physics of optoelectronic Devices ( S. L. Chuang)\n(4)Semiconductor-Laser Physics(W. W. Chow, S. W. Koch and M. Sargent III)\"",
+  "teaching_method": "講授",
+  "grading_policy": "平常30％ 、期中30％、期末40％",
+  "distribution_conditions": []
+}

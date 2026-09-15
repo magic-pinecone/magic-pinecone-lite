@@ -1,0 +1,22 @@
+{
+  "serial_no": "63021",
+  "objectives": "本課程涵蓋衛星系統工程、推進、通訊、熱控與光學酬載等十四項核心領域。旨在引導學生掌握太空任務設計、系統工程規劃、次系統設計分析與整合測試，並透過團隊分工實作期末專題，培養具備衛星系統設計與實務操作能力的專業人才。",
+  "content": "週次Week\t授課內容Lecture Content \t上課日期Class Date\t授課教師Instructor\n1\t課程介紹及太空任務設計編組\nCourse Introduction and Space Mission Design Team Formation\t2026/9/7\t陳維鈞\n2\t衛星系統工程\nSatellite Systems Engineering\t2026/9/14\t陳維鈞\n3\t衛星推進\nSatellite Propulsion\t2026/9/21\t許耀中\n教師節國定假日\t2026/9/28\n4\t衛星通訊\nSatellite Communications \t2026/10/5\t譚怡陽\n5\t衛星電力\nSatellite Power System\t2026/10/12\t黃哲政\n6\t衛星指令及資料處理\nSatellite Command and Data Handling\t2026/10/19\t許吉元\n光復節國定假日補假\t2026/10/26\n7\t衛星姿態判定及控制\nSatellite Attitude Determination and Control \t2026/11/2\t詹鎮宇\n8\t衛星結構設計和分析\nSatellite Structural Design and Analysis\t2026/11/9\t郭人爵\n9\t衛星熱控\nSatellite Thermal Control\t2026/11/16\t黃正德\n10\t衛星飛行軟體\nSatellite Flight Software\t2026/11/23\t劉正文\n11\t光學酬載、影像處理及運用\nOptical Payloads, Image Processing, and Applications\t2026/11/30\t黃柏瑄/蔡玉麟\n12\t太空環境及科學酬載\nSpace Environment and Scientific Payloads\t2026/12/7\t葉文豪\n13\t衛星整合與測試\nSatellite Integration and Testing\t2026/12/14\t陳維鈞\n14\t衛星飛行操作\nSatellite Flight Operations\t2026/12/21\t張聖裕\n15\t期末報告\nFinal Presentation / Final Report\t線上\t陳維鈞\n16\t期末報告\nFinal Presentation / Final Report\t線上\t陳維鈞",
+  "books": "Wiley J. Larson and James R. Wertz, “Space Mission Analysis and Design”, 3rd edition, Space Technology Library, 2005 及更新版本",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "60%作業與出席率，40%期末報告",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限學分學程-太空科技與工程。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。系所:限太空科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。"
+    }
+  ]
+}

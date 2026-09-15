@@ -1,0 +1,18 @@
+{
+  "serial_no": "51001",
+  "objectives": "課程介紹\n程式設計是電機與資工學生最重要的核心技能之一，能夠幫助他們解決複雜的工程問題。本課程提供深入的 C++ 程式設計知識，並培養系統化的問題解決能力。我們預期大多數同學在修課前幾乎沒有程式設計經驗，因此課程將從 C++ 語法與程式設計概念的基礎開始，並輔以對底層原理的詳細說明。同學不僅會學習理論，也將透過個人程式作業進行實作練習。\n修課注意事項\n本課程主要為電機系大一新生設計，與其他電機系課程有密切關聯。請預期需要花費大量時間進行程式練習與閱讀補充資料。強烈建議同時選修「計算機概論實習」課程，該課程的練習題將直接輔助本課程的程式作業。非電機系同學請審慎考慮是否選修，本課程負擔較重，且可能需要自行補足相關電機領域的基礎知識。\n程式設計對 AI 與 IC 設計的重要性\n在當今的科技環境中，程式設計是人工智慧（AI）與積體電路（IC）設計等快速成長領域的核心基礎技能。在 AI 領域，程式設計是實作演算法、訓練與優化模型，以及高效處理大規模資料集的必備能力。在 IC 設計與電路電腦輔助設計（CAD）領域，程式設計則用於開發模擬工具、自動化設計流程，以及進行硬體與軟體的協同優化。透過掌握廣泛應用於高效能運算的 C++ 語言，你將建立堅實的基礎，足以應對計算密集型任務，並開發適用於 AI 應用與晶片設計自動化的工具。這些技能對於在現代工程職涯中保持競爭力至關重要。\n學習成果\n修畢本課程後，你將能夠：\n\n理解程式的運作原理，並建立良好的程式撰寫風格與習慣。\n推導演算法並以 C++ 實作，解決複雜問題。\n認識程式設計如何應用於其他電機領域，包括 AI 與 IC 設計。\n深入理解程式設計概念，為日後學習 Python 或 Java 等其他語言奠定基礎。\n培養強健的自學能力，使你在未來能夠獨立解決問題。\n\n請注意，本課程為深度導向課程，修課同學須以比一般 C++ 課程更深入的程度投入學習。課程中涵蓋的額外細節與概念，將為你未來的程式設計與工程實踐提供寶貴的基礎。",
+  "content": "Chapter 1 - Introduction to Computers\nChapter 2 - Introduction to C++ Programming\nChapter 3 - Control Statement: Part 1\nChapter 4 - Control Statement: Part 2\nChapter 5 – Functions and Recursion\nChapter 6 - Arrays and Vectors\nChapter 7 - Pointers\nChapter 8 - Sequential-Access Files\nChapter 22 - Bits, Characters, C Strings and structs\nChapter 9 - Classes\nChapter 10 - Classes: A Deeper Look",
+  "books": "Textbook“C++ How to Program - Late Objects Version, By P. J. Deitel and H. M. Deitel, 7th Edition (2011)Pearson Education Inc,ISBN: 0-13-248458-7“\nReference books“C++ How to Program“, by P. J. Deitel and H. M. Deitel, 10th Edition, Pearson Education Inc, ISBN-10: 013444888XC++ 教學手冊 第三版, 洪維恩, 旗標出版, ISBN：9789577179371",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "Homework Assignment 30％ Quizzes and Attendance 15％ Midterm Exam 15％ Final Exam 20％ Final Project 20％ Bonus Points ??％ (Tentative)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

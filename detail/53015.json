@@ -1,0 +1,22 @@
+{
+  "serial_no": "53015",
+  "objectives": "使學生了解編碼理論之基本原理與方法，包含錯誤偵測與更正、線性區塊碼、循環碼、卷積碼、低密度奇偶檢查碼及其在通訊系統中的應用，培養分析與設計通道編碼系統的能力。",
+  "content": "1\tIntroduction to Coding Theory\n2\tIntroduction to Block Codes\n3\tHamming Codes\n4\tMaximum-Likelihood Decoder\n5\tLDPC Codes\n6\tLDPC Codes: Decoding Algorithms\n7\tLDPC Codes: Constructions\n8\t期中專題報告\n9\tIntroduction to Algebra\n10\tConvolutional Codes\n11\tConvolutional Codes: Viterbi Decoding Algorithm\n12\tConvolutional Codes: Performance Analysis\n13\tBoolean Functions and Reed-Muller Code\n14\tReed-Muller Codes: Majority Logic Decoding Algorithm\n15\tReed-Muller Codes: Iterative Decoding Algorithm\n16\t期末報告",
+  "books": "S. Lin and D. J. Costello, Jr., Error Control Coding: Fundamentals and Applications, 2nd edition. Pearson Prentice Hall, 2004.",
+  "teaching_method": "講授",
+  "grading_policy": "作業+課堂表現65%、期中專題報告35%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系碩士班、通訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。學院:限資訊電機學院。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。學院:限資訊電機學院。年級:限四年級。"
+    }
+  ]
+}

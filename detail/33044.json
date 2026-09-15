@@ -1,0 +1,14 @@
+{
+  "serial_no": "33044",
+  "objectives": "本課程旨在為研究生提供應用數學的必要知識，這些知識可應用於力學、電學和應用科學的各個方面。",
+  "content": "1. Cartesian Tensor\n2. Eigenvalue problem\n3. Ordinary differential equation-initial value problem\n4. Ordinary differential equation-boundary value problem\n5. Ordinary differential equation-Green‘s function\n6. Partial differential equation-Green‘s function\n7. Partial differential equation-eigenfunction expansion",
+  "books": "(1) H. Jeffreys, “Cartesian tensors,“ 7th ed., Cambridge Univ. Press, 1968.\n(2) Y. C. Fung, “A first course in continuum mechanics,“ Prentice-Hall, 1969.\n(3) G. Birkho and G. C. Rota, “Ordinary Differential Equations,“ 4th ed. John Wiley ＆ Sons, 1989.\n(5) F. Brauer J. A. Nohel, “Ordinary Differential Equations,“ Benjamin Inc., 1967.\n(6) I. Stakgold, “Green‘s Functions and Boundary Value Problems,“ John Wiley ＆ Sons., 1979.\n(7) M. W. Hirsch and S. Smale, “Differential Equations, Dynamical Systems, and Linear Algebra,“ Academic Press, 1974.\n(8) W. E. Williams,“Partial differential equations,” Oxford University Press, 1980.",
+  "teaching_method": "講授",
+  "grading_policy": "1. 作業 (20％)\n2. 期中考 (30％)\n3. 期末考 (30％)\n4. 課堂出席 (20％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班、機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班、機械工程學系工學博士班。"
+    }
+  ]
+}

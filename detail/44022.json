@@ -1,0 +1,14 @@
+{
+  "serial_no": "44022",
+  "objectives": "本課程目的在於建立博士班學生的個體經濟理論基礎。前半段主題為消費者理論，內容包括偏好、消費者的選擇、古典需求理論以及總合需求等。後半段探討生產理論與不確定情況下的選擇問題。",
+  "content": "“1 ( / ) Introduction\n2 ( / ) Preference Relations and Choice Rules\n3 ( / ) The Consumption Set and Competitive Budgets\n4 ( / ) The Weak Axiom of Revealed Preference\n5 ( / ) Preference and Utility\n6 ( / ) The Utility Maximization Problem\n7 ( / ) The Expenditure Minimization Problem\n8 ( / ) Welfare Evaluation of Economic Changes\n9 ( / ) Midterm Exam\n10 ( / ) Production Sets\n11 ( / ) The Profit Maximization Problem\n12 ( / ) The Cost Minimization Problem\n13 ( / ) Efficient Production\n14 ( / ) Expected Utility Theory\n15 ( / ) Money Lotteries and Risk Aversion\n16 ( / ) Comparison of Payoff Distributions in terms of Return and Risk\n17 ( / ) Subjective Probability Theory\n18 ( / ) Final Exam“",
+  "books": "“Course Material\n(課程教材) Mas-Colell, A., M. D. Whinston and J. R. Green, “Microeconomics Theory,” Oxford University Press, 1995.\nOther Material\n(其他參考書目) Varian, Hal R. “Microeconomic Analysis,” 3-rd ed., W. W. Norton ＆ Company, Inc., 1992“",
+  "teaching_method": "講授",
+  "grading_policy": "期中與期末考試各占百分之50。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系碩士班、經濟學系博士班。"
+    }
+  ]
+}

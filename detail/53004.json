@@ -1,0 +1,22 @@
+{
+  "serial_no": "53004",
+  "objectives": "線性代數為資通訊研究領域之基礎數學之一，授課內容期能引導學生理解線性代數基本學理、定理證明及應用方向，奠定學生爾後論文研究或修習高階課程之所需。",
+  "content": "1\t矩陣與矩陣運算\n2\t線性方程組與解\n3\t線性方程組與解\n4\t行列式\n5\t向量空間\n6\t向量空間\n7\t向量空間\n8\t期中考試\n9\t內積空間\n10\t內積空間\n11\t內積空間\n12\t特徵值與特徵向量\n13\t特徵值與特徵向量\n14\t線性變換\n15\t線性變換\n16\t期末考試",
+  "books": "教科書：Howard Anton, Elementary Linear Algebra, 12th Edition, John Wiley & sons, Inc, 2019.\n參考書：\n(1) G. Strang, Linear Algebra and its Applications, 3rd Edition, Harcourt Brace Jovanovich Inc. 1988.\n(2) B. Nobel and J. Daniel, Applied Linear Algebra, 3rd Edition, Prentice Hall, 1988.",
+  "teaching_method": "講授",
+  "grading_policy": "小考              30％\n期中考       35％\n期末考       35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系、資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-通訊工程學系、雙主修-通訊工程學系、第二專長-通訊工程。"
+    }
+  ]
+}

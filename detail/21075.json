@@ -1,0 +1,18 @@
+{
+  "serial_no": "21075",
+  "objectives": "本課程 上課16週  第16週交期末報告\n學習隨機過程之參數估計與檢定",
+  "content": "Statistical inferences for Brownian Motion, Gaussian Process, Diffusion Process, Branching Process, Stationary Times Series, among others.",
+  "books": "Anderson (1971). The Statistical Analysis of Time Series. Wiley.\n\nBasawa and Prakasa Rao (1980) Statistical Inference for Stochastic Processes. Academic Press.\n\nKao (1997). An Introduction to Statistical Process. Duxbury.\n\nLiptser and Shiryaev (2001). Statistics of Random Processes. I General Theory. 2nd ed. Springer.\n\nLiptser and Shiryaev (2001). Statistics of Random Processes. II Applications. 2nd ed. Springer.\n\nWong (1983). Introduction to Random Process. Springer.",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "平時成績40分  上課心得報告30分   指定論文閱讀心得報告30分",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限四年級。"
+    }
+  ]
+}

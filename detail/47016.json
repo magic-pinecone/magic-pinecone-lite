@@ -1,0 +1,14 @@
+{
+  "serial_no": "47016",
+  "objectives": "學術論文研討",
+  "content": "授課老師與學生約定主題",
+  "books": "授課老師與學生約定主題",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "專題研究報告90％\n出席表現10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限人力資源管理研究所博士班。"
+    }
+  ]
+}

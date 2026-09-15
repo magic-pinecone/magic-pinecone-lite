@@ -1,0 +1,26 @@
+{
+  "serial_no": "24023",
+  "objectives": "“This subject is an optional course designed for both post- and under-graduate students with Life Sciences as their major.  This subject is one semester course with two credits.  Interested students should have basic knowledge in Cell Biology, Biochemistry, and Molecular Biology before they take this subject.“",
+  "content": "“The scope of this subject includes the (1) early development of mammalian embryos, (2) nature and behavior of stem cells, (3) embryonic stem cells, (4) adult stem cells, (5) stem cell niches, (6) induced pluripotent stem cells (iPSC), (7) regenerative medicine and application of stem cells.“\n\nWeek\tTopics\t                                              Instructors\n1\tIntroduction to Stem Cell Biology\t                陳盛良\n2\tEarly development of mammalian embryos \t陳盛良\n3\tEarly development of mammalian embryos \t陳盛良\n4\tEmbryonic stem cells\t                                陳盛良\n5\tEmbryonic stem cells\t                                陳盛良\n6\tInduced pluripotent stem cells (iPSC)\t        陳盛良\n7\tInduced pluripotent stem cells (iPSC)\t         陳盛良\n8\tMid-term exam\t                                        陳盛良\n9\tMesodermal adult stem cells-hematopoietic stem cells\t陳盛良\n10\tHematopoietic stem cell applicatons\t陳盛良\n11\tMesodermal adult stem cells-myogenic stem cells\t陳盛良\n12\tEctodermal adult stem cells-skin and hair follicle \t陳盛良\n13\tEndodermal adult stem cells -intestine and liver\t陳盛良\n14\tCancer stem cells\t陳盛良\n15\tStem cells and regenerative medicine\t陳盛良\n16\tFinal examination\t陳盛良\n17\tHoliday\t陳盛良\n18\t彈性課程\t陳盛良",
+  "books": "Text book: (1) Developmental Biology (2010) by Scolt Gilbert\n(2) Stem Cell and Regenerative Medicine (2009) by Kursad Turksen\n(3)  Embryonic Stem Cell (2008) by Kursad Turksen.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Midterm and final written examinations",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限第二專長-生物科技。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

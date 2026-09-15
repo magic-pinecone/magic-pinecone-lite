@@ -1,0 +1,14 @@
+{
+  "serial_no": "34022",
+  "objectives": "深入了解材料之結構和加工的基本原理，以了解各種重要的物理現象，包括材料的機械、電和磁特性。學生將了解此類處理和特性如何影響工程組件和設備的設計和操作。",
+  "content": "1. 簡介2. 原子在固體中的鍵合、堆積3. 基本晶體學4. 晶體缺陷5. 結構和相圖6. 彈性模量、屈服強度和抗拉強度7. 強化機理與材料失效8. 變形加工與修復工藝",
+  "books": "1. 物理冶金原理第 4 版，R. Abbaschian、L. Abbaschian 和 R. E. Reed-Hill 著，出版商：Cengage Learning，2009。\n2. 現代物理冶金和材料工程第 6 版，R. E. Smallman； B. J. Bishop，出版商：Butterworth-Heinemann，1999。\n3. 錯位簡介第 5 版，D. Hull 和 D. J. Bacon 著，出版商：Butterworth-Heinemann，2011 年。\n4. D.B. 固體的電學、電子學和磁學性質Sirdeshmukh, L. Sirdeshmukh, K.G.",
+  "teaching_method": "講授",
+  "grading_policy": "2次作業(每次10％) 20％\n5次小考(每次2％) 10％\n期中考 30％\n期末考 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系碩士班、化學工程與材料工程學系博士班、化學工程與材料工程學系工學博士班。"
+    }
+  ]
+}

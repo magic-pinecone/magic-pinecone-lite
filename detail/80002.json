@@ -1,0 +1,18 @@
+{
+  "serial_no": "80002",
+  "objectives": "本課程結合地理資訊系統的空間資料分析技術，以及永續發展與跨領域相關議題。使學生透過地理資訊工具整合不同尺度的空間資訊，來源包括政府開放資料及科學研究資料，建置空間資料庫並透過完善的流程進行資料分析、數位化及展示，進而完成一個獨立的專題。課程包含電腦實做內容，包含GIS地理資訊系統及SQL語言，相關技術可應用於綠能規劃、環境治理、資源探勘、都市計畫等領域。",
+  "content": "授課內容包含電腦操作，學生須自備筆記型電腦。\n\n● 空間資料概論\n● 地理資訊系統（GIS）與空間資料整合\n● 空間資料庫原理及建置\n● SQL語言與空間查詢應用\n● 空間分析及統計技術\n● 資料視覺化技術\n● 綠能應用與選址分析\n● ESG與空間分析應用\n● 遙測資料與環境監測應用\n● 海洋探勘資料整合分析",
+  "books": "1.\tLongley, P. A., et al. (2015). Geographic Information Science and Systems (4th Ed.). Wiley.\n2.\tO’Sullivan, D., & Unwin, D. (2010). Geographic Information Analysis (2nd Ed.). Wiley.\n3.\tQGIS Documentation: QGIS User Guide.\n4.\t政府資料開放平臺（https://data.gov.tw/）\n5.\t內政地理資訊圖資雲整合服務平台（https://www.tgos.tw/tgos）\n6.\t環境部環境資料開放平臺（https://data.moenv.gov.tw/）\n7.\tUSGS Earth Explorer（https://earthexplorer.usgs.gov/）",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "出席率Attendance：20%\n作業Homework：30%\n期末專題報告Final report：50%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限地球科學學院。"
+    }
+  ]
+}

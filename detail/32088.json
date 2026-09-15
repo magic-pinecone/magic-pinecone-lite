@@ -1,0 +1,14 @@
+{
+  "serial_no": "32088",
+  "objectives": "訓練學生最佳化設計與管理能力，以解決實務問題。",
+  "content": "1.線性規劃, 2.敏感度分析, 3.對偶理論, 4.網路模式, 5.整數規劃, 6.非線性規劃, 7.個案研究",
+  "books": "講義",
+  "teaching_method": "講授",
+  "grading_policy": "習題、期中考、期末考",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士在職專班。"
+    }
+  ]
+}

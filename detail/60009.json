@@ -1,0 +1,14 @@
+{
+  "serial_no": "60009",
+  "objectives": "In this course I introduce the basic concepts of how volcanoes work without assuming some prior knowledge of volcanology from the students. The only prior knowledge needed is some physics, calculus and the basics of seismology. The objective is to familiarize the students with how volcanoes work, how they erupt, what hazards these eruptions entail and how volcanoes can be monitored and studied using primarily seismology, but also other methods.",
+  "content": "The course will start from recognizing the fact that volcanism is the direct consequence of plate tectonics and describe in more detail this relationship. This will be followed by a description of the plumbing system beneath volcanoes, why and how eruptions occur, what are their hazards. In the second part of the course emphasis will be given on the use of seismology for monitoring volcanoes and for probing their internal structure (i.e. seismic tomography).",
+  "books": "1. Parfitt E. A. and L. Wilson, 2008. Fundamentals of physical volcanology, Blackwell publishing, 230 pp.\n2. Shearer P. M., 2018. Introduction to seismology, Cambridge University Press, 396 pp.\n3. Zobin V. M., 2012. Introduction to volcanic seismology, Elsevier Ltd, 482 pp.",
+  "teaching_method": "講授",
+  "grading_policy": "Quiz → 40％ (after each class)\nFinal → 60％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球系統科學國際研究生博士學位學程。"
+    }
+  ]
+}

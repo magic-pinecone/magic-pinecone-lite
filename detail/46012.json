@@ -1,0 +1,14 @@
+{
+  "serial_no": "46012",
+  "objectives": "本課程重點將著重於作業研究中隨機存貨理論、等候線理論、非線性規劃以及數值運算。藉由本課程將理論推導與電腦數值計算結合，期望修課同學運用課程中所教授之理論配合電腦程式之撰寫來了解如何將作業研究應用來解決實務上所面臨的問題。",
+  "content": "“1 Review: Probability theory (I)2 Review: Probability theory (II)3 Transformations: Z-transform and Laplace Transform (I)4 Transformations: Z-transform and Laplace Transform (II)5 Inverse Transformations6 Stochastic Inventory Theory (I)7 Stochastic Inventory Theory (II)8 Queueing Theory (I)9 Queueing Theory (II)10 Midterm Exam11 Queueing Theory (III)12 Queueing Theory (IV)13 Dynamic Programming (I)14 Dynamic Programming (II)15 Nonlinear Programming (I)16 Nonlinear Programming (II)17 Nonlinear Programming (III)18 Final Project Presentation“",
+  "books": "“Papers from Management Science, Operations Research, INFORMS Journal on Computing“",
+  "teaching_method": "講授",
+  "grading_policy": "“Homework and class participation 30％\nMidterm Exam 35％\nFinal Project 35％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    }
+  ]
+}

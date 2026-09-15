@@ -1,0 +1,30 @@
+{
+  "serial_no": "41033",
+  "objectives": "公司在導入ERP，取得日常的營運資料後，往往需要進一步將資料整合分析，以作為決策的參考，「資料倉儲與商業智慧」的課程主要目的是讓學生了解企業如何處理這些資料，以及這些資料如何形成有效經營決策的智慧，另外也將介紹整個BI專案的過程，並已依實際案例說明專案的關鍵成功要素。\n\n線上教室連結\nhttps://meet.google.com/itd-yrvx-jyi",
+  "content": "9/13\tClass Overview ＆ BI Introduction\t何靖遠   老師\n9/20\t(No Class, Moon Festival)\n9/27\tDimensional modeling\t許秉瑜   老師\n10/4\tETL\t許智誠   老師\n10/11\t(No Class)\n10/18\tCube ＆ reporting \t許智誠   老師\n10/25\tBI Project Life Cycle\t陳炫碩   老師\n11/1\tBusiness Impact ＆ Measure of Success\t陳仲儼   老師\n11/8\tMid-Term (No Class)\n11/15\tKPI – Financial Accounting\t蔡文賢   老師\n11/22\tKPI – Procurement\t陳美純   老師\n11/29\tKPI – Sales ＆ Distribution\t王福川   老師\n12/6\tKPI – Production Planning\t陳美純   老師\n12/13\tKPI – Human Resources\t鄭晉昌   老師\n12/20\tClustering\t王貞淑   老師\n12/27\tAssociation Rule\t沈建文   老師\n1/3\tClassification\t黃世翔   老師\n1/10\tFinal Exam",
+  "books": "商業智慧與大數據分析(第三版) – 滄海書局出版",
+  "teaching_method": "講授",
+  "grading_policy": "期末考: 30％\n上課參與討論40％: (上課發言一次得總分5分, 以此類推, 8 次可得40分; 達12次者, 得45分, 達15次及以上得50分)\n出席率: 30％ (缺席一次扣總成績10分; 缺席兩次扣總成績20分; 缺席三次扣總成績30分)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。學院:限管理學院。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。學院:限管理學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。學院:限非管理學院。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。學院:限非管理學院。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "serial_no": "63028",
+  "objectives": "使學生認識太空電漿中之多尺度行為，並能將其應用於日地環境的研究及探測",
+  "content": "1. 簡介電漿特徵\n2. 動力電漿模式及流體電漿模式\n3. 磁流體理論\n4. 電漿不穩定",
+  "books": "1. Principles of Plasma Physics, N. A. Krall and A. W. Trivelpiece, McGraw-Hill Book Company, New York, 1973.\n2. Introduction to Plasma Theory, D. R. Nicholson, John Wiley & Sons, New York, 1983.\n3. Introduction to Plasma Physics, R. J. Goldston and P. H. Rutherford, Taylor ＆ Francis, 1995.\n4. Physics of Space Plasmas: An Introduction, G. K. Parks, Westview Press, 2004.\n5. Introduction to plasma physics: with space and laboratory applications, D. A. Gurnett and A. Bhattacharjee, Cambridge University Press, 2005.\n6. Elementary Space Plasma Physics, Ling-Hsiao Lyu, 2010.\n7. Introduction to Plasma Physics and Controlled Fusion, Volume 1: Plasma Physics, 3rd edition, Francis F. Chen, Springer, 2016.\n8. Plasma physics: an introduction to laboratory, space, and fusion plasmas, Alexander Piel, 2nd edition, Springer, 2017.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "作業: 30%\n報告: 30%\n期末考: 30%\n上課表現: 10%",
+  "distribution_conditions": []
+}

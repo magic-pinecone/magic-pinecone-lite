@@ -1,0 +1,26 @@
+{
+  "serial_no": "48020",
+  "objectives": "\"Econometrics is the set of tools by which economists analyze data. The objective of the course is for the student to learn how to estimate economic relationships, test economic theories, and evaluate government and business policy. I hope this course can be taught in an intuitive manner without hard matrix algebra. Some computational problems may be assigned to solve by using statistical software package, such as R and STATA.\"",
+  "content": "\"1  Simple Regression\n2  Multiple Regression\n3  Inference for Multiple Regression\n4  Dummy Variables in Multiple Regression\n5  Further Issues in Multiple Regression\n6  Regularization\n7  Heteroskedasticity\n8  Midterm\n9  Time Series Regression I\n10  Time Series Regression II\n11  Endogeneity and Instrumental Variables Estimation\n12  Panel Data\n13  Binary Choice Models\n14  Censoring, Truncation, and Selection\n15  Experiments and Quasi-Experiments\n16  Final\n17  Self-Directed Learning\n18  Self-Directed Learning“",
+  "books": "\"Introductory Econometrics: A Modern Approach, Jeffrey M. Wooldridge, 7th edition, 2019.\"",
+  "teaching_method": "講授",
+  "grading_policy": "\"Class Participation (出席率) 5%\n▓Paper/Theses Writing (報告/論文) 15%\n▓Midterm Test (期中考) 40%\n▓Final Test (期末考) 40%\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系碩士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限學分學程-財務工程。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限碩士班。系所:限非財務金融學系碩士班。"
+    }
+  ]
+}

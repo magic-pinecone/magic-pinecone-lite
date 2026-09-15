@@ -1,0 +1,14 @@
+{
+  "serial_no": "54007",
+  "objectives": "發展學術英語技能，包括聽，說，讀，寫。",
+  "content": "聽，說，讀，寫",
+  "books": "None",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "60％ 練習\n10％ 活動參與\n30％考試",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    }
+  ]
+}

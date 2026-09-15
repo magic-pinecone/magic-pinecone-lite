@@ -1,0 +1,18 @@
+{
+  "serial_no": "22044",
+  "objectives": "The goal of this class is to help students understand how electronic devices work through hands-on experience.",
+  "content": "\"This course will be only in English.\nThis course consists of the classroom lectures and laboratory experiments. The goal of this class is to help students understand how electronic devices work through hands on experience. By the end of the lab, students should be able to do simple circuit analysis, troubleshoot circuits, and design some simple circuits that are useful in the laboratory.\nThe following is the outline of the class. First, I will give a lecture about the DC circuit including Thevenin’s theorem and Norton’s theorem. Next the class will cover the AC circuits with R, L, and C. The class will focus on the diode circuits. There will be simple band theory and diode applications. Finally, I will provide the fundamentals about bipolar junction transistors and field-effect transistors.\"",
+  "books": "o Basic Electronics for Scientists and Engineers, Dennis L. Eggleston, Cambridge University Press (2011)\no Basic Electronics-An Introduction to Electronics for Science Students, Curtis A. Meyer, Carnegie Mellon University (2007)\no ELECTRIC CIRCUITS, James W. Nilsson and Susan A. Riedel",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "We will have problem sets, lab reports, one midterm, and a final project. Grading will be weighted as follows: 10% problem sets; 30% lab reports; 20% midterm; 20% final project; 20% attitude.",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系、理學院學士班。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限物理學系、理學院學士班。年級:限非三年級。"
+    }
+  ]
+}

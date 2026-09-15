@@ -1,0 +1,18 @@
+{
+  "serial_no": "51043",
+  "objectives": "1.邀請電機工程相關領域之傑出人士與各方賢達，進行兩小時的專題演講，藉此開拓研究生的視野，掌握科技發展的趨勢與脈動。 2.安排研究生上台專題報告",
+  "content": "分組討論報告、演講",
+  "books": "無",
+  "teaching_method": "研討",
+  "grading_policy": "出席、報告",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系產業博士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系碩士班、電機工程學系博士班。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "26006",
+  "objectives": "Develop a SOLID understanding of the areas below for basic principles of semiconductor optoelectronic devices.\n\n1. Solid State Physics (space lattices, crystal structure)\n\n2. Quantum Theory of Solids (energy band, density of states, statistical mechanics)\n\n3. Semiconductor Physics (electronic properties of semiconductors, pn junction/heterojunction)\n\n4. Optical Process in Semiconductor",
+  "content": "1. Crystal Structure",
+  "books": "Primary Reference\n\tSolid State Electronic Devices 7th edition   (ISBN-13: 978-1-292-06055-2)\nby Ben G. Streetman ＆ Sanjay Kumar Banerjee, Pearson Prentice Hall.\n\tLecturing slides (will be posted on eeClass) 密碼為: OS2011\n\nSecondary references\n\tSemiconductor Physics and Devices                                                 by Donald A. Neamen, McGraw-Hill, ISBN: 978-007-108902-9\n\tQuantum Physics of atoms, molecules, solids, nuclei, and particles\nby Robert Eisberg and Robert Resnick, Wiley, ISBN: 0-471-87373-X\n\tSemiconductor Optoelectronic Devices\nby Pallab Bhattacharya, Pearson Prentice Hall, ISBN: 0-13-628-579-1",
+  "teaching_method": "講授",
+  "grading_policy": "You will be given one midterm exam during the semester, plus a final exam. All of the exams will be in-class. The final grade in the course will be calculated as follows:\nHomework\t\t30 ％\nMidterm exam\t\t30％\nFinal exam\t\t40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系。年級:限非三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-光電科學與工程學系、雙主修-光電科學與工程學系。"
+    }
+  ]
+}

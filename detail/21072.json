@@ -1,0 +1,14 @@
+{
+  "serial_no": "21072",
+  "objectives": "讓學生熟悉一些離散數學的研究議題，像是我所關心的離散幾何問題，距離集合的大小的極值等等",
+  "content": "閱讀離散與組合相關研究議題。可能是s-distance set問題，或者Babai and Frankl撰寫的線性代數方法在組合這本書的相關內容！",
+  "books": "Babai-Frankl, 線性代數方法在組合上",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "學生報告書本與論文 100％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

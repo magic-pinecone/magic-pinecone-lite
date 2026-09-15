@@ -1,0 +1,14 @@
+{
+  "serial_no": "22085",
+  "objectives": "透過本課程，希望建立學生在奈米科學上的基礎知識，並引導其在奈米科學應用端的思考，最終促進同學跨領域研究的興趣。",
+  "content": "在本課程中，將基於無機化學和物理化學的觀點對永續奈米化學進行介紹和討論。除了快速回顧基本技能外，並將介紹一些獨特的技術如同步輻射。建議想要參加這門課程的學生具備普通化學和晶體學的基礎知識。課程為3學分，一學期約15週或45小時，包括一次期中考和一次期末考。",
+  "books": "Handouts and research literatures will be used.\nReferred Textbooks:\n“Sustainability Science and Technology: An Introduction” by Alejandro De Las Heras, CRC“Nanoscale Materials in Chemistry” 2nd edition by Kenneth J. Klabunde and Ryan M. Richards, Wiley, 2009\n“Nanoscale Science and Technology” by Robert W. Kelsall, Ian W. Hamley and Mark Geoghegan, Wiley, 2005.\n“Electronic Properties of Materials” 4th edition by Rolf E. Hummel, Springer, 2011.",
+  "teaching_method": "講授",
+  "grading_policy": "評量方式分為期中考(40%)，期末考(40%)，口頭報告(20%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

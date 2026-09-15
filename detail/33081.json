@@ -1,0 +1,14 @@
+{
+  "serial_no": "33081",
+  "objectives": "光學機構設計乃是含有光學元件之系統或裝置之機械設計。光學機構之目的為使得光學系統得以依照光學模擬之結果，配合實際機械設計來加以實現；其與一般機械設計之區別在於精密性與整合性。本課程將使學生了解光機系統研發之步驟：設計分析、製造、組裝與檢測，以及光學機構設計需要考量之因素，包含系統精度、系統整合、環境影響、材料、成本、加工、組裝、對準、與功能測試等。主要教學目標在使同學能夠利用機械系大學部所修習之機械工程相關背景知識，熟習光學機構系統設計與分析之原則與方法，並能進一步與光學工程及電機工程跨領域合作，協力完成精密光機電儀器系統之實現。",
+  "content": "1.\tOverview of Opto-Mechanical Design Process\n2.\tEnvironmental Influences\n3.\tOpto-Mechanical Characteristics of Materials\n4.\tManufacturing of optical elements\n5.\tMounting of individual lenses\n6.\tMounting multiple lenses\n7.\tMounting of windows and filter\n8.\tMounting prisms\n9.\tMounting and interface for small mirrors\n10.\tAlignment mechanisms and precision motion control",
+  "books": "“Textbook:\n教師自編講義\nReferences:\n1. Yoder, Paul R., Jr., Opto-Mechanical Systems Design, 3rd Ed., (CRC Press, 2006)\n2. Ahmad, A., Handbook of Optomechanical Engineering (CRC Press, 1997)\n3. 林正淳，光學機構設計 (2008年初版)\n4. 儀器科技研究中心， 光機電系統整合概論(全華圖書，2005)\n5. 儀器科技研究中心，光學元件精密製造與檢測 (全華圖書，2007)“",
+  "teaching_method": "講授",
+  "grading_policy": "考試： 60％\n專題報告： 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限工學院。系所:限機械工程學系碩士在職專班。"
+    }
+  ]
+}

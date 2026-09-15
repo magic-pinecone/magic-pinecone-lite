@@ -1,0 +1,26 @@
+{
+  "serial_no": "26005",
+  "objectives": "介紹微分方程的理論及其應用，並教導如何解微分方程式\n1. 學會各種一階微分方程基礎解法\n2.  學會判斷 微分方程的形式\n3. 依據 微分方程的形式，選定相對應的解法\n4. 學會二階齊次常微分方程解法\n5. 學會二階非齊次常微分方程解法\n6. 學會二階偏微分方程專換成二階常微分方程\n7. Laplace transformation",
+  "content": "一階微分方程二階微分方程高階微分方程微分方程組常微分方程級數解及特殊函數拉普拉斯轉換",
+  "books": "advanced engineering mathematics (10th edition, Erwin Kreyszig)",
+  "teaching_method": "講授",
+  "grading_policy": "Quiz: once a week (On Monday 16:00~16:15), 1pt each, up to 10 times. (>=10 pts)\nWeekly feedback: once a week (On Thursday 8:55~9:01), up to 10 times. (=10 pts)\nHomework: once per chapter(week). (=25 pts)\nMidterm: (=30 pts)\nFinal exam: (=40 pts)\n\nTotal point > 115 pts",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系。年級:限非二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-光電科學與工程學系、雙主修-光電科學與工程學系。"
+    }
+  ]
+}

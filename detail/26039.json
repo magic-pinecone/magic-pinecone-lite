@@ -1,0 +1,14 @@
+{
+  "serial_no": "26039",
+  "objectives": "培養學生利用簡化等效模型等分析工具，瞭解熟悉各種基本電子元件的工作模式(包含二極體、電晶體、場效應晶體、運算放大器等)，以及相關的基礎應用 (如放大電路、振盪器、濾波器等)。",
+  "content": "(1). Basic circuits theory\n(2). Solid-state diodes and diode circuits\n(3). Bipolar junction transistors\n(4). Basic BJT amplifiers\n(5). Field effect transistors\n(6). Operational amplifiers\n(7). Digital logic circuits\n(8). Frequency response (optional)\n(9). Oscillators (optional)\n(10). Feedback amplifiers (optional)“",
+  "books": "教科書：\n(1) Muhammad H. Rashid, \"Microelectronic Circuits Analysis and Design\", 3/e\n\nReferences:\n(1) Sedra & Smith, \"Microelectronic Circuits,\" 8th Ed.\n(2) Behzad Razavi, \"Microelectronics\" 2nd Ed.",
+  "teaching_method": "講授",
+  "grading_policy": "1. 考試 40％ + 40％\n2. 作業 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系碩士在職專班。"
+    }
+  ]
+}
