@@ -1,0 +1,30 @@
+{
+  "serial_no": "51012",
+  "objectives": "介紹數位系統之基礎概念，利⽤各種實例，對相關主題作深⼊淺出之說明，期能使學⽣瞭解數位電路的基本組成元件、及數位電路設計的⽅法。",
+  "content": "1. 數字系統與二進制數\n2. 布林代數與邏輯閘\n3. 閘級最小化\n4. 組合邏輯\n5. 同步時序邏輯\n6. 暫存器和計數器\n7. 資料通路時序邏輯\n8. 非同步時序邏輯",
+  "books": "1. 《數位設計：系統方法》，作者：William J. Dally 和 R. Cirtis Harting，劍橋大學出版社，2012 年。\n2. 《數位設計：Verilog HDL 入門》（第 5 版），作者：M. Morris R. Mano 與 Michael D. Ciletti，2012 年 1 月 2 日。\n3. 《基於 Verilog 的數位系統設計》，作者：Charles Roth、Lizy K. John 和 Byeong Kil Lee，2015 年，ISBN 1305120744。\n4. 《邏輯設計基礎》（第 7 版），作者：Charles H. Roth, Jr. 和 Larry L. Kinney（CENGAGE Learning 出版社）。",
+  "teaching_method": "講授",
+  "grading_policy": "1. 期中考1: 30%\n2. 期中考2: 30%\n3. 期末考: 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限一年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-電機工程學系、雙主修-電機工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

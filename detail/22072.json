@@ -1,0 +1,14 @@
+{
+  "serial_no": "22072",
+  "objectives": "\"同步輻射是現代科技用途最廣、強度最強的光源之一。同步輻射光源的能量（波長）可以涵蓋從紫外光(UV light)到硬X射線（hard x-ray)，因此可以廣泛地應用在不同物質的研究，包括一般的固態結晶材料（半導體、金屬、絕緣體等）與軟性或生物醫學等材料。此外，因為同步輻射的光源可以有圓極化或線極化特性，因此可以用來研究磁性物質或具有空間對稱性的物質。尤其在現代奈米檢測甚至奈米等級結構製程的突破都有很大的貢獻。\n這門課的目的在於介紹現代同步輻射光源的基礎與於其廣泛的應用。並且著重在對於重要進階固態物理材料的介紹。特殊且具有競爭力的研究技術與例子將在本課程中討論。除了課程上課之外，也將安排到新竹同步輻射中心參觀與見習。\"",
+  "content": "\"1. Introduction (TLS/TPS) 同步輻射科學研究新契機\n2. Establishing Background: solid state physics and advanced materials\n3-1. X-ray Photoemission Spectroscopy (XPS) (soft x-ray)\n3-2. Angular resolved photoemission (APES) (soft x-ray)\n4-1. X-ray absorption spectroscopy (XAS) (soft x-ray)\n4-2. X-ray magnetic circular dichroism (XMCD) (soft x-ray)\n5. X-ray diffraction/scattering (hard x-ray)\n6. X-ray microscopy: PEEM/SPEM/TXM/SR-STM (hard/soft x-ray)\n7. Synchrotron for Biophysics (hard/soft x-ray)\"",
+  "books": "None",
+  "teaching_method": "講授",
+  "grading_policy": "exam",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    }
+  ]
+}

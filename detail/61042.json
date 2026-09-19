@@ -1,0 +1,14 @@
+{
+  "serial_no": "61042",
+  "objectives": "驅動地球大氣運動與循環的能量源自於太陽輻射，而要瞭解有多少太陽輻射能量可為地球系統使用是研究大氣科學的重要課題之一。在此同時，我們必須先知道大氣成分、地表特性、雲量等影響太陽及地球輻射的因子。在本課程中，我們將分別介紹太陽輻射與地球長波輻射的特性，並了解地表與大氣的輻射平衡狀態，再以整體的探討，從加熱分布不均勻而被驅動的大氣運動，進一步討論太陽輻射與天氣與氣候系統之間的交互作用。",
+  "content": "授課單元與大綱第一單元：基本原理（Properties of radiation and basic concepts）第二單元：輻射傳遞與平衡（Generalized atmospheric radiative transfer and equilibrium）第三單元：氣體吸收（Gas absorption）第四單元：粒子的散射與吸收（Scattering and absorption by particles）第五單元：輻射驅動力與氣候反應（Radiative forcing and climate response）",
+  "books": "1.The first course in Atmospheric Radiation (2nd), 2006: Grant W. Petty, Sundog Publishing2.An introduction to atmospheric radiation, 2002: K. N. Liou, Academic Poess., 583pp.3.An Introduction to Atmospheric Physics (2nd), 2010: David G. Andrews, Cambridge University Press",
+  "teaching_method": "講授",
+  "grading_policy": "40%   二次作業 (two homework assignments, 20%, 20%)\n60%   三次考試 (first 20%, second 20%, final exam 30%)\n10%   課程表現 (classroom performance)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限二年級、三年級。"
+    }
+  ]
+}

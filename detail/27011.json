@@ -1,0 +1,14 @@
+{
+  "serial_no": "27011",
+  "objectives": "本課程探討人類編碼、保留與提取訊息的認知歷程及神經機制，以及記憶在何種情況下會失敗。我們將以行為層次的理論為基礎，評析神經心理學、電生理學與神經影像研究的證據，並探討這些研究取徑如何為人類記憶的理論解釋提供依據，以及如何界定這些解釋的範圍與限制。\n\n修完本課程後，學生應能：\n\n說明主要的記憶系統與理論，包括其所提出的認知歷程與神經機制。\n批判性地評析行為與神經科學證據，並考量研究設計、測量方式、其他可能的解釋，以及推論的限制。\n執行小規模的記憶實驗、分析資料，並以口頭報告呈現研究結果與限制。\n擬定具有理論依據的研究計畫，提出明確的假設、適切的研究設計與資料分析規劃。",
+  "content": "每週我們將集中討論一個特定主題，並配有一組指定閱讀資料。課堂上將先對每個主題進行概括介紹，隨後由你們報告指定的閱讀資料內容。閱讀資料應在課前完成。必要時會佈置作業，請在截止日期前完成。\n\n每週主題與閱讀資料（暫定，可能更改）\n\n課程導覽與總體介紹\n記憶研究的方法\n感官記憶與短期記憶\n工作記憶\n情節記憶\n遺忘與長期記憶失敗\n自傳式記憶\n語義記憶\n記憶與現實、記憶與法律\n跨越生命週期的記憶\n記憶與情緒",
+  "books": "Radvansky, G. A. (2021). Human memory (4th ed.). Routledge.\nSlotnick, S. D. (2025). Cognitive neuroscience of memory (2nd ed.). Cambridge University Press.",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "Paper presentations and class discussion\t30%\n\nAssignments\t10%\n\nPsych Lab 101 project: oral presentation\t30%\n\nResearch proposal: written submission\t30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限認知神經科學研究所碩士班、認知神經科學研究所博士班、跨領域神經科學博士學位學程(台灣聯合大學系統)、跨領域神經科學國際研究生博士學位學程、領域專長-腦與心智科學。"
+    }
+  ]
+}

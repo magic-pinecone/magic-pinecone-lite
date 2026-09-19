@@ -1,0 +1,26 @@
+{
+  "serial_no": "12010",
+  "objectives": "By the end of the semester, students are expected to define linguistic concepts and terminology and to use appropriate linguistic terminology to discuss language phenomena.",
+  "content": "In this course, students will learn important theories and findings of modern linguistics and use what they have learned to address linguistic issues in English. Major topics covered include phonology, morphology, syntax, semantics, language acquisition, language in society and interrelationships between linguistics and other disciplines. An emphasis will be placed on linguistic data drawn from English, Chinese and Taiwanese to illustrate cross-linguistic differences.",
+  "books": "Department of Linguistics, The Ohio State University. (2023). Language Files: Materials for an Introduction to Language and Linguistics. 13th Edition. Columbus: The Ohio State University Press.",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "Attendance and Participation\t10％\nIndividual presentation\t15％\nGroup Presentation\t20％\nIn-class writing I\t25％\nIn-class writing II\t30％\nBONUS: Quiz (A one-question quiz weekly, 10 in total)\t5％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限英美語文學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限英美語文學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-英美語文學系、雙主修-英美語文學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

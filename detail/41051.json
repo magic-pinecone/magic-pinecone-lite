@@ -1,0 +1,18 @@
+{
+  "serial_no": "41051",
+  "objectives": "1. financial statement analysis\n2. PV, FV, PVA, and FVA\n3. cash management\n4. credit management\n5. inventory management\n6. capital budgeting\n7. project evaluation\n8. return and risk\n9. capital asset pricing model",
+  "content": "1 ( 9/16 ) financial statement analysis\n2 ( 9/23 ) financial statement analysis\n3 ( 9/30 ) PV, FV, PVA, and FVA\n4 ( 10/7 ) PV, FV, PVA, and FVA\n5 ( 10/14 ) cash management\n6 ( 10/21 ) cash management\n7 ( 10/28 ) credit management\n8 ( 11/4 ) credit management\n9 ( 11/11 ) inventory management\n10 ( 11/18 ) inventory management\n11 ( 11/25 ) capital budgeting\n12 ( 12/2 ) capital budgeting\n13 ( 12/9 ) project evaluation\n14 ( 12/16 ) project evaluation\n15 ( 12/23 ) return and risk\n16 ( 12/30 ) return and risk\n17 ( 1/6 ) capital asset pricing model\n18 ( 1/13 ) capital asset pricing model",
+  "books": "Ross, Westerfield and Jaffe. 2022. Corporate Finance. (13th ed) (華泰代理)",
+  "teaching_method": "講授",
+  "grading_policy": "分組個案與作業       30%\n期中考                      35%\n期末考                      35%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系碩士在職專班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系碩士在職專班。"
+    }
+  ]
+}

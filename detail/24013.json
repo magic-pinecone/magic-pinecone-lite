@@ -1,0 +1,30 @@
+{
+  "serial_no": "24013",
+  "objectives": "分子生物學為近代生物學之重要學門之一， 其特色在以分子層次之研究，探索與解釋生命現象。由於各類生物之遺傳組成與複製機制具備共通特性，分子生物學遂成為各生物學領域闡釋生命現象之「微觀共同語言」。  本課程的特色旨在清晰闡釋基礎之分子生物學原理以及相關基因科技之應用，使得同學在爾後進行細胞分子生物學之基礎研究，與相關生物科技之進階研發，具備紮實之學能基礎。",
+  "content": "1.Introduction (Ch 2 & Ch 3)\n2.Introduction (Ch 2 & Ch 3)\n3.Translation I (Ch 18)\n4.Translation I (Ch 17)\n5.Translation II (Ch 19)\n6.Midterm 1\n7.DNA Replication I (I) (Ch 20)\n8.DNA Replication I (II) (Ch 20)\n9.DNA Replication II: Detailed Mechanism (Ch 21)\n10.Homologous Recombination (Ch 22)\n11.Midterm 2\n12.The Mechanism of Transcription in Bacteria (Ch 6)\n13.The Mechanism of Transcription in Bacteria (Ch 6)\n14.Operons: Fine Control of Bacterial Transcription (Ch 7)\n15.Operons: Fine Control of Bacterial Transcription (Ch 7)\n16.Final",
+  "books": "Molecular Biology\nFifth Edition Robert F. Weaver",
+  "teaching_method": "講授",
+  "grading_policy": "30% 三次考試\n10% 出席",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-生命科學系、雙主修-生命科學系、學分學程-生科職涯、第二專長-生物多樣性、第二專長-生物科技。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

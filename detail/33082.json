@@ -1,0 +1,14 @@
+{
+  "serial_no": "33082",
+  "objectives": "本課程是一門深度學習研究所課程，理論與實務並重，一開始將完整介紹神經網路如何學習，進而帶入深度學習。深度學習方面，將介紹各種重要應用與模型，包含分類問題、圖像切割問題、時間序列問題等，並搭配期末專題，以期培養學生整合理論與實務的能力。",
+  "content": "1\t課程簡介、機器學習介紹\n2\t神經網路介紹\n3\t神經網路學習模式\n4\t卷積網路\n5\t深度學習訓練模式，各種參數設定\n6\t監督式學習網路：分類問題1\n7\t監督式學習網路：分類問題2\n8\t監督式學習網路：物件偵測與辨識1\n9\t監督式學習網路：物件偵測與辨識2\n10\t監督式學習網路：影像分割\n11\t監督式學習網路：時序列問題分析\n12\t非監督式學習網路：Autoencoders、GANs\n13\t增強式學習介紹\n14\t增強式學習：Policy-based Approach、Value-based Approach\n15\t各種新型深度學習模型探討1\n16\t各種新型深度學習模型探討2\n17\t學生專題報告與Demo",
+  "books": "Deep Learning with Python, Second Edition\n(Deep learning 深度學習必讀, 作者：Keras 原創者 François Chollet 著、葉欣睿 譯、 施威銘研究室 監修)\nPublisher ‏ : ‎ Manning (December 7, 2021)\nPublication date ‏ : ‎ December 7, 2021\nLanguage ‏ : ‎ English\nPrint length ‏ : ‎ 503 pages",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "期中考：30%、期末考：30%、作業(含小考)：30%、課堂表現：10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限工學院。系所:限機械工程學系碩士在職專班。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "44027",
+  "objectives": "這門課程專為有志於研究總體經濟議題的碩博士生所設計, 課程內容介紹如何利用電腦軟體的數值分析方法, 來研究各種總體經濟議題，例如計算最佳貨幣政策、財政政策和環境政策。應用主題還可延伸至量化寬鬆 (QE)、罕見災害以及零利率下限貨幣政策效果等議題。這些數量方法牽涉到使用最適控制演算法, 在總體經濟結構模型的架構之下, 模擬試算總體變數 (如經濟成長率、失業率和通貨膨脹率) 的動態。使用的軟體包括 MATLAB 和 Dynare。",
+  "content": "結合經濟理論與數值分析方法, 訓練未來有志於在政府單位或智庫工作的學生, 設算模擬政策效果, 與分析重大罕見經濟事件對主要經濟變數的影響。",
+  "books": "Recommended Macroeconomics Books:\n\nCanova, Fabio (2007). Methods for Applied Macroeconomic Research, Princeton Universit Press.\nDeJong, David and Chetan Dave (2007). Structural Macroeconometrics, Princeton University \tPress.\nHeer, Burkhard and Alfred Maussner (2009). Dynamic General Equilibrium Modeling: Computational Methods and Applications, 2nd ed., Springer.\nLim, G.C. and P.D. McNelis (2008). Computational Macroeconomics for the Open Economy, MIT Press.\nMcCandless, George (2008). The ABCs of RBCs: An Introduction to Dynamic Macroeconomic Models. Harvard University Press.",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "Exam (20%)\nHomework (30%)\nProject and Oral presentation (50%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系碩士班、經濟學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限經濟學系。年級:限四年級。"
+    }
+  ]
+}

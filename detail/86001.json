@@ -1,0 +1,18 @@
+{
+  "serial_no": "86001",
+  "objectives": "本課程將從外部業師角度以全方位的探討企業溫室氣體排放與碳足跡的來源，並從企業角度探討如何從執行科學減碳、內部碳定價、綠電採購與供應鏈減碳。另外，從產品生命週期中以原料的碳排角度出發，如何應用劍橋大學工程設計中心名譽教授Michael F. Ashby所研發之選材策略方法，以經濟、少碳的之選材策略出發，更深入的探討企業材料選用的問題，進而根據材料使用情境工況選用適合之材料。",
+  "content": "第1週 09/10   全球淨零發展趨勢分析\n第2週 09/17   ISO 14064-1 組織型溫室氣體盤查介紹\n第3週 09/24  ISO 14064-1 組織型溫室氣體實務案例介紹\n第4週 10/01  ISO 14064-1 專案分組報告\n第5週 10/08  科學基礎減量目標介紹\n第6週 10/15  內部碳定價實務介紹\n第7週 10/22  綠電採購與供應鏈減碳實務介紹\n第8週 10/29  期中考週－期中報告繳交與報告\n--------------------------------------------------------------\n第9週 11/05  工程材料與劍橋大學Ashby選材策略簡介\n第10週11/12  機械設計中的材料選擇議題\n第11週11/19  工程材料選擇與減碳策略（一）\n第12週11/26  工程材料選擇與減碳策略（二）\n第13週12/03  森林與木業簡介\n第14週12/10  森林探索與碳匯計算\n第15週12/17  自然碳匯與林木固碳效益評估\n第16週12/24  期末考週－期末報告繳交與報告",
+  "books": "1.\tISO 14064-1:2018 溫室氣體條文\n2.\tGHG Protocol標準與指南\n3.\t企業價值鏈(範疇三)會計與報告準則\n4.\t科學基礎減量目標標準與指南\n5.\tMichael F. Ashby, “Materials and Sustainable Development,“ 2nd Edition, 2022, ISBN-13: 978-0323983617\n6.\tDavid R.H. Jones, Michael F. Ashby, “Engineering Materials 1: An Introduction to Properties, Applications and Design,“ 5th Edition, 2019, ISBN-13: 978-0081020517.\n7.\tMichael F. Ashby, “Materials Selection in Mechanical Design,“ 5th Edition, 2017, ISBN-13: 978-0081005996\n8.\tMichael F. Ashby, “Materials and the Environment: Eco-informed Material Choice,“ 3rd Edition, 2021, ISBN-13: 978-0128215210",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "出席率Attendance：15％\n作業Homework：20％\n期中報告Mid-term exam：10％\n期中考Mid-term report：25％\n期末報告Final report：30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限永續去碳科技碩士學位學程、永續去碳科技博士學位學程。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    }
+  ]
+}

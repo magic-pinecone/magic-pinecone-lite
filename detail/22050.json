@@ -1,0 +1,18 @@
+{
+  "serial_no": "22050",
+  "objectives": "The goal of this course is to provide a comprehensive, mathematically rigorous foundation in classical electromagnetic theory. Students will master advanced analytical techniques to solve complex boundary-value problems, understand the relativistic formulation of electrodynamics, and analyze the generation, propagation, and scattering of electromagnetic radiation.",
+  "content": "Electrostatics and magnetostatics\nBoundary-value problems, multipole expansions\nMaxwell equations\nEM wave and waveguides\nWave optics\nSpecial Relativity\nBremsstrahlung",
+  "books": "Classical Electrodynamics, John David Jackson",
+  "teaching_method": "講授",
+  "grading_policy": "to be determined",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限物理學系、理學院學士班。年級:限四年級。"
+    }
+  ]
+}

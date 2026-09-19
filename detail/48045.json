@@ -1,0 +1,18 @@
+{
+  "serial_no": "48045",
+  "objectives": "介紹衍生性商品等金融創新",
+  "content": "各種衍生性金融商品的介紹、應用、評價與分析",
+  "books": "自編講議",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "考試(40％)\n報告(30％)\n討論(20)\n出席(10％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系碩士在職專班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系碩士在職專班。"
+    }
+  ]
+}

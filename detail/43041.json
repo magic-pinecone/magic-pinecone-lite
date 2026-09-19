@@ -1,0 +1,18 @@
+{
+  "serial_no": "43041",
+  "objectives": "本課程旨在讓課堂上的學生具備人工智慧(Artificial Intelligence, AI) 和機器學習(Machine Learning, ML) 及其智慧型系統(Intelligent Systems)的基礎知識和洞察力。 主題將包括: 類神經網絡、機器學習方法、機器學習過程、機器學習的應用等等。",
+  "content": "人工智慧概論 / Introduction to Artificial Intelligence\n機器學習基礎與流程 / Fundamentals and Process of Machine Learning\n監督式與非監督式學習方法 / Supervised and Unsupervised Learning Methods\n類神經網路 / Neural Networks\n深度學習 / Deep Learning\n文字探勘與自然語言處理 / Text Mining and Natural Language Processing\n大型語言模型 / Large Language Models\n代理式人工智慧應用 / Agentic AI Applications\n智慧型系統設計與案例分析 / Intelligent Systems Design and Case Studies",
+  "books": "自編教材",
+  "teaching_method": "研討",
+  "grading_policy": "口頭報告 30%\n專題實作 40%\n書面報告 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。學院:限管理學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。"
+    }
+  ]
+}

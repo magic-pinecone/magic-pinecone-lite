@@ -1,0 +1,18 @@
+{
+  "serial_no": "21038",
+  "objectives": "了解離散數學的本質，以及常用的推論技巧。",
+  "content": "1. 計數法則，鴿籠原理，排容原理，二項式係數\n2. 遞迴關係，生成函數\n3. 完美配對，穩定配對",
+  "books": "Brualdi, Richard A. Introductory Combinatorics, fifth edition.",
+  "teaching_method": "講授",
+  "grading_policy": "考試33.3% x 3",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系、理學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-數學系、雙主修-數學系。"
+    }
+  ]
+}

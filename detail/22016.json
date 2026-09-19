@@ -1,0 +1,22 @@
+{
+  "serial_no": "22016",
+  "objectives": "了解物理的基本原理和定律；熟悉理論推導與應用計算",
+  "content": "力學、波動、熱力學",
+  "books": "Wolfson, Essential University Physics Vol. 1",
+  "teaching_method": "講授",
+  "grading_policy": "4次作業(20%) 期中考(40%) 期末考(40%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系、理學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系、理學院學士班。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

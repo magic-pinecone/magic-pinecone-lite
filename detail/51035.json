@@ -1,0 +1,18 @@
+{
+  "serial_no": "51035",
+  "objectives": "“This course is intend to integrate various technologies in characterizing semiconductor materials as well as devices.\nIt presents more 10 characterization techniques and related theories whose contents composes a wide spectrum of knowledge including electrical, optical, chemical, and physical.\nThe course is particularly useful for senior undergraduate and graduate students who intend to join the semiconductor industry.“",
+  "content": "0. 課程介紹 (1週)\n\n1.電學特性量測分析 (3週)\n原理介紹: Resistivity and concentration\n實驗: 霍爾效應 (Hall Effect) / 四點探針 (4 point measurement)\n\n2.半導體光學量測分析 (4週)?\n原理介紹??實驗: 量子井光激光譜 (Photoluminescence)?\n\n?3.太陽電池與光偵測器 (5 週)?\n原理介紹??太陽電池製程與光偵測器製程?\n實驗: 光偵測器量測 (光電流/響應度)\n\n4. 熱傳播量測分析(3週)\n原理介紹\n實驗: 薄膜熱傳導係數量測",
+  "books": "Class slides will be sent to you by email/blackboard before each class.",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "Grading (成績、計分方式)\nMidterm:  40％\nTerm papers    : 15％ * 4 = 60％ or 12％ * 5 = 60％ : 4*word+1*poster\nBonus if needed:  5％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系、資訊電機學院學士班。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系、資訊電機學院學士班。年級:限三年級。"
+    }
+  ]
+}

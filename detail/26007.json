@@ -1,0 +1,22 @@
+{
+  "serial_no": "26007",
+  "objectives": "本課程教導基本電路學及電子學理論，其中包括各種基本電子元件與電子電路分析之方法，是光電、電子及電機工程之重要基礎課程之一，同時為進階積體電路設計之先修課程。培養學生利用簡化等效模型等分析工具，瞭解熟悉各種基本電子元件的工作模式(包含二極體、電晶體、場效電晶體等)，以及相關的基礎應用 。",
+  "content": "1. 基本電路元件簡介\n- 電阻，電容，電感\n- 電路簡介\n2. 基本電路模型\n- 穩態/暫態電路分析\n- Laplace轉換及電路分析\n3. 基本放大器模型\n- 運算放大器基本應用\n- 頻率響應概念\n4. 二極體\n- 二極體電路分析\n- 二極體操作特性\n5. 雙極性接面電晶體\n- 接面電晶體特性\n- 接面電晶體放大器及邏輯電路應用\n- 接面電晶體小訊號模型分析 (放大器及頻率響應)\n6. 場效電晶體\n- 場效電晶體特性\n- 場效電晶體放大器及邏輯電路應用\n- 場效電晶體小訊號模型分析 (放大器及頻率響應)",
+  "books": "1. Microelectronic Circuits  8th edition, Sedra / Smith\n2. Fundamentals of Electric Circuits 5th edition, Charles Alexander, Matthew Sadiku\n3. Microelectronics  2nd edition, Behzad Razavi\n4. Electric Circuits  10th edition, James W. Nilsson, Susan Riedel",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "1. .課堂練習     –  10%\n2. Homework   –  15％\n3  期中考 × 2   –  25％ × 2\n4. 期末考　　  –  25％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。"
+    }
+  ]
+}

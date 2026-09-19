@@ -1,0 +1,26 @@
+{
+  "serial_no": "94002",
+  "objectives": "學生將在社會與經濟問題的脈絡下，分析政府、市場與各類制度的運作與績效。學生也將以批判性思維檢視經濟模型，評估其基本假設及其所產生的影響與意涵。",
+  "content": "緒論（Introduction）\n市場如何運作（How Markets Work）\n市場與社會福利（Markets and Welfare）\n公共部門經濟學（The Economics of the Public Sector）\n歧視、貧窮與失業（Discrimination, Poverty, and Unemployment）\n進階專題與延伸議題（Topics for Further Study）",
+  "books": "Principles of Economics 10/e ; ISBN ; 作者 · N. Gregory Mankiw ; 版次 · 10 ; 年份 · 2024 ; 出版商 · Cengage Learning",
+  "teaching_method": "講授",
+  "grading_policy": "1.第 8週:期中考35％\n2.第16週:期末考35％\n3.作業:30％\n4.額外:3%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系。身份:限重修生。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班、輔系-資訊管理學系、雙主修-資訊管理學系、學分學程-電子商務(EC)、學分學程-創意與創業。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

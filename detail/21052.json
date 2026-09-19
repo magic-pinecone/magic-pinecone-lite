@@ -1,0 +1,14 @@
+{
+  "serial_no": "21052",
+  "objectives": "會從經典的離散幾何問題探討，讓同學對Maryna Viazovska拿到費爾茲獎的球體最密堆積問題有基本的認識",
+  "content": "從經典的離散幾何問題探討，像是sphere packing, kissing number problem, equiangular lines, spherical design. 並且會引入經典線性規劃與半正定規劃方法來估計這些問題的上界或者下界。",
+  "books": "Conway and Sloane, Sphere packings, Lattice and Group",
+  "teaching_method": "講授\n研討\n\n個別指導\n其他",
+  "grading_policy": "作業40％\n期中期末報告60％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班。"
+    }
+  ]
+}

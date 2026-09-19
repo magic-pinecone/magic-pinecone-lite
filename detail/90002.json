@@ -1,0 +1,9 @@
+{
+  "serial_no": "90002",
+  "objectives": "本課程主要介紹醫學影像檢查項目，包含一般Ｘ光、超音波、電腦斷層、磁振造影等檢查及以實際影像處理演算法應用於不同醫學影像之檢查等。本課程之目標是想讓學生瞭解醫學影像成像原理與其特性之基礎，並藉由數位影像處理技術之實際應用與操作，如此可讓學生瞭解醫學影像處理在臨床醫學診斷輔助之重要性，並提供未來升學研究、或進入產業界等應用領域之基礎。",
+  "content": "1. Introduction : overview\n2. Introduction to Medical Image : the fundamental physics\n3. Introduction to X-ray image/ CT\n4. Image quality and information content and point processing\n5. Edge detection\n6. Image enhancement in the frequency domain\n7. Introduction to SPECT/PET\n8. Image Segmentation\n9. mid-term exam\n10. Introduction to MRI /fMRI\n11. Image Registration\n12. Artefact removal\n13. Image morphology\n14. Feature extraction/ pattern(object ) recognition\n15. Image representation and description\n16. Colour Image Processing/ Image compression\n17. Project presentation\n18. final exam",
+  "books": "“1.classnotes\n2.Rafael C. Gonzalez and Richard E. Woods: ““Digital Image Processing using Matlab““ (Second Edition), Prentice Hall, 2002.\n參考書：\n1.Bankman I.N., “Handbook of Medical Imaging, Processing and Analysis Management”, Academic Press, 2000\n2.John G. Webster: “Medical Instrumentation: Application and Design”, Wiley, 1997.“",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "(1)  Homework  -  20％\n(2)  Project         -  40％\n(3)  Midterm      -  20％\n(4)  Final            -  20％",
+  "distribution_conditions": []
+}

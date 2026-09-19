@@ -1,0 +1,26 @@
+{
+  "serial_no": "94001",
+  "objectives": "“本課程為經濟學的入門課程，旨在引發同學對經濟學這門學問的學習興趣，並讓同學體認到經濟學是一門非常實用的學問。本課程分為「個體經濟學」與「總體經濟學」兩個部份。「個體經濟學」主要在探討家計部門與廠商如何決策以及其決策合起來如何影響各式各樣的市場價格。「總體經濟學」主要在探討所得水準、一般物價水準、利率以及匯率等總體經濟變數如何決定，以及政府的財政與貨幣政策如何影響這些經濟變數。本課程上學期的課程內容主要以個體經濟學為主，涵蓋需求、供給、消費者行為、市場、國際貿易、廠商行為與產業組織。下學期的課程內容主要以總體經濟學為主，涵蓋國民所得、物價、失業率、財務基本分析工具、貨幣體系、國際金融、政府財政和貨幣政策效果、與景氣循環等問題。“",
+  "content": "“Part 1: INTRODUCTION-Economists’ Ways of ThinkingPart 2: HOW MARKETS WORK-Supply and Demand-Elasticity and Its ApplicationsPart 3: EFFICIENCY-Government Policies-ExternalitiesPart 4: GLOBAL MARKETS-Gains from Trade-International EconomicsPart 5: FIRM BEHAVIOR AND THE ORGANIZATION OF INDUSTRY-The Costs of Production-Competitive Markets-Monopoly-Monopolistic Competition-OligopolyPart 6: INTRODUCTION TO MACRONOMICS-Macroeconomic TrendsPart 7:MONITORING MACRO- ECONOMIC PERFORMANCE-Measuring a Nation’s Income-Measuring the Cost of Living-Unemployment-Inflation-Production and GrowthPart 8: ECONOMIC FLUCTUATIONS-Aggregate Demand and Aggregate Supply-Business CyclePart 9: MACROECONOMIC POLICY-Financial System-Fiscal Policy-Monetary System-Monetary PolicyPart 10: TOPICS FOR FURTHER STUDY-Information Economics-Consumer Choice-Transaction Costs and Property RightsExamination“",
+  "books": "“N.G. Mankiw (2015), Principles of Economics, seventh edition, Cengage Learning Asia Pte Ltd, Taiwan Branch.“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "課堂上提供",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-企業管理學系、雙主修-企業管理學系、學分學程-企業管理。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

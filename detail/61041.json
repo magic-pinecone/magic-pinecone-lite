@@ -1,0 +1,9 @@
+{
+  "serial_no": "61041",
+  "objectives": "1.了解完整的成雲降雨機制過程(暖雲及冷雲)\n2.認識現今數值模式當中微物理方案",
+  "content": "1.冷雲過程介紹與方程式推導\n2.觀測與數值模擬\n3.文獻導讀\n4.程式原始碼與實作",
+  "books": "1. A Short Course in Cloud Physics by M.K. Yau and R.R.Rogers\n2. Cloud and Precipitation Microphysics: Principles and Parameterizations by Jerry M. Straka",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "presentation 50％\nterm project 50％",
+  "distribution_conditions": []
+}

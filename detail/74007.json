@@ -1,0 +1,18 @@
+{
+  "serial_no": "74007",
+  "objectives": "就所選定之主題研究與討論，以思索公司法制完善。",
+  "content": "企業(公司)的社會責任\n\n公司治理\n\n揭開公司面紗\n\n穿索責任\n\n股東有限責任",
+  "books": "課堂上介紹",
+  "teaching_method": "講授\n研討\n\n個別指導\n其他",
+  "grading_policy": "報告50％\n討論50％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限法律與政府學系碩士班。指定課程:必須禁修LG5071。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。指定課程:必須禁修LG5071。"
+    }
+  ]
+}

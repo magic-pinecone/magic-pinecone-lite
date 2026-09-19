@@ -1,0 +1,22 @@
+{
+  "serial_no": "43023",
+  "objectives": "\"The aim of this course is to provide students general knowledge of information retrieval. The first part focuses on the basic concept and theory of information retrieval. In particular, text processing techniques for document indexing, classification, and clustering are introduced. In addition, query techniques and evaluation methods are covered. Finally, machine learning in information retrieval will be discussed. For the second part, several important research topics in information retrieval will be considered. Specifically, related research papers in these topics will be present.\"",
+  "content": "\"Part I: Basic Concepts (* 18 Chapters)\n1 Course Introduction\n2 Information Retrieval: An Introduction and Some Research Issues\n3 Text Processing I (Ch 2 & Ch 3)\n4 Text Processing II (Ch 6 & Ch 7)\n5 Evaluation and Relevance Feedback (Ch 8 & Ch 9)\n6 Text Classification (Ch 13, Ch 14 & Ch 15)\n7 Text Clustering (Ch 16 & Ch 17)\n8 Web Search (Ch 10, Ch 19 & Ch 20)\n9 Mid-term exam\nPart II: Research Topics (* 20 papers)\n10 Text categorization\n11 Text clustering\n12 Recommender systems\n13 Web Search and Mining\n14 HCI in Information Retrieval\n15 Evaluation in Information Retrieval\n16 Information retrieval applications I (放假)\n17 Information retrieval applications II\n18 Final exam\"",
+  "books": "\"教科書\nIntroduction to information retrieval (available at: http://www-csli.stanford.edu/~hinrich/information-retrieval-book.html)  Manning et al. (2008)  Cambridge Univ. Press\n參考書\n1.Finding out about (available at: http://www-cse.ucsd.edu/~rik/foa/l2h/) Belew, B.K. (2000) Cambridge Univ. Press\n2.Information retrieval (available at: http://www.dcs.gla.ac.uk/Keith/Preface.html) van Rijsbergen, C.J. (1979) Butterworths\"",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "1.Personal Presentation: 60% (30% * 2)\n2.Group Discussion       30%\n3.Class Participation       10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班。學院:限管理學院。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊管理學系博士班。"
+    }
+  ]
+}

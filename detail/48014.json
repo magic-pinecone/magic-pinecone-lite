@@ -1,0 +1,14 @@
+{
+  "serial_no": "48014",
+  "objectives": "1. 熟悉財務金融研究議題。\n2. 操作統計軟體(STATA and SAS)。\n3. 使用真實市場資料執行或檢視財務理論。",
+  "content": "課程內容：(1)統計軟體入門與資料庫了解；(2)實證投資學主題；(3)實證公司金融主題。學生將在既有經典投資學與公司金融的知識上，繼續學習更新研究發現，並使用STATA和SAS配合真實資料檢視財務理論是否具有解釋能力。",
+  "books": "自編講義",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "will be announced in the first class.",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系。年級:限三年級。"
+    }
+  ]
+}

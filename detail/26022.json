@@ -1,0 +1,9 @@
+{
+  "serial_no": "26022",
+  "objectives": "全像術為一種可以將物波振幅與相位完全記錄與重建之技術，本課程藉由干涉、繞射、同調性等基礎探討全像之初階原理，並利用傅氏光學與電磁理論探討更進階之原理，課程中也將配合全像術之許多應用，包含量測與展示等，目的是要讓學生瞭解全像之原理與應用。",
+  "content": "1.Basic Concept\nInterference\nTheory of Coherence (Temporal\n＆ Spatial)\nDiffraction Gratings\nZone Plate\n2.Early Holography\nX-ray Microscope\nIn-line Holography\nOff-axis Holography\nReflection Holography\nFourier-transform holography\nLensless Fourier Transform\nHolography\n3.Geometric Analysis of Point-Source\nHolograms\n4.Light Source and Optical Technique\nSpatial Coherence requirement\nTemporal coherence of\nConventional Source ＆ Gas\nLaser\nFringe Visibility in Hologram\nRecording\n5.Diffraction from Volume Holograms\nWeak Theory\nCoupled Wave Theory\n6.Special Holographic Techniques\nRainbow Holograms\nMultiplex Holograms\nIntegral Photography\nIncoherent Holograms\nEmbosed Holograms\nDigital Holography\nScanning Holography\nComputer Generated Holograms\n7.Holographic Interferometry\nReal-time Holographic\nInterferometry\nDouble-exposure Holographic\nInterferometry\nTime-average Holographic\nInterferometry\n8.Hologram Recording Materials\nSilver Halide Photographic\nEmulsions\nDichromatic Gelatin Films\nPhotoconductor-Thermoplastic\nFilms\nFerroelectric Crystals",
+  "books": "1. Optical Holography (R. Collier, C. B. Burckhardt, and L. H. Lin)\n2. Introduction to Fourier Optics 2nd edition, chapter 9 (J. W. Goodman)",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "平時表現佔 50％\n期中考佔 20％\n期末考佔 30％",
+  "distribution_conditions": []
+}

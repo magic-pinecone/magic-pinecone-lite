@@ -1,0 +1,22 @@
+{
+  "serial_no": "41008",
+  "objectives": "成本會計提供財務會計與管理會計所需之攸關資訊，管理者可依據成本會計所取得之資訊，向外部人出具財務報表，亦可藉此資訊對組織進行規劃、制定策略並進行控制與檢討，涉及企業的預算編制、成本控制、產品訂價、利潤計算、績效評估與薪酬制度等。本課程介紹傳統成本會計的成本計算、帳務處理、成本分析，及成本會計現行管理新課題，亦涵蓋部份管理會計範圍。",
+  "content": "“Ch 1 Management, the Controller, and Cost Accounting\nCh 2 Cost Concepts and the Cost Accounting Information System\nCh 3 Cost Behavior Analysis\nCh 4 Cost Systems and Cost Accumulation\nCh 5 Job Order Costing\nCh 6 Process Costing\nCh 7 The Cost of Quality and Accounting for Production Losses\nCh 8 Costing By-Products and Joint Products\nCh 9 Materials: Controlling, Costing, and Planning\nCh10 Labor: Controlling and Accounting for Costs\nCh11 Factory Overhead: Departmentalization, Planned, Actual, and Applied\nCh12 Responsibility Accounting and Reporting\nCh13 Activity Accounting: Activity-Based Costing and Activity-Based Management\nCh14 Budgeting: Profits, Sales, Costs, and Expenses\nCh16 Standard Costing: Setting Standards and Analyzing Variances\nCh18 Direct Costing, Cost-Volume-Profit Analysis\nCh19 Differential Cost Analysis\nCh23 Profit Performance Measurements and Intracompany Transfer Pricing“",
+  "books": "1.Hilton and Platt. 2023. Managerial Accounting: Creating Value in a Dynamic Business Environment. (13th ed) (華泰代理)\n2.Carter, Hwang and Chou. 2015. Cost Accounting: An Asia Edition",
+  "teaching_method": "講授",
+  "grading_policy": "“課堂參與 10％\n小考 30％\n期中考 30％\n期末考 30％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限三年級。班別:限B。身份:限非交換生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限四年級。班別:限B。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-企業管理學系、雙主修-企業管理學系、學分學程-會計。"
+    }
+  ]
+}

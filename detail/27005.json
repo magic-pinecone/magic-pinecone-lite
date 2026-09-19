@@ -1,0 +1,22 @@
+{
+  "serial_no": "27005",
+  "objectives": "本課程主要目標是建立基本統計知識，建立基本能力發展更複雜統計概念與應用。",
+  "content": "統計在認知神經科學領域是一門重要學科，包含實驗設計, 資料蒐集, 分析, 解釋和溝通。本課程主要是提供對統計根本性的理解，並透過課堂練習與實作來建立應用能力。本課程會從基礎統計知識開始，包含描述統計, 機率與分布, 隨機抽樣和推論統計。",
+  "books": "心理與教育統計學 (2003) 林清山\n\nRecommended Readings (not required)\nhttps://datatab.net/tutorial/get-started (basic concept)\nhttps://psyteachr.github.io/resources.html (basic concept in R)\nhttps://docs.python-guide.org/ (The Hitchhiker’s Guide to Python)\nhttps://www.statsmodels.org/stable/user-guide.html (py statsmodels)\nhttps://eshinjolly.com/pymer4/pages/installation.html (pymer4)\nhttps://github.com/YenLinWu/Data_Science_Marathon (how to use numpy and pandas)\nhttps://jasp-stats.org/ (support Bayes factors)\n\nAdvanced reading\nCausality: Models, Reasoning and Inference 2nd Edition by Judea Pearl",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "回家作業: 30%\n期中考: 25%\n期末口頭報告: 15%\n期末書面: 20%\n出席率: 10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限認知神經科學研究所碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限認知神經科學研究所碩士班。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限認知神經科學研究所博士班、跨領域神經科學博士學位學程(台灣聯合大學系統)、跨領域神經科學國際研究生博士學位學程。"
+    }
+  ]
+}

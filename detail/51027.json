@@ -1,0 +1,30 @@
+{
+  "serial_no": "51027",
+  "objectives": "訓練學生由實作電路中去印證電子學理論，並學會電路除錯能力。",
+  "content": "運算放大器 （Operational Amplifier）、比較器 (Comparator)及史密特觸發器 (Schmitt trigger)、積分器實驗、頻率響應實驗、高通濾波器（High Pass Filter）實驗、CMOS 運算放大器：(I)直流分析、 CMOS 運算放大器：(II)交流分析、共振電路實驗、數位振盪器、計時器IC實驗、限制器（Limiter）實驗",
+  "books": "自編講義",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "預報 (10%) 、結報 (30%)、電路實作 (20%)、期中上機考 (20%)、期末上機考 (20%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限三年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限輔系-電機工程學系、雙主修-電機工程學系。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

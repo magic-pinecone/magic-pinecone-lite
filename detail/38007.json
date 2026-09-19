@@ -1,0 +1,18 @@
+{
+  "serial_no": "38007",
+  "objectives": "本課程之目的乃對於電化學能源系統及檢測方式作系統性、深入而淺出的介紹，以期學生能瞭解電化學能源系統之現有種類、應用領域、技術現況、工作原理、系統組成、分析方法與理論基礎能有基本的認識，同時對於電化學能源系統之相關技術都能有基本的了解。本課程將以課堂授課為主，輔以實驗與體驗式學習，同時搭配課堂討論，教授學生基礎電化學知識、各式電化學能源系統、電化學能源系統之電化學分析方法等相關知識。本課程之基本學科知識包含基本化學、熱力學、電極動力學及電化學，講授的電化學能源種類包含二次電池、燃料電池、電轉氣技術、電化學泵等，講授的電化學分析法包含電位步階、掃描電位、循環伏安、電化學阻抗等。",
+  "content": "1.Reviews of Electrochemical Energy Systems；\n2.Introduction and Overview of Electrochemistry；\nComponents of Electrochemical Systems；\n3.Potentials and Thermodynamics of Cells；\n4.Kinetics of Electrode Reactions& Mass Transfer in Electrochemistry；\n5.Basic Potential Step Methods\n6. Polarization Phenomena；\n7. Experiment #1 (Polarizaiton curve of fuel cells)\n8. Experiment #2 (Polarizaiton curve of water electrolyzers)\n9.Linear Sweep Voltammetry；\n10.Cyclic Voltammetry；\n11. Experiment #3 (LSV and CV of fuel cells)\n12. Experiment #4 (LSV and CV of water electrolyzers)\n13.Electrochemical Impedance Spectroscopy & Equivalent Circuit Fitting；\n14. Experiment #5 (EIS of fuel cells)\n15. Experiment #6 (EIS of water electrolyzers)\n16. Final Oral Report  (including industry visiting)",
+  "books": "1.\t自編講義\n2.\tElectrochemical Methods-Fundamentals and Applications, 3rd ed. / Allen J. Bard, Larry R. Faulkner, Henry S. White / Wiley/ 2022.\n3.\tImpedance Spectroscopy Theory, Experiment, and Applications, 2nd ed. / Evgenil Barsoukov, J. Ross Macdonald / Wiley/ 2005.\n4.\tFuel Cell Systems Explained, 3rd ed. / Andrew L. Dicks, David A. J. Rand / Wiley/ 2018.",
+  "teaching_method": "講授\n\n實習/實驗\n\n其他",
+  "grading_policy": "1. 小考 : 30%\n2. 實驗工作單(含問題預習、實驗條件假設、實驗過程記錄)：30%\n3. 分組實驗結果口頭報告與分析(含老師評分與小組互評問卷) : 30%\n4. 出席 : 10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班、機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    }
+  ]
+}

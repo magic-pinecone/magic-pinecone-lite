@@ -1,0 +1,14 @@
+{
+  "serial_no": "09045",
+  "objectives": "This course provides an opportunity for undergraduate students to study\nintroductory astronomy in English. It is mainly for (1) foreign\nstudents who is not yet fluent in Chinese and is willing to study\nastronomy, and (2) local Taiwanese students who is willing to study\nastronomy in English. The goals of this course include, but not limited\nto,\n(a) knowing properties of various types of celestial objects and understanding underlying physics behind them,\n(b) knowing astronomical phenomena and understanding underlying physics behind them,\n(c) knowing astronomical techniques and understanding underlying physics behind them.\nThis course tries to describe astronomical objects and their\nproperties / phenomena / related observational techniques using high\nschool level mathematics and physics. Each week, one simple and\nfundamental question is raised, and the lecture is given to answer the\nquestion.",
+  "content": "Topics for this course include following.\n\n1. How long is one day, one month, and one year?\n\n2. How to record electromagnetic radiation from celestial objects?\n\n3. How to measure the distance to a celestial object?\n\n4. How to measure the temperature of a celestial object?\n\n5. How to measure the size of a celestial object?\n\n6. How to measure the mass of a celestial object?\n\n7. Why the Earth has its own atmosphere, but the Moon does not?\n\n8. What is the energy source of a star?\n\n9. How were many different elements created?\n\n10. How to know the internal structure of a celestial object?\n\n11. How to find an Earth-like planet outside of our solar system?\n\n12. How to know the size and mass of the Milky Way Galaxy?\n\n13. How to know the age of our solar system?\n\n14. How to know the age of a star?\n\n15. How to know the age of the Universe?\n\n16. What can we learn from latest images obtained by new telescopes?",
+  "books": "Universe\nRoger A. Freedman; Robert Geller; William J. Kaufmann\nMacmillan\n2019 (11th edition)\n\nOpenStax Astronomy 2e\nhttps://openstax.org/details/books/astronomy-2e",
+  "teaching_method": "講授",
+  "grading_policy": "attendance: 30％\nassignments: 70％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。"
+    }
+  ]
+}

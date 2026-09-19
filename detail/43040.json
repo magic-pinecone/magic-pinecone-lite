@@ -1,0 +1,18 @@
+{
+  "serial_no": "43040",
+  "objectives": "“本課程的目的在於讓學生瞭解企業在應用網路時所需的各種技術知識。除了基本的TCP/IP技術外，本課程亦將針對企業電腦網路的新興應用，例如VoIP, P2P等做深入介紹與探討，以培養學生掌握電腦網路應用發展趨勢的能力。“",
+  "content": "授課大綱:\n1. Networking: Welcome To The Cloud\n2. Network Standards\n3. Network Security\n4. Network and Security Management\n5. Ethernet(802.3)Switched Lans\n6. Wireless Lans (I)\n7. Wireless Lans (II)\n8. TCP/IP Internetworking (I)\n9. TCP/IP Internetworking (II)\n10. Carrier Wide Area Networks (Wans)\n11. Networked Applications",
+  "books": "“上課用書：\nRay Panko，Business Data Networks and Security, 10th Ed., Global Edition\n\n參考用書:\nJ. Goldman, Applied Data Communications- A Business-oriented Approach, 3rd Ed. John Wiley ＆ Sons, Inc. 2002\n2. Preston Gralla, How the Internet Works, Que Publishing, 7th Ed., 2004“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "“作業: 25 ％\n期中考： 30 ％\n期末考： 30 ％\n上課表現： 15％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系碩士班、資訊管理學系博士班。"
+    }
+  ]
+}

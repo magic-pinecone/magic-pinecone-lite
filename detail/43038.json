@@ -1,0 +1,18 @@
+{
+  "serial_no": "43038",
+  "objectives": "本課程將介紹資訊經濟的意涵與課題，並且討論如何應用經濟分析方法來研究網路技術、電子商務、與物聯網底下的各種新興商業模式發展。課程內容將介紹賽局理論、Agent-based model 、和 Reinforcement learning method，且藉由閱讀華爾街日報案例來鏈結課程內容。",
+  "content": "1. 新興商業模式發展\n2. 資訊規則\n3. 賽局理論\n4. Agent-based model\n5. Reinforcement learning method\n6. 專題案例分享",
+  "books": "1. The Economics of Information Technology: An Introduction by Hal R. Varian\n2. Game Theory for Applied Economists by Robert S. Gibbons\n3. Information Rules: A Strategic Guide to the Network Economy by Carl Shapiro, Hal R. Varian\n4. https://ccl.northwestern.edu/netlogo/\n5. Self-Developed Teaching Materials",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "(A)專題報告 80％ (需準備投影片/1~3人為限)\n(B)團體程式作業 20％ (1~2回/團隊不限人數)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系。年級:限三年級、四年級。"
+    }
+  ]
+}
