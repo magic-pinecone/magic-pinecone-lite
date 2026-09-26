@@ -1,0 +1,18 @@
+{
+  "serial_no": "26012",
+  "objectives": "“這個課程將訓練學生在實驗室建立光學實驗與量測的相關設備與技術, 並用以驗證一些光學的基礎原理 - 幾何光學與波動光學“",
+  "content": "1. 光速量測\n2. 光的性質(反射與折射)\n3. 材料折射率量測\n4. 成像公式實驗\n5. 偏極化實驗\n6. 同調性實驗\n7. 繞射實驗\n8. 干涉實驗\n9. 光柵實驗\n10. Fizeau 干涉儀與球徑計實驗\n11. Michaelson干涉儀\n12. Fabrey-Perot干涉儀",
+  "books": "自備講義",
+  "teaching_method": "實習/實驗",
+  "grading_policy": "12 pre-study reports 30％\nExperiment attendance (實驗表現及實驗完成度) 40％\n12 experimental reports (需附上經助教簽名之實驗數據) 30％\nDelay in attendance > 15 min: regarded as absence (缺席一次扣10分, 當週報告不算分)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系。年級:限三年級。學號:限單號。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限三年級。學號:限單號。"
+    }
+  ]
+}

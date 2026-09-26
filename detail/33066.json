@@ -1,0 +1,22 @@
+{
+  "serial_no": "33066",
+  "objectives": "學習完此課程，學生應具有以下之能力 (1). 理解機器學習基礎演算法 (2). 活用機器學習實務工具 (3). 開發機器學習專案",
+  "content": "1. 瞭解機器學習基礎\n2. 瞭解機器學習模型\n3. 瞭解資料分析到建置機器學習模型的流程",
+  "books": "1. Introduction to Machine Learning, fourth edition, by Ethem Alpaydin\n2. Fundamentals of Machine Learning for Predictive Data Analytics by John D. Kelleher, Brian Mac Namee, Aoife D‘Arcy",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "1. Lab and HW (28％): 4％ each for Labs\n2. Midterm (25％)\n3. Quiz (2％): randomly happens, 1 pts each\n4. Machine Test (10％)\n5. Final project (35％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限機械工程學系。年級:限三年級。"
+    }
+  ]
+}

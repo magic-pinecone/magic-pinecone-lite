@@ -1,0 +1,18 @@
+{
+  "serial_no": "34025",
+  "objectives": "高級化學反應工程是化學工程師的高級課程之一。本課程旨在培養學生對反應工程的理解，包括化學動力學（化學反應速率和反應機制）和反應器設計。",
+  "content": "introduction\nMole balances\nConversion and reactor sizing\nRate laws\nStoichiometry\nIsothermal reactor design: Conversion\nIsothermal reactor design: Molar flow rates\nCollection and analysis of rate data\nMultiple reactions\nCatalysis and catalytic reactors",
+  "books": "Textbook Essentials of Chemical Reaction Engineering, H. Scott Fogler, 高立書局",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "出席 20％ 期中考 40％ 期末考 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系碩士班、化學工程與材料工程學系博士班、化學工程與材料工程學系工學博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學工程與材料工程學系。"
+    }
+  ]
+}

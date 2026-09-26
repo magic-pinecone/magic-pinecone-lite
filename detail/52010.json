@@ -1,0 +1,34 @@
+{
+  "serial_no": "52010",
+  "objectives": "By the end of this course, students will be able to:\n1.\tApply combinatorial methods to solve counting problems.\n2.\tUnderstand and use the axioms and properties of probability.\n3.\tAnalyze conditional probability and independence.\n4.\tModel random phenomena using discrete and continuous random variables.\n5.\tCompute expectations, variances, and higher moments.\n6.\tApply common probability distributions to practical problems.\n7.\tUnderstand the law of large numbers and central limit theorem.\n8.\tGain a basic understanding of Markov chains and stochastic processes.",
+  "content": "This course introduces the fundamental concepts of probability theory with applications to real-world problems. Topics include combinatorial analysis, axioms of probability, conditional probability, random variables, expectation, common probability distributions, limit theorems, and an introduction to stochastic processes. The course emphasizes problem-solving and critical thinking.",
+  "books": "1.\tA First Course in Probability (10 版)\nSheldon Ross (華泰書局)\n2.\tIntroduction to Probability, Statistics, and Random Processes by Hossein Pishro-Nik.",
+  "teaching_method": "講授",
+  "grading_policy": "1.\tHomework: 10 %\n2.\t3 Exams: 30 % * 3 = 90 %",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系。年級:限二年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-資訊工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限第二專長-人工智慧。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "13026",
+  "objectives": "Ce cours a pour objectif de fournir aux étudiants une méthode qui leur permettra d‘organiser leur réflexion personnelle sous la forme d‘une présentation orale structurée autour d‘une problématique.",
+  "content": "Ce cours vise à développer des compétences utiles à la production de discours en français : comment sélectionner des informations pertinentes, comment organiser ses arguments, comment exprimer de manière simple et claire ses idées, comment intéresser son public, etc. Pour cela, les étudiants seront appelés à présenter en classe de courts exposés sur des sujets en rapport avec la culture française.\n\nCe cours vise également à développer les facultés d’écoute et à initier à l’art de la conversation à travers des exercices de prise de note et des débats dirigés.",
+  "books": "Pas de manuel pour ce cours.",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "Examen partiel : 30 ％\nExamen final : 30 ％\nPrésence et participation en classe : 20％\nDevoirs : 20 ％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限法國語文學系。年級:限三年級。學號:限雙號。指定課程:必須先修FR2029、先修FR2030。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限法國語文學系。年級:限四年級。指定課程:必須先修FR2029、先修FR2030。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限雙主修-法國語文學系。指定課程:必須先修FR2029、先修FR2030。"
+    }
+  ]
+}

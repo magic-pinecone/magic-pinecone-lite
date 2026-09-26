@@ -1,0 +1,9 @@
+{
+  "serial_no": "21074",
+  "objectives": "1. To employ the computational techniques to solve mathematical problems modeled\nby linear and nonlinear systems, and eigenvalue problems\n2. To understand the subject of errors, including their sources and the control of the errors.\n3. To train students their programming skills or to get familiar with the usage of computer scientific packages, e.g., Matlab.",
+  "content": "1. Mathematical Preliminaries (Chapter 1)\n2. Computer Arithmetic (Chapter 2)\n3. Solving nonlinear equations and optimization (Chapter 3, from Sec 3.0 to 3.5 and Sec 11.1)\nIncludes bisection methods, secant methods, and Newton‘s methods for the single-variable problems, and the generalization of Newton‘s method for multivariable and optimization problems\n4. Solving linear systems of equations (Chapter 4, except for Sec 4.8)\nIncludes direct methods and iterative methods for linear systems, the concept of norms, conditioning,  error analysis, and steepest descent and conjugate gradient methods\n5. Selected Topics in Numerical Linear Algebra (Chapter 5)\nIncludes eigenvalue problems, Gershgorin‘s theorem, power method, (QR and SVD algorithms if time permitted)",
+  "books": "\"Textbook (Required):\nNumerical Analysis: Mathematics of Scientific Computing, 3rd edition, Cheney and Kincaid, Brooks/Cole, 2002\n\nReferences\n1. Numerical Mathematics, A. Quarteroni, R. Sacco, and F. Saleri, 2nd edition, Springer 2007\n2. Numerical Computing with MATLAB, Moler, SIAM, 2004 Individual chapters and Matlab codes can be downloaded at http://www.mathworks.com/moler/",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Midterm: 30%\n\nFinal: 30%\n\nHomework: 40%",
+  "distribution_conditions": []
+}

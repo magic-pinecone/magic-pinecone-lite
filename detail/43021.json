@@ -1,0 +1,26 @@
+{
+  "serial_no": "43021",
+  "objectives": "This course aims to ground students in the foundations of current Management Information Systems while guiding them to explore paradigm shifts and future developments in the age of Artificial Intelligence. The objective is to provide students with a comprehensive overview of MIS development over nearly six decades, enabling them to understand the essence and evolutionary trajectory of the field, and then prepare them to critically examine how AI and other cutting-edge innovations are transforming information systems, reshaping organizational structures, and changing business practices.\n\nThrough this learning journey, students will develop critical thinking abilities, gain practical experience with AI-driven tools, and cultivate the adaptability needed to thrive in an unpredictable technological frontier. Ultimately, this course seeks to prepare forward-thinking MIS professionals who can bridge current practices with future possibilities, embrace uncertainty as opportunity, and lead innovation in the ongoing transformation of information systems.",
+  "content": "生成式 AI 的發展，使資訊管理面臨新的挑戰：當 AI 能參與知識工作，生成文章、程式、分析、與建議，資管過去關心的問題與理解世界的方式，是否仍然足夠？本課程從這個疑問出發，帶領學生思考 AI 對資管專業與學科發展的影響。\n\n課程將結合 Laudon 的傳統 MIS、近期 AI 發展與實務演講，重新檢視既有 MIS 架構如何理解人、資訊系統與組織之間的關係。透過比較不同時代的資訊科技使哪些活動平價化，探討這次 AI 帶來的改變有何不同：當知識成果更容易取得，人的學習與專業如何改變？當組織成員與競爭者都能使用 AI，管理判斷、協作與競爭優勢又如何形成？既有 MIS 觀念能解釋到什麼程度，還有哪些值得研究的新問題？\n\n面對這些尚待釐清的問題，資管的實務與學術研究可能需要進一步探索如何管理 AI。本課程暫以 Managing AI 稱呼這個方向，與學生共同探討個人與組織使用 AI 所帶來的新課題。希望學生修課後，能運用並檢視既有的 MIS 觀念，從實際現象中提出有意義的問題，透過資料、案例、與討論形成自己的看法，為未來的研究或實務找到值得投入的方向。",
+  "books": "Laudon, K. C., Laudon, J. P., & Traver, C. G. (2025). Management information systems: Managing the digital firm (18th ed.). Pearson.",
+  "teaching_method": "講授\n研討\n\n其他",
+  "grading_policy": "(I) 期末考40%\n(II) 個人課堂作業24%\n(III) 分組課堂作業36%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系。年級:限四年級。身份:限非重修生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系。身份:限重修生。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-資訊管理學系、雙主修-資訊管理學系、學分學程-電子商務(EC)。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

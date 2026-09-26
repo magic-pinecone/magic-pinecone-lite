@@ -1,0 +1,18 @@
+{
+  "serial_no": "61014",
+  "objectives": "學會天氣分析與天氣預報的知識與技能",
+  "content": "八、大氣的平均結構 a. 大氣的平均結構 b. 高空環流與其特性\n九、極鋒理論 a. 基本氣旋模式 b. 氣旋的發展\n十、高空長波與旋生 a. 高空長波 b. 切斷低壓與阻塞高壓 c. 氣旋發展方程式 d. 噴流\n十一、天氣預報簡介 a. 天氣預報方法與流程 b. 天氣預報及警報之經濟價值\n十二、鋒生與伴隨環流 a. 鋒生與伴隨環流 b. 鋒面之降水機制",
+  "books": "1.「天氣學」，1991， 林元弼、湯明敏、包澄瀾及陳森娥。明文書局，412P.\n2. Palmen， E. and C.W. Newton， 1969: Atmospheric Circulation Systems. 603pp.\n3. Bluestein， H.B.， 1992: Synoptic-Dynamic Meteorology in Midlatitudes. QC874 B68 Vol.I: Principles of Kinematics and Dynamics. 431 pp. Vol.II: Observations and Theory of Weather Systems. 594 pp. Oxford U. Press.\n4. Petterssen， S.， 1956: Weather Analysis and Forecasting. Vol.I (428pp) and Vol.II (266pp)\n5. Saucier， W.J.， 1965: Principles of Meteorological Analysis. 438pp.",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "a. 習題、隨堂測驗及出席率 25 ％ b. 期中考 25 ％ c. 期末考 25 ％ d. 天氣分析實習(含作業)與天氣講解 25 ％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-大氣科學系、雙主修-大氣科學系。"
+    }
+  ]
+}

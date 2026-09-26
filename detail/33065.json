@@ -1,0 +1,22 @@
+{
+  "serial_no": "33065",
+  "objectives": "齒輪原理是由Faydor L. Litvin 教授所發展之齒形幾何、設計、共軛嚙合方程式及電腦輔助接觸特性分析之系統化知識。授課內容包含 (1)基本理論：空間機構之座標轉換、微分幾何、相對速度、齒面幾何參數設計、共軛齒形之嚙合方程式；(2)齒面接觸特性分析：以電腦數值程式計算與繪圖輔助軟體，建立齒輪模型並模擬齒面接觸特性，包含接觸點/線、接觸軌跡、接觸齒印和傳動誤差等。\n具體教學目標為讓同學理解空間機構之座標轉換理論、齒形幾何設計、共軛嚙合原理及其相關應用，同時具備使用電腦程式數值計算與電腦輔助繪圖軟體以進行齒輪模型建立和接觸特性分析的能力。預期同學所習得之相關理論基礎與電腦程式能力，未來除了齒輪設計分析外，亦可應用在機器人學、凸輪設計等空間機構設計。",
+  "content": "Outline:\n1.\tCoordinate Transformation in Matrix Representation\n2.\tRelative Velocity\n3.\tPlanar Curves: Tangent Vector, Normal Vector, and Curvature\n4.\tSurfaces: Tangent Plane and Surface Normal\n5.\tConjugate Surfaces and Curves: Existence of Envelope, Equation of Meshing\n6.\tFillet Generation: Conditions of Nonundercutting\n7.\tComputerized Simulation of Meshing and Contact: Tooth Contact Analysis, Contact Path, Static Transmission Error, Edge Contact\n8.\tSpur Involute Gears\n9.\tInvolute Helical Gears with Parallel Axes\n10.\tGear Practices: Demonstration of CNC Gear Hobbing, Measurement of Transmission Error\n11.\tTerm Project",
+  "books": "Gear Geometry and Applied Theory, Faydor L. Litvin, Alfonso Fuentes, 2nd edition, Cambridge University Press, 2009",
+  "teaching_method": "講授",
+  "grading_policy": "Home Work and Class Performance: 10%\n2 Midterm Tests: 70%\nTerm Project: 20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班。學院:限工學院。系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限博士班。學院:限工學院。系所:限機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班、機械工程學系工學博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。學院:限工學院。系所:限機械工程學系。年級:限三年級、四年級。"
+    }
+  ]
+}

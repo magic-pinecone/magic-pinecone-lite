@@ -1,0 +1,9 @@
+{
+  "serial_no": "25003",
+  "objectives": "Students will learn statistical theory as well as methods of reliability and manage to apply the knowledge to life time data analysis.",
+  "content": "“1. Reliability concepts and reliability data\n2. Models, censoring, and likelihood for failure-time data\n3. Degradation data, models, and analysis\n4. Failure-time regression analysis\n5. Accelerated test models\n6. Accelerated life tests\n7. Accelerated degradation analysis“",
+  "books": "“Text:    Statistical Methods for Reliability Data  by Meeker and Escobar (1998), Wiley.\n\nReferences:   1.   Applied Life Data Analysis  by Nelson (1982), Wiley.\n2.   Statistical Models and Methods for Lifetime Data, 2ed,  by Lawless (2002), Wiley.“",
+  "teaching_method": "講授",
+  "grading_policy": "Homework     40％\nTake-Home Midterm         20％\nFinal Report    40％",
+  "distribution_conditions": []
+}

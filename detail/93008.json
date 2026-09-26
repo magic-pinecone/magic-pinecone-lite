@@ -1,0 +1,18 @@
+{
+  "serial_no": "93008",
+  "objectives": "給予學生基本的化學知識與觀念，並提供未來專業學習中所需具備的化學背景",
+  "content": "化學基礎\n原子結構和周期性\n化學鍵\n分子結構和軌域\n化學能\n氣體\n液體和固體\n溶液性質\n化學動力學\n化學平衡\n自發性、熵和自由能",
+  "books": "\"Chemistry An Atoms First Approach,\nZumdahl, 3rd edition, 2021\nCengage Learning press.\"",
+  "teaching_method": "講授",
+  "grading_policy": "期中及期末考 (60%)\n回家作業 (40%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

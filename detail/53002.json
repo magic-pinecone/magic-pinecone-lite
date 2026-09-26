@@ -1,0 +1,30 @@
+{
+  "serial_no": "53002",
+  "objectives": "了解並能夠設計基本數位硬體系統。",
+  "content": "週次\t內容\t備註\n1\tNumber Systems and Conversion\n2\tBoolean Algebra and Basic Logic Gates\n3\tBoolean Algebra and Basic Logic Gates\n4\tKarnaugh Maps and Logic Gate Simplification\n5\tKarnaugh Maps and Logic Gate Simplification\n6\t期中考 #1\n7\tMultilevel Gate Circuits\n8\tCombinational Logic Circuit Design and Applications\n9\tCombinational Logic Circuit Design and Applications\n10\tFlip Flop Circuits\n11\t期中考 #2\n12\tRegisters and Counters\n13\tClocked Sequential Circuits\n14\tClocked Sequential Circuits\n15\tState Table and State Assignment\n16\t期末考\n17\t期末考檢討與自主學習\n18\t期末考檢討與自主學習",
+  "books": "教科書(英文)：Charles H. Roth, Fundamentals of Logic Design, Books/Cole. 7th Ed.",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "作業 x6: 15％\n期中考 x2: 50％\n期末考: 35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系、資訊電機學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系、資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-通訊工程學系、雙主修-通訊工程學系、第二專長-通訊工程。"
+    },
+    {
+      "priority": 4,
+      "rule": "學院:限資訊電機學院。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

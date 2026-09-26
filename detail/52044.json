@@ -1,0 +1,26 @@
+{
+  "serial_no": "52044",
+  "objectives": "1. 學習各式攻擊的原理\n2. 學習各式防禦系統的方式",
+  "content": "Malware: Trojan Horse, Spyware, Rootkit, backdoor, Key logger, Internet Worm\nBuffer Overflow Attacks/Return Into Libc Attacks/ROP\nVirus\nFileless malware\nCross Site Script (XSS)\nCross Site Request Forgert\nSQL Injection\nFormat String Attacks\nInteger Overflow and Integer Sign Attacks\nDenial of Service Attacks/Distributed DoS\nBotnet",
+  "books": "Lecture Slides",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Midterm 30%\nFinal 35%\nTwo Projects (15%, 15%)\nAttendance: 5%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限學分學程-人工智慧與資訊安全。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。年級:限四年級。"
+    }
+  ]
+}

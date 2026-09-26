@@ -1,0 +1,14 @@
+{
+  "serial_no": "34018",
+  "objectives": "訓練學生主動思考、探索、蒐集資料、數據分析及口頭書面報告的能力並培養主動學習的研究精神",
+  "content": "1.實驗室管理 2.實驗數據分析 3.論文研讀 4.論文撰寫",
+  "books": "依各指導教授提供",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "論文報告",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。指定課程:必須擋修CH4071。"
+    }
+  ]
+}

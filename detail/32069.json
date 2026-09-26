@@ -1,0 +1,9 @@
+{
+  "serial_no": "32069",
+  "objectives": "Build up the fundamental knowledge of mechanics of materials",
+  "content": "\"0) Introduction\n1) Index notations, Vector, and Tensors\n2) Deformations and Compatibility Equations\n3) Stress\n4) Constitutive Laws\n5) Virtual Work Principles and Finite Element Formulations\"",
+  "books": "\"L. Malvern, \"\" An introduction to the mechanics of a continuous medium\"\".\"",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "\"Exam 85%, Homework 15%\"",
+  "distribution_conditions": []
+}

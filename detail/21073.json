@@ -1,0 +1,14 @@
+{
+  "serial_no": "21073",
+  "objectives": "“The objects of this course are the followin:\n(1) Study the Basic mathematical models coming from the areas of Biology, data science and physics, etc.\n(2) Learn the fundamental theorems of ODE\n(3) Investigate the principles of stability\n(4) Further topic of the re;ated Dynamical Systems and patterns“",
+  "content": "“In this course, we study the following contents:\n(1) The Basic mathematical models coming from the areas of Biology, data science, image processing and physics, etc.\n(2) Differential equations of the first order, linear systems of ordinary differential equations:\n(3) Linear System with constant and periodic coefficients, Floquet theory;\n(4) Phase plane analysis for 2-D autonomous system;\n(5) Elementary qualitative properties of nonlinear differential equations, Dulac Q., Omega limit sets and Invariant sets,\n(6) Poincare-Bendixson Theorem and Dynamical System.\n(7) Related applications of ODEs.“",
+  "books": "“References:\n(1) Sze-Bi Hsu, Ordinary Differential Equations with Applications: Second Edition\n(2) J. D. Murray, Mathematical Biology Vol I-II\n(3) Related Notes“",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "Report Exercises and homes works+Quizs and Mid-Term/Final Exams.",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

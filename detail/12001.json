@@ -1,0 +1,22 @@
+{
+  "serial_no": "12001",
+  "objectives": "This course focuses on giving students (A) an overview of key texts in the study of Greek mythology and (B) a theoretical framework for understanding myths and studying myths beyond the course's materials, including in understanding myth as a form of discourse that can be identified in any time and place.",
+  "content": "Course readings will be taken from Greek literature and modern theory. Readings will include Greek epic, Greek lyric, Greek tragedy, and prose writers on mythology. Theoretical readings will include Lincoln, Levi-Strauss, Freud, and others.",
+  "books": "Students should purchase a copy of the Odyssey as translated by Richmond Lattimore. All other material will be provided via ee-class/course booklet.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Readings & Quizzes: 60%\nFinal: 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限英美語文學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限英美語文學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-英美語文學系。"
+    }
+  ]
+}

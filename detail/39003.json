@@ -1,0 +1,22 @@
+{
+  "serial_no": "39003",
+  "objectives": "本課程目標為介紹薄膜成長之相關基本物理原理及薄膜成長技術，此外並將嘗試介紹薄膜技術於產業界之應用，除了引導同學對薄膜物理與成長技術有初步的概念外、亦讓同學對其在產業界的應用有所瞭解。",
+  "content": "1. 薄膜成長原理\n\n2. 真空科學基礎\n\n3. 氣相沉積技術\n\n4. 薄膜特性分析",
+  "books": "Thin Film Deposition: principles and practice, D. L. Smith (McGraw-Hill)Wiley)“",
+  "teaching_method": "講授",
+  "grading_policy": "出席/課堂表現: 10％\n期中考1: 30％\n期中考2: 30％\n期末報告: 30％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限材料科學與工程研究所碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限材料科學與工程研究所博士班、材料科學與工程研究所工學博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限非材料科學與工程研究所碩士班。"
+    }
+  ]
+}

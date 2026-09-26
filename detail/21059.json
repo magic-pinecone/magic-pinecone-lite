@@ -1,0 +1,18 @@
+{
+  "serial_no": "21059",
+  "objectives": "代數是數學中重要的基礎科目。透過此課程，培養學生抽象思考與獨立思考的能力。",
+  "content": "我們預計將介紹群論、環論、體論的基本知識。如果時間允許，我們將介紹模論。",
+  "books": "“書名：Algebra\n系列：Graduate Texts in Mathematics (73)\n出版商：Springer\n作者：Thomas W. Hungerford“",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "平時成績:30％\n期中考:35％\n期末考試:35％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限三年級、四年級。"
+    }
+  ]
+}

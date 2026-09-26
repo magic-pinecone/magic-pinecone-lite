@@ -1,0 +1,14 @@
+{
+  "serial_no": "63015",
+  "objectives": "使學生了解太陽風理論及各種結構,並藉由分析實際觀測事件瞭解相對應之太陽風暴源及地球磁層與太陽風之交互作用關係",
+  "content": "太陽風形成\n行星際磁場\n行星際震波及磁雲\n太陽風與地球磁層之交互作用\n太陽無線電波爆",
+  "books": "1.Introduction to Space Physics, M. G. Kivelson and C. T. Russell, Cambridge University Press, 1995.\n2.Interplanetary magnetohydrodynamics, L.F. Burlaga, Oxford University Press, 1995.\n3.Physics of the Space Environment, Tamas I. Gombosi, Cambridge University Press, 1998.\n4.Physics of Space Plasmas: An Introduction, G. K. Parks, Westview Press, 2004.\n5.Handbook of the Solar-Terrestrial Environment, Yohsuke KamideG. K. Parks, Abraham C.-L. Chian, Springer, 2007.\n6.Magnetohydrodynamics of the Sun, Eric R. Priest, Cambridge University Press, 2014.",
+  "teaching_method": "講授\n研討\n\n其他",
+  "grading_policy": "作業: 60％\n進度報告(含上課表現): 20％\n期末考: 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "年級:限二年級、三年級、四年級。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "32058",
+  "objectives": "透過課程學生學習土壤動力學之基本知識，以及如何應用在地震工程學領域，期使其後續就業或深造時，能具有大地地震工程學的專業知識",
+  "content": "基礎振動學、波傳理論、土壤動力性質、土壤動力室內試驗、土壤動力現地試驗，地盤受震反應分析，土壤液化，地盤改良",
+  "books": "“Geotechnical Earthquake Engineering“, Steven L. Kramer\n“Soil Behavior in  Earthquake Geotechnics“ Kenji Ishihara\n相關論文",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "作業:30％\n考試:50％\n專題報告:10％\n出席:10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "年級:限三年級、四年級。身份:限非交換生。"
+    }
+  ]
+}

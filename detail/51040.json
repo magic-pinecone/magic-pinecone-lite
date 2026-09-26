@@ -1,0 +1,9 @@
+{
+  "serial_no": "51040",
+  "objectives": "瞭解控制理論基本理論奠定理論發展基礎。",
+  "content": "1.線性狀態方程式表示 2.線性狀態方程式解 3.轉移矩陣性質 4.兩種重要狀況 5. 可控性 與可觀性  6.可控 與可觀型態 7.線性狀態回授 8.線性觀測器 9.線性狀態回授與觀測器整合",
+  "books": "教科書：線性系統理論  作者：Wilson J.Rugh",
+  "teaching_method": "講授",
+  "grading_policy": "\"考試 (midterm and final exams) 60%\n報告 (oral presentation and written report)  30%\n出席 (attitude, attendance, asking questions, answering questions, helping, and other possible contributions) 10%\"",
+  "distribution_conditions": []
+}

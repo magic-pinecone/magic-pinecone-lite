@@ -1,0 +1,26 @@
+{
+  "serial_no": "63014",
+  "objectives": "「系統」是指一個必須由不同的元素整合再一起來達到某個目標的組合體。一個能夠達成目標的系統設計、實現、整合與驗證因為跨領域資源及專長的整合形成一項挑戰。這門課將針對應用於太空任務的系統常用的系統工程方法、工具與應用作介紹。我們同時也會認識衛星及酬載系統常見的嵌入式系統設計與應用作爲系統工程計畫的範例。",
+  "content": "1.\t概論、團隊工作\n\n2.\t什麼是系統工程？\n\n3.\t計畫生命週期\n\n4.\t工作範圍與作業構想\n\n5.\t系統架構\n\n6.\t系統分層與工作分配\n\n7.\tAHP 層級分析法\n\n8.\t需求撰寫\n\n9.\t功能分析\n\n10.\t系統合成\n\n11.\t設計基礎\n\n12.\t介面\n\n13.\t餘度\n\n14.\t技術績效測量\n\n15.\t預算與價位\n\n16.\t風險\n\n17.\t技術與技術就緒指數\n\n18.\t協調評估\n\n19.\t可靠度\n\n20.\t驗證\n\n21.\t技術審查\n\n22.\t時程規劃\n\n23.\t計畫管理",
+  "books": "Goldberg, B.E., K. Everhart, R. Stevens, N. Babbitt III, P. Clemens, and L. Stout (1994), System Engineering “Toolbox” for Design-Oriented Engineers, NASA Reference Publication 1358, https://ntrs.nasa.gov/citations/19950012517\n\nHarland, D.M. and R.D. Lorenz (2005), Space Systems Failures: Disasters and Rescues of Satellites, Rocket and Space Probes (Springer Praxis Books) 2005th Edition, ISBN: 978-0387215198, https://link.springer.com/book/10.1007/978-0-387-27961-9\n\nLightsay, B. (2001), Systems Engineering Fundamentals, ADA387507, https://apps.dtic.mil/sti/citations/ADA387507\n\nNASA (2016), NASA Systems Engineering Handbook, NASA SP-2016-6105 Rev2, https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf\n\nSystems Engineering Body of Knowledge (SeBoK), https://www.sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK)",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Group Presentation / Peer Review: 15％\nHomeworks: 25％\nLab Reports ＆ Results: 25％\nMidterm: 15％\nFinal: 20％. 包含書面考試與專題。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限太空科學與工程學系。年級:限三年級、四年級。指定課程:必須先修SS1001、先修SS1002、先修SS1003。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班。年級:限三年級、四年級。指定課程:必須先修SS1001、先修SS1002、先修SS1003。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-太空科學與工程學系、雙主修-太空科學與工程學系、學分學程-太空科技與工程。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

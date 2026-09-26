@@ -1,0 +1,14 @@
+{
+  "serial_no": "60007",
+  "objectives": "透過此課程，學生可以學習到基礎固體地球科學知識與技能，有助於深造地科相關之進階課程與建立研究題目。",
+  "content": "此課程包括固體地球相關之主要子題，為中央研究院國際研究生學程(地球科學學程)的五大領域之一。子題計有地質學、地球物理學、地球化學等。課程的目的為學習基礎固體地球科學知識與技能，有助於深造地科相關之進階課程與建立研究題目。通過講授、實習與研討，學生將更了解地球系統的運作方式以及它們的關連性。",
+  "books": "1. Earle, S., 2019. Physical Geology – 2nd Edition. Victoria, B.C.: BCcampus. Retrieved from https://opentextbc.ca/physicalgeology2ed/.\n2. Fowler, C.M.R., 2004. The Solid Earth – An Introduction to Global Geophysics – 2nd Edition. Cambridge University Press.",
+  "teaching_method": "講授",
+  "grading_policy": "期末考100％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球系統科學國際研究生博士學位學程。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "61006",
+  "objectives": "了解地球環境大氣的化學組成與變遷，乃至未來可能會帶來的影響",
+  "content": "“1.大氣化學成分的過去和現在是什麼狀態？\n2.為什麼大氣化學成分產生變化？\n3.變化的原因是什麼？\n4.不斷變化的大氣成分會產生什麼影響？\n5.未來大氣化學成分的狀態如何？“",
+  "books": "“1.Horne, R.A., 1978, The Chemistry of Our Environment.\n2.Yen, T.F.,1999,Environmental Chemistry:Chemical Principles for environmental processes, Prentice-Hall, Inc.\n3.Manahan, S.E.,1991, Environmental Chemistry\n4.Wayne,R.P.,2000, Chemistry of Atmospheres\n5.Brimblecombe,P.,1986, Air composition and chemistry, Cambridge Univ. Press“",
+  "teaching_method": "講授",
+  "grading_policy": "1. 平時成績(課堂表現)30％\n2. 期中考30％\n3. 期末考40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

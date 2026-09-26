@@ -1,0 +1,22 @@
+{
+  "serial_no": "33041",
+  "objectives": "以Python為主體的基礎程式設計課程，涵蓋資料處理，工程應用的數值計算以及數據分析，培養新世代的程式設計能力。",
+  "content": "Python是目前炙手可熱的程式語言，具有大量的第三方函式庫與套件支援，可以免費取得，其強項在於語法簡潔、擴充性強，應用範圍相當廣泛，Python語言是大數據與類神經網路的基礎程式語言，本課程將運用數據分析庫(如Pandas、NumPy和matplotlib)，引導學生邏輯性撰寫程式，快速上手進入科學研究、資料分析、資料探勘、機器學習、深度學習及人工智慧的應用領域。",
+  "books": "David I. Schneider, An introduction to programming using Python, Pearson, 2016. (高立圖書代理)\nNVIDIA Deep Learning Institute workshops",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "Homework 20 ％; Midterm 35 ％;Final exam 35 ％; Nvidia DLI certificate 10 ％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限四年級。指定課程:必須先修EG1001。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限三年級。指定課程:必須先修EG1001。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限機械工程學系。年級:限二年級。指定課程:必須先修EG1001。"
+    }
+  ]
+}

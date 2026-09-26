@@ -1,0 +1,18 @@
+{
+  "serial_no": "33046",
+  "objectives": "本課程旨在介紹兩相流與相變熱傳之基本理論、物理現象及工程應用。學生將了解液–氣兩相流動中的流譜變化、沸騰與凝結熱傳機制、兩相壓降，並進一步探討微流道、冷板及高熱通量電子散熱等應用。\n\n修習完成後，學生應具備下列能力：\n(1) 了解兩相流與單相流之基本差異。\n(2) 判斷不同流動條件下之兩相流型。\n(3) 分析池沸騰與流動沸騰之熱傳機制。\n(4) 理解臨界熱通量及乾涸現象。\n(5) 分析兩相流動壓降與摩擦損失。\n(6) 了解凝結熱傳之基本理論。\n(7) 熟悉微通道與高熱通量元件中的兩相冷卻技術。",
+  "content": "1.BASIC CONCEPT\n(i) Introduction\n(ii) Flow Patterns\n(iii) Basic Models\n2.PRESSURE DROP\n(i) Homogeneous Models\n(ii) Separated Flow Models\n(iii) Empirical Treatments\n3.CONDENSATION\n(i) Gravity Dominated\n(ii) Vapor Shear Dominated\n(ii) Surface Ten",
+  "books": "\"1.Collier and Thome, “Convective Boiling and Condensation” 3rd Edition, Oxford.\n2.Carey, V. P., “Liquid-Vapor Phase-Change Phenomena”, Hemisphere.\n3.Hsu, Y. Y., and Graham, R. W., “Transport Processes in Boiling and Two-Phase System”, Hemisphere.\"",
+  "teaching_method": "講授",
+  "grading_policy": "作業10%，期中考30%，期末考30%，期末報告30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班、機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    }
+  ]
+}

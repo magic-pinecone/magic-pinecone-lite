@@ -1,0 +1,9 @@
+{
+  "serial_no": "22047",
+  "objectives": "本課程介紹狹義相對論的基本原理，並建立四維時空的數學描述。學生將學習洛倫茲變換、四維向量、能量與動量的相對論表示，以及電磁場的協變形式，理解愛因斯坦如何將力學與電磁學統一於同一個時空框架之中。\n修課完成後，學生應能：\n理解狹義相對論的兩大基本原理及其物理意義。\n熟悉洛倫茲變換、四維向量與Minkowski時空。\n能利用四維形式描述粒子的運動、能量與動量。\n理解電流、電場與磁場在不同慣性座標系中的變換。\n掌握電磁場張量與Maxwell方程式的協變表示。\n建立以「洛倫茲不變性」理解現代物理的基礎，為後續學習廣義相對論、粒子物理與場論奠定基礎。",
+  "content": "第一部分：狹義相對論的幾何與粒子運動（第1–7週）\n狹義相對論的誕生與愛因斯坦兩大原理\n洛倫茲變換與時間膨脹、長度收縮\nMinkowski時空與世界線\n四維向量與Lorentz不變量\n固有時間、四速度與四動量\n相對論性能量、動量及質能關係\n雙曲函數、Rapidity與Lorentz群\n第8週：期中考\n第二部分：電磁學的相對論（第9–15週）\n電流四維向量\n電場與磁場的Lorentz變換\n電磁場張量\nMaxwell方程式的協變形式\n電磁場的不變量\n狹義相對論下電磁學的統一描述\n第16週：期末考\n本課程特別強調愛因斯坦1905年原始論文的完整架構，不僅介紹狹義相對論的運動學，也深入探討其在電磁學中的應用與統一。",
+  "books": "Textbook\nJames H. Smith, Introduction to Special Relativity, Springer.\nEdwin F. Taylor and John Archibald Wheeler, Spacetime Physics, 2nd Edition.\n\nReferences\nWolfgang Rindler, Introduction to Special Relativity, Oxford University Press.\nDavid J. Griffiths, Introduction to Electrodynamics, 5th Edition.\nJ. D. Jackson, Classical Electrodynamics, 3rd Edition.\nLev D. Landau and Evgeny M. Lifshitz, The Classical Theory of Fields.\nAlbert Einstein, On the Electrodynamics of Moving Bodies (1905).",
+  "teaching_method": "講授",
+  "grading_policy": "Attendance: 40%\nReport: 20%\nMidterm exam: 20%\nFinal exam: 20%",
+  "distribution_conditions": []
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "20002",
+  "objectives": "\"Reading, writing and oral are very important basic abilities for all graduated students. Student not only need to have the ability to read papers and write reports, but also be able to clearly tell others what they want to say. In this second semester, we will build on what we learned during the last term, and move on to read papers published in leading journals on current topics in systems biology, biotechnologies and translation medicine.\"",
+  "content": "\"1. Introduction (course syllabus)\n2. How to start writing a paper – The order of things to do by Ernest HK Selzer\n3. The Mathematics of Cancer: Integrating Quantitative Models. Nature Reviews Cancer, 2015\n4. MicroRNA–mRNA interactions underlying Colorectal Cancer Molecular Subtypes. Nature Communications, 2015\n5. Cerebral Microbleeds Are Associated With an Increased Risk of Stroke. Circulation, 2015\n6. DNA Repair Factor BRCA1 Depletion Occurs in Alzheimer Brains and\nImpairs Cognitive Function in Mice. Nature Communications, 2015\n7. Targeting a Cell State Common to Triple-Negative Breast Cancers. Mol Syst Biol, 2015\n8. miRNA Expression Profiling of 51 Human Breast Cancer Cell Lines Reveals Subtype and Driver Mutation-Specific miRNAs. Breast Cancer Research, 2013\n9. Increased COUP-TFII Expression in Adult Hearts Induces Mitochondrial Dysfunction Resulting in Heart Failure. Nature Communications, 2015\n10. Germline Mutations in Predisposition Genes in Pediatric Cancer. New Engl J Med, 2015\n11. A Chemical–Genetic Interaction Map of Small Molecules Using High?Throughput Imaging in Cancer Cells. Mol Syst Biol, 2015\n12. The Transcriptional Landscape of Age in Human Peripheral Blood.\nNature Communications, 2015\n13. Deregulation of STING Signaling in Colorectal Carcinoma Constrains DNA Damage Responses and Correlates With Tumorigenesis. Cell Reports, 2016\n14. Applications of The CRISPR–Cas9 System in Cancer Biology.Nature Reviews Cancer, 2015\"",
+  "books": "\"Please go to the link (http://goo.gl/9lh2EZ) to download course material,which includes a list of seminar the latest papers.\"",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "\"1. Presentation 50 %\n2. Group Presentation 10 %\n3. Homework 20 %\n4. Group Discussion 10%\n5. Attendance 10 %\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系系統生物與生物資訊碩士班、生醫科學與工程學系系統生物與生物資訊博士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系系統生物與生物資訊碩士班、生醫科學與工程學系系統生物與生物資訊博士班。年級:限非一年級。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "25002",
+  "objectives": "本課程介紹迴歸分析的理論與發展。目標讓學生理解理論背景，並學習使用統計方法處理各種實務問題。",
+  "content": "1. INTRODUCTION\n2. SIMPLE LINEAR REGRESSION\n3. MULTIPLE LINEAR REGRESSION\n4. MODEL ADEQUACY CHECKING\n5. TRANSFORMATIONS AND WEIGHTING TO CORRECT MODEL INADEQUACIES\n6. DIAGNOSTICS FOR LEVERAGE AND INFLUENCE\n7. POLYNOMIAL REGRESSION MODELS\n8. INDICATOR VARIABLES\n9. MULTICOLLINEARITY\n10. VARIABLE SELECTION AND MODEL BUILDING\n11. VALIDATION OF REGRESSION MODELS",
+  "books": "1. Montgomery, D. C., Peck, E. A., & Vining, G. G. (2021). Introduction to linear regression analysis (6th ed.). John Wiley & Sons.\n2. Draper, N. R., & Smith, H. (1998). Applied regression analysis (3rd ed.). John Wiley & Sons.\n3. Seber, G. A. F., & Lee, A. J. (2003). Linear regression analysis (2nd ed.). John Wiley & Sons.\n4. Weisberg, S. (2005). Applied linear regression (3rd ed.). John Wiley & Sons.\n5. Faraway, J. J. (2015). Linear models with R (2nd ed.). Chapman and Hall/CRC.\n6. Faraway, J. J. (2016). Extending the linear model with R: Generalized linear, mixed effects and nonparametric regression models (2nd ed.). Chapman and Hall/CRC.",
+  "teaching_method": "講授",
+  "grading_policy": "Homework: 40%\nMidterm: 30%\nFinal Exam: 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限統計研究所碩士班、統計研究所博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

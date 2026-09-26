@@ -1,0 +1,18 @@
+{
+  "serial_no": "28003",
+  "objectives": "藉由專題研究作為總整課程，讓學生實際應用所學於研究中。",
+  "content": "學生須先找到專題指導教授並簽立「跨領域指導老師確認表」後，與指導教授討論、進行專題研究。",
+  "books": "N/A",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "學生專題指導教授100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限理學院學士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限二年級、三年級、四年級。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "85004",
+  "objectives": "內容將專注於生物醫學以及生物應用工程等領域之理論，包括：生物數學模型之建立、微分方程及動態系統之討論，以及非線性方法等。因此，理論教授與傳統工程數學章節之安排略有不同。實作方面將配合以程式語言針對各種基礎科學或是工程個案，提出適當之數值分析。本門課程將以深入淺出方式引導學生先行體驗工程數學問題、理解問題，而後思考解決問題之方法與手段。上學期課程將專注於數學理論的奠定，下學期課程將涵蓋於生物系統。",
+  "content": "“1. Introduction to Differential Equations\n2. First-Order Differential Equations\n3. Higher-Order Differential Equations\n4. The Laplace Transform\n“",
+  "books": "“Textbook:\nAdvanced Engineering Mathematics, D. G. Zill and W. S. Wright.\nReference:\n1. Differential Equations with BVP,By D.G.Zill,ninth Edition.\n2. Mathematical Methods for Physics by Q. Gu, ISBN: 9787030330642\n3. Mathematical Models in Biology by J. Muller, TUM, Centre for Mathematical Sciences, 2004\n4. A First Course in Differential Equations with Modeling Applications, by D. G. Zill\n4. Advanced Engineering Mathematics, W.S. Wright, 2012\n5. Advanced Engineering Mathematics, E. Kreyszig,“",
+  "teaching_method": "講授",
+  "grading_policy": "“Participation : 10％\n\nAssignment : 20％\n\nMidterm test : 30％\n\nFinal test : 40％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限理學院學士班。"
+    }
+  ]
+}

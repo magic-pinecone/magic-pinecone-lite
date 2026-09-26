@@ -1,0 +1,30 @@
+{
+  "serial_no": "52048",
+  "objectives": "1. Theoretical Foundations: Comprehensive understanding of key theoretical concepts underlying deep learning, including neural architectures, loss functions, and optimization algorithms.\n2.  Framework Versatility: Learn the basics of popular frameworks such as Keras and PyTorch, with an emphasis on how these frameworks implement deep learning theory.\n3.  Algorithmic Understanding: Understand core deep learning techniques, their benefits, limitations, and practical implications.\n4.  Critical Evaluation: Develop the ability of critically evaluating the validity, efficacy, and suitability of various deep learning approaches and techniques.\n5.  Advanced Topics and Trends: Introduction to the frontiers of deep learning, including ongoing research and emerging methodologies, in order to prepare students for further academic or industrial research.\n6.  Ethical Considerations: Educate students on the ethics of deep learning applications, including privacy, fairness, and societal impact.",
+  "content": "1.  Fundamentals of Deep Learning\n2.  Framework Familiarization\n3.  Core Algorithms and Techniques\n4.  Model Evaluation and Diagnosis\n5.  Advanced Topics in Deep Learning\n6.  Ethical and Societal Implications",
+  "books": "Information about the textbook will be provided during the first class. The textbook will serve as a supplement to the course lectures, readings, and exercises.",
+  "teaching_method": "講授",
+  "grading_policy": "1. Assignment: 30％\n2. Exercise and Class Participation: 20％\n3. Final Exam: 20％\n4. Group Final Project: 15％\n5. Open-Source Engagement Report: 10％\n6. Enterprise Visit or Industry Reflection: 5％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限學分學程-人工智慧與資訊安全、學分學程-人工智慧國際。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限人工智慧國際碩士學位學程。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

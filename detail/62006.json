@@ -1,0 +1,22 @@
+{
+  "serial_no": "62006",
+  "objectives": "“課程目標：本課程教授學生具備解決物理及工程上實際問題的重要數學知識及解題方法,並說明答案的物理意義。“",
+  "content": "課程大綱：1.一階微分方程式2.二階及高階微分方程式3.常微分方程式的次方級數解4.拉氏轉換5.特徵函數展開6.線性常微分方程組7.傅氏級數及積分8.傅氏轉換9.偏微分方程",
+  "books": "“Kreyszig: Advanced Engineering Mathematics, 8th edition.(歐亞）\nO‘Neil: Advanced Engineering Mathematics, 4th edition（新月）“",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "習題演習20％\n每學期考試3至4次佔80％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限地球科學學院學士班。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "23018",
+  "objectives": "\"學習科學新知與科學知識的表達方式\n學習如何與同儕交流\n檢視化學專業知識。\"",
+  "content": "\"每位同學報告40 ± 5分鐘；其他同學和老師發問5-10分鐘。\n當周報告的同學請於報告當周星期一中午十二點前，將以下文件email給任課教師(報告的Paper PDF file及Power Point 投影片)。\n長篇論文的選擇需同時符合以下規定:需和化學相關，次領域不限。為SCI期刊且Impact Factor 高於2.50。出版年份需為西元2012年以後。推薦American Chemical Society (ACS) 發行的期刊 (www.acs.org)\"",
+  "books": "期刊論文",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "\"口頭報告表現 95%\n課堂出席表現 5%\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限雙主修-化學學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。"
+    }
+  ]
+}

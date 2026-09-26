@@ -1,0 +1,22 @@
+{
+  "serial_no": "22028",
+  "objectives": "“了解物理的基本原理和定律熟悉理論推導與應用計算培養學習進階物理的能力“\nhttps://yizenchu.net/general-physics-i-ph1040/",
+  "content": "The course material will cover some of the following topics:\n\nKinematics. Vector analysis. Calculus.\nNewton’s Laws of Motion.\nEnergy, Linear and Angular Momentum.\nRigid Body Motion\nGravitation\nWaves\nThermodynamics",
+  "books": "University Physics, Third Revised Edition, Harris Benson (Volume 1)",
+  "teaching_method": "講授",
+  "grading_policy": "Homework (50%)\nOral Presentations 50% (2 midterms, each 15% + 1 final 20% )",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學工程與材料工程學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。"
+    }
+  ]
+}

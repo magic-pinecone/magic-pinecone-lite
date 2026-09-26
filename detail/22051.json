@@ -1,0 +1,18 @@
+{
+  "serial_no": "22051",
+  "objectives": "學習有關哈密頓動力學理論的基礎知識。",
+  "content": "哈密頓動力學公式，對稱和幾何觀點，洛倫茲協變和量子物理學",
+  "books": "\"Analytical Mechanics for Relativity and Quantum Mechanics --- O.D. Johns\nClassical Mechanics --- H. Goldstein\"",
+  "teaching_method": "講授",
+  "grading_policy": "\"Final Exam.     45%\nMid-term Exam.  40%\nEx.             35%\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系碩士班、物理學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限物理學系、理學院學士班。年級:限四年級。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "26032",
+  "objectives": "1. 學習基礎的物理知識以瞭解晶體中發生的光學現象\n2. 學習如何將晶體光學的知識應用於研究中",
+  "content": "1. 電磁場與電磁波\n2. 光之偏振狀態\n3. 光在各向異性物質中的傳播特性\n4. 波片與濾波器\n5.藉外加電場調控各向異性物質的光傳播特性",
+  "books": "“Optical Waves in Crystals“ by\nAmnon Yariv ＆ Pochi Yeh",
+  "teaching_method": "講授",
+  "grading_policy": "homework 30％; mid exam 35％;final exam 35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系碩士班、光電科學與工程學系半導體光電科技碩士班、光電科學與工程學系博士班、光電博士學位學程(台灣聯合大學系統)。年級:限一年級。"
+    }
+  ]
+}

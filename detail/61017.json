@@ -1,0 +1,14 @@
+{
+  "serial_no": "61017",
+  "objectives": "熱帶氣象是過去二十年大氣科學領域中進展最快的一門次領域科學，本課程將以全新的視角介紹熱帶中重要天氣和氣候現象以及最新的研究進展，課程內容包含:(1)熱帶氣象綜述，(2)遙測, (3)全球環流, (4)熱帶變異, (5) 水汽與降雨分布, (6) 垂直輸送, (7)綜觀與中尺度系統, (8)熱帶氣旋, 以及(9)觀測分析與預報。",
+  "content": "第一章：綜述 (Overview) 第二章：遙測 (Remote Sensing)第三章：全球環流 (Global Circulation)第四章：熱帶變異 (Tropical Variability)第五章：水汽與降雨分布 (Distribution of water vapor and precipitation)第六章：垂直輸送 (Vertical transport)第七章：綜觀與中尺度系統 (Synoptic and meso-scale systems)第八章：熱帶氣旋 (Tropical cyclones)第九章：觀測分析與預報 (Observation, analysis, and forecast)",
+  "books": "Introduction to Tropical Meteorology, 2nd Edition, Produced by The COMET Program. (http://www.meted.ucar.edu/tropical/textbook_2nd_edition/)",
+  "teaching_method": "講授\n研討\n\n其他",
+  "grading_policy": "期中考 (25％)\n期末考 (25％)\n作業 (50％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系、地球科學學院學士班。"
+    }
+  ]
+}

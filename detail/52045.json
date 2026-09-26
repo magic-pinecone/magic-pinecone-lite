@@ -1,0 +1,22 @@
+{
+  "serial_no": "52045",
+  "objectives": "I) Thorough understanding of the geometric properties of the problem\nII) Proper application of algorithmic techniques and data structures",
+  "content": "Introduction\nLine Segment Intersection\nPolygon Triangulation\nLinear Programming\nOrthogonal Range Searching\nPoint Location\nVoronoi Diagrams\nMidterm exam\nArrangements\nInterval & Segment Trees\nConvex Hulls\nDelaunay Triangulations\nRobot motion planning\nMesh Generation\nSimplex Range Searching",
+  "books": "\"Mark de Berg, Otfried Cheong, Marc van Kreveld, and Mark Overmars Computational Geometry: Algorithms and Applications, 3rd Edition. 2008. Springer-Verlag.\n\nISBN-13: 9783540779735\"",
+  "teaching_method": "講授",
+  "grading_policy": "\"Written Assignments 50% (5 higher ones out of all assignments, 10% each)\nMidterm Exam                 20%\nFinal Exam                 20%\nFinal Presentation         10%\nTotal                        100%\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限人工智慧國際碩士學位學程。"
+    }
+  ]
+}

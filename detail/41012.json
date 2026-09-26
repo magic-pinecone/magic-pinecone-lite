@@ -1,0 +1,22 @@
+{
+  "serial_no": "41012",
+  "objectives": "以理論與實務為基礎，介紹民法的基本概念，引發學生對法律的興趣",
+  "content": "民法總則、債篇、物權、親屬繼承",
+  "books": "民法概要",
+  "teaching_method": "講授",
+  "grading_policy": "考試 50％；平常成績50％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限三年級。班別:限B。身份:限非交換生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限四年級。班別:限B。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-企業管理學系、雙主修-企業管理學系。"
+    }
+  ]
+}

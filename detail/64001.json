@@ -1,0 +1,9 @@
+{
+  "serial_no": "64001",
+  "objectives": "本課程介紹學生應用地質各領域常使用的數學方法，學生從中可學習相關數學方法的概念、理論、數學推導與說明範例。",
+  "content": "一階常微分方程式\n\n二階線性常微分方程式\n\nLaplace 轉換\n\nFourier級數\n\n偏微分方程式",
+  "books": "“Kreyszig, E., 2006, Advanced Engineering Mathematics, 9th edition, John Wiely ＆ Sons, New York.“",
+  "teaching_method": "講授",
+  "grading_policy": "期中考一  20％\n期中考二  20％\n期末考 20％\n作業 40％",
+  "distribution_conditions": []
+}

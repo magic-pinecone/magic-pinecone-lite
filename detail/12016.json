@@ -1,0 +1,22 @@
+{
+  "serial_no": "12016",
+  "objectives": "The course is designed to enhance the student‘s ability to write about literature in a persuasive and professional manner in keeping with the requirements of academic writing.",
+  "content": "In this course students will be introduced to a variety of analytic and argumentative strategies that have proved useful in formulating a persuasive academic essay on a literary subject with particular attention to close reading and contextual and/or cultural analysis. The course is taught bilingually but mainly in Chinese.",
+  "books": "A course reader will be available at Gaoguan",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "2 Full Essays (2 drafts each)\t\t50%\n2 Journals\t\t\t\t\t20%\nClass Participation\t\t\t        20%\nGroup Presentation\t\t\t10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限英美語文學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限英美語文學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-英美語文學系、雙主修-英美語文學系。"
+    }
+  ]
+}
