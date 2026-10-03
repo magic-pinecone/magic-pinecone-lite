@@ -1,0 +1,18 @@
+{
+  "serial_no": "61009",
+  "objectives": "發現生活上一直在用的統計，並懂得如何將其活用在生活的決策上以及現在與未來的專業領域之中。",
+  "content": "一、找出生活上所用的統計。\n二、活用生活上的統計。\n三、了解如何在專業領域運用統計。\n四、實踐統計方法並在專業領域使用。\n\n備註：部分課程會用Python程式語言來進行教學與實作。",
+  "books": "“Mind on Statics, 6th Edition, 2022\nJessica M. Utts and Robert F. Heckard\nCengage Learning, Inc.,\nISBN-13:978-1-337-79360-5 ISBN-10:1-337-79360-4“\nand additional reference from 'Statistical Methods in the Atmospheric Sciences\", 3rd Edition, 2012\nDaniel S. Wilks\nAcademic Press\nISBN: 0123850223; ISBN-13: 9780123850225\"",
+  "teaching_method": "講授",
+  "grading_policy": "Homework 30％\nMid-term Presentation/Report 30％\nFinal Presentation/Report 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。學院:限地球科學學院。年級:限二年級、三年級、四年級。"
+    }
+  ]
+}

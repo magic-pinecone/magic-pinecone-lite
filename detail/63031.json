@@ -1,0 +1,9 @@
+{
+  "serial_no": "63031",
+  "objectives": "本課程目標為向授課學生教授電離層資料同化的相關基礎知識。在學習資料同化方法的同時，也認識相關電離層模式和增加對衛星資料特性的瞭解。並從電腦上機學習以及準備專題研究報告，熟悉程式繪圖以及學習組織科學研究項目。",
+  "content": "本課程將著重電離層資料同化最主要的三個基礎知識，電離層模式、衛星觀測資料、以及資料同化方法。課程將先介紹相關衛星資料基礎知識以及資料處理方法，並介紹相關電離層模式以及操作模式，然後介紹各種資料同化的方法，最後介紹如何運用同化的方法將衛星資料同化到電離層模式。此課程除了口頭傳授授課內容以外，亦有電腦程式上機練習操作電離層模式、處理衛星觀測資料、以及學習使用同化方法。在學期中開始進行分組專題研究，並在學期末進行分組報告。",
+  "books": "“Bishop, G. ＆ Welch, G. ( 2001), An introduction to the Kalman Filter, SIGGRAPH, Course 8, University of North Carolina, Chapel Hill, USA.\nKalnay, E. ( 2003), Atmospheric Modeling, Data Assimilation, and Predictability, 341 pp., Cambridge Univ. Press, New York.“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "平時成績 20％、平時作業30％、期末口頭報告20％、期末書面報告30％",
+  "distribution_conditions": []
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "32063",
+  "objectives": "透過各種介紹各種車流特性與理論以及分組實地調查，讓學生了解許多從以前到現在車流相關理論的變化及演進，以及更多實務的方法。",
+  "content": "1.Time Headway Distributions（Chapter 2）\n2.Mathematical Count Distributions（Section 3.4）\n3.Estimating Hourly Flow Rates（Section 3.5）\n4.Un- and Interrupted Traffic Applications（Section 3.6、3.7）\n5.Microscopic Speed Characteristics（Chapter 4）\n6.Time-Mean-Speed and Space-Mean-Speed（Section 5.2.2）\n7.Travel Time Study Techniques（Section 5.3）\n8.Microscopic Density Characteristics（Chapter 6）\n9.Macroscopic Density Characteristics（Chapter 7）\n10.Demand-Supply Analysis（Chapter 8）\n11.Capacity Analysis（Chapter 9）\n12.Traffic Stream Models（Chapter 10）\n13.Shock Wave Analysis（Chapter 11）",
+  "books": "\"1.”Traffic Flow Fundamentals” , Adolf D.May , Prentice Hall , Inc., 1990\n2.Extra topics：\n- Vehicle dynamics\n- Aquaplaning、Hydroplaning\n- ABS（Anti-Lock Braking System）\n- Overtaking\"",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "期中考試、期末研究報告（書面+口頭報告）",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限四年級。"
+    }
+  ]
+}

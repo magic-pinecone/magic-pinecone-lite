@@ -1,0 +1,9 @@
+{
+  "serial_no": "26025",
+  "objectives": "使學生了解電磁波在各式波導結構內的傳輸特性，並培養學生數值模擬能力",
+  "content": "1. 簡介\n2. 馬克士威爾方程\n3. 平板波導\n4. 矩形波導\n5. 光纖\n6. 耦合模式理論\n7. 逆向設計及模擬工具簡介",
+  "books": "無",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "作業、口頭報告 80％\n考試 20％",
+  "distribution_conditions": []
+}

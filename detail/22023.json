@@ -1,0 +1,26 @@
+{
+  "serial_no": "22023",
+  "objectives": "讓學生對於基礎物理有初步的認識, 並能運用所學過的數學及邏輯探討來分析物理問題",
+  "content": "注意: 本課程為EMI課程, 上課講述有相當篇幅會以英文進行\nNewtonian mechanics:\n- simple 1d- and 2-d dynamics\n- work-energy theorem; conservation of energy\n- many-particle systems; momentum conservation\n- rotational dynamics\nFluids\nOscillations\nWaves\nThermodynamics",
+  "books": "Richard Wolfson, \"Essential University Physics\", 4th Ed.",
+  "teaching_method": "講授",
+  "grading_policy": "期中考 30% 期末考 30% 小考 25% 分組報告15%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

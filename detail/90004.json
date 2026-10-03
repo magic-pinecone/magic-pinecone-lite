@@ -1,0 +1,14 @@
+{
+  "serial_no": "90004",
+  "objectives": "醫學影像處理的介紹和電腦輔助診斷在臨床的應用",
+  "content": "X光影像，CT影像，MRI影像，病理影像的介紹和影像處理方法介紹",
+  "books": "期刊論文選集介紹",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "homework 25％, project 25％, midterm oral report 25％, final oral presentation 25％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系系統生物與生物資訊碩士班、生醫科學與工程學系生物醫學工程碩士班、生醫科學與工程學系跨領域轉譯醫學博士班、生醫科學與工程學系系統生物與生物資訊博士班、生醫科學與工程學系生物醫學工程博士班。"
+    }
+  ]
+}

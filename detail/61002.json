@@ -1,0 +1,18 @@
+{
+  "serial_no": "61002",
+  "objectives": "由本系所有老師共同授課讓學生了解大氣科學研究主題",
+  "content": "本課程由大氣系全體老師共同授課，每週將分別由一位大氣系老師介紹其研究主題，發展現況及挑戰",
+  "books": "無 (自訂簡報)",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "心得撰寫(100%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限地球科學學院。"
+    }
+  ]
+}

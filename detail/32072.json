@@ -1,0 +1,18 @@
+{
+  "serial_no": "32072",
+  "objectives": "本課程經由課堂講授以及實習操作學習進階的GIS理論及分析方法。具備針對實務或研究計畫能自行發展具有潛力甚或具可行性的GIS分析技術。本課程將使用GIS軟體進行教學，學生將學習如何使用GIS軟體來進行空間資料的處理及相關分析。",
+  "content": "本課程藉演講與實作，修課學生必須完成每週實習以及作業，包含文獻閱讀與GIS實作。課程將會有一次課堂測驗以及學期計畫。計畫必須於期末前進行口頭報告並繳交書面報告。",
+  "books": "“Chang, K. T., 2016, Introduction to Geographic Information Systems, 8th edition, McGraw-Hill: New York.“",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "在第一堂課程中共同討論",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系碩士在職專班。"
+    }
+  ]
+}

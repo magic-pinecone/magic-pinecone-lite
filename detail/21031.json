@@ -1,0 +1,14 @@
+{
+  "serial_no": "21031",
+  "objectives": "本課程旨在透過基礎的數學方法，介紹李群與李代數的核心概念，並運用線性代數與微積分的基本知識，理解矩陣李群的代數結構與幾何意義。課程將從基本的矩陣運算與矩陣群例子出發，逐步說明矩陣指數、李代數等概念，以及李群與李代數之間的關係。修習本課程後，學生應能透過具體例子掌握矩陣李群的基本性質，理解代數結構與幾何直覺之間的連結，並能以清楚的口頭或影片形式表達數學解題思路。\n\n本課程所需的先備知識為線性代數，歡迎已修習線性代數的同學選修。",
+  "content": "1. Geometry of complex numbers and quaternions\n2. Isometries of R^n and reflections\n3. Orthogonal groups, unitary groups, and symplectic groups\n4. The exponential map\n5. Tangent spaces and Lie algebras\n6. Structure of Lie algebras\n7. The matrix logarithm\n8. Simply connected Lie groups",
+  "books": "John Stillwell, Naive Lie Theory, Undergraduate Texts in Mathematics, Springer, 2008.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "兩次考試各佔 25%。\n平時成績（上課表現、課堂參與、上台報告、影片作業）佔 50%。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限非一年級。"
+    }
+  ]
+}

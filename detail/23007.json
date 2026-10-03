@@ -1,0 +1,22 @@
+{
+  "serial_no": "23007",
+  "objectives": "讓學生學習化學上所需要的數學方法",
+  "content": "1.\t數列與級數\n2.\t三維函數\n3.\t一階微分方程式\n4.\t二階微分方程式\n5.\t偏微分方程式\n6.\t行列式\n7.\t矩陣與線性轉換\n8.\t矩陣特徵值問題\n9.\t傅立葉轉換\n10.    數據分析",
+  "books": "Erich Steiner, “The Chemistry Maths Book”, 2nd Ed., Oxford University Press (2008).",
+  "teaching_method": "講授",
+  "grading_policy": "期中考\t\t40％\n期末考\t\t50％\n學習精神\t\t10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學學系。年級:限三年級、四年級、延修生。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-化學學系。"
+    }
+  ]
+}

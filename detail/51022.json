@@ -1,0 +1,9 @@
+{
+  "serial_no": "51022",
+  "objectives": "這門課程將探討固態電子元件的基本工作原理。你將會學習包括 pn 二極體、MOSFET (金氧半場效電晶體) 和 BJT (雙極性接面電晶體) 在內的關鍵半導體元件是如何運作的以及它們的應用。",
+  "content": "這門課程涵蓋了主要的半導體元件。我們將從pn接面和pn接面二極體開始。接著，我們會探討金屬-半導體和半導體異質接面。我們還會深入研究金屬氧化物半導體場效電晶體(MOSFET)和雙極性電晶(BJT)\n\nCHAPTER 7: The pn Junction\nCHAPTER 8: The pn Junction Diode\nCHAPTER 9: Metal-Semiconductor and Semiconductor Heterojunctions\nCHAPTER 10: Fundamentals of the Metal-Oxide-Semiconductor Field-Effect Transistor\nCHAPTER 12: The Bipolar Transistor\n\nTextbook:\nDonald A. Neamen,“SEMICONDUCTOR PHYSICS AND DEVICES, Basic Principles,4th Edition",
+  "books": "Textbook:\nDonald A. Neamen,\nSEMICONDUCTOR PHYSICS AND DEVICES, Basic Principles\n4th Edition, Mc Graw Hill, International Edition 2012.",
+  "teaching_method": "講授",
+  "grading_policy": "課程參與(Attendance): 20%\n期中考(Midterm Exam): 40%\n期末考(Final Exam): 40%",
+  "distribution_conditions": []
+}

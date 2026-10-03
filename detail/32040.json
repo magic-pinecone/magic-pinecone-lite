@@ -1,0 +1,18 @@
+{
+  "serial_no": "32040",
+  "objectives": "經由學習設計簡易鋼筋混凝土房屋，熟悉台灣房屋設計相關法規及設計規範。",
+  "content": "1.房屋結構系統介紹\n2.設計法規靜載重、活載重介紹\n3.台灣相關地震設計法規說明、練習計算\n4.鋼筋混凝⼟設計規範說明、設計練習\n5.房屋設計輔助程式介紹、實際演練\n6.簡易鋼筋混凝⼟房屋案例報告\n7.11/3（二）期中考試（開書、帶電腦），12/22（二）期末報告",
+  "books": "1.安全耐震的家-認識地震工程\nhttps://www.ncree.org/safehome/pdf/ITEE_All.pdf\n2.台灣建築物耐震設計規範及解說\nhttps://glrs.moi.gov.tw/LawContent.aspx?id=GL000180\n3台灣混凝土結構設計規範\nhttps://glrs.moi.gov.tw/LawContent.aspx?id=GL000236",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "課程參與 40％\n課堂小考或作業 10％\n期中考試 20％\n期末報告 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限三年級、四年級。指定課程:必須先修CI3005。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。年級:限三年級、四年級。指定課程:必須先修CI3005。"
+    }
+  ]
+}

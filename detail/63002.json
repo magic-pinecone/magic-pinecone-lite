@@ -1,0 +1,26 @@
+{
+  "serial_no": "63002",
+  "objectives": "太空的探索與應用跨多種科學與工程領域，隨者人類對太空通訊、遙測、導航、與科學探索的日益增加，我們必須要了解太空環境、系統與科學探索之間的關係，以及與現代社會的關聯。本課程將對這些太空環境與探索的多元領域進行概論介紹，以作為後續更專精學研基礎。",
+  "content": "1. 太空概論：太空環境與應用\n\n2. 太陽物理與日地關係\n\n3. 行星科學與太陽圈物理\n\n4. 磁層物理\n\n5. 高層大氣科學\n\n6. 電離層物理\n\n7. 雷達與遙測\n\n8. 軌道運動學概論\n\n9. 衛星導航原理\n\n10. 太空仔劇概論：太空系統與生命週期\n\n11. 太空通訊概論\n\n12. 太空電力次系統概論\n\n13. 太空政策與法律概論",
+  "books": "Johnson, C. D. (2017). Handbook for new actors in Space. Secure World Foundation.\nhttps://swfound.org/handbook/\n\nFleeter, R. and H. Given (2000). The Logic of Microspace (The Space Technology Library, Vol. 9). Microcosm, Inc.\nhttps://www.amazon.com/Logic-Microspace-Space-Technology-Library/dp/1881883116",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "作業 / 小考: 50％\n期中考: 25％\n期末考: 25％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限太空科學與工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限太空科學與工程學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限地球科學學院學士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限輔系-太空科學與工程學系、雙主修-太空科學與工程學系。"
+    }
+  ]
+}

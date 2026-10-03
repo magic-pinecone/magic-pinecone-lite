@@ -1,0 +1,14 @@
+{
+  "serial_no": "21069",
+  "objectives": "以下為中央數學的課程簡介，為兩個學期的代數幾何課程目標和內容，本學期擷取一部分（詳見授課內容）。 這個課程的主要目的是介紹如何利用 Scheme 這個語言去發展代數幾何的基礎，內容分成五個部份： Scheme 的定義和基本理論： Sheaves：它提供了一套系統的方法去記錄拓樸空間的局部代數資料 Schemes：在仿射或射影空間的多項式解集稱為 algebraic varieties，Schemes 從三個方向去推廣 algebraic varieties：允許 ground fields 是任意的 fields；不依賴被嵌進的空間；考慮 reducibility 和 moltiplicity 重要性質：integral、noetherian、finiteness、separatedness、properness Coherent sheaves：在 Schemes 上面最簡單基本的 Sheaves，它們可以對應到代數上的 modole理論 內在幾何性： Linear system：探討嵌入問題的重要工具 Picard groups：它們是重要的內在不變量 Differential forms：利用它們可以承襲一些微分幾何上的方法去定義一些重要的數值不變量 Cohomology： Cohomology 是定義數值不變量的重要技術，我們利用 derived functors 來定義它，同時引進 Cech cohomology 來實際計算它，並介紹一些基本的 vanishing 定理，配合 Serre duality 來進行實際的應用，包括 flat family、smooth family、Zariski’s main theorem、base change theorem of cohomology 等。 曲線理論： 分類問題一直是代數幾何的重要課題，研究這個問題最重要就是要去定義數值不變量和連續不變量。對於曲線的分類問題，我們先介紹雙有理分類，利用 genus 這個雙有理不變量，我們發現： ※若 genus 為零則只有一個雙有理等價類； ※若 genus 是大於零的正整數，則所有的雙有理等價類會形成一個連續的 family，而它的參數空間是一個 algebraic variety (the variety of modoli of curves of genus g>0) 因此研究這個 variety可充分了解曲線的雙有理分類。其次是要描述在一個雙有理等價類中的光滑曲線，最後再探討曲線上奇異點的分類，而貫穿曲線理論的重要定理—Riemman-Roch 定理也將是我們強調的重點之一。 曲面理論： 我們仍然將重點放在曲面的分類問題，我們利用 Kodaira 維度來進行曲面的分類，在 Kodaira 維度是負無窮大、0、1或2的情形，仔細去探討可能曲面的款式，並在曲面的雙有理等價類中引進最小模型的概念來決定同一類的代表元素。 最後我們希望能利用現在正在發展的最小模型理論 (Minimal modal program) 來重新詮釋整個曲面的分類問題，作為銜接相關最小模型理論研究的基礎訓練。\"",
+  "content": "\"本課程(一學期)的主要內容分成二個部份：\n\n第一部分為介紹基礎部分：algebraic and projective varieties的基本定義和其性質(Robin Hartshorne第一章Section 1 to Section 5)\n\n第二部分為此課程主要重點，即Scheme 的定義和基本理論：(Robin Hartshorne 第二章 Section 1、2、3、5、6、7、8)\nSheaves：它提供了一套系統的方法去記錄拓樸空間的局部代數資料\nSchemes：在仿射或射影空間的多項式解集稱為 algebraic varieties，Schemes 從三個方向去推廣 algebraic varieties：允許 ground fields 是任意的 fields；不依賴被嵌進的空間；考慮 reducibility 和 moltiplicity\n重要性質：integral、noetherian、finiteness、separatedness、properness\nCoherent sheaves：在 Schemes 上面最簡單基本的 Sheaves，它們可以對應到代數上的 modole理論\n內在幾何性：\nLinear system：探討嵌入問題的重要工具\nPicard groups：它們是重要的內在不變量\nDifferential forms：利用它們可以承襲一些微分幾何上的方法去定義一些重要的數值不變量",
+  "books": "教科書：Algebraic Geometry (by Robin Hartshorne)\n\n參考書籍\n\n1. Introduction to Algebraic Curves (by William Fulton)\n\n2. Introduction to Commutative Algebra (by Atiyah, M. F. and Macdonald, I. G.)\n\n3. An Algebraic Introduction to Complex Projective Geometry: Commutative Algebra (by Christian Peskine)\n\n4. Commutative Algebra with a View Toward Algebraic Geometry (By David Eisenbud)\n\n5. The Red Book of Varieties and Schemes (by David Mumford)\n\n6. Basic Algebraic Geometry I (by Igor R. Shafarevich)\n\n7. Undergraduate Algebraic Geometry (by Miles Reid)\"",
+  "teaching_method": "講授",
+  "grading_policy": "1. 出席率和課堂表現 40%\n2. 作業(與上台表現) 40%\n3. 期末報告 20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

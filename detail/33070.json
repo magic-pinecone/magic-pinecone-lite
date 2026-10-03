@@ -1,0 +1,22 @@
+{
+  "serial_no": "33070",
+  "objectives": "Enable students to understand the essential functions of the mobile robot comprehensively, such as actuation, localization, and navigation. In this course, localization and navigation will be introduced not only orally but explained with probability and linear algebra for formal, rigorous, and insightful illustration. Parts of the course contents will be practiced and validated through several simulations and projects.",
+  "content": "\tReview previous knowledge (linear algebra, state space, probability)\n\tSystem dynamic with noise\n\tState estimation\n\tLocalization ＆ Mapping\n\tPath planning\n\tTrajectory planning\n\tActuation illustration\n\nExperiments:\n\tROS2 Installation and Manipulation\n\tMATLAB Simulink for mobile robot modeling\n\tMATLAB Kalman filter visualization\n\tMATLAB Path Planning\n\tROS2 Rviz ＆ Gazebo\n\tReal AMR teaching aid manipulation",
+  "books": "Lecture notes\n\nReference:\n“Probabilistic robotics,” Sebastian Thrun, W. Burgard, D. Fox\n“State estimation for robotics,” Timothy D. Barfoot\n“Introduction to Autonomous Mobile Robot,” Roland Siegwart, Illah Reza Nourbakhsh, Davide Scaramuzza",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Projects: 70％\nMutual evaluation: 20％\nCourse performance: 10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系博士班、機械工程學系光機電工程博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    }
+  ]
+}

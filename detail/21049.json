@@ -1,0 +1,26 @@
+{
+  "serial_no": "21049",
+  "objectives": "1. 學生將具備C/C++程式設計能力。\n\n2. 學生將了解程式設計師的迷因文化。\n\n3. 學生將學會如何和ChatGPT合作寫程式完成專案。",
+  "content": "本課程以程式為主，應用的內容包含遊戲與機器人，搭配程式作業與期末計畫。期末計劃學生需設計程式，應用可為遊戲、機器人或其他應用。(期末計畫最多2人一組)\n1.\tIntroduction to programming\n2.\tData storage: IO and Arithmetic\n3.\tData type: Bit, Char, String, Structure\n4.\tProgram control (If else, while)\n5.\tProgram control (for, switch)\n6.\tFunction\n7.\tArray\n8.\tPointer\n9.\tMidterm\n10.\tROS\n11.   How to build large projects.\nHow to work with Chat GPT\n12\tC++: Class I\n13\tC++: Class II\n14\tC++: Overloading\n15\tC++: Inheritance\n16\tC++: Polymorphism\n17\tC++: Data structure STL\n18\tFinal project presentation\n\n2021 Final project demo 影片:\nhttps://youtu.be/ThSNljCJOxY\n2023 Spring project demo 影片:\nhttps://youtu.be/y6sSgafRZV8",
+  "books": "曾國師老師的講義。\n\nTextbook:\n1. Harvey M. Deitel, Paul J. Deitel, Deitel, “C How to Program,“  8th edition, Prentice Hall, 2015.\n\n2. Paul J. Deitel, Deitel, “C++ How to Program,“  8th edition, Prentice Hall, 2011.\n\n3. Madhav Sanjay, “Game Programming in C++: Creating 3D Games,“ Addison-Wesley, 2018.\n\n4. YoonSeok Pyo, HanCheol Cho, RyuWoon Jung, TaeHoon Lim, “ROS Robot Programming,“ Robotis, 2017.",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "30％ 上機小考 (15次)\n\n30％ 期中考 (第9周,可帶sample code)\n\n40％ 期末計畫 (第17~18周)\n- 10％ proposal\n- 10％ demo\n- 20％ report",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "指定課程:必須擋修MA1016。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系、理學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班、碩士班、博士班。"
+    }
+  ]
+}

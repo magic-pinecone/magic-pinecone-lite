@@ -1,0 +1,14 @@
+{
+  "serial_no": "21042",
+  "objectives": "This course introduces the mathematical foundations of modern cryptography. We begin with classical and public-key cryptography, including modular arithmetic, Diffie–Hellman, RSA, discrete logarithms, elliptic curves, and digital signatures. We then introduce the modern notion of security through adversarial games, advantage bounds, negligible functions, and reduction proofs. The final part of the course studies cryptography in the quantum era, including Shor’s algorithm as a threat model, lattice-based cryptography, NTRU, Kyber/ML-KEM, Dilithium/ML-DSA, and hash-based signatures.\nPrerequisties\nStudents should know linear algebra and basic proof-writing. Prior abstract algebra, number theory, or probability is helpful but not required. Basic programming experience is recommended for optional computational assignments.",
+  "content": "By the end of the course, students should be able to:\n\nExplain the mathematical structure behind RSA, Diffie–Hellman, ElGamal, elliptic-curve cryptography, and digital signatures.\nAnalyze the hardness assumptions behind factorization, discrete logarithms, elliptic-curve discrete logarithms, and lattice problems.\nState formal security notions using adversarial games and advantage functions.\nWrite simple reduction proofs showing that breaking a cryptographic system would imply solving an assumed hard problem.\nExplain why quantum computers threaten RSA, DSA, ECDSA, and ordinary Diffie–Hellman.\nDescribe the basic mathematics behind lattice-based and hash-based post-quantum schemes.\nCompare classical public-key systems with current post-quantum standards such as ML-KEM, ML-DSA, and SLH-DSA.",
+  "books": "Main texts and references\n\nRequired main text:\nJeffrey Hoffstein, Jill Pipher, Joseph H. Silverman, An Introduction to Mathematical Cryptography, 2nd ed., Springer, 2014.\n\nSupplementary texts:\nMike Rosulek, The Joy of Cryptography, for game-based security, adversarial advantage, pseudorandomness, CPA/CCA security, signatures, and post-quantum overview.\nJonathan Katz and Yehuda Lindell, Introduction to Modern Cryptography, 3rd ed., for rigorous modern definitions and proofs.\nDan Boneh and Victor Shoup, A Graduate Course in Applied Cryptography, for advanced proof frameworks and examples.\nNIST PQC standards: FIPS 203 ML-KEM, FIPS 204 ML-DSA, FIPS 205 SLH-DSA.",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "TBA",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限三年級、四年級。"
+    }
+  ]
+}

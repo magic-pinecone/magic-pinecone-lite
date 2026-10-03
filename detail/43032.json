@@ -1,0 +1,18 @@
+{
+  "serial_no": "43032",
+  "objectives": "學習軟體工程的理論與實務。\n理論部分透過教課書的教學。實務部份透過個案式的課堂教學以及期末專案來進行。",
+  "content": "上課要求:\n1. Term project: this is a very important learning process for the class.\n2. Please bring textbook every time.",
+  "books": "“教科書:\nObject-Oriented Software Engineering: Using UML, Patterns, and Java, 2nd Edition, Prentice Hall,\nBernd Bruegge ＆ Allen H. Dutoit\n補充教材：\n1.製商整合e化個案集（第二冊） -- 成衣紡織業e化全球運籌管理個案 （聚陽實業公司）  請自行準備\n2.業界專案資料 （需簽具保密條約才可使用） 可自Blackboard下載\n甲、農學社專案\n乙、台泥專案“",
+  "teaching_method": "講授\n研討\n\n個別指導\n其他",
+  "grading_policy": "Term project: 50％\n期末考 (open book exam): 40％\n熟讀補充資料 10％ (採扣分方式計分，每次被點到而完全不知所云，則扣一分，共十分可以扣。建議你花約十小時將所有補充教材一次讀完，以後上課討論時你至少知道到哪翻，就可輕鬆得到這十分)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系碩士班、資訊管理學系博士班。"
+    }
+  ]
+}

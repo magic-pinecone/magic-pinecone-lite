@@ -1,0 +1,22 @@
+{
+  "serial_no": "43024",
+  "objectives": "本課程內容主要包含幾個領域：資料探勘、文字探勘、深度學習。本課程假設同學們都已熟悉資料庫及資訊模式的基本理論，在此一基礎上，我們將針對如何運用企業大數據以創造企業競爭利基，並在相關議題做更深入的介紹與研討，幫助同學不管在廣度或深度上都能有長足的進步，具備在此一領域進行深入實務應用與學術研究的能力。",
+  "content": "“資料前處理, 分類, 分群, 關聯規則,序列樣式探勘, 文字探勘，深度學習，人工智慧生成系統“",
+  "books": "Pang-Ning Tan, Michael Steinbach, Anuj Karpatne and Vipin Kumar, Introduction to Data Mining, Addison Wesley，2019，Second edition.\nTransformer、GAN、RL ：李弘毅老師機器學習課程網站",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "“期中考50％\n小組報告30％\n出席20％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士班、資訊管理學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

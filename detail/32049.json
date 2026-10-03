@@ -1,0 +1,30 @@
+{
+  "serial_no": "32049",
+  "objectives": "學習工程動力分析的基本原理與分析方法，為工程動力分析的主要課程，亦是未來精進工程設計必備的重點學科。",
+  "content": "1.質點運動\n2.質點動力\n3.剛體運動\n4.剛體動力\n5.振動\n6.工程實例分析",
+  "books": "向量工程力學:動力學\nby F. P. Beer & E. R. Johnston",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "紙筆測驗(50%)  作業報告(50%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限工學院學士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "60003",
+  "objectives": "透過書報討論課程，學生習得研究參考論文之查找方式，經過研讀後之內容整理與分享。",
+  "content": "1. 研究論文查找\n2. 論文研讀\n3. 口頭與文字分享研讀內容",
+  "books": "none, but mainly from major academic publishers.",
+  "teaching_method": "研討",
+  "grading_policy": "課程出席與表現 (包含他人報告之提問) 50％，口頭報告40％，書面報告10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球系統科學國際研究生博士學位學程。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "24006",
+  "objectives": "熟悉醣類、脂質、蛋白質、核酸的結構,合成,降解,及細胞內作用機制",
+  "content": "1.Introduction\n2.Chapter 4 Nucleic Acids\n3.Chapter 5 Introduction to Proteins\n4.Chapter 6 The Three-Dimensional Structure of Proteins\n5.Chapter 9 Carbohydrates: Sugars, Saccharides, Glycans (小考)\n6.Chapter 9 Carbohydrates: Sugars, Saccharides, Glycans\n7.Chapter 10 Lipids, Membranes, and Cellular Transport\n8.期中考\n9.Chapter 24 Genes, Genomes, and Chromosomes\n10.Chapter 25 DNA Replication\n11.Chapter 25 DNA Replication\n12.Chapter 26 DNA Restructuring\n13.Chapter 27 Information Readout (小考)\n14.Chapter 27 Information Readout\n15.Chapter 28 Information Decoding\n16.期末考",
+  "books": "Biochemistry (4th Ed) by Mathews, Van Holde,Appling, and Anthony-Cahill",
+  "teaching_method": "講授",
+  "grading_policy": "1.學期總成績 ＝ (期中考25％＋期末考25％ +二次小考各25％) – (曠課次數) x 5％2.曠課一次扣學期總成績5分；遲到10分鐘（含）以上視同該次曠課3.期末總成績結算時，授課教師得視學生整體學習情況，統一酌予調整分數",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班、輔系-生命科學系、雙主修-生命科學系、學分學程-生科職涯、第二專長-生物多樣性、第二專長-生物科技。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

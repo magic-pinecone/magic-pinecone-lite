@@ -1,0 +1,18 @@
+{
+  "serial_no": "61027",
+  "objectives": "“1.  了解數值天氣預報方法的種類，與利用不同數值方法模擬的特性與限制；\n2.  認識複雜數值天氣預報模式的架構與基本設定\n3.  簡介數值模式當中不同參數化“",
+  "content": "1. Introduction --- Classification of partial differential equations\n\n2. Finite difference methods\n\n3. Diffusion equations\n\n4. Advection equations\n\n5. Elliptic equations\n\n6. Numerical simulation versus observations\n\n7. Introduce parameteriztion schemes in NWP model and lateral boundary\n\n8. Installation and configuration of WRF model simulation",
+  "books": "“Numerical prediction and dynamic meteorology (2nd Edition). Haltiner, G.J. and Williams, R. T.\nMesoscale Meteorological Modeling, 2nd Edition. by Pielke, R.A.\nAn Introduction to Dynamic Meteorology, Fifth Edition. by Holton, J.R.\nParameterization Schemes: Keys to Understanding Numerical Weather Prediction Models by David J. Stensrud“",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "“作業: 40％\n期中報告: 30％\n期末分享: 30％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班。學院:限地球科學學院。"
+    }
+  ]
+}

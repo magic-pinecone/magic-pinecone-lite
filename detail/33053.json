@@ -1,0 +1,18 @@
+{
+  "serial_no": "33053",
+  "objectives": "本課程以人工智慧框架-PyTorch為深度學習建模工具，以實際案例一步步帶領學生建立深度學習專案。從資料集實作、訓練前的設定與初始化之後實作出完整的模型。接著進行模型的訓練與驗證、評估模型表現及利用評估指標和資料擴增來改善訓練成效。欲選修同學需初步具有人工智慧/深度學習的基礎概念與C++、Python程式基礎設計能力。學生通過課程學習以後，將可獨立設計一個完整的深度學習專案。",
+  "content": "1.課程說明與深度學習簡介\n2.Python語法複習與PyTorch函式庫介紹\n3.張量介紹\n4.用張量表示現實中的資料\n5.學習的機制\n6.使用神經網路來擬合資料\n7.從影像中學習\n8.卷積神經網路\n9.從現實世界中的影像學習-專案設計\n10.期末專題\n11.AI穩健性",
+  "books": "教科書：\nEli Stevens, Luca Antiga, Thomas Viehmann, Deep Learning with PyTorch: Build, Train, and Tune Neural Networks Using Python Tools, 1st Ed., Manning, 2020.\n\n參考書：\n1. Bill Lubanovic, Introducing Python: Modern Computing in Simple Packages, 2nd Ed., O‘Reilly Media, 2019.\n2. A Python Package for Time Series Classification, https://pyts.readthedocs.io/\n3. LUng Nodule Analysis 2016, https://luna16.grand-challenge.org/\n4. Cornell Grasp Dataset, https://www.kaggle.com/datasets/oneoneliu/cornell-grasp",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "筆考：25 %、作業：20 %、期末專題：50 %、課堂表現：5 %",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班、機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系、工學院學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

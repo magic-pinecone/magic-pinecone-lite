@@ -1,0 +1,30 @@
+{
+  "serial_no": "23009",
+  "objectives": "本課程目標是教授分析化學的基本原理，以及如何運用分析化學原理於日常生活或化學相關的領域上，尤其是運用在生命科學與環境科學上。學生只要熟讀課本重點內容，勤做例題與習題就能得到理想的成績。",
+  "content": "“Chapter 1 The nature of analytical chemistry (lectured by Prof. Wang) Chapter 2 Chemicals, apparatus, and unit operations of analyltical chemistry (lectured by Prof. Wang) Chapter 5 Errors in chemical analysis  (lectured by Prof. Wang) Chapter 6 Random errors in chemical analysis (lectured by Prof. Wang) Chapter 7 Statistical data treatment and evalution (lectured by Prof. Wang) Chapter 8 Sampling, standardization, and calibration (lectured by Prof. Wang) Chapters 9 to 17 Chemical equilibria, acid-base titrations, complex titrations, etc.“",
+  "books": "“Textbook: ““Analytical Chemistry““ by Skoog, West, Holler and Crouch (Annotated ed.) 2014. Reference: ““Quantitative Chemical Analysis““ by Daniel C. Harris (7th ed.) 2007. 歐亞書局 02-8912-1188“",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "1. 2 term exams (32％ for each exam). 2. Final Exam (32％). 3. Attendance (出席率)(4％) 王老師部分：1. Two mid-term exams (30％ for each exam and 60％ combined). 2. Final Exam (30％). 3. Surprise quizes (10％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學學系。年級:限三年級、四年級、延修生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限非一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-化學學系、雙主修-化學學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

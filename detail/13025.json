@@ -1,0 +1,22 @@
+{
+  "serial_no": "13025",
+  "objectives": "Ce cours a pour objectif de fournir aux etudiants une methode qui leur permettra d‘organiser leur reflexion personnelle sous la forme d‘une presentation orale structuree grace a la pratique de plusieurs exercices.",
+  "content": "Ce cours s’inscrit dans la continuite des acquis de deuxieme annee. Il cherche a accroitre les capacites d’expression orale des etudiants par un travail centre sur cinq aspects :\n- la description a l’oral de documents visuels (photo d’actualite, dessins, etc.)\n- la capacité à raconter une histoire complète et cohérente en francais\n- le développement de capacités d’analyse et de construction d’une argumentation\n-la methodologie de construction d’une presentation orale (introduction, plan des idees, chaines argumentatives, transitions, conclusion)\n-la comprehension orale et la formulation de commentaires et de questions en reaction a un expose.",
+  "books": "Aucun manuel n‘est utilise pour ce cours. Les documents de methodologie, les documents visuels et les textes travailles sont selectionnes et fournis par le professeur.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Les etudiants sont evalues sur les criteres suivants :\n-l’intelligibilite phonetique\n-la maitrise des techniques d’organisation d’un expose et d’une argumentation\n-les efforts effectues dans le choix du vocabulaire employe\n-la comprehension orale\n-la presence et la participation en cours\nLa note attribuee pour chaque semestre est calculee de la facon suivante :\n- Exercices de présentation orale : 80％\n- Presence et participation en classe : 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限法國語文學系。年級:限三年級。學號:限單號。指定課程:必須先修FR2029、先修FR2030。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限法國語文學系。年級:限四年級。指定課程:必須先修FR2029、先修FR2030。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限雙主修-法國語文學系。指定課程:必須先修FR2029、先修FR2030。"
+    }
+  ]
+}

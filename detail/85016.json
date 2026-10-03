@@ -1,0 +1,18 @@
+{
+  "serial_no": "85016",
+  "objectives": "\"This course aims to prepare the students with the knowledge about stroke, including its causes, symptoms, diagnosis, and treatment, with special focus on the modern technique of virtual reality based rehabilitation.\"",
+  "content": "\"(中文)\nUnit 1  stroke: causes\nUnit 2  stroke: symptoms\nUnit 3  stroke: diagnosis\nUnit 4  stroke: treatment\nUnit 5  stroke: conventional rehabilitation\nUnit 6  stroke: virtual reality based rehabilitation\"",
+  "books": "\"The Brain That Changes Itself\"\" by Norman Doidge, 2007\"",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導\n其他",
+  "grading_policy": "\"Presentation 30%\nFinal project  70%\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    }
+  ]
+}

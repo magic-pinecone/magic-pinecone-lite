@@ -1,0 +1,22 @@
+{
+  "serial_no": "26007",
+  "objectives": "本課程旨在：\n\n1. 建立電路理論的堅實基礎，涵蓋集總電路概念、基本電學量、參考方向約定、基爾霍夫定律，以及基本電路元件和電源的數學模型。\n\n2. 培養針對線性電路分析的系統性解題能力，熟練運用電阻網路化簡、節點電壓法與網孔電流法、電路定理及等效電路技術。\n\n3. 透過分析儲能元件以及一階和二階電路的固有響應、強迫響應、暫態響應和全響應，來理解動態電路的行為特性。\n\n4. 掌握正弦穩態與交流功率分析的技能，熟練運用相量、阻抗、導納、頻域電路分析方法以及複功率和功率因數等概念。\n\n5. 介紹複頻域、網路函數及頻率響應分析方法，研究線性電路的極點、零點、諧振、波特圖、被動濾波器及其他與頻率相關的特性。",
+  "content": "1. Basic Concepts and Network Laws\nLumped-Circuit Concept; Charge, Current, Voltage; Power and Energy; Reference Directions; Passive Sign Convention; Branches, Nodes, Loops; KCL and KVL\n\n2. Basic Circuit Elements\nResistance; Resistor and Ohm's Law; Capacitor; Inductor; Independent Sources; Dependent Sources; Ideal versus Real sources\n\n3. Resistive Circuits\nSeries Resistance; Parallel Resistance; Equivalent Resistance; Voltage Division; Current Division; The Δ−Y Transformation; The Wheatstone Bridge\n\n4. Method of Analysis\nNodal-Voltage Analysis, Mesh-Current Analysis; Nodal and Mesh Analyses by Inspection\n\n5. Circuit Theorems\nLinearity; Superposition; Source Transformation; Thévenin and Norton Equivalents; Practical Sources; Maximum Power Transfer\n\n6. Energy-Storage Elements\nCapacitor; Inductor; DC Steady State; Duality; Singular Circuits\n\n7. First-Order Circuits\nSource-Free RC and RL Circuits; Time Constants; Response to a Constant Forcing Function; Step Response; Transient Response\n\n8. Second-Order Circuits\nSource-Free and Step-Response RLC Circuits; Natural Response; Forced Response; Complete Response; General Second-Order Circuits\n\n9. Sinusoidal Excitations and Phasors\nSinusoidal signals; Review of Complex Numbers; Phasors; Impedance and Admittance; Kirchhoff’s Law in the Frequency Domain; Impedance Combinations and Transformations\n\n10. Sinusoidal Steady-State Analysis\nSource Transformation; Thévenin and Norton Equivalent Circuits; Phasor Diagrams; Phase-Shift Circuits; Phasor-Domain Analysis Techniques\n\n11. AC Power\nInstantaneous and Average; Effective or RMS Value; Apparent Power and Power Factor; Complex Power;  Maximum Power Transfer; Conservation of AC Power; Power Factor Correction\n\n12. Complex Frequency and Network Functions\nThe Damped Sinusoid; Complex Frequency and Generalized Phasors; s-Domain Impedance and Admittance; Network Functions; Poles and Zeros; Natural Response from the Network Function; Natural Frequencies; Two-Port Networks\n\n13. Frequency Response\nTransfer Function, Bode Plots, Series Resonance, Parallel Resonance, Passive Filters, Scaling and Zeros\n\n14. Signals and Amplifiers (Optional)\nSignals; Frequency Spectrum of Signals; Analog and Digital Signals; Amplifiers; Circuit Models for Amplifiers; Frequency Response of Amplifiers",
+  "books": "Textbooks:\n\n1. Lecture notes [available on ee-class (https://ncueeclass.ncu.edu.tw/) prior to the class]\n\n2. F. T. Ulaby, M. M. Maharbiz, and C. M. Furse,  Circuit Analysis and Design , 3rd ed. Ann Arbor, MI, USA: Michigan Publishing Services, 2018. ISBN: 978-1-60785-923-9. [Online]. Available: https://cad3e.eecs.umich.edu/\n\n3. A. S. Sedra, K. C. Smith, T. C. Carusone, and V. Gaudet,  Microelectronic Circuits, 8th ed. New York, NY, USA: Oxford University Press, 2020.",
+  "teaching_method": "講授",
+  "grading_policy": "期中考: 45%\n期末考: 55%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。"
+    }
+  ]
+}

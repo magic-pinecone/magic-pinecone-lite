@@ -1,0 +1,14 @@
+{
+  "serial_no": "60001",
+  "objectives": "預備來自不同領域的地球系統學程學生具備相當的跨學門知識背景。",
+  "content": "依地球系統科學中的大分門(1)地球結構與起源，(2)板塊構造理論，(3)大氣海洋動力，(4)生物生態圈分別授課。並強調其與現今環境變遷與氣候變遷衝擊的連結。",
+  "books": "1.地球系統, 第三版\nLee R. Kump, James F. Kasting, Robert G. Crane\n2. 藍色星球: 地球系統科學介紹, 第三版\nBrian J. Skinner, Barbara W. Murck",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "期中考 50％\n期末考 25％\n學期報告 25％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球系統科學國際研究生博士學位學程。"
+    }
+  ]
+}

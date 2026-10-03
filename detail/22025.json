@@ -1,0 +1,14 @@
+{
+  "serial_no": "22025",
+  "objectives": "了解物理的基本原理和定律\n熟悉理論推導與應用計算\n培養學習進階物理的能力",
+  "content": "力學\n\n熱力學",
+  "books": "University Physics\nHarris Benson",
+  "teaching_method": "講授",
+  "grading_policy": "作業\n隨機小考\n期中考\n期末考\n配分比重上課公佈",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系、化學學系。年級:限一年級。"
+    }
+  ]
+}

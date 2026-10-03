@@ -1,0 +1,14 @@
+{
+  "serial_no": "07010",
+  "objectives": "了解物理學家認識世界的方式、學習物理探究的流程、提升推理及批判思考能力。",
+  "content": "你對物理的印象是不是一堆數學公式？當你淹沒在數學海中，你真的能領略物理之美嗎？\n回歸初衷，找回小時候的好奇心，像個小孩子問問題、做研究\n讓我們從根本出發，了解物理學家看待世界的方式。\n讓你對物理有感；覺得物理有用。\n授課模式：\n一、【doing physics】真實地像物理學家一樣地做研究。\n此部分涉及實驗、實作，但不涉及複雜儀器操作。\n主題涵蓋力學、熱力學、流體力學、電磁學、光學等，將視經費、儀器設備等條件確認主題。\n\n二、【有感的物理學習】成為物理學家的第一步：對數字與定律有感，為探索未知領域做準備。\n\n三、【有用的物理學習】介紹內些冷冰冰的物理定律如何應用於生活中，讓你覺得「物理」是有用的。\n\n搭配學生票選的主題，延伸引導學生觀察生活中的各種物理現象，了解背後的運作原理。例如、\n大數法則很神奇，只要人夠多就算是用猜的，也很接近答案，你相信嗎？\n現代生活少不了GPS，沒有GPS時我們怎麼追蹤物體的軌跡？那些需要隱藏足跡的設備，比如說潛水艇，他們怎麼知道自己現在的位置？\n太空人怎麼量體重？\n好萊塢怎麼拍攝太空中漂浮的畫面？真的要到外太空去拍嗎？\n手機怎麼無線充電？\n飛機轉彎的時候為什麼要傾斜機身？\n善於奔跑的動物，例如羚羊或馬，他們的腿部肌肉主要分布在大腿，為什麼？\n月亮有盈虧，但，只有月亮有嗎？\n把太空人送上國際太空站，太空船竟然要先降低能量，這是什麼道理？\n我們竟然以時速1600百多公里在旋轉著，怎麼可能？\n電池的電能來源是化學能，有沒有什麼儲能的方式？是利用物理方法將能量暫時存起來、需要時拿出來用？",
+  "books": "Bibliography\n1. “Physics and Technology for Future Presidents“, Richard Muller, Princeton.\n2. “Physical beauty“, Richard. Feynman, the world culture.\n3. Benson, H. (2008). University physics. John Wiley ＆ Sons.\n4. Wolfson, R. (2009). Essential University (Physics Volume 2) (Vol. 2). Pearson Education India.\n5. Young, H. D., Freedman, R. A., Sandin, T. R., ＆ Ford, A. L. (1996). University physics (Vol. 9). New York: Addison-Wesley.",
+  "teaching_method": "講授\n研討\n實習/實驗\n\n其他",
+  "grading_policy": "探究與實作相關評量(80％)+期初期末問卷及評量(20％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。學院:限理學院、工學院、資訊電機學院、地球科學學院、生醫理工學院。"
+    }
+  ]
+}

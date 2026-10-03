@@ -1,0 +1,18 @@
+{
+  "serial_no": "61004",
+  "objectives": "(1)具備大氣熱力過程的基本知識。\n(2)瞭解熱力學三大定律。\n(3)瞭解乾空氣與溼空氣的大氣特性。\n(4)能夠解讀斜溫圖。\n(5)判別大氣穩定度",
+  "content": "大氣組成與結構（Atmospheric Composition and Structure）\n熱力學系統與變數（Thermodynamic Systems and Variables）\n氣體與狀態方程式（Gases and Equation of State）\n靜力平衡方程式（Hydrostatic Equation）\n熱力學第一定律（First Law of Thermodynamics）\n熱機與卡諾循環（Heat Engine: Carnot Cycle）\n熱力學第二定律（Second Law of Thermodynamics）\n水汽－空氣系統（Water Vapor–Air System）\n氣象熱力圖（Thermodynamic Diagrams）\n熱力學過程與大氣穩定度（Thermodynamic Processes and Atmospheric Stability）",
+  "books": "Grant Petty, 2008: A First Course in Atmospheric Thermodynamics.\nWallace, J. M. and P. V. Hobbs, 2006: Atmospheric science: An introductory survey, Chap. 3, 2nd ed., Academic Press, 483 pp.\nIribarne, J. V., and Godson, W. L. (1981): Atmospheric Thermodynamics, 2nd Edition, D. Reidel Publishing Company, 259pp.",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "出席+課堂回答發問問題: 5％ (bonus)\n探空資料分析：5%\n作業: 35％\n期中考: 30％\n期末考: 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班。"
+    }
+  ]
+}

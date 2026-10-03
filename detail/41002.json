@@ -1,0 +1,30 @@
+{
+  "serial_no": "41002",
+  "objectives": "“1. financial statement analysis\n2. PV, FV, PVA, and FVA\n3. cash management\n4. credit management\n5. inventory management\n6. capital budgeting\n7. project evaluation\n8. return and risk\n9. capital asset pricing model“",
+  "content": "“1 ( 9/16 ) financial statement analysis\n2 ( 9/23 ) financial statement analysis\n3 ( 9/30 ) PV, FV, PVA, and FVA\n4 ( 10/7 ) PV, FV, PVA, and FVA\n5 ( 10/14 ) cash management\n6 ( 10/21 ) cash management\n7 ( 10/28 ) credit management\n8 ( 11/4 ) credit management\n9 ( 11/11 ) inventory management\n10 ( 11/18 ) inventory management\n11 ( 11/25 ) capital budgeting\n12 ( 12/2 ) capital budgeting\n13 ( 12/9 ) project evaluation\n14 ( 12/16 ) project evaluation\n15 ( 12/23 ) return and risk\n16 ( 12/30 ) return and risk\n17 ( 1/6 ) capital asset pricing model\n18 ( 1/13 ) capital asset pricing model“",
+  "books": "“Ross, Westerfield and Jaffe. 2022. Corporate Finance. (13th ed) (華泰代理)“",
+  "teaching_method": "講授",
+  "grading_policy": "“課堂參與        10％\n小考            30％\n期中考          30％\n期末考          30％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限二年級。班別:限B。身份:限非交換生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限三年級、四年級。班別:限B。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-企業管理學系、雙主修-企業管理學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限學分學程-會計、學分學程-資訊管理、學分學程-電子商務(EC)、學分學程-創意與創業。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

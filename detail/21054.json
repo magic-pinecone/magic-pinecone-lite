@@ -1,0 +1,18 @@
+{
+  "serial_no": "21054",
+  "objectives": "本課程為圖論的入門導論，旨在引導學生掌握圖論的基本概念、經典定理及其證明方法。課程內容由淺入深，首先介紹圖的基本定義與結構（路徑、連通性、樹），接著引入代數觀點探討與圖相關的線性空間，最後討論圖的因子分解與匹配問題。本課程不僅著重數學理論的推導，亦會探討錦標賽排程等實際組合應用。",
+  "content": "一、 圖的基本概念 (Graphs)\n1.基礎結構：集合、二元關係與圖的定義 (Sets, Binary Relations and Graphs)\n2.術語與結構：圖的重要定義、分類與圖同構 (Some Definitions)\n3.度數性質：點的度數、握手定理及其相關引理 (Degree)\n\n二、 跡、路徑與圈 (Walks, Paths and Cycles)\n1.基本概念：跡、路徑與圈的定義與基本思想 (Basic Ideas)\n2.圖的度量：半徑、直徑與點的偏心率 (Radius, Diameter and Eccentricity)\n3.經典遍歷：歐拉跡與歐拉圖 (Euler Walks)、漢米爾頓圈與漢米爾頓圖 (Hamilton Cycles)\n\n三、 連通性 (Connectivity)\n1.結構弱點：切點與橋的特徵與判定 (Cutpoints and Bridges)\n2.極大子圖：圖的塊結構與性質 (Blocks)連\n3.通度量：點連通度與邊連通度的定義與定理 (Connectivity)\n\n四、 樹狀結構 (Trees)\n1.樹的特徵：樹的定義與多種等價特徵化定理 (Characterizations of Trees)\n2.生成結構：生成樹的性質與計數 (Spanning Trees)\n3.優化演算法：最小生成樹及其求解演算法 (Minimal Spanning Trees)\n\n五、 與圖相關的線性空間 (Linear Spaces Associated with Graphs)\n1.代數基礎：有限體與向量空間的基礎概念 (Finite Fields and Vector Spaces)\n2.集合空間化：以冪集合作為向量空間的建構 (The Power Set as a Vector Space)\n3.圖的空間：與圖相關的關聯空間、圈空間 (The Vector Spaces Associated with a Graph)\n4.代數與幾何：向量空間基底與生成樹的對應關係 (Bases and Spanning Trees)\n5.割集空間：割集子空間的性質與推導 (The Cutset Subspace)\n\n六、 因子分解與匹配 (Factorizations)\n1.基礎定義：因子分解與 1-因子分解的定義 (Definitions; One-Factorizations)\n2.存在性定理：1-因子（完美匹配）存在性的一般定理/Tutte 定理 (A General Existence Theorem)\n3.結構分析：探討不具備 1-因子的圖之特徵 (Graphs Without One-Factors)",
+  "books": "Introduction to graph theory, 2nd edition, D.B. West\nA Beginner's Guide to Graph Theory, 2nd edition, W.D. Wallis",
+  "teaching_method": "講授",
+  "grading_policy": "Exam 1: 35%\nExam 2: 35%\nExam 3: 35%\nattendance: 10%\nTotal: 115% (includes 15% bonus credit)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限三年級、四年級。"
+    }
+  ]
+}

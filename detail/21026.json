@@ -1,0 +1,26 @@
+{
+  "serial_no": "21026",
+  "objectives": "1. Solve systems of linear equations using Gaussian elimination, row echelon form, and reduced row echelon form.\n2. Perform matrix operations, including matrix multiplication, finding inverses, and using elementary matrices.\n3. Explain the relationship between row operations and matrix multiplication through elementary matrices.\n4. Apply Gaussian elimination beyond solving linear systems, including computing matrix inverses and LU decomposition.\n5. Define vector spaces axiomatically and verify whether a given set with operations forms a vector space.\n6. Identify subspaces of vector spaces.\n7. Use linear combinations and span to describe sets of vectors and subspaces.\n8. Determine whether a set of vectors is linearly independent or linearly dependent.\n9. Find bases and compute dimensions of finite-dimensional vector spaces.\n10. Identify linear transformations between vector spaces.\n11. Construct matrix representations of linear transformations with respect to standard or chosen bases.\n12. Compute and interpret the null space and range of a linear transformation.\n13. Apply the Rank–Nullity Theorem to relate the dimensions of the domain, null space, and range of a linear transformation.\n14. Compute column spaces and row spaces of matrices and explain their relationship to linear transformations.\n15. Understand and compute orthogonal complements with respect to the dot product.\n16. Compute determinants and use them to determine invertibility.\n17. Find eigenvalues and eigenvectors of matrices and interpret their algebraic and geometric meanings.\n18. Determine whether a matrix is diagonalizable and, when possible, diagonalize it.\n19. Connect major concepts of linear algebra, including systems of equations, matrices, vector spaces, linear transformations, determinants, and eigenvalues.\n20. Write mathematical proofs",
+  "content": "Week 1 Introduce to Linear Algebra\nWeek 2 Gaussian Elimination and Row Echelon form\nWeek 3 Elementary Matrix and Matrix Multiplication\nWeek 4 Application of Gaussian Elimination beside Solving Linear Equations: Find Inverse and UL Decomposition of Matrix\nWeek 5 The First Midterm and Vector Spaces\nWeek 6 Axiomatic system of Vector Spaces\nWeek 7 Subspaces, Linear Combination, and Linear Independence\nWeek 8 Basis and Dimension of the Vector Space\nWeek 9 Linear Transformation\nWeek 10 The Second Midterm and Matrix Representative of Linear Transformation\nWeek 11 Range and Null Spaces of the Linear Transformation\nWeek 12 Rank-Nullity Theorem, Column Spaces and Row Spaces, Althogonal Complement\nWeek 13 Determinant and Invertibility\nWeek 14 Eigenvalues and Eigenvectors\nWeek 15 Diagonalization\nWeek 16 Final",
+  "books": "Friedberg, Insel and Spence “Linear Algebra“ (A long-standing bible)\nThe followings are also recommended:\nGilbert Strang, Introduction to Linear Algebra, International Edition, Wellesley-Cambridge Press, MA, 2019.\nhttp://linear.ups.edu/html/fcla.html\nhttps://home.cs.colorado.edu/~alko5368/lecturesCSCI2820/mathbook.pdf\nGreub, “Linear Algebra“\nHoffman ＆ Kunze, “Linear Algebra“\nSteven Roman, “Advanced Linear Algebra“\nSheldon Axler, \"Linear Algebra Done Right\", https://linear.axler.net/LADR4e.pdf\nSergei Treil, \"Linear Algebra Down Wrong\", https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf",
+  "teaching_method": "講授",
+  "grading_policy": "15％ Lean + Handwriting Homework (at least 4 times)\n10% Webwork (TBD)\n20％ Quizs (4 choice 3) (10/11, 10/15, 11/26, 12/10)\n20％ Midterm (11/5)\n35％ Final + Lean (Computer-based test) (12/24)\n--------------------------------------\nI am willing to give you 5％ if your final score is under 60％ and above 55％ (54.99％ is not included) and satisfies the following conditions:\nYou write every homework (handwriting and programing)\nYou don‘t miss any quize (but allow to have 0)\nYou finish the program assignment",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限一年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-數學系、雙主修-數學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限數學系、理學院學士班。年級:限非一年級。"
+    }
+  ]
+}

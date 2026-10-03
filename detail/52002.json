@@ -1,0 +1,34 @@
+{
+  "serial_no": "52002",
+  "objectives": "\"Objective: This course introduces fundamental concepts of Computer Science/Engineering. In addition, the class will discuss basic programming skills. C and/or C++ language will be taught. The following outline is from the main textbook. This course outline could be changed if time is not allowed to complete all lectures. Additional lectures for term projects and assignments could be added to the outline.\n\nIn each week, the class will discuss fundamental concepts for one hour, plus programming skills for two hours. The lab experiment class (i.e., Introduction to Computer Science LabⅠ) will discuss skills to complete assignments and projects.\"",
+  "content": "\"The following outline for Computer Science Fundamentals is for both Introduction to Computer Science Ⅰand II (which will be taught in the Spring semester):\n\n1. Introduction\n2. Number System\n3. Storing Data\n4. Operations on Data\n5. Computer Organizations\n6. Computer Networks\n7. Operating Systems\n8. Algorithms\n9. Programming Languages\n10. Software Engineering\n11. Data Structure\n12. Abstract Data Type\n13. File Structure\n14. Databases\n15. Data Compression\n16. Security\n17. Theory of Computation\n18. Artificial Intelligent\n\nCourse Outline for C/C++ Programming\n\nChapter 2: Introduction to C++ Programming\nChapter 3: Introduction to Classes and Objects\nChapter 4,5: Control Statements\nChapter 6: Functions and an Introduction to Recursion\nChapter 7: Arrays and Vectors\nChapter 8: Pointers\nChapter 9, 10: Classes\nChapter 11: Operator Overloading\nChapter 12: Inheritance\nChapter 13: Polymorphism (optional)\nChapter 14: Templates (optional)\nChapter 16: Exception Handling (optional)\n\nIn the Spring semester, Java Programming will be taught.\"",
+  "books": "\"\"\"C++ How to Program\"\", Seventh Edition, Late Objects Version, Deitel and Deitel, Prentice Hall.\"",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "第一次期中上機考          \t30%\n第二次期中上機考\t\t30%\n期末上機考/Project\t40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系。年級:限一年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限學分學程-人工智慧國際。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-資訊工程學系、第二專長-資訊工程程式設計、第二專長-人工智慧。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

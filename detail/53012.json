@@ -1,0 +1,9 @@
+{
+  "serial_no": "53012",
+  "objectives": "透過引導學生思考，培養學生通訊專題創作之基礎知識與技能，以建立發掘問題、陳述問題、解決問題、創意思考及實作之能力，從而處理研究與實務問題。",
+  "content": "週次\t內容\t備註\n1\t專題概論講解--專題說明、專題訓練說明\n2\t實作能力訓練--程式與相關技術能力訓練\n3\t實作能力訓練--程式與相關技術能力訓練\n4\t實作能力訓練--通訊、訊號處理、網路之基礎能力訓練\n5\t實作能力訓練--通訊、訊號處理、網路之基礎能力訓練\n6\t實作能力訓練--通訊、訊號處理、網路之基礎能力訓練\n7\t專題構思--專題作品討論\n8\t專題構思--專題作品討論\n9\t專題實作--專題作品實現\n10\t專題實作--專題作品實現\n11\t專題實作--專題作品實現\n12\t專題實作--專題作品實現\n13\t專題實作--專題作品實現\n14\t專題實作--專題作品實現\n15\t專題實作--專題作品實現\n16\t專題實作--專題作品實現\n17\t專題實作報告--專題報告撰寫\n18\t專題實作報告--專題報告撰寫",
+  "books": "1.\t教科書(中文)：自編教材\n2.\t參考書(中文)：\n(1)\tPrinciples of Communications: Systems, Modulation, and Noise, 6th edition, R. E. Ziemer and W. H. Tranter, John Wiley &Sons, Inc., 2010.\n(2)\tCommunication Systems, 4th edition, Simon Haykin, John Wiley &Sons, Inc., 2001.\n(1)\tDigital Audio Signal Processing, 2-nd Edition, Udo Zolzer, John Wiley & Sons, 2008.\n(2)\tFundamentals of Multimedia, Ze Nian Li, Mark S. Drew, Prentice Hall, 2003.\n(3)\tDigital Image Processing\" 3-rd Edition, Rafael C. Gonzalez and Richard E. Woods, Prentice Hall, 2008.\n(1)\tGoogle Android SDK開發範例大全2, 作者：佘志龍、陳昱勛、鄭名傑、陳小鳳、郭秩均, 悅知文化出版社, 2010.2.8\n(2)\t最新JAVA2程式語言第二版(旗標2007)\n(3)\tAndroid iPhone Windows Mobile手機程式設計入門與應用(旗標2010.6)",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導\n其他",
+  "grading_policy": "依各指導教師訂定之評分標準為主。",
+  "distribution_conditions": []
+}

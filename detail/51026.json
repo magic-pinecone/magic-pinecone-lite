@@ -1,0 +1,22 @@
+{
+  "serial_no": "51026",
+  "objectives": "課程目標：經由教師課堂講解及學生動手實習，讓學生建立在個人電腦的架構、運作、設計等方面的知識和能力，做為進一步學習相關課程的基礎並可助益於未來專業職涯發展。",
+  "content": "微處理機硬體(Microprocessor hardware)：\n微處理機硬體架構 (Hardware architecture)\n微處理機工作原理 (Operation principle)\n微處理機輸出入介面 (Input and output interface)\n微處理機記憶體介面 (Memory interface)\n微處理機匯流排介面 (Bus interface)\n微處理機中斷介面 (Interrupt interface)\n組合語言 (Assembly languages)：\n組合語言指令集 (Instruction set)\n組合語言機器碼 (Machine code)\n組合語言定址法 (Addressing modes)\n組合語言程式結構 (Program structure)\n組合語言程式工具 (Programming and debugging tools)\n實作 (Laboratory)：\n微算機模擬器之操作演練 (Practice the microprocessor simulator)\n組合語言程式之設計、撰寫、驗證 (Design and verification of assembly programs)\n組合語言組譯程式之撰寫 (Assembler programming)\n中央處理器邏輯電路設計 (Logic circuit design of CPU)",
+  "books": "教科書：無\n參考書：http://www.edsim51.com/",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "50％ 考試 (期中考與期末考)\n30％ 實作展演 (組合語言程式撰寫及驗證、微處理器CPU設計)\n10％ 組合語言轉譯程式設計\n10％ 課程參與和貢獻",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限資訊電機學院。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。年級:限二年級、三年級、四年級、五年級。"
+    }
+  ]
+}

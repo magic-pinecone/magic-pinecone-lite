@@ -1,0 +1,26 @@
+{
+  "serial_no": "26001",
+  "objectives": "“本課程引導學生瞭解光學與光電的發展與基本概念, 並訓練其搜尋資料的能力。“",
+  "content": "Introduce to DOP (光電系簡介)\nSeminar on Geometrical Optics (幾何光學)\nSeminar on Refractive Index (折射率)\nSeminar on Telescope (望遠鏡)\nSeminar on Microscope (顯微鏡)\nSeminar on Color ＆ Colorimetry (色彩)\nSeminar on Wave Optics (波動光學)\nSeminar on Interference (干涉)\nMidterm exam/report (期中考/報告)\nSeminar on Diffraction (繞射)\nSeminar on Polarization (偏振)\nSeminar on Electromagnetic Wave (電磁波)\nSeminar on Quantum Optics (量子光學)\nSeminar on Blackbody Radiation (黑體輻射)\nSeminar on Photoelectric Effect (光電效應)\nSeminar on Lasers (雷射)\nFinal Exam/report (期末考/報告)",
+  "books": "光電科技概論 第二版 2010.\nE. Hecht, Optics 4th Ed 2001.\nS. O. Kasap, Optoelectronics and Photonics 2001.\nM. Born and E. Wolf, Principle of Optics 7th Ed 2007.\nM. Klein ＆ T. Furtak, Optics 2nd Ed 1986.\nJenkins ＆ White, Fundamentals of Optics.",
+  "teaching_method": "講授",
+  "grading_policy": "上台報告 30％\n期中報告 35％\n期末報告 35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系。年級:限非一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-光電科學與工程學系、雙主修-光電科學與工程學系。"
+    }
+  ]
+}

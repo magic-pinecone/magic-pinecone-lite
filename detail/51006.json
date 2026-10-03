@@ -1,0 +1,30 @@
+{
+  "serial_no": "51006",
+  "objectives": "培養學生具備電子電路基礎觀念，以為後續進階課程建立紮實基礎。",
+  "content": "Ch1：Semiconductor & Diode\np-type semiconductor\n    n-type semiconductor\n\tDiode & pn Junction\n\tIdeal & physical diode\n\tSmall-signal diode model\n\tCase study\nCh2：Bipolar Junction Transistors (BJTs)\n\tDevice structure & operation\n\tBJT Amplifiers\nCh3：MOS Field-Effect Transistor (MOSFETs)\n\tDevice structure & operation\n\tMOS Amplifiers\nCh4：Operational Amplifiers\n\tIdeal op-amp\n\tNon-ideal (physical) op-amp",
+  "books": "Microelectronic Circuits, Eight Edition, by Smith",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "期中考 30％\n期末考 40％\n平時考 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限二年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班、輔系-電機工程學系、雙主修-電機工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "94017",
+  "objectives": "Introduce statistics in the context of contemporary business. Emphasizing statistical literacy in thinking and how to apply its concepts with real data and examples to develop a deeper conceptual understanding.",
+  "content": "Statistics, Data, and Statistical Thinking (Chapter 1)\n\nMethods for Describing Sets of Data (Chapter 2)\n\nProbability (Chapter 3)\n\nMidterm Exam\n\nRandom Variables and Probability Distributions (Chapter 4)\n\nSampling Distributions (Chapter 5)\n\nInferences Based on a Single Sample: Estimation with Confidence Intervals (Chapter 6)",
+  "books": "Title: Statistics for Business and Economics (2022, 14th Edition)\nAuthor: James T. McClave , P. George Benson, Terry Sincich\nPublisher: Pearson",
+  "teaching_method": "講授",
+  "grading_policy": "Homework, Exercises, Participation, and Attendance: 35％\nMidterm Exam: 30％\nFinal Exam: 35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限二年級。班別:限B。身份:限非交換生。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

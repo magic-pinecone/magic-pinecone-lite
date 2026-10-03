@@ -1,0 +1,18 @@
+{
+  "serial_no": "44010",
+  "objectives": "本課程為面向經濟系學生的資料分析，並將使用全英語授課。隨著近年生成式AI的發展，資料分析的學習方式已經受到典範轉移。本課程的目的是讓學生知道如何用現代的方法（Python、API、雲端運算、機器學習），進行實用的資料分析。本課程不會過度深入數學或計量的細節。在學期結束時，學生會產出一份自己選題的資料分析報告，可酌情用作實習面試、研究所申請的材料。",
+  "content": "1 (9/11)\tCourse introduction: data and economics.\n2 (9/18)\tReview of Python and Google Colab\n3 (9/25)\t中秋節放假1日\n4 (10/2)\tAPI, data collection, cleaning, summary statistics\n5 (10/9)\t國慶日補假1日\n6 (10/16)\tRegression analysis\n7 (10/23)\tData visualization\n8 (10/30)\tFinancial data and time series analysis\n9 (11/6)\tStudent proposal discussion (1-2 students per group)\n10 (11/13)\tLLM-based text analysis\tProposal due\n11 (11/20)\tMachine learning\n12 (11/27)\tMachine learning\n13 (12/4)\tTips for presentation and paper writing\n14 (12/11)\tStudent presentation (1-2 students per group)\n15 (12/18)\tStudent presentation (1-2 students per group)\n16 (12/25)\t行憲紀念日放假1日\tTerm paper due",
+  "books": "教師自編教材",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Practice tasks (50%), 1-page proposal (10%), 1 presentation (20%), 5-page term paper (20%).",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-經濟學系、雙主修-經濟學系。年級:限三年級、四年級。"
+    }
+  ]
+}

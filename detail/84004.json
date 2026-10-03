@@ -1,0 +1,9 @@
+{
+  "serial_no": "84004",
+  "objectives": "了解深度學習概念及應用到實際專題案例",
+  "content": "“1. An intuitive understanding of deep learning and the essential concepts,2. Hands-on work in solving problems using matlab, python, pytorch, keras, and tensorflow,3. Experience building models for typical domains of deep learning: understanding images, videos, and text,4. Completed a selection of projects“",
+  "books": "“參考書: Hands-on Machine Learning with Scikit-Learn, Keras ＆ Tensorflow, 3rd Edition, Aurelien Geron“",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "程式作業30％, 期中報告30％, 期末報告 30％, 出席率 10％",
+  "distribution_conditions": []
+}

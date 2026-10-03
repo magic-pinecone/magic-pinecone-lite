@@ -1,0 +1,18 @@
+{
+  "serial_no": "52067",
+  "objectives": "本課程藉由實際案例的分享，從軟體工程的歷史、過程的演進、專案的流程規劃、系統需求、風險管理、軟體設計架構、單元及自動化測試等等，使同學了解軟體開發的困難，並學習如何設計高品質與高效率的軟體。",
+  "content": "W1: Introduction (syllabus)\nW2: CH1 Intro to Software Engineering\nW3: CH2 Software Engineering History\nW4: CH3 Traditional Software Processes\nW5: CH4 Contemporary Software Processes\nW6: CH6 Project Scheduling and Risk Management\nW7: CH7 Software Requirements\nW8: CH8 System Models\nW9: CH9 Architectural Design\nW10: CH10 Architectural Design Styles\nW11: Midterm Report\nW12: CH11 V＆amp;V (Verification ＆amp; Validation) State of ART Software Testing\nW13: CH12 Modern Unit Testing Practice\nW14: CH13 Program Understanding - Software System Knowledge Transfer\nW15: CH14 Process Automation - DEVOPS，Git Branch Model，and Tools\nW16: Final Report\nW17: Holiday\nW18: CH15 Static Analysis and Formal Development",
+  "books": "無",
+  "teaching_method": "講授\n研討\n\n其他",
+  "grading_policy": "作業：80％、期中報告：10％、期末報告：10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士在職專班。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

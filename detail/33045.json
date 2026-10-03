@@ -1,0 +1,18 @@
+{
+  "serial_no": "33045",
+  "objectives": "本課程旨在介紹黏性流體力學之基本理論與物理機制，培養學生建立與解析流體數學模型之能力，進而具備處理工程應用與學術研究中流體力學問題之基礎能力。修課完成後，學生應能：\n理解黏性流體運動相關之基本守恆定律，包括質量、動量與能量守恆等原理。\n具備基本流場數學模型之推導、建立與分析能力，並能應用於平板流、管流及停滯流等典型流動問題。\n熟悉邊界層理論之數學分析方法，並理解其物理意義與流動特性。\n結合黏性流體力學相關領域之經典案例與研究文獻（如生物流體力學與邊界層流動等），培養學生連結理論、工程應用與學術研究之能力，並拓展其分析思維與學習深度。",
+  "content": "Course Topics:\n\nIntroduction\nFundamentals: Fluid Properties\nFundamentals: Thermodynamic Properties\nThermo-Fluid Science: Conservation of Mass\nThermo-Fluid Science: Energy and Energy Transfer\nThermo-Fluid Science: Conservation of Energy\nThermo-Fluid Science: Conservation of Momentum\nThermo-Fluid Science: Second Law of Thermodynamics\nThermo-Fluid Science: Similitude and Dimensionless Parameters\nFluid Mechanics: Viscous Flows I\nFluid Mechanics: Viscous Flows II\nFluid Mechanics: External and Internal Flows\nFluid Mechanics: Microflows",
+  "books": "White, F.M. 2006 Viscous Fluid Flow, 3rd Ed., McGraw-Hill, New York Frank M. White “Fluid Mechanics” 6th edition McGraw-Hill .",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Homeworks  (20%)\nFinal Project Writing Report (15%)\nParticipant  (5%)\nExam I : 30%\nExam II: 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系碩士班、能源工程研究所碩士班、機械工程學系博士班、能源工程研究所博士班。"
+    }
+  ]
+}

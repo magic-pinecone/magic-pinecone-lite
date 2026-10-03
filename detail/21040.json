@@ -1,0 +1,30 @@
+{
+  "serial_no": "21040",
+  "objectives": "數學建模是應用數學領域的一個重要的分支，且在工程、經濟、電腦科學與工業領域中扮演至關重要的角色。本課程將介紹一些近代的應用數學方法，幫助同學建立數學科學與真實世界的橋樑，並瞭解所學之學科有實際上之應用價值。",
+  "content": "本課程將討論主題包含：(i) 向量分析；(ii) 常微分方程；(iii) 偏微分方程; (iv)變分法等內容。",
+  "books": "(i) Applied Mathematics, 4th Edition, J. David Logan, WILEY 2013; (ii) Essentials of mathematical methods in science and engineering, WILEY, S. SELCUK BAYIN",
+  "teaching_method": "講授",
+  "grading_policy": "期中期末考各占學期成績之30％，作業20%，隨堂小考占30％。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限二年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限二年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限數學系。年級:限三年級、四年級。班別:限B。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限數學系。年級:限三年級、四年級。班別:限A。"
+    }
+  ]
+}

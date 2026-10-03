@@ -1,0 +1,22 @@
+{
+  "serial_no": "24035",
+  "objectives": "教育學生完整深入的保育知識與方法\nEducate students with comprehensive and in-depth knowledge and methods of conservation.",
+  "content": "1\tIntroduction of Conservation Biology\n2\tThe Value of Biodiversity\n3\tConservation in Theory\n4\tConservation in Practice\n5\tConservation Outside Protected Area\n6\tPopulation structure and Molecular Systematics in Cetacean\n7\tConservation of the Felidae\n8   Conservation in Canidae\n9\tSocioecology, Population Fragmentation, and Genetic loos in Primates\n10\tAvise Conservation Genetics\n11\tConservation Genetics of Marian Turtles\n12\tConserving Evolutionary Process in Bovidae\n13\tConservation Genetics in Fishes\n14\tConservation Genetics of Endemic Plant Species\n15\tWildlife harvesting\n16\tEcosystem management and conservation\n17\tFlexible adjustment\n18\tFlexible adjustment",
+  "books": "A Primer of Conservation Biology, 2012, Fifth edition, Richard B. Primack, SINAUER.\nConservation Genetics,2002 John E. Avise & James L. Hamrick, Kluwer Acad. Pub.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Discussion (70%)\nLeading discussion (30%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班、碩士班、博士班。"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "serial_no": "63027",
+  "objectives": "教育學生應用C語言於數值計算、模擬與分析，數值計算、模擬與分析問題包含。\n1.\tInterpolating polynomials\n2.\tNumerical differentiation and numerical integration\n3.\tCurve-fitting by least squares\n4.\tFourier series\n5.\tFast Fourier transform\n6.\tSpectral applications: convolution and correlation\n7.\tFilters and windows\n8.\t( Introduction to modern spectrum analysis )",
+  "content": "教育學生應用C語言於數值計算、模擬與分析，數值計算、模擬與分析問題包含。\n\n1.\tInterpolating polynomials\n\n2.\tNumerical differentiation and numerical integration\n\n3.\tCurve-fitting by least squares\n\n4.\tFourier series\n\n5.\tFast Fourier transform\n\n6.\tSpectral applications: convolution and correlation\n\n7.\tFilters and windows\n\n8.\t( Introduction to modern spectrum analysis )",
+  "books": "教科書    (中、外文欄位)\nPress, William H., Saul A. Teukolsky, William T. Vettering, and Brian P. Flannery, Numerical Recipes in C, 2nd Ed., Cambridge University Press.\n參考書   (中、外文欄位)\nGerald Curtis F., Applied Numerical Analysis, 2nd Ed., Addison-Wesley Publishing Company.",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "隨堂考試與作業, 100％",
+  "distribution_conditions": []
+}

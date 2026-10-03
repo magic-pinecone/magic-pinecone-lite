@@ -1,0 +1,22 @@
+{
+  "serial_no": "53018",
+  "objectives": "學習軟體定義無線電通訊技術相關之原理與實務。",
+  "content": "週次\t內容\t備註\n1\tIntroduction of Software Defined Radio\n2\tPractical Software Defined Radio Platform: RF/Digital Frontend\n3      FPGA Design with Vivado and Verilog-I\n4\tFPGA Design with Vivado and Verilog-II\n5\tFPGA Design with Vivado and Verilog-III\n6\tBaseband Signal Processing for Software Defined Radio: Single-Carrier Modulation\n7\tFPGA Implementation of Baseband Signal Processing: Single-Carrier Modulation\n8\tMid-Tern Exam.\n9\tBaseband Signal Processing for Software Defined Radio: Single-Carrier Demodulation\n10\tFPGA Implementation of Baseband Signal Processing: Single-Carrier Demodulation\n11\tBaseband Signal Processing for Software Defined Radio: OFDM Transmitter\n12\tFPGA Implementation of Baseband Signal Processing: OFDM Transmitter\n13\tBaseband Signal Processing for Software Defined Radio: OFDM Receiver\n14\tFPGA Implementation of Baseband Signal Processing: OFDM Receiver-I\n15    FPGA Implementation of Baseband Signal Processing: OFDM Receiver-II\n16\tFinal Exam.",
+  "books": "參考書(英文)：\n1. W. Tuttlebee edit, Software Defined Radio-Enabling Technologies, John Wiley, 2002.\n2. P. Burn, Software Defined Radio for 3G, Boston Artech House, Inc., 2003.\n3. W. Tuttlebee edit, Software Defined Radio-baseband technologies for 3G Handsets and Basestations, John Wiley, 2004.\n4. T. Hentschel, Sample Rate Conversionin Software Configurable Radios, Artech House, 2002.",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "Homework (Computer Simulation): 25％\nMid-Term Examination: 30％\nMid-Term Examination: 30％\nTerm Report: 15％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系碩士班、通訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。學院:限資訊電機學院。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。學院:限資訊電機學院。年級:限四年級。"
+    }
+  ]
+}

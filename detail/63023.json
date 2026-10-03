@@ -1,0 +1,14 @@
+{
+  "serial_no": "63023",
+  "objectives": "修課的學生於學期末能夠針對有限的條件設計出一套基礎的通訊系統，並能指出一個通訊系統的利弊。",
+  "content": "此門課將介紹無線電通訊理論，並特別針對數位系統作介紹。第二部分則會利用此門課程所學，探討無線電通訊的應用。\n此門課首先概括地從其原理到應用，介紹無線電通訊系統和技術。鏈路預算的每一個環節，從無線電傳播、天線、噪音、無線電發送與接收器，也會逐步說明。通訊技術和寬頻技術的應用，會藉由地面和衛星通訊的例子得到闡述。",
+  "books": "Simon Haykin, Michael Moher, Modern Wireless Communications, John Wiley, 2003, ISBN 10 0130224723\nB. P. Lathi, Z. Ding, Modern Digital and Analog Communication Systems 4th, Oxford, 2009, ISBN-13: 978-0195331455",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "作業: 30％\n實驗: 30％\n期中考: 20％\n期末考: 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。年級:限非一年級、非二年級。"
+    }
+  ]
+}

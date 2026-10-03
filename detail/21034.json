@@ -1,0 +1,14 @@
+{
+  "serial_no": "21034",
+  "objectives": "本課程上接高等微積分，為三學分的課。主要內容為多變數函數的微分。由於需要使用向量與矩陣，所以前幾周會先複習線性代數。最後微分教完若還有時間，則教初等的Lebesgue積分理論。",
+  "content": "授課內容包含有：\n(1) Linear algebra review;\n(2) Differentiable mappings;\n(3) The inverse and implicit theorems;\n(4) Lebesgue measure;\n(5) The Lebesgue integral;",
+  "books": "1. R. A. Horn, C. R. Johnson, Matrix Analysis, 2nd ed., Cambridge University Press, New York, 2013.\n2. J. E. Marsden, Elementary classical analysis, W. H. Freeman and Company, 1993.\n3. H. L. Royden, Real analysis, 3rd ed., 1989.",
+  "teaching_method": "講授",
+  "grading_policy": "期中考、期末考各佔50%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "指定課程:必須擋修MA2045、擋修MA2046。"
+    }
+  ]
+}

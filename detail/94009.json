@@ -1,0 +1,30 @@
+{
+  "serial_no": "94009",
+  "objectives": "“The courses Accounting I, II focus on ways in which accounting principles are used in business operations.“",
+  "content": "“Students can learn the following topics.\nPart 1: ACCOUNTING in BUSINESS\nPart 2: ACCOUNTING PROCEDURES\nPart 3: ACCOUNTING for MERCHANDISING OPERATIONS\nPart 4: INVENTORIES and COST of SALES\nPart 5: ACCOUNTING for RECEIVABLES\nPart 6: ACCOUNTING for LONG-TERM ASSETS\nPart 7: CURRENT LIABILITIES\nPart 8: LONG-TERM LIABILITIES\nPart 9: ACCOUNTING for CORPORATIONS\nPart 10: REPORTING the STATEMENT of CASH FLOWS\nPart 11: TOPICS FOR FURTHER STUDY (optional)\nCash and Internal Controls\nFinancial Statement Analysis\nInvestments\nAccounting Ethics\nPart 12:Examination“",
+  "books": "Jerry. J. Weygandt, and Paul D. Kimmel. Financial Accounting: Financial Accounting IFRS, custom edition, 6/e Wiley. 2026.",
+  "teaching_method": "講授",
+  "grading_policy": "“出席率 ＆ 作業 25％\n期中＆ 期末考：75％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-資訊管理學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限輔系-資訊管理學系。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "21020",
+  "objectives": "學習微分與積分的基本知識, 培養列式, 求解及解釋問題的應用能力",
+  "content": "In this course, we will study the following topics:\n1. Preliminaries\n2. Functions,Limits, and the Derivative\n3. Differentiation\n4. Applications of the Derivative\n5. Exponential and Logarithmic Functions\n6. Intergation",
+  "books": "Soo T. Tan, Applied Calculus for the Managerial, Life, and Social Sciences 10E.",
+  "teaching_method": "講授",
+  "grading_policy": "小考 10％\n作業 10％\n會考一25％\n會考二25％\n會考三30％\nPython作業5％\n其他5％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系、資訊管理學系、財務金融學系、經濟學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系、資訊管理學系、財務金融學系、經濟學系。年級:限非一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-企業管理學系、雙主修-企業管理學系、雙主修-資訊管理學系、雙主修-財務金融學系、雙主修-經濟學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

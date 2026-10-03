@@ -1,0 +1,14 @@
+{
+  "serial_no": "81009",
+  "objectives": "本課程旨在介紹現代證券交易理論，並協助學生理解資訊在不同交易市場機制中所扮演的角色。修習本課程後，學生將能掌握市場微結構的核心概念，並了解資訊如何影響交易行為、價格形成與市場效率。課程主題包括理性預期均衡、委託單驅動市場，以及報價驅動市場。",
+  "content": "本課程首先回顧基準的理性預期均衡模型。在此類模型中，交易者為價格接受者，且擁有不同的資訊，並可於每一交易時點提交需求函數。在此基礎上，本課程將介紹現代市場微結構理論，包括委託單驅動市場與報價驅動市場。課程重點在於說明資訊如何反映於價格、不同交易機制如何影響市場流動性與價格效率，以及知情交易者、流動性交易者與造市者如何在不同市場結構下互動。",
+  "books": "1. 課程講義簡報\n2. E. Barucci and C. Fontana, 2017, Financial Markets Theory: Equilibrium, Efficiency and Information, 2nd Ed., Springer.\n3. M. K. Brunnermeier, 2001, Asset Pricing under Asymmetric Information: Bubbles, Crashes, Technical Analysis, and Herding, Oxford University Press.\n4. T. Foucault, M. Pagano and A. Roell, 2013, Market Liquidity: Theory, Evidence, and Policy, Oxford University Press.\n5. X. Vives, 2008, Information and Learning in Markets: The Impact of Market Microstructure, Princeton University Press.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "1.出席率20%\n2.期中考40%\n3.期末考40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    }
+  ]
+}

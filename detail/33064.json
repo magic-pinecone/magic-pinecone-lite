@@ -1,0 +1,22 @@
+{
+  "serial_no": "33064",
+  "objectives": "Python是目前最熱門的程式語言，具有大量的第三方函式庫與套件支援，可以免費取得，其強項在於語法簡潔、擴充性強，應用範圍相當廣泛，Python語言是大數據與類神經網路的基礎程式語言，本課程將運用數據分析庫(如Pandas、NumPy和matplotlib)，引導學生邏輯性撰寫程式，快速上手進入大數據分析、機器學習、深度學習、人工智慧的應用領域，學生修畢此課程將能展示以下之能力：\n1.\t熟悉Python開發環境建置與基礎語法。\n2.\t掌握Python資料結構與結構控制。\n3.\t使用Python常用的內建函式庫，如資料視覺化matplotlib、資料處理pandas、數值運算numpy。",
+  "content": "1.\t基礎的Python程式 (對象、變量、輸入和輸出)\n2.\t資料類型與運算\n3.\t結構與控制流程(關係與邏輯運算、決策結構、迴圈結構)\n4.\t使用者的自定義函數  \n5.\t資料處理(txt、csv與xls檔、字典)\n6.\t錯誤與例外\n7.\t物件導向程式設計\n8.\t類別與繼承\n9.\tNumPy與Pandas套件簡介\n10.\t繪圖(matplotlib)\n11.   深度學習基本原理",
+  "books": "David I. Schneider, An introduction to programming using Python, Pearson, 2016. (高立圖書代理)\nNVIDIA Deep Learning Institute workshops",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "20 ％   Homework\n35 ％   Midterm exam\n35 ％   Final exam\n10 ％   Nvidia DLI certificate",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限機械工程學系。年級:限四年級。指定課程:必須先修EG1001。"
+    }
+  ]
+}

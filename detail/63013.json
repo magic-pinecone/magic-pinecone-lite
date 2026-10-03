@@ -1,0 +1,26 @@
+{
+  "serial_no": "63013",
+  "objectives": "明瞭太空酬載的原理、設計、分析、製作、測試、整合、應用等",
+  "content": "Kinetic theory of gases\n\nLangmuir probes\n\nI-V curves\n\nPlasma sheathes\n\nDouble probes\n\nIon probes\n\nIon flux equations\n\nIPEI onboard ROCSAT-1 satellite",
+  "books": "Pfaff, R. F., J. E. Borovsky, and D. T. Yang, The Measurement Techniques in Space Plasma: Particles, American Geophysical Union, Washington DC, 1998.\n\nPfaff, R. F., J. E. Borovsky, and D. T. Yang, The Measurement Techniques in Space Plasma: Fields, American Geophysical Union, Washington DC, 1998.",
+  "teaching_method": "講授",
+  "grading_policy": "Mid-term test (50％)\nFinal test (50％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限太空科學與工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班。年級:限三年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限太空科學與工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

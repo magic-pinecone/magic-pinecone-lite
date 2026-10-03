@@ -1,0 +1,26 @@
+{
+  "serial_no": "33011",
+  "objectives": "本課程旨在使學生掌握機構運動學之基本原理與分析技術，為後續如動力學、機械設計等相關課程奠定理論與實務基礎。",
+  "content": "Composition of linkages and degrees of freedom\nPosition and displacement analysis (including graphical and analytical methods)\nVelocity analysis (including graphical, analytical, and instantaneous center methods)\nAcceleration analysis (including graphical and analytical methods)\nMulti-degree-of-freedom planar mechanisms\nCam mechanism design\nGears and gear mechanisms",
+  "books": "Textbook: 顏鴻森、吳隆庸，現代機構學，東華書局，第一版，2020。 Reference: J .J. Uicker, Jr , G. R. Pennock and J. E. Shigley ； Theory of Machines and Mechanisms, Forth Edition, Oxford University Press , G.H. Martin；Kinematics and Dynamics of Machines, McGraw Hill (高立圖書公司) R.L. Norton；Design of Machinery, McGraw Hill (高立圖書公司)",
+  "teaching_method": "講授",
+  "grading_policy": "Homeworks: 20%\nExam: 80%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限二年級。學號:限雙號。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限工學院學士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

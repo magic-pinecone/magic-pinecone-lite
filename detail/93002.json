@@ -1,0 +1,26 @@
+{
+  "serial_no": "93002",
+  "objectives": "\"Computers play an important role in our daily life and in industry. For examples, most of processes in industry are controlled by computers; theoretical computation and molecular simulation are important tools for engineers and scientists for doing research and product development. The main purpose of this course is to introduce C++ as a programming tool for future chemical and material engineers. The course will take a pragmatic approach that incorporates actual engineering and science problems for its applications and examples.\"",
+  "content": "\"1. Basic Concepts before Programming\n2. Getting Started in C++\n3. Assignment, Input, and Output\n4. Selection\n5. Repetition\n6. Functions\n7. Arrays\n8. Data Files and File Streams\n9. Additional Features\n10. Pointers\n11. Object-Oriented Programming (Classes)\"",
+  "books": "\"Required: 子由. (2011) 深度學習C++, 3rd Edition, 藍海文化, ISBN: 9789866432477.\nRecommended: Bruce Eckel. (2000) Thinking in C++, Volume One, 2nd Edition, Prentice Hall, ISBN: 0139798099. (可自網路下載)\nBruce Eckel and Chuck Allison. (2003) Thinking in C++, Volume 2, 1st Edition, Prentice Hall, ISBN: 0130353132.\nBjarne Stroustrup. (2013) The C++ Programming Language, 4th Edition, Addison-Wesley, ISBN: 0321563840.\"",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Homework\t\t13\nCompetition\t\t30\nIn-Class Exercise\t\t\t17\nMid-Term Exam\t\t\t20\nFinal Exam\t\t\t20\nTOTAL\t\t\t100",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限一年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限工學院學士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "23040",
+  "objectives": "邀請國內外專家學者講授各自的研究新的成果，使同學了解獲得最新的研究及就業資訊。",
+  "content": "安排大約6場或更多的演講，每位演講者將介紹他/她最近的研究。",
+  "books": "無固定的教科書，教材由演講者提供。",
+  "teaching_method": "講授",
+  "grading_policy": "reports and attendance",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系碩士班、化學學系博士班。"
+    }
+  ]
+}

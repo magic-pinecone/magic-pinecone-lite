@@ -1,0 +1,9 @@
+{
+  "serial_no": "29003",
+  "objectives": "本課程討論恆星內部結構以及外層大氣。課程首先簡單介紹恆星的物理量及觀測手段，然後討論輻射轉移，以及電磁波與物質作用時相關的發射、吸收等現象、輻射轉移方程、氣體狀態方程、譜線形成、恆星內部的靜力平衡、物質分布、熱核反應等",
+  "content": "“. Stellar Observational Properties; Gas Properties\n. Radiation Transfer\nBlackbody Radiation\nEmission, Absorption, and Source Function\nEquation of Transfer and its Solutions/Approximations\n\n. Stellar Atmospheres\nOpacities (Kramers, Rosseland)\nEquation of State\nAbsorption and Spectral Lines\nLine Formation\n. Stellar Interiors\nHydrostatic Equilibrium\nMass Distribution\nLane-Emden Equation\nRadiative, Thermal, and Convective Equilibrium\nEnergy Generation; Thermonuclear Reactions\nDegenerate Matter“",
+  "books": "An Introduction to the Theory of Stellar Structure and Evolution”, by Dina Prialnik, Cambridge, 2nd Ed. 2009",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "“期中考 30％; 期末考 30％; 作業或計畫 40％",
+  "distribution_conditions": []
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "80009",
+  "objectives": "Geoengineering（地球工程）是一種使用大型技術手段來故意改變地球氣候系統的做法，目的是減緩或逆轉氣候變遷，尤其是針對全球暖化的影響。地球工程為一新興科學，原來為解決全球變遷等大尺度問題而提出。基本上可以土木及環境工程兩大方面。本課程將從地質背景出發，結合工程問題及其處理對策，提供學生一個整合性的思考及基礎的地質知能。",
+  "content": "Week 1-  Introduction & Overview of Geoengineering\nWeek 2 -  Solar system\nWeek 3 -  The Solid Earth\nWeek 4 -  Tectonics\nWeek 5 -  Mineral and Mineralogy\nWeek 6 -  Rock forming mineral\nWeek 7 -  Igneous rock\nWeek 8 -  Sedimentary rock\nWeek 9 -  Metamorphic rock\nWeek 10 - Geological structures: Brittle deformation\nWeek 11 - Geological structures: Ductile deformation\nWeek 12 – Ocean\nWeek 13 - Weathers and Climates\nWeek 14 - Solar Radiation Management\nWeek 15 – Carbon Dioxide Removal Techniques\nWeek 16 – Global changes and social impacts",
+  "books": "1.\tEarth: An Introduction to Physical Geology: Edward J. Tarbuck, Frederick K. Lutgens, Dennis G. Tasa, Pearson\n2.\tGeoengineering: The Gamble: Gernot Wagner, Polity Press\n3.\tEngineering the Climate: The Ethics of Solar Radiation Management: Christopher J. Preston, Lexington\n4.\tGeotechnical Engineering and Climate Change: Ricardo J. Maia (ed.), CRC Press\n5.\tIntroduction to Environmental Engineering and Science: Gilbert M. Masters, Wendell P. Ela, Pearson",
+  "teaching_method": "講授",
+  "grading_policy": "出席率Attendance：15%\n作業Homework：35%\n期中考Mid-term exam：25%\n期中考Final exam：25%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限地球科學學院。"
+    }
+  ]
+}

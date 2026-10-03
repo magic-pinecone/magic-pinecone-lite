@@ -1,0 +1,26 @@
+{
+  "serial_no": "23031",
+  "objectives": "內容 (Course Contents): 本課程以觀念及應用為主，儘量避免繁複的理論推導。\nThis course primarily delves into the principles and practical applications of computational chemistry. We'll simplify certain complex mathematical equations.",
+  "content": "課程內容包括:\n0.    應用python、Excel等程式語言製圖\n1.\tEmpirical Method: Molecular Mechanics\n2.\tEnergy Minimization\n3.\tMolecular Dynamics\n\tCase Study I: Protein Folding\n4.\tMonet Carlo Simulations\n5.\tSemi-empirical Method: Huckel and AM1\n6.\tAb Initio Method\n\tCase Study II: Unstable Intermediates\n7.\tDensity Functional Theory\n\tCase Study III: Thermodynamics vs Kinetics Controlled Reactions\n8.\tApplications: Biomolecular Simulations, Protein Folding, Reaction Pathway, Unstable Intermediate and Transition States\n9.\tAI in Chemistry",
+  "books": "“1. W. J. Hehre, L. Radom, P. v.R. Schleyer, and J.A. Pople “Ab Initio Molecular Orbital Theory” 2. M.P. Allen and D.J. Tildesley “Computer Simulation of Liquids” 3. C. J. Cramer “Essentials of Computational Chemistry: Theories and Models”“",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "\t作業 (Homework): 70 %。\n\tAssignments may be discussed with the instructor and classmates, but copying is not allowed. Both the students who copy and the one who allows their work to be copied will receive a zero for that assignment. The use of generative AI for assignments is strictly prohibited.\n作業可和老師及同學間互相討論，但不可互相抄襲。抄襲者及借與他人抄襲者該次作業以零分計算。作業禁止使用生成士AI。\n\tStudents should have access to a PC to complete their homework.\n建議同學準備一台個人電腦以方便寫作業。\n\tAssignments must be typed on a computer; handwritten assignments will not be graded. Assignments should be submitted to Google Classroom.\n作業繳交需用電腦打字，手寫不予計分。作業繳交至Google Classroom。\n\t期末面談評量: 30 %。\n老師期末安排和同學一對一面談以評量同學學習成效，面談內容以同學完成的作業為主，上課內容及相關知識為輔。\nAt the end of the semester, the teacher will arrange one-on-one meetings with students to assess their learning progress. The meetings will focus on the students' completed assignments, with secondary discussions on class content and related knowledge.",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系碩士班、化學學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學學系。年級:限四年級、延修生。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。年級:限四年級、延修生。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "serial_no": "52062",
+  "objectives": "本課程介紹雲端基礎知識與雲端平台，以Amazon AWS為示範性的雲端平台，帶領學生進行雲端實務操作，讓學生更了解架設雲端應用的流程。除此之外，本課程也會鼓勵學生考取Amazon/Microsoft/Google雲端平台相關證照。為了更緊密的結合理論與實務，本課程要求學生組成1~3人之團隊，並合作完成一個自訂題目與功能之期末專題製作。",
+  "content": "1\t雲端運算簡介\n\n2\t雲端運算概念與技術\n\n3\t虛擬化與容器\n\n4\tCloud Infrastructure (以AWS Global Infrastructure為例)\n\n5\tCloud Security (以AWS Cloud Security為例)\n\n6\tNetworking (以AWS Networking為例)\n\n7\tCloud Computing Services (以AWS EC2為例)\n\n8\tCloud Storage (以AWS S3為例)\n\n9\tCloud Databases (以AWS RDS為例)\n\n10\tCloud and AI (以AWS Sagemaker為例)\n\n11\t雲端產業專題演講\n\n12\t專題成果展示",
+  "books": "[1] Mr. Ray Rafaels: Cloud Computing: 2018\n[2]Theo H. King et al.: AWS: The Ultimate Guide from Beginners to Advanced for the Amazon Web Services (2020 Edition)\n[3]廖文華, 張志勇, 蒯思齊 (2021)。雲端運算概論。五南圖書出版股份有限公司",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "•\tLab and HW (40％): 5％ each for Labs\n•\tQuiz (5％): randomly happens, 1 pts each\n•\tMidterm (20％)\n•\tFinal project (35％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限人工智慧國際碩士學位學程。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}
