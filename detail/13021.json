@@ -1,0 +1,22 @@
+{
+  "serial_no": "13021",
+  "objectives": "在大一法文課程所奠定的基礎上，持續累積字彙，建立法文進階閱讀的基礎，進而培養文本的解析能力，使學生能夠在法文辭典的輔助下理解較為艱深的字句和文法，剖析文本的組織結構，解讀具備一定難度的文章和作品。",
+  "content": "A組：\n選文主要取自十九、二十世紀的法語文學文本。\n--上學期將選讀各類型文本，如抒情文、描寫文、敘事文、隨筆或雜感文、劇本，等名家作品選，以增進閱讀能力、充實詞彙、並經由文章多方接觸法國文化的各種面向。\n--下學期則以一個專題為中心，選不同作家的同主題文本，以進行主旨、書寫、觀點等各方面的文本分析和比較。\n\nB組：\n延續大一法文文選課程，廣泛介紹各類型作品，上學期以青少年與兒童文學和童話故事為主，下學期以短篇小說為主。除艱難句意與文法結構的解析外，特別側重以下三個層面：文類特徵、修辭策略與敘述建構。",
+  "books": "1. DAUDET Alphonse, Lettres de mon moulin\n2. FLAUBERT Gustave, Dictionnaire des idees recues\n3. LA ROCHEFOUCAULD, Reflexions ou sentences et maximes morales\n4. LE CLEZIO Jean-Marie Gustave, Voyage au pays des arbres\n5. LEIRIS Michel, Nuits sans nuit et quelques jours sans jour\n6. MAUPASSANT Guy de, Mademoiselle Fifi\n7. PERRAULT Charles, Contes\n8. RENARD Jules, Poil de Carotte\n9. TOURNIER Michel, Pierrot ou les secrets de la nuit\n10. YOURCENAR Marguerite, Comment Wang-Fo fut sauve",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "課堂表現，期中考(口試)、期末考(筆試)、童話改編影片製作。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限法國語文學系。年級:限二年級。學號:限雙號。指定課程:必須先修FR1023、先修FR1024。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-法國語文學系、雙主修-法國語文學系。指定課程:必須先修FR1023、先修FR1024。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限法國語文學系。年級:限三年級、四年級。指定課程:必須先修FR1023、先修FR1024。"
+    }
+  ]
+}

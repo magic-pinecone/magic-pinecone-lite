@@ -1,0 +1,38 @@
+{
+  "serial_no": "94003",
+  "objectives": "這門經濟學是一學年的課程, 這個課程提供學生關於經濟學的基本概念. 這學期我們將關注在個體經濟的部分, 內容包括:需求, 供給, 消費者行為, 市場, 國際貿易, 廠商行為與產業組織. 這門課程將提供一些基本的分析工具, 用他們來解釋一些個體經濟現象.",
+  "content": "Week 01: Introduction, Ten Principles of Economics, Thinking Like an Economist\nWeek 02: Supply and Demand\nWeek 03: Elasticity and Its Application\nWeek 04: Holiday\nWeek 05: Supply, Demand and Government Policies\nWeek 06: Consumer, Producers, and the Efficiency of Markets\nWeek 07: The Costs of Taxation\nWeek 08: Holiday\nWeek 09: Midterm Examination\nWeek 10: Gains from Trade, International Trade\nWeek 11: Externalities, Public Goods and Common Resources\nWeek 12: The Costs of Production\nWeek 13: Firms in Competitive Markets\nWeek 14: Monopoly, Monopolistic Competition\nWeek 15: The Markets for the Factors of Production\nWeek 16: Final Examination",
+  "books": "Mankiw, N.G., (2027). Principles of Economics, 11th edition, Asia Edition, Cengage Learning.",
+  "teaching_method": "講授",
+  "grading_policy": "期中考 35％, 期末考 35％, 作業 20%, 出席 10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-財務金融學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限輔系-財務金融學系。"
+    },
+    {
+      "priority": 5,
+      "rule": "學制:限學士班。學院:限管理學院。"
+    },
+    {
+      "priority": 6,
+      "rule": "學院:限非管理學院。"
+    },
+    {
+      "priority": 7,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

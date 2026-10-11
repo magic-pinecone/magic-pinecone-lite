@@ -1,0 +1,14 @@
+{
+  "serial_no": "34007",
+  "objectives": "This class will focus on mass and energy balance on multiple-unit systems, multiphase systems and provide introductory knowledge for process design. (Language: English)",
+  "content": "mass and energy balance on multiple-units systems and multiphase systems.",
+  "books": "1) “Basic principles and calculations in chemical engineering, 8th edition, David Himmelblau, James Riggs“2) “Principle of Chemical Engineering Processes – Material and Energy Balances (Nayef Ghasem/Redhouance Henda, 2nd Edition)“",
+  "teaching_method": "講授",
+  "grading_policy": "出席：4%\n小考: 32％;\n期中考I: 32％;\n期末考: 32％;\n總配分: 100％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。"
+    }
+  ]
+}

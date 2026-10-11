@@ -1,0 +1,14 @@
+{
+  "serial_no": "41030",
+  "objectives": "本課程旨在以企業國際化的觀點介紹全球運籌體系的規劃與建置，期使同學能具有由產業特性及個別企業特性著手，應用「佈局-營運-IT」的架構對企業的運籌與供應鏈體系進行營運機制的設計及資訊方案規劃的能力。",
+  "content": "“第一單元   【導引案例】\n第二單元【全球運籌管理的相關理論】\n2.1 運籌管理的觀念\n2.2 GLM: 國際企業/國際貿易的觀點\n2.3 GLM: 產業體系競爭的觀點\n2.4 GLM: 經濟體系的觀點 (EU, WTO)\n2.5 GLM 體系建構的步驟、要件、績效評估模式\n第三單元【全球運籌管理：佈局】\n第四單元【全球運籌管理：模型建構的方法論】\n第五單元【全球運籌管理：營運模式】\n5.1 生產導向的運籌管理模式\n5.2 資材導向的運籌管理模式\n5.3 市場通路為導向的運籌管理模式\n第六單元【全球運籌管理：3PL/4PL】\n第七單元 【全球運籌管理：考慮金流的全球運籌模式】\n7.1 模式 A\n7.2 模式 B\n7.3 模式 C\n第八單元【全球運籌管理： 資訊方案】\n第九單元【SAP-APO 資訊方案】\n第十單元【自由貿易港區 (FTZ) 的應用】\n第十一單元【全球運籌管理體系的建構+績效評估】\n第十二單元【全球運籌管理：組織與人力資源的觀點】\n【案例研討】“",
+  "books": "“編有專用講義\nSupply Chain Management and Advanced Planning: Concepts, Models, Software and Case Studies. H. Stadtler and Kilger, C. (Eds.), 3ed., Springer-Verlag, 2004.\nSupply Chain Management with APO. J. T. Dickersbach, 2ed. Springer-Verlag, 2005.\nReal Optimization with SAP?APO. J. Kallrath and T. I. Maindl, Springer-Verlag, 2006.\nService Parts Planning with mySAP SCM. J. T. Dickersbach, Springer-Verlag, 2006.\nAdvanced Planning in Supply Chains: Illustrating the Concepts Using an SAP?APO Case Studies. H. Stadtler, B. Fleischmann, M. Grunow, H. Meyer and C. S ?rie, Springer-Verlag, 2011.\nProduction Planning with SAP?APO –PP/DS. J. Balla and F. Layer, SAP Press, 2007.\nModeling the Supply Chain. J. Shapiro, 2ed. Thomson Learning, 2007.\nIntroduction to Computational Optimization Models for Production Planning in a Supply Chain. S. Vo? and D. L. Woodruff, 2ed., Springer-Verlag, 2006.\nLogistik: Wege zur Optimierung der Supply Chain. C. Schulte, 5ed. Vahlen-Verlag. 2009.\nSupply Chain Management auf Basis von SAP-Systemen, G. Knolmayer, P. Mertens, A. Zeier, Springer-Verlag, 2013.\nTransport und Versand mit SAP?LES. O. Gau, SAP Press, 2007\nMaterial-Logistik: Modelle und Algorithmen f?r die Produktionsplanung und -steuerung und das Supply Chain Management. H. Tempelmeier, 4ed., Springer-Verlag, 1995.“",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "1. 期中考 (35％)\n2. 期末考 (30％)\n3. 文獻閱讀與評析 (35％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "53013",
+  "objectives": "學習軟體定義無線電通訊技術相關之原理與實務。",
+  "content": "週次\t內容\t備註\n1\t軟體定義無線電原理與技術(1)\n2\t軟體定義無線電原理與技術(2)\n3\t軟體定義無線電平台架構與控制GUI操作\n4\t射頻傳收器性能量測與校正\n5\tDSB,AM,SSB,FM調變原理與傳輸實驗\n6\tDSB,AM,SSB,FM解調原理與接收實驗\n7\tDSB,AM,SSB,FM實務軟體定義無線電平台傳收實驗\n8\t期中考\n9\t單載波QAM調變原理與傳輸實驗\n10\t單載波QAM解調原理與接收實驗\n11    單載波QAM實務軟體定義無線電平台傳收實驗\n12\tOFDM調變原理與傳輸實驗\n13\tOFDM解調原理與接收實驗\n14    OFDM實務軟體定義無線電平台傳收實驗\n15    通道編碼/解碼原理與傳收實驗\n16\t期末考",
+  "books": "1.教科書(中文)：自編教材\n教科書(英文)：Self edited teaching notes\n2.參考書(中文)：相關教科書與軟體定義無線電平台元件使用手冊\n參考書(英文)：Related textbooks and manuals of components in the software-defined radio platform\n3.輔助教材：軟體MATLAB  硬體USRP SDR Platform",
+  "teaching_method": "講授\n\n實習/實驗\n\n其他",
+  "grading_policy": "實習/實驗(報告) 50％\n期中考 20％\n期末考 20％\n課堂出席狀況 10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系、資訊電機學院學士班。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

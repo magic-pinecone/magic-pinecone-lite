@@ -1,0 +1,18 @@
+{
+  "serial_no": "44011",
+  "objectives": "The program is designed to deliver the ideas of what is corporate banking and how it works through basic industrial knowledge sharing and case study. Role playing is the core of this program which could bring the student into the real work environment then realize soft skill matters. In addition, the application of BIG DATA in Corporate banking is the field we want to cover to bring the concept to students in this course.",
+  "content": "Course Outline\tWeek\tTopic\tNote\n1 -2\tIntroduction of Banking Industry and Corporate Banking\n3 -10\tWhat is credit and how to do credit analysis plus real case study:\nPeople, purpose, protection, payment, perspective\n1.\tGroup discussion and presentation: People and Payment\n2.\tWrite up a Credit Analysis\n11-12\t1.\tNon Performing loan recovery and credit rating\n2.\tIntroduction of Trade Finance\n13-23\tBIG DATA in Corporate banking:\n1.\t大數據與FinTech於金融業應用介紹\n2.\t如何成為大數據潮流下所需的人才\n3.\tPython程式介紹與基礎語法\n4.\t網路爬蟲與資料爬取實作練習\n5.\t大數據於企業金融實務應用(一) -信用審查因子分析為例\n6.\t大數據於企業金融實務應用(二) -信用審查因子分析為例\n7.\t大數據於企業金融實務應用(三) -信用審查因子分析為例\n8.\t輿情分析專題演講\n9.     使用者經驗分享與實作\n24-29\tLearning by doing: an opportunity to interview corporate senior management.\n30\tEvaluation of Relationship Manager and the model",
+  "books": "無",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "Assignment (作業)\t32％\nClass Participation (出席率)\t8％\nPresentation (專題發表)\t30％\nRole Playing (角色扮演)\t30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-經濟學系、雙主修-經濟學系。年級:限三年級、四年級。"
+    }
+  ]
+}

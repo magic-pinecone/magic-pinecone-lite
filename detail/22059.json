@@ -1,0 +1,9 @@
+{
+  "serial_no": "22059",
+  "objectives": "量子資訊處理在計算與通訊方面展現出遠超古典資訊處理的效能優勢。在眾多實現量子資訊的物理平台中，量子光學系統透過編碼與操控光子的多種物理自由度，使單一光子能夠攜帶豐富的量子資訊，從而推動量子計算與量子通訊的發展。本課程將聚焦於量子光學系統在量子資訊處理中的應用，介紹利用光學技術實現量子計算與量子通訊的關鍵技術。透過這些討論，學生將初步理解光學量子系統在量子科技中的應用與實作，為進一步研究與發展奠定基礎。",
+  "content": "週次 Week\t日期Date\t單元主題 Topic\nWeek 1\t\tQuantization of the electromagnetic field\nWeek 2\t\tDiscrete variable quantum information processing\nWeek 3\t\tQuantum beam splitter\nWeek 4\t\tPhotons as information carriers\nWeek 5\t\tPhotons as information carriers\nWeek 6\t\tQuantum repeater: All-optical and memory-based protocol\nWeek 7\t\t期中考\nWeek 8\t\tAtom-field interaction: Quantum memory\nWeek 9\t\tAtom-field interaction: Quantum memory\nWeek 10\t\tContinuous variable quantum information processing\nWeek 11\t\tSqueezed state, two-mode squeezed state, and CV teleportation\nWeek 12\t\tQuantum state tomography: Homodyne detection\nWeek 13\t\tTime-frequency quantum information processing\nWeek 14\t\t期末報告\nWeek 15\t\t期末報告\nWeek 16\t\t期末考",
+  "books": "1. Kok, Pieter, and Brendon W. Lovett. Introduction to optical quantum information processing. Cambridge university press, 2010.\n2. Scully, Marlan O., and M. Suhail Zubairy. \"Quantum optics.\" (1999)\n3. Gerry, Christopher, Peter Knight, and Peter L. Knight. Introductory quantum optics. Cambridge university press, 2005.",
+  "teaching_method": "講授",
+  "grading_policy": "作業40% 、期末考30% 、期末報告: 30%",
+  "distribution_conditions": []
+}

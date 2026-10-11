@@ -1,0 +1,26 @@
+{
+  "serial_no": "41004",
+  "objectives": "Problem solving and decision making are important skills in all areas of management. This course introduces several quantitative concepts and computational tools used by managers to determine solutions to complex problems. Students will learn to determine which techniques are appropriate for solving various types of problems. We will cover solving deterministic models using linear and integer programming and problems will encompass elements of finance, operations management, and marketing domains. The emphasis of this course will be placed on formulating the problems and using computer spreadsheet applications to solve them.",
+  "content": "1.管理科學模型介紹\n2.線性規劃模型\n3.最適求解\n4.整數規劃模型\n5.線性規劃模型之應用\n6.線性方程式系統與矩陣",
+  "books": "1. Lawrence John A. and Pasternack Barry A., “Applied Management Science: Modeling, Spreadsheet Analysis, and Communication for Decision Making”, 2002(2e), Wiley.\n2. Raymond A. Barnett, Michael R. Ziegler, Karl E. Byleen, and Christopher J. Stocker, “Finite Mathematics for Business, Economics, Life Sciences, and Social Sciences”, 2020(14e), Pearson Education (華泰文化代理).",
+  "teaching_method": "講授",
+  "grading_policy": "期中考: 30％;\n期末考: 30％;\n小考: 10％ (2次, 每次5％);\n作業: 20％。\n學習態度5％。\n出席5％。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限二年級。班別:限B。身份:限非交換生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限三年級、四年級。班別:限B。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-企業管理學系、雙主修-企業管理學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

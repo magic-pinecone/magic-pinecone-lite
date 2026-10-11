@@ -1,0 +1,26 @@
+{
+  "serial_no": "33069",
+  "objectives": "(1) 介紹““現代控制““的核心概念\n(2) 以矩陣的一階常微分方程式描述線性系統的動態特性，進而探索矩陣的特徵所對應的動態特徵的物理意義。\n(3) 藉由矩陣形式的調整來做回授控制以便調整系統動態的特徵。",
+  "content": "-數學基礎 (特別是線性代數)",
+  "books": "課本: Linear System Theory and Design - Chen - 3rd\n參考書目1: Linear System Theory and Design - Chen - 2nd\n參考書目2: Robust and Optimal Control - Zhou, Doyle, and Glover, 1996",
+  "teaching_method": "講授",
+  "grading_policy": "第一次考試 30％\n\n第二次考試 30％\n\n報告 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限三年級、四年級。"
+    }
+  ]
+}

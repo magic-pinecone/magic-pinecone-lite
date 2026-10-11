@@ -1,0 +1,30 @@
+{
+  "serial_no": "53011",
+  "objectives": "了解類比通訊系統的調變與解調變，和雜訊及干擾對其所造成的影響。",
+  "content": "週次     內容\n1\t介紹、訊號模型和分類\n2\t傅立葉級數和傅立葉轉換\n3\t傅立葉轉換和功率頻譜密度\n4\t訊號和線性系統和取樣理論\n5\t雙邊帶調變、振幅調變和單邊帶調變\n6\t殘邊帶調變、線性調變之干擾和脈衝調變\n7\t角度調變訊號之調變\n8\t期中考\n9\t角度調變訊號之解調變\n10\t迴受解調變和角度調變之干擾\n11\t隨機程序\n12\t隨機程序和線性系統\n13\t線性調變之雜訊\n14\t角度調變之雜訊\n15\t線碼、符元間干擾和等化\n16\t期末考",
+  "books": "教科書(英文)：Principles of Communications: Systems, Modulation, and Noise, 7th edition,  R. E. Ziemer and W. H. Tranter, John Wiley ＆Sons, Inc., 2014\n參考書(英文)：Communication Systems, 4th edition, Simon Haykin, John Wiley ＆Sons, Inc., 2001",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "Midterm exam. 40％\nFinal exam. 40％\nHomework 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系、資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-通訊工程學系、雙主修-通訊工程學系、第二專長-通訊工程。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

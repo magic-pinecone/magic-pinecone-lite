@@ -1,0 +1,18 @@
+{
+  "serial_no": "08026",
+  "objectives": "為國高中生設計優質光學實驗",
+  "content": "學生必須學期設計有趣的光學實驗，以啟發國高中生的學習興趣。",
+  "books": "無",
+  "teaching_method": "實習/實驗\n個別指導",
+  "grading_policy": "出席率80％, 口頭報告20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系。"
+    }
+  ]
+}

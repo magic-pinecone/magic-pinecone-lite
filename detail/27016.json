@@ -1,0 +1,22 @@
+{
+  "serial_no": "27016",
+  "objectives": "本系列研討會的核心宗旨在於搭建前沿研究與學術對話的橋梁，透過邀請海內外頂尖專家學者，為本所注入國際化且最具前瞻性的科研視野。本課程旨在讓研究人員、教職員及高階研究生深入接觸認知神經科學領域的最新理論進展、創新實驗方法與重要實證發現。透過與頂尖科學家的面對面交流，與會者將能批判性地評估當前新興的科研趨勢——從先進的神經影像技術與計算模型，到臨床轉化醫學的應用——進而開拓跨學科研究合作的全新契機。",
+  "content": "本課程採取邀請特邀演講者（Guest Speakers）的動態模式，內容緊扣現代認知神經科學的核心領域。相較於固定的教科書單元，本系列研討會圍繞以下各大核心主題展開，並配合來訪專家的專業領域進行動態調整：\n- 進階神經架構與動力學 (Advanced Neural Architectures & Dynamics)\n探討高階認知功能的神經基質，包括記憶整合、執行功能、注意機制以及感官-運動整合（Sensory-Motor Integration）。\n\n-前沿實驗方法與神經資訊學 (Cutting-Edge Methodologies & Neuroinformatics)\n探索非侵入式神經影像技術（如 fMRI、fNIRS）、電生理學（如高密度 EEG/MEG）的最新突破，以及如何整合開源數據管線（如 OpenNeuro）以進行可重複性的腦科學數據分析。\n\n-計算模型與心靈哲學 (Computational Modeling & Philosophy of Mind)\n連結實證數據與理論框架，聚焦於預測編碼（Predictive Coding）、認知架構的功能主義觀點（Functionalist Perspectives），以及神經處理的神經網路與人工智慧模型。\n\n-轉化與臨床認知神經科學 (Translational & Clinical Cognitive Neuroscience)\n檢視基礎研究如何深化我們對神經、精神與發育障礙的理解，並探討針對性生物標記（Biomarkers）與神經調節干預手段的最新進展。",
+  "books": "不適用",
+  "teaching_method": "講授",
+  "grading_policy": "50% 出席\n50％ 課堂提問",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限認知神經科學研究所博士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限認知神經科學研究所博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限跨領域神經科學博士學位學程(台灣聯合大學系統)。"
+    }
+  ]
+}

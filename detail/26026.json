@@ -1,0 +1,9 @@
+{
+  "serial_no": "26026",
+  "objectives": "幫助學生在取得微光電無塵室使用權限前，對半導體製程技術有基本的認識。",
+  "content": "Material Properties; Doping and Diffusion; Photolithography; Oxidation and Thin Films Deposition;Annealing; Etching.",
+  "books": "Semiconductor Manufacturing Technology\nby Michael Quirk & Julian Serda, Pearson, ISBN: 978-986-154-117-4",
+  "teaching_method": "講授",
+  "grading_policy": "Homework: 30 %\nMidterm exam: 30 %\nFinal exam: 40 %",
+  "distribution_conditions": []
+}

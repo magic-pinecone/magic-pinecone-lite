@@ -1,0 +1,9 @@
+{
+  "serial_no": "25001",
+  "objectives": "“This course aims at introducing stochastic modeling, with a focus on Markov chain, Poisson processes, renewal theory, branching process, queuing system, and their applications.“",
+  "content": "“- Introduction\n- Conditional probability and conditional expectation\n- Markov chains\n- Poisson processes\n- Continuous time Markov chains\n- Renewal phenomena, Queuing theory, reliability theory\n- Brownian motion and stationary process\n- Simulation“",
+  "books": "“Textbook\nRoss, S. (2010) Introduction to Probability models, 11th Edition, Elsevier Taiwan LLC, Taipei.“",
+  "teaching_method": "講授",
+  "grading_policy": "“Participation 10％, Homework 20％, Exams 70％“",
+  "distribution_conditions": []
+}

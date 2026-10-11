@@ -1,0 +1,18 @@
+{
+  "serial_no": "51003",
+  "objectives": "本課程是” 計算機概論 I”的實習課程. 本課程將提供學生練習及精進C++程式設計的機會. 本課程之主要進行方式為在課堂上或課後完成指定的程式設計練習題, 並使用C++語言進行實作. 本課程之練習題將有助於學生完成” 計算機概論 I”的程式作業.本課程”不會”大量的講述程式設計理論,因此強烈建議選修此課程同學同時選修” 計算機概論 I”課程. 修習此課程的學生將預期花費”極大量”時間進行解題思考,程式撰寫,程式問題修正,以及尋找/閱讀相關補充資料. 本課程是為了電機系的大一新生所設計的,loading繁重,且會需要電機系大一其他必修課程的相關知識,對於非電機系但想選修此課程的同學,請務必謹慎思考,同時亦需要自行補足本課程所用到的電機相關基礎知識.在修習完此課程後,同學的問題解決與程式實作能力將會有顯著的提升. 你將預期能擁有獨立設計小型系統的程式撰寫能力.",
+  "content": "Chapter 1 - Introduction to Computers\nChapter 2 - Introduction to C++ Programming\nChapter 3 - Control Statement: Part 1\nChapter 4 - Control Statement: Part 2\nChapter 5 - Functions\nChapter 6 - Arrays and Vectors\nChapter 7 - Pointers\nChapter 8 - Sequential-Access Files\nChapter 22 - Bits, Characters, C Strings and structs s\nChapter 9 - Classes\nChapter 10 - Classes: A Deeper Look",
+  "books": "Reference book: Paul Deitel and Harvey Deitel. C++ How to Program. Tenth Edition. 2017.",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導\n其他",
+  "grading_policy": "Lab Assignment 60％\nMidterm Exam 10％\nFinal Exam 20％\nAttendance 10％\nBonus Points ??％\n(Tentative)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限一年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

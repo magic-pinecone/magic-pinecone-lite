@@ -1,0 +1,22 @@
+{
+  "serial_no": "41007",
+  "objectives": "介紹傳統的成本會計的成本計算、帳務處理、成本分析；同時，亦介紹成本會計現行管理新課題、有助未來修習管理會計課程。",
+  "content": "1. 分批成本制\n2. 分步成本制\n3. 材料\n第一次段考\n4. 製造費用\n5. 支援作業成本分攤與聯成本\n6. ABC/ABM\n7. 成本習性與成本估計\n第二次段考\n8. 變動成本法與ESGCh\n9. 標準成本制與直接成本分析\n10. 彈性預算與製造費用分析\n第三次段考",
+  "books": "1. Ronald W. Hilton/ David E. Platt, Managerial Accounting, The International Student Edition, 13e, McGraw-Hill, 2023.\n\n2. William K. Carter, Jin Fa Hwang, Sheng Te Chou: Cost Accounting-- An Asia Edition, Cengage Learning Asia Pte Ltd, Taiwan Branch, Taipei, 2015.",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "1.三次段考    66% (3*22%)\n2.三次小考    24% (3*8%)\n3.點名            11%\n4.不定期臨時小考(額外加分)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限三年級。班別:限A。身份:限非交換生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限四年級。班別:限A。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-企業管理學系、雙主修-企業管理學系、學分學程-會計。"
+    }
+  ]
+}

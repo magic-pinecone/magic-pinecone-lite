@@ -1,0 +1,14 @@
+{
+  "serial_no": "34030",
+  "objectives": "(1) 使學生了解製備奈米尺度薄膜材料之各式製程設備及製備技術。\n(2) 使學生了解奈米薄膜材料之基本晶體顯微結構。\n(3) 使學生了解奈米薄膜與基材間界面反應之相變化與生成動力學。\n(4) 使學生了解製備奈米薄膜元件之製程及其應用。\n(5) 使學生獲得分析奈米薄膜材料之各式儀器原理及鑑定技術。",
+  "content": "(1) 奈米薄膜之定義、種類及其製程技術。\n(2) 奈米薄膜之成核成長機制及生成動力學。\n(3) 奈米薄膜之界面反應及其相變化。\n(4) 奈米薄膜顯微結構、成分組成與性質之分析檢測技術。\n(5) 奈米薄膜元件整合實例介紹及專題報告",
+  "books": "“““Materials Science of Thin Films““, 2nd Ed., (2002), Milton Ohring, Academic Press.\n““VLSI製造技術““，(2002)，莊達人編著，高立圖書公司出版。\n““Transmission Electron Microscopy““, D. B. Williams and C. B. Carter, (2nd edition, 2009), Springer.\n相關期刊論文。“",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "考試 50％\n報告 40％\n出席 10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系碩士班、化學工程與材料工程學系博士班、化學工程與材料工程學系工學博士班。"
+    }
+  ]
+}

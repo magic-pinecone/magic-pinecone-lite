@@ -1,0 +1,18 @@
+{
+  "serial_no": "35003",
+  "objectives": "讓學生熟悉基礎之營建規劃知識與技巧、排程及成本控制之技術。",
+  "content": "“1. 要徑法計算\n1.1 排程工具複習\n1.2 要徑法浮時計算\n1.3 邏輯網圖的計算(提前與延遲)\n\n2. 排程技術\n2.1 柵欄網狀圖\n2.2 排程過程與限制\n2.3 ADI(Activity Definition Index)\n2.4 VPM(Vertical Production Method)\n2.5 ABSS(Automatic Schedule Generations)\n\n3. 時程控制\n3.1 時程控制\n3.2 時間/成本互換\n\n4.成本控制\n4.1 現金流量分析\n4.2 成本控制與實獲值分析\n\n5.資源管理“",
+  "books": "無",
+  "teaching_method": "講授",
+  "grading_policy": "“作業50％\n期中考20％\n期末考20％\n期末報告10％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系營建管理碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系營建管理博士班。"
+    }
+  ]
+}

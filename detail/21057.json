@@ -1,0 +1,18 @@
+{
+  "serial_no": "21057",
+  "objectives": "本課程旨在介紹糾錯編碼（Error-Correcting Codes）的數學基礎與基本原理。課程著重於引導學生運用「線性代數」與「有限體」等代數工具，建構、分析並實作線性碼。學生將掌握通訊在面對雜訊干擾時如何進行數據偵錯與修正，為後續深入研讀進階編碼理論或通訊工程奠定嚴謹的理論基石。",
+  "content": "各單元分項教學目標 (Unit-Specific Learning Objectives)：\n• 編碼學導論與核心問題 (Introduction & The Main Coding Theory Problem)： 精確理解糾錯編碼的基本架構與「編碼學核心問題」，掌握如何平衡「傳輸速率、編碼長度與糾錯能力」三者間的權衡關係。\n• 有限體與向量空間基礎 (Finite Fields & Vector Spaces)：掌握有限體（Finite Fields）的建構、算術運算，以及有限體上向量空間的結構性質，奠定代數編碼所需的數學工具。\n• 線性碼基礎與編解碼 (Linear Codes: Encoding & Decoding)：深刻理解線性碼（Linear Codes）的定義與特性，並熟練運用生成矩陣（Generator Matrix）進行數據的編碼與基本解碼。\n• 對偶碼與校驗矩陣 (The Dual Code & Parity-Check Matrix)：精通對偶碼（Dual Code）與對稱校驗矩陣（Parity-Check Matrix）的推導，並熟練操作「隨式解碼（Syndrome Decoding）」以實現高效偵錯。\n• 漢明碼 (The Hamming Codes)：深入解析經典的漢明碼（Hamming Codes）結構，掌握其完備碼（Perfect Codes）的幾何幾率特性與一維錯誤修正的實務應用。",
+  "books": "A First Course in Coding Theory, Raymond Hill",
+  "teaching_method": "講授",
+  "grading_policy": "Exam 1: 35%\nExam 2: 35%\nExam 3: 35%\nattendance: 10%\nTotal: 115% (includes 15% bonus credit)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限三年級、四年級。"
+    }
+  ]
+}

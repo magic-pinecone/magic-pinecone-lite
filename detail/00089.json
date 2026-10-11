@@ -1,0 +1,18 @@
+{
+  "serial_no": "00089",
+  "objectives": "修完本課程，學生應能:\n1.\t提升學術英文字彙能力，並運用於理解學術文章及期刊論文。\n2.\t分析英文學術論文之修辭目的、目標讀者、組織架構、與寫作風格。\n3.\t運用批判性閱讀策略，評估英文學術論文中論點與證據之關係。\n4.\t有效運用人工智慧工具，促進英文學術論文之批判閱讀與理解。",
+  "content": "第1週：課程介紹\n第2週：學術英語的四大特徵\n第3週：學術閱讀與期刊論文概述\n第4週：批判性閱讀（一）：辨識論點與支持證據\n第5週：批判性閱讀（二）：評估論證強度與可信度\n第6週：批判性閱讀（三）：比較與整合文本\n第7週：學術文章分析任務（初稿）\n第8週：AI 工具輔助批判性分析（修訂與反思）\n第9週：小組報告\n第10週：學術論文結構解析（IMRaD）\n第11週：修辭分析（一）：摘要\n第12週：修辭分析（二）：研究目的與文獻回顧\n第13週：修辭分析（三）：研究方法與結果呈現\n第14週：期刊論文分析任務（初稿）\n第15週：AI 工具輔助批判性分析（修訂與反思）\n第16週：期末專題作業",
+  "books": "Johnson, B. (2004) The Reading Edge: Thirteen Ways to Build Reading Comprehension. Bookman Books, Ltd.\n\nWallace, M., & Wray, A. (2021). Critical Reading and Writing for Postgraduates. Sage Publications.",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "1.\t出席與參與                  10%\n2.\t學術文章分析任務      30%\n3.\t隨堂小考                      20%\n4.\t分組報告                      20%\n5.\t期末作業                      20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "24050",
+  "objectives": "每周二邀請國內外專家學者蒞校演講，讓學生了解全球生命科學及生技產業發展趨勢，透過與國際學者互動，拓展學生國際視野，並藉以啟發學生創新思考能力，以升學生學習興趣並期與職涯接軌。",
+  "content": "近期公布",
+  "books": "NO",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "注意事項: 1. On-time attendance is required for all students Early dismissal or late arrival (10 minutes) equals to the unexcused absence (遲到或早退十分鐘（含）以上者視同該次曠課) 2. A written leave request signed by the supervisor is required for any leave of absence (請假假條需載明事由,經指導老師簽名後交給負責課程的老師) 3. Sick, maternity or bereavement leave: Request for leave in 7 days after the absence （喪病假七天內繳交假條） 4. Personal leave :Request for leave in 3 days before the absence （事假須於三天前繳交假條） 5. Pleases hand in the answer sheet for the assay questsion after the class.6. The final grade point=65+ 5x (the number of questions raised in QA time)-5x (cumulative unexcused absences) (學期總成績 ＝ 65 +（發問次數）x 5 -（曠課次數）× 5) 7. 由專題演講小助教負責點名及登記發問次數 （課後發問或email發問不予計算） 8. 除非指導老師具名說明，否則不接受課後請『事假』（喪病假除外）。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。年級:限一年級、二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限碩士班、博士班。"
+    }
+  ]
+}

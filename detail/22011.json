@@ -1,0 +1,9 @@
+{
+  "serial_no": "22011",
+  "objectives": "By analyzing classical mechanical systems with vector calculus and linear algebra, the main objective of this course is to prepare the students for more advanced physics courses.",
+  "content": "1. Newton’s Laws of Motion\n2. Projectiles and Charged Particles\n3. Momentum and Angular Momentum\n4. Energy\n5. Oscillations\n6. Lagrange's Equations\n7. Rotational Motion of Rigid Bodies\n8. Coupled Oscillators and Normal Modes\n9. Hamiltonian Mechanics\n10. Two-Body Central-Force Problems",
+  "books": "Main textbook: Classical mechanics by John R. Taylor\nReferences:\n1. Essential University Physics by Richard Wolfson\n2. Classical Mechanics: the theoretical minimum by G. Susskind and L. Hrabovsky\n3. Classical Mechanics by Tom W.B. Kibble and Frank H. Berkshire\n4. Mechanics by L.D. Landau and E.M. Lifshitz\n5. Introduction to Classical Mechanics With Problems and Solutions by David Morin",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Oral Presentations, Class Attendance, Participation, and Performance: 20％\nReports, Exams: 60％\nDiscussions: 20％",
+  "distribution_conditions": []
+}

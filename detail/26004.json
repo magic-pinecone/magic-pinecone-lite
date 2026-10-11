@@ -1,0 +1,26 @@
+{
+  "serial_no": "26004",
+  "objectives": "學生掌握基本的電磁理論知識將可解決相關問題. 這些知識也可幫助他學習其他進階課程.",
+  "content": "1.向量分析 2.電場, 電位(勢), 與電場能量 3.拉普拉斯方程, 帕松方程, 與多極展開 4.介電質中的電場 5.靜磁學, 向量勢, 與磁場能量 6.物質中的磁場",
+  "books": "Textbook:\nDavid J. Griffiths, Introduction to electrodynamics, 5th Edition\n\nReferences:\n1. David K. Cheng, Field and Wave Electromagnetics, 2nd Ed.\n2. Richard P. Feynman, Feynman Lecture on Physics, Vol.II",
+  "teaching_method": "講授",
+  "grading_policy": "期中考(35%), 期末考(35%), 作業(30%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系。年級:限非二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限輔系-光電科學與工程學系、雙主修-光電科學與工程學系。"
+    }
+  ]
+}

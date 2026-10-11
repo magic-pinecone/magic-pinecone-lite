@@ -1,0 +1,22 @@
+{
+  "serial_no": "22018",
+  "objectives": "了解物理的基本原理和定律，熟悉理論推導與應用計算，培養學習進階物理的能力",
+  "content": "一、力學\n二、周期運動，波動，流體\n三、熱力學",
+  "books": "R. Wolfson, Essential University Physics, 4th ed.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "段考90％  平時成績10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限大氣科學學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限大氣科學學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

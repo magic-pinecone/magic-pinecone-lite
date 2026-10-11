@@ -1,0 +1,26 @@
+{
+  "serial_no": "21024",
+  "objectives": "本課程將介紹構成現代數學的基本概念，並協助學生熟悉數學證明的操作。",
+  "content": "本課程將介紹構成現代數學的基本概念，並協助學生熟悉數學證明的操作。主要內容包括：\n1. 邏輯與集合論\n2. 基礎整數論\n3. 數學歸納法\n4. 函數的基本概念\n5. 函數的極限與連續性\n6. 集合的基數\n本課程將透過上述主題培養學生的抽象思考能力，並奠定後續修習高等數學課程所需的基礎。",
+  "books": "A Transition To Advanced Mathematics, 8th edition, by Douglas smith, Maurice Eggen, and Richard St. Andre",
+  "teaching_method": "講授",
+  "grading_policy": "小考 30%\n期中考 35%\n期末考 35%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限一年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限雙主修-數學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限數學系、理學院學士班。年級:限非一年級。"
+    }
+  ]
+}

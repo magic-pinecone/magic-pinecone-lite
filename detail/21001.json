@@ -1,0 +1,22 @@
+{
+  "serial_no": "21001",
+  "objectives": "\"學習微分與積分的基本知識, 培養列式, 求解及解釋問題的應用能力\"",
+  "content": "\"In this course, we will study the following topics:1. Functions and Models.2. Limits: definition of a limit, continuity.3. Derivatives: differentiation rules, derivatives of trigonometric functions, chain rule, implicit differentiation, etc.4. Applications of Differentiation: extreme values, mean-value theorem, monotonic fucntions, concavity, optimization problems, Newton method, antiderivatives, etc.5. Integrals: definite integral, fundamental theorem of calculus, indefinite integrals, substitution rule, etc.6. Applications of Integration: areas, volumes, arc length, area of a surface of revolution, work, etc.7. Inverse Functions: natural logarithms, exponential functions, inverse trigonometric functions, hyperbolic functions, etc.8. Techniques of Integration: integration by parts, partial fractions, trigonometric integrals, trigonometric substitutions, improper integrals, etc.\"",
+  "books": "\"G. B. Thomas, Calculus, Fourteenth Edition.\"",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "\"平時考試(20%)\n期中考試(25%,25%)\n期末考試(30%)\n學期上課以16週原則，如課程需要將利用第 17 週及第 18 週彈性補充教學。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限一年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

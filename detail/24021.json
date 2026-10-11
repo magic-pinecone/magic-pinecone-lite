@@ -1,0 +1,18 @@
+{
+  "serial_no": "24021",
+  "objectives": "神經生物學課程旨在講授神經細胞之生理、生化，及各類神經系統包括感官、動作、睡眠、情緒、學習等。",
+  "content": "時間 \t課程主題\n1. Organization of the vertebrate brain\n2.Cellular elements and organization of the nervous system\n3.Neurophysiology: resting potential/ action potential\n4. Neurophysiology: synaptic transmission\n5.Visual system\n6.Auditory system\n7.Motor system\n8.Mid-term report (No class)\n9. Chemical control of the Brain and Behavior\n10.Motivation\n11.Emotion\n12.Circadian rhythm and sleep\n13.Memory system\n14.Oral presentation\n15.Oral presentation\n16.Oral presentation\n18.Reading assignment ＆ final report (自主學習)",
+  "books": "Neuroscience: Exploring the Brain, Fourth Edition by Bear et al. (2015)\nCase Files Neurology, Third Edition by Toy et al. (2017)\nCase Files Neuroscience, Second Edition by Toy et al. (2014)",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "期中報告\t30％\n口頭報告\t25％\n期末報告\t30％\n出席\t15％\n總分\t100％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系、生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班、碩士班、博士班。"
+    }
+  ]
+}

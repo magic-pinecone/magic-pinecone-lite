@@ -1,0 +1,14 @@
+{
+  "serial_no": "51047",
+  "objectives": "增進電波組學生之研究素養",
+  "content": "- 研究生上台報告自身研究及同儕互評\n- 校外講者介紹電波領域新知",
+  "books": "無",
+  "teaching_method": "研討",
+  "grading_policy": "100% by 指導教授",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系碩士班、電機工程學系博士班。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "21005",
+  "objectives": "學習微分與積分的基本知識, 培養列式, 求解及解釋問題的應用能力",
+  "content": "In this course, we will study the following topics:\n1. Functions and Models.\n2. Limits: definition of a limit, continuity.\n3. Derivatives: differentiation rules, derivatives of trigonometric functions, chain rule, implicit differentiation, etc.\n4. Applications of Differentiation: extreme values, mean-value theorem, monotonic functions, concavity, optimization problems, Newton method, antiderivatives, etc.\n5. Integrals: definite integral, fundamental theorem of calculus, indefinite integrals, substitution rule, etc.\n6. Applications of Integration: areas, volumes, arc length, area of a surface of revolution, work, etc.\n7. Inverse Functions: natural logarithms, exponential functions, inverse trigonometric functions, hyperbolic functions, etc.\n8. Techniques of Integration: integration by parts, partial fractions, trigonometric integrals, trigonometric substitutions, improper integrals, etc.\n9. Sequences and Series\n10. Application of calculus in general physics problems: energy conservation and conservative forces, oscillations, waves",
+  "books": "1. Thomas' Calculus, 14th Edition (Early Transcendentals)\n2. Any general physics textbook (eg. by Benson, Wolfson, etc. )",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "小考40% (包含微積分和普物裡相關微積分的部份)\n期中考30%\n期末考30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限物理學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "32013",
+  "objectives": "增進微分方程數學分析之能力",
+  "content": "1. First-Order O.D.E.2. Second-Order O.D.E.3. Laplace Transforms4. Series Solutions of O.D.E.5. Systems of O.D.E.",
+  "books": "“Erwin Kreyszig (2011) “Advanced Engineering Mathematics 10th edition” John Wiley ＆ Sons, Inc.“",
+  "teaching_method": "講授",
+  "grading_policy": "Homework 30\nIn-Class Exercise 20\nMid-Term Exam 25\nFinal Exam 25",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限二年級。班別:限B。指定課程:必須先修MA1004。且檢定指定課程平均成績達50分以上。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限三年級、四年級。指定課程:必須先修MA1004。且檢定指定課程平均成績達50分以上。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。指定課程:必須先修MA1004。且檢定指定課程平均成績達50分以上。"
+    }
+  ]
+}

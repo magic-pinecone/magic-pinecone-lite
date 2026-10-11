@@ -1,0 +1,9 @@
+{
+  "serial_no": "26040",
+  "objectives": "近代光學工程是醫學、半導體、手機、監控、機器視覺和航天工業的前沿技術。 本課程將教學生如何設計光學系統，將這些設計轉化為真正的光學元件，並對其進行測試。",
+  "content": "1\tIntroduction\n2\tOptics fundamentals: light waves, basic principles, interference and diffraction\tLecture 1\n3\tOptics fundamentals: (continue)\tLecture 2\n4\tImage formation: paraxial raytracing, principal points, thin lens and mirrors\tLecture 3\n5\tImage formation: (continue)\tLecture 4\n6\tOptical components: lenses, mirrors, prisms\tLecture 5\n7\tAberrations and image evaluation\tLecture 6\n8\tOptical materials and coatings\tLecture 7\n9\tBasic optical devices: magnifying glass, microscopes, telescopes\tLecture 8\n10\tOptical systems: generals and particular\tLecture 9\n11\tDesign of optical components and systems\tLecture 10\n12\tDesign and evaluation with software: OpticStudio\tLecture 11\n13\tNCU Marathon Day\tNo Class\n14\tOptical metrology\tLecture 12\n15\tOptical manufacturing 1: crafts to CNC machining\tLecture 13\n16\tOptical manufacturing 2: Large Optics, extreme challenges\tLecture 14\nE1\tFinal Report/ Project (Oral)\nE2\tFinal Report/ Project (Oral) Cont’",
+  "books": "E. Hecht:\t\t\t\t\tOptics 5th Ed 2016\nM. Born and E. Wolf:  \t\tPrinciples of Optics 7th Ed 2002",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "期中報告\t\t50％\n期末報告\t\t50％",
+  "distribution_conditions": []
+}

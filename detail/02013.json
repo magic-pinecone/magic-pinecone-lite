@@ -1,0 +1,9 @@
+{
+  "serial_no": "02013",
+  "objectives": "2021-2030年是聯合國海洋永續發展的關鍵十年，本課程主要介紹遙感觀測海洋的機理及其在海洋學中的應用。海洋遙測是理解全球海洋系統的重要工具之一。本課程將藉由真實存在的海洋現象來讓同學了解海洋遙測的原理及資料的應用。同學在課程中可以同時認識海洋現象和基本的海洋性質。本課程包括基礎輻射物理學、海水表面溫度、紅外光與可見光遙感、海水表面鹽度與微波遙感、洋流與渦流、合成孔徑雷達和波浪、海面風場、行星波與大尺度海洋動力學、人類影響的大型海洋現象等。最後本課程有三週的MATLAB實作課程，讓同學們實際接觸到海洋衛星資料的處理與繪圖。\n\n(本課程不限任何科系背景，歡迎大學部選修)",
+  "content": "Week 1 (2026/09/09) 課程介紹\nWeek 2 (2026/09/16) 海洋遙測簡介、輻射物理學\nWeek 3 (2026/09/23) 影像與海洋水色\nWeek 4 (2026/09/30) 海水溫度與熱紅外遙測\nWeek 5 (2026/10/07) 可見光遙測\nWeek 6 (2026/10/14) MATLAB課程 I\nWeek 7 (2026/10/21) 海水鹽度與微波遙測\nWeek 8 (2026/10/28) 期中作業 (停課)\nWeek 9 (2026/11/04) 海洋流場與渦旋\nWeek 10 (2026/11/11) 合成孔徑雷達與波浪\nWeek 11 (2026/11/18) MATLAB課程 II\nWeek 12 (2026/11/25) 海面風場, 湧升流\nWeek 13 (2026/12/02) MATLAB課程 III\nWeek 14 (2026/12/09) 海洋鋒面、陸棚、海灣與沿岸、行星波動與大尺度海洋動力、人類影響的海洋現象\nWeek 15 (2026/12/16) 期末口頭報告\nWeek 16 (2026/12/23) 期末書面報告",
+  "books": "Campbell, J. B., ＆ Wynne, R. H. (2011). Introduction to remote sensing. Guilford Press.Elachi, C., ＆ Van Zyl, J. J. (2021). Introduction to the physics and techniques of remote sensing. John Wiley ＆ Sons.Lillesand, T., Kiefer, R. W., ＆ Chipman, J. (2015). Remote sensing and image interpretation. John Wiley ＆ Sons.Maul, G. A. (2012). Introduction to satellite oceanography (Vol. 3). Springer Science ＆ Business Media.Zheng, Q. (2017). Satellite SAR Detection of Sub-mesoscale Ocean Dynamic Processes (Vol. 44). World Scientific.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Midterm Homework 50％\nFinal Report 50％",
+  "distribution_conditions": []
+}

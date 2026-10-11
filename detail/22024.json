@@ -1,0 +1,18 @@
+{
+  "serial_no": "22024",
+  "objectives": "了解物理的基本原理和定律 熟悉理論推導與應用計算 培養學習進階物理的能力",
+  "content": "力學\n流體力學\n熱力學",
+  "books": "Essential University Physics Vol. 1 by R. Wolfson, (Pearson Education, Inc.)",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "習題繳交佔總成績30%、期中考試佔30%、期末考試佔35%，學習態度佔5%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系、化學學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系、化學學系。年級:限非一年級。"
+    }
+  ]
+}

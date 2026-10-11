@@ -1,0 +1,14 @@
+{
+  "serial_no": "60013",
+  "objectives": "Introduction to scientific programming with Python.",
+  "content": "Designed for absolute beginners with no prior programming experience, this course utilizes a flipped-classroom model. Students are expected to review online videos and reading materials prior to attending. During class, students will bring their own laptops to complete hands-on exercises that extensively incorporate AI coding agents.",
+  "books": "Introduction to Scientific Programming with Python, by Joakim Sundnes, Springer, 2020 (https://doi.org/10.1007/978-3-030-50356-7)\nScipy Lecture Note (https://scipy-lectures.org/)",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "50% Homework, 20% Classroom participation, 30% Final project",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球系統科學國際研究生博士學位學程。"
+    }
+  ]
+}

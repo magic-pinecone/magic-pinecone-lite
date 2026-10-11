@@ -1,0 +1,18 @@
+{
+  "serial_no": "52023",
+  "objectives": "完成本課程後，學習者能夠：\n1.\t了解5G網路架構與核心技術及其資安意涵\n2.\t分析5G系統中可能面臨的威脅與弱點（包括核心、RAN、MEC、切片、API 等）\n3.\t根據國際標準（3GPP、GSMA NESAS、NIST、ETSI）實作防禦機制\n4.\t在5G環境中應用零信任架構（Zero Trust）\n5.\t剖析真實世界攻擊案例並執行攻防演練\n6.\t規劃安全5G部署方案",
+  "content": "模組一：5G網路架構與核心技術\n\t3GPP定義的5G系統架構：5GC、RAN、gNB、UPF、AMF、SMF\n模組二：5G威脅情勢與攻擊面分析\n\t各層面潛在攻擊面：空中介面、核心網、邊緣、API\n模組三：5G資安標準與法規遵循\n\t3GPP TS 33.501 資安架構\n\tGSMA NESAS 與 SCAS 評鑑架構\n模組四：核心網與無線接取網（RAN）資安防護\n\t身份驗證與隱私保護：SUCI/SUPI、5G-AKA\n\t控制面與使用者面之加密與防護\n模組五：MEC與物聯網（IoT）在5G下的資安\n\t邊緣運算MEC架構與風險場景\n\t邊緣節點信任機制與存取控\n模組六：網路切片與API安全\n\t切片隔離策略與多租戶資安問題\n\t切片攻擊場景與對應防禦機制\n\tAPI安全實務（OAuth、API閘道防護）\n模組七：5G資安防禦架構與實務對策\n\t將零信任架構應用於5G網路\n\t安全控制平面與SDN/NFV之資安設計",
+  "books": "A Comprehensive Guide to 5G Security\n全方位涵蓋5G網路與裝置的資安設計與實作，包括過去3G/4G的對應安全模型與演進方向。\n© 2024 John Wiley & Sons, Ltd",
+  "teaching_method": "講授",
+  "grading_policy": "1.期中測驗（Midterm Exam）著重於模組1～3的理論與標準知識 40%\n2.課後作業（Assignments）20%\n每模組的小型作業（如威脅清單、協定分析、案例分析）\n3. 期末考試（Final Exam）與書面報告內容包含威脅建模、安全架構設計與事件應變計畫；需繳交書面報告40 %",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊電機學院學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

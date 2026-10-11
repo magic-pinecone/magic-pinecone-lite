@@ -1,0 +1,14 @@
+{
+  "serial_no": "49007",
+  "objectives": "**先修課程：財務會計(必要)、審計學(建議)\n“本課程旨於介紹及討論與會計領域相關之資訊管理議題 (本課程以英語授課)，以期學生1. 取得會計資訊系統相關知識2. 關聯性資料庫結構與SQL語法 3. 了解視覺化分析於會計的應用與操作 4. 認識自動化流程機器人的操作與影響“",
+  "content": "“(暫定，依授課進度調整)1. 會計資訊系統簡介 2. 關聯性資料庫與會計資訊系統 3. SQL 4. 資料分析與視覺化 5. 自動化流程機器人“",
+  "books": "課堂指定之文獻及教材",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Attendance ＆ participation 30％\nMidterm 25％\nTableau case 15％\nFinal term project and presentation 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限會計研究所碩士班。"
+    }
+  ]
+}

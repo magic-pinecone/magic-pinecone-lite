@@ -1,0 +1,18 @@
+{
+  "serial_no": "25005",
+  "objectives": "“教授學生專門的統計方法以處理類別資料,並運用於生物醫學及社會科學.“",
+  "content": "Introduction\nContingency table\nGeneralized linear model\nLogistic regression\nBuilding and applying logistic regression models\nMulticategory logit model\nLoglinear models for contingency table\nModels for matched pairs",
+  "books": "“離散資料分析An introduction to categorical data analysis, by Agresti A., 2007. Wiley“",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "“Attendance  20％\nMidterm      35％\nFinal           45％\n出席 20 ％                期中 35 ％               期末  45  ％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。指定課程:必須先修ST6021。且檢定指定課程平均成績達70分以上。"
+    }
+  ]
+}

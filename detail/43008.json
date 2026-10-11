@@ -1,0 +1,26 @@
+{
+  "serial_no": "43008",
+  "objectives": "本課程介紹Python程式語言的使用概念, 並引領同學撰寫與管理議題相關的程式. 課程將涉略敘述統計, 資料視覺化, 計量迴歸以及機器學習等概念, 並讓學生具備基本程式設計, 資料蒐集及資料分析的能力",
+  "content": "1. 程式設計與Python程式語言簡介\n2. 開發介面簡介, 變數類型及基本運算\n3. 資料型別, Numpy及Pandas套件 (list, dictionary, array, Series及DataFrame)\n4. 迴圈, 條件式, Function與Class\n5. 讀寫Excel檔案, 資料的合併, 排序與分組\n6. 單一變數及多變數的敘述性統計\n7. 資料視覺化工具\n8. ANOVA及迴歸分析\n9. 機器學習相關套件簡介",
+  "books": "自編教材",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "期中project 35％, 期末project 35％, 平時成績(出缺席, 作業, 課堂表現) 30％, 可能視學習狀況調整",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限學分學程-金融科技、學分學程-人工智慧探索應用。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

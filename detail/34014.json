@@ -1,0 +1,18 @@
+{
+  "serial_no": "34014",
+  "objectives": "本課程旨在訓練學生統整化學工程所學之知識，應用於整廠程序設計。學生將學習設計反應、分離與熱交換等單元，並能熟練運用程序模擬軟體(Aspen Plus®)進行設計、優化與經濟評估。此外，課程將引導學生關注產業時事與全球永續發展趨勢，並能將其融入設計思維。學生將針對由台灣化學工程師學會（TwIChE）競賽主題，進行程設問題的探討。",
+  "content": "1. 課程介紹：化工程序設計與產業時事之連結\n2. 程序設計概念介紹\n3. 程序經濟學介紹\n4. 道格拉斯程序概念第一級\n5. 道格拉斯程序概念第二級\n6. 道格拉斯程序概念第三級\n7. 道格拉斯程序概念第四級\n8. 非共沸混合物蒸餾設計\n9. 共沸混合物蒸餾設計\n10. 熱整合\n11. 整廠程序控制\n12. 程序優化\n13. 經濟可行性評估\n14. 培訓：運用 Aspen Plus® 解決與產業時事相關的實際工程問題",
+  "books": "Chemical Process: Design and Integration, Second Edition, Robin Smith, Wiley.\nConceptual Design of Chemical Processes by Jim Douglas (New York: McGraw-Hill, 1988).\nConceptual Design of Distillation Systems by Mike Doherty and Mike Malone (New York: McGraw Hill, 2001).\nAnalysis, Synthesis and Design of Chemical Processes (4th Edition) by Richard Turton, Richard C. Bailie, Wallace B. Whiting, Joseph A. Shaeiwitz, and Debangsu Bhattacharyya (Upper Saddle River, NJ: Prentice Hall; 2012)\n工程序設計概論, 呂維明、錢義隆、黃孝平、余政靖,高立圖書",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "上課參與及表現 : 20％\n文獻選讀口頭報告: 20%\n期末口頭報告: 25%\n期末書面報告: 35%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

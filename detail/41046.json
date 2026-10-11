@@ -1,0 +1,18 @@
+{
+  "serial_no": "41046",
+  "objectives": "本課程旨在培養學生以策略管理理論為核心，運用文本探勘方法分析美國上市公司 earnings call 逐字稿。學生將透過閱讀相關經典與最新研究文獻，學習如何從企業高階主管的語言中發掘策略意涵、投資者認知，以及企業績效之間的關聯，並以研究專題報告形式展現成果。",
+  "content": "導論：策略管理研究與文本資料（以 earnings calls 為例）\n\n文獻導讀：CEO/CFO 語言風格、語言信號與投資人反應（參考 AMJ、SMJ、JoM 等期刊文章）\n\n方法介紹：文本探勘與內容分析方法\n\n理論視角：\n\nUpper Echelons Theory（高階主管理論）\n\nSignaling Theory（訊號理論）\n\nLanguage and Sensemaking（語言與意義建構）\n\nStrategic Leadership & CEO Celebrity\n\n專題設計：學生分組選擇公司或主題，進行 earnings call 文本分析\n\n專題報告：呈現研究發現，連結策略管理理論與實證分析",
+  "books": "學生需閱讀並討論以下具代表性的策略管理與語言研究文獻，作為專題研究的理論與方法基礎：\n\nShi et al. (2019). Examination of CEO–CFO social interaction through language style matching (AMJ).\n\nGuo et al. (2020). Rivals’ negative earnings surprises, language signals, and firms’ competitive actions (AMJ).\n\nGuo et al. (2021). The impact of executive verbal communication on the convergence of investors’ opinions (AMJ).\n\nUm et al. (2022). The downside of CFO function-based language incongruity (AMJ).\n\nZhang et al. (2023/2024). Screening theory and its boundaries (AMJ).\n\nKönig et al. (2025). Good fun or laughingstock? How CEO humor affects infomediaries’ social evaluations (AMR).\n\nBafera & Kleinert (2023). Signaling theory in entrepreneurship research: A systematic review (ET&P).\n\nLiu et al. (2025). Fifty years of research on leader communication (The Leadership Quarterly).\n\nPan et al. (2018). Give us straight talk: CEO candor and market reaction (SMJ).\n\nPollock et al. (2024). Not like the rest of us: How CEO celebrity affects earnings call language (JoM).\n\nChoudhury (2019). Machine learning approaches to facial and text analysis (SMJ).\n\nGuo-yu et al. (2024). What do investors value? A multidisciplinary review (JoM).\n\nWhittle et al. (2023). The role of language in organizational sensemaking (JoM).\n\nConnelly et al. (2011). Signaling theory: A review and assessment (JoM).",
+  "teaching_method": "研討",
+  "grading_policy": "課堂參與 20%、文獻報告 30%、期末專題 50%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系碩士班、企業管理學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。"
+    }
+  ]
+}

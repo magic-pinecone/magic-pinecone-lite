@@ -1,0 +1,18 @@
+{
+  "serial_no": "62028",
+  "objectives": "教授板塊構造研究的基礎概念與延伸應用，以奠定學生進行相關研究之基礎。",
+  "content": "“以Global Tectonics教科書內容為主軸，講授板塊構造學說的基本知識，以基本地質地物方法起始介紹被動大陸邊緣、隱沒帶構造、中洋脊與轉型板塊邊界構造等研究，並按課程進度視情況延伸至各種板塊邊界所可能產生之地質災害探討。將介紹continental drift, seafloor spreading and transform fault, ocean ridges, rifted margins, orogenic belts 及 geo-hazards等等研究內容。該課程為已具備基礎地質及地球物理理論及探勘知識能力的進階課程，建議大三以上程度學生修習。“課程授課將以英文為主中文為輔，漸進式達成全英語教學目標。",
+  "books": "“Global Tectonics Third Edition, edited by Philip Kearey, Keith A. Klepeis and Frederick J. Vine, Wiley-Blackwell, 482 pages. ISBN: 978-1-4051-0777-8.“",
+  "teaching_method": "講授",
+  "grading_policy": "“Mid-term 30 ％\nFinal-term 30 ％\nStudent Presentations 40 ％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班。"
+    }
+  ]
+}

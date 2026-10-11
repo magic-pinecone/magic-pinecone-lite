@@ -1,0 +1,14 @@
+{
+  "serial_no": "85032",
+  "objectives": "-建立嵌入式系統專業知識與基本研究能力\n-訓練建嵌入式系統系統並提升實作能力\n-培養發展自主思考與跨領域創新能力",
+  "content": "1. 課程說明\n2. 嵌入式系統與互動技術介紹\n3. 嵌入式系統與互動裝置案例說明\n4. 微控制器的程式架構\n5. 微控制器函式庫與基礎操作實習\n6. 感測器介紹\n7. 輸入輸出說明\n8. 電子電路基礎與電路圖繪製\n9. 序列傳輸與類比讀取\n10. 傳感器結合與應用\n11. 藍芽與微控制器的使用\n12. 專題應用實作",
+  "books": "“Embedded System: A Unified Hardware/Software Introduction“, Frank Vahid, Tony Givargis, J. Wiley ＆ Sons (2002)",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "課堂表現    10％\n作業        30％\n課中報告    25％\n學期專題    25％\n出席率      10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系人工智慧精準醫療碩士在職專班。"
+    }
+  ]
+}

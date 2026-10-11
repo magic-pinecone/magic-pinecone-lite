@@ -1,0 +1,14 @@
+{
+  "serial_no": "21050",
+  "objectives": "本課程將提供非線性最佳化理論和相關演算法的基礎，它將展示來自不同應用科學領域的各種應用。本課程結合了最佳化的三大支柱：理論和演算法基礎、熟悉各種應用以及應用理論和演算法解決實際問題的能力。",
+  "content": "本課程將涵蓋下面這些主題：\n(1) Mathematical preliminaries\n(2) Unconstrained optimization\n(3) Least squares\n(4) The gradient method\n(5) Newton's method\n(6) Convex sets\n(7) Convex functions\n(8) Convex optimization\n(9) Optimization over a convex set\n(10) Linearly constrained problems\n(11) The Karush-Kuhn-Tucker conditions\n(12) Duality",
+  "books": "Amir Beck, Introduction to Nonlinear Optimization-Theory, Algorithms, and Applications with Matlab, MOS-SIAM Series on Optimization, SIAM, 2014.",
+  "teaching_method": "講授",
+  "grading_policy": "作業(30％)，期中測驗(30％)，期末測驗(30％)，出席及其他(10%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    }
+  ]
+}

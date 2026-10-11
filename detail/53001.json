@@ -1,0 +1,34 @@
+{
+  "serial_no": "53001",
+  "objectives": "Practical AI development often involves the use of C/C++, Python, or a combination of both to achieve high system performance and development efficiency. The objective of this course is to help learners build a solid foundation in C/C++ and Python programming, and to strengthen their practical application skills through a semester-long course project that integrates and applies course knowledge.",
+  "content": "1\nSyllabus\nIntroduction (C)\n2\nLoop Statement (C)\n3\nFunction (C)\n4\nTerm Project Presentation (I)\n5\nArray (C)\nCharacter and String (C)\n6\nPointer (C)\n7\nMidterm Exam: Written Test (2026.10.23 (Fri.))\n8\nDiscussions on Midterm Exam (2026.10.30 (Fri.))\n9\nFile Processing (C)\nClass (C++)\n10\nInput and Output (P) Selection Statement (P)\n11\nLoop Statement (P)\nFunction (P)\n12\nTerm Project Presentation (II)\n13\nList (P)\n14\nTuple, Set, and Dictionary (P)\n15\nFile Processing (P)\nClass (P)\nFinal Exam: Written Test (2026.12.18 (Fri.))\n16\nSubmission of your final project report before 9 a.m., 2026.12.22 (Tue.) (Please upload your report (.pdf) to  NCU ee-class.)\nDiscussions on Final Exam (2026.12.23 (Wed.))",
+  "books": "C How to Program\nAuthors: Paul J. Deitel Harvey and M. Deitel\nPublisher: Prentice Hall",
+  "teaching_method": "講授\n\n實習/實驗\n\n其他",
+  "grading_policy": "1. Term project (group based)\n-- Term project presentation (I) (oral): 10％\n-- Term project presentation (II) (oral): 25％\n-- Term project presentation (III): 25％\n2. Midterm exam (Written test): 20％\n3. Final exam (Written test): 20％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系、資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-通訊工程學系、第二專長-通訊工程。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。學院:限資訊電機學院。"
+    },
+    {
+      "priority": 5,
+      "rule": "學制:限學士班。"
+    },
+    {
+      "priority": 6,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

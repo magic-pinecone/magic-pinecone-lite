@@ -1,0 +1,14 @@
+{
+  "serial_no": "22031",
+  "objectives": "本課程延續力學與電磁學對波動現象的探討，提供各種波動現象的統一物理圖像與數學框架。",
+  "content": "1. 波動的數學與力學基礎\n2. 電磁波理論\n3. 物理光學",
+  "books": "Introduction to Electrodynamics, 4th Ed., by David J. Griffiths",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "課堂表現: 10%; 作業: 30%; 期中考: 30%; 期末考: 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系、理學院學士班。"
+    }
+  ]
+}

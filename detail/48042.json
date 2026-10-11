@@ -1,0 +1,18 @@
+{
+  "serial_no": "48042",
+  "objectives": "本課程探討投資相關的理論與實證議題。",
+  "content": "投資環境\n投資組合理論與市場效率性\n金融投資商品\n證券投資分析與金融科技",
+  "books": "周行一、徐政義， 2025， 投資學， 新陸書局出版。",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "開學時宣布。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系碩士在職專班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系碩士在職專班。"
+    }
+  ]
+}

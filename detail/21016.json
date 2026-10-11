@@ -1,0 +1,26 @@
+{
+  "serial_no": "21016",
+  "objectives": "學習微分與積分的基本知識, 培養列式, 求解及解釋問題的應用能力",
+  "content": "In this course, we will study the following topics:\n1. Functions and Models.\n2. Limits: definition of a limit, continuity.\n3. Derivatives: differentiation rules, derivatives of trigonometric functions, chain rule, implicit differentiation, etc.\n4. Applications of Differentiation: extreme values, mean-value theorem, monotonic fucntions, concavity, optimization problems, Newton method, antiderivatives, etc.\n5. Integrals: definite integral, fundamental theorem of calculus, indefinite integrals, substitution rule, etc.\n6. Applications of Integration: areas, volumes, arc length, area of a surface of revolution, work, etc.\n7. Inverse Functions: natural logarithms, exponential functions, inverse trigonometric functions, hyperbolic functions, etc.\n8. Techniques of Integration: integration by parts, partial fractions, trigonometric integrals, trigonometric substitutions, improper integrals, etc.",
+  "books": "\"Thomas' Calculus 14/e in SI Units, Thomas.\"",
+  "teaching_method": "講授",
+  "grading_policy": "小考 10％\n作業 10％\n會考一25％\n會考二25％\n會考三30％\nPython作業5％\n其他5％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系。年級:限一年級。學號:限雙號。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系、通訊工程學系、資訊電機學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊工程學系、通訊工程學系、資訊電機學院學士班。年級:限非一年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

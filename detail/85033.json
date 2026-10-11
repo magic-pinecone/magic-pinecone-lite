@@ -1,0 +1,14 @@
+{
+  "serial_no": "85033",
+  "objectives": "本課程的教學目標為引導想踏進人工智慧相關領域的初學者們的學習方向。其中將從深度學習模型的基本結構觀念與數學方法的建立出發，期間將經歷python相關程式的指引，如最基本的程式結構與撰寫觀念、NumPy與Pandas兩個重點套件的使用方法，以及深度學習相關套件的認識與應用。爾後再一步步指引學習者們如何使用colab撰寫並開發模型，並在深度學習模型的架構之下，理解模型規範以及資料處理原則，最後親手實作建立如多層感知器(Multilayer Perceptron)、捲積神經網路(convolutional neural networks)、AutoEncoder、U-net以及ResNet等基礎的深度學習模型，並應用於如數字辨識、迴歸問題以及更複雜的影像辨識與分割的問題上。",
+  "content": "第 一 週：基礎認識\n第 二 週：基本資料結構\n第 三 週：流程控制\n第 四 週：函數與模組\n第 五 週：管線的認識\n第 六 週：檔案讀寫與例外處理\n第 七 週：類別與物件導向\n第 八 週：套件\n第 九 週：期中報告\n第 十 週：NumPy陣列與結構\n第十一週：索引與切片\n第十二週：Pandas的資料結構\n第十三週：資料互動的重要機制\n第十四週：多層感知器與CNN介紹\n第十五週：AutoEncoder與U-net介紹\n第十六週：ResNet介紹\n第十七週：其他模型介紹\n第十八週：期末報告",
+  "books": "1.\tNaomi Ceder, The Quick Python Book, Third Edition.\n2.\tSebastian Raschka, Python Machine Learning, 3rd Edition.\n3.\tFrançois Chollet, Deep Learning with Python.",
+  "teaching_method": "講授",
+  "grading_policy": "出席 20％\n期中報告 30％\n期末報告 50％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系人工智慧精準醫療碩士在職專班。"
+    }
+  ]
+}

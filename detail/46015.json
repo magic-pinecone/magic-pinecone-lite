@@ -1,0 +1,14 @@
+{
+  "serial_no": "46015",
+  "objectives": "Develop and/or improve the abilities: to solve some classic OR models; to interpret conclusions drawn from models",
+  "content": "Introduction\n\nLinear Programing: Formulation\n\nLinear Programing: Computer Solution\n\nLinear Programing: Simplex Method\n\nInteger Programing\n\nNetwork Flow Problem\n\nMulti-Criteria Decision Making\n\nNonlinear Programing",
+  "books": "“B. W. Taylor III. 2009. Intoduction to Management Science, 11th edition.“",
+  "teaching_method": "講授",
+  "grading_policy": "期中考 35％ 期末考 35％ 平時成績(作業與上課表現) 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限工業管理研究所碩士在職專班。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "22005",
+  "objectives": "1. 建立量測與數據處理的基本能力.\n2. 培養邏輯推演與報告撰寫的能力\n3. 體驗實驗驗證的過程與方法",
+  "content": "課程內容含實驗操作與討論。\n\n實驗項目：\n\n1. 長度量測 Measurement\n\n2. 牛頓第二運動定律 Newton‘s  Second Law\n\n3. 黏滯係數 Viscosity\n\n4. 楊氏係數 Young‘s modulus\n\n5. 耦合震盪 Coupled Oscillation\n\n6. 摩擦力 Friction\n\n7. 轉動慣量  Rotational inertia",
+  "books": "實驗講義",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "1. 預習報告: 35％\n2. 口頭報告: 20％\n3. 結果報告: 20％\n4. 期末考: 20％\n5. 平時與討論課: 5％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限一年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

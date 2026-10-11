@@ -1,0 +1,26 @@
+{
+  "serial_no": "41020",
+  "objectives": "從實作中學習如何利用Design Thinking的方法，找出使用者需求，並利用Raspberry Pi 與OpenCV 開發出AIoT應用的產品原型。",
+  "content": "自從SAP的創辦人Hasso Plattner捐獻設立Stanford 大學的d. School, Design Thinking 已成為很多公司商品開發的重要方法之一,本課程是以SAP的Design Thinking Methodology 為主軸, 學生可針對某一類需求, 發展出一個可行有效的產品概念。這個方法論主要分成三階段\n第一階段: 定義問題\n透過觀察、訪問、與實際沈浸於與使用者相同的情境，了解真正需要解決的問題。\n第二階段: 創意發想\n針對上述的問題，透過腦力激盪等方法，找出解決的方法。\n第三階段: 快速模型(rapid prototyping)及測試\n將上述的方法具體化成產品原型，並取得使用者的回饋。\n在第三個階段，學生需利用嵌入式系統裝置，發展出一個產品原型，以具體化的方式收集使用者回饋，在重複下一個三階段的循環。\n\nSession\tTopic\tNote\n1\tCourse Overview\nDesign Thinking – Background ＆ Methodology\nDesign Thinking – Empathy\nTeam mobilization\nInterview\nObserving\nRecording\n2\tDesign Thinking – Define\nIdeas for Project \tPoint-of-viewing\nStory Telling\nEmpathy Mapping\n3\tDesign Thinking – Ideate\nProject Proposal\tBrainstorming\n4\tDesign Thinking – Prototyping\nFinalizing Project Proposal\nIntroduction to Raspberry Pi\n5\tPython\n6\tRaspberry Pi ＆ Open CV\n7\tRaspberry Pi ＆ API\n8\tDesign Thinking – Prototyping\n9\tDesign Thinking – Prototyping\n10\tDesign Thinking – Prototyping\n11\tProject Review\n12\tDesign Thinking – Testing\n13\tIteration\n14\tDesign Thinking – Prototyping ＆ Testing\n15\tSecond Iteration – Prototyping ＆ Testing\n16\tFinal Presentation",
+  "books": "AIOT與OpenCV實戰應用：Python、樹莓派、物聯網與機器視覺/ 朱克剛著 – 三版.—碁峰資訊，2021.11",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "class participation: 30％\nassignment: 40％\npresentation: 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。學院:限管理學院。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。學院:限管理學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。學院:限非管理學院。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。學院:限非管理學院。"
+    }
+  ]
+}

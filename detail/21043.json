@@ -1,0 +1,22 @@
+{
+  "serial_no": "21043",
+  "objectives": "本課程主要介紹一些關於影像處理問題的數學研究。 它的兩個主要目標是：\n\n(1) 介紹適用於數位圖像處理的基本概念和方法，並為進一步研究奠定基礎。\n\n(2) 提供一些數學技術來研究影像處理中的幾個基本問題，例如如何恢復退化的圖像以及如何將其分割成有意義的區域等。\n\n***************\n萬一需要時視訊教學的 Google Meet連結：https://meet.google.com/sqs-sqhs-rkf",
+  "content": "本課程預計將包含下列主題：\n(1) Basic concepts of digital image processing\n(2) Intensity transformations and spatial filtering\n(3) Variational methods for image denoising\n(4) Variational methods for image deblurring\n(5) Multi-focus image fusion and guided filter\n(6) Image dehazing: atmospheric scattering model and dark channel prior\n(7) Variational methods for image contrast enhancement\n(8) Image inpainting: variational methods and sparse representation\n(9) Variational image segmentation: Mumford-Shah and Chan-Vese models\n(10) Principal component pursuit problems\n\nCourse homepage: http://www.math.ncu.edu.tw/~syyang/",
+  "books": "(1) [AK2002] G. Aubert and P. Kornprobst, Mathematical Problems in Image Processing: Partial Differential Equations and the Calculus of Variations, Second Edition, Springer Verlag, New York, 2002.\n\n(2) [CS2005] T. F. Chan and J. Shen, Image Processing and Analysis: Variational, PDE, Wavelet, and Stochastic Methods, Society for Industrial and Applied Mathematics, Philadelphia, 2005.\n\n(3) [TUM2019] D. Cremers, Computer Vision I: Variational Methods, Online Resources, Departments of Informatics ＆ Mathematics, Technical University of Munich, Germany, 2019/2020.\n\n(4) [GW2018] R. C. Gonzalez and R. E. Woods, Digital Image Processing, Fourth Edition, Pearson Education Limited, New York, 2018.",
+  "teaching_method": "講授",
+  "grading_policy": "作業(30％)，期中測驗(30％)，期末測驗(30％)，出席及其他(10%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限三年級。班別:限B。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限理學院學士班。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系、理學院學士班。年級:限四年級。"
+    }
+  ]
+}

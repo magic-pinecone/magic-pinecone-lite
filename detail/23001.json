@@ -1,0 +1,26 @@
+{
+  "serial_no": "23001",
+  "objectives": "基礎的化學原理介紹。",
+  "content": "The topics include 1. Introduction 2. Atoms, Molecules and Ions. 3. Stoichiometry. 4. Chemical Reactions and Solution Stoichmetry. 5. Gases. 6. Chemical Equilibrium. 7. Acids and Bases. 8. Applications of Aqueous Equilibra. Ch 15, (Kinetics Chemistry).",
+  "books": "“Chemical Principles, 8th edition Ed. Steven S. Zumdahl“",
+  "teaching_method": "講授",
+  "grading_policy": "“小考 10％ (不定期)\nMidterm I 45％ (Chapter 2-5 or 6)\nFinal Exam 45％ (Chapter 6, 7, 8, and 15)\nMight adjust the weighting ratio, will announce in Class.\n(保留這三個比重之調整權)“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學學系。年級:限非一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限雙主修-化學學系。"
+    }
+  ]
+}

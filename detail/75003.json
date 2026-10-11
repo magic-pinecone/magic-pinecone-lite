@@ -1,0 +1,22 @@
+{
+  "serial_no": "75003",
+  "objectives": "本課程旨在透過深入閱讀討論與實際習作過程來引導學習者瞭解高等社會科學研究方法中有關質化研究的一般基礎。整體課程內容主要含括其歷史演進、認識論與理論背景、本質、型態、與範例；同時，本課程將從文獻的閱讀與討論當中以及經由分析、檢視各類質化研究的設計架構與實施過程以釐清質化研究方法的長處及限制。為使學習者獲致質化研究之具體設計與實地執行的經驗，每位修課的學生都必須演練完整的研究過程，從建構問題、研究提問、設計研究、撰寫計畫書、到練習不同的研究方法、資料分析與寫作呈現。",
+  "content": "1\t課程介紹與導論\n2\t研究典範：質性研究之認識論與方法論 I\n3\t研究典範：質性研究之認識論與方法論 II\n4\t研究典範：質性研究之認識論與方法論 III\n5\t質性訪談：深度訪談\n6\t質性訪談：焦點團體 (Focus Group)\n7\t質性訪談：傳記訪談(Biography Interview)\n8\t質性訪談：實作練習\n9\t文本分析：質性內容分析\n10\t文本分析：文本分析 / 論述分析(Text Analysis / Discourse Analysis)\n11\t文本分析：實作練習 I\n12\t文本分析：實作練習 II\n13\t田野研究：觀察/民族誌\n14\t田野研究：行動研究\n15\t田野研究：實作練習 I\n16\t田野研究：實作練習 II\n17\t期末報告執行 I\n18\t期末報告執行 II",
+  "books": "(1)\t*Smith, Mark J. 1998. Social Science in Question. London: Sage. [中譯本：吳翠松 譯，2003，《社會科學概說：方法論的探索》，台北：韋伯文化。]\n(2)\t*Silverman, David. 2006. Interpreting Qualitative Data: Methods for Analysing Talk, Text and Interaction, 3rd Edition. London: Sage.\n(3)\t*Berg, Bruce L. 2006. Qualitative Research Methods for the Social Sciences, Sixth Edition. Boston: Allyn and Bacon.\n(4)\tMaxwell, Joseph A. 1996. Qualitative Research Design: An Interactive Approach. London: Sage. [中譯本：高熏芳、林盈助、王向葵，2001，《質化研究設計—一種互動取向的方法》，台北：心理出版社。]\n(5)\tBourdieu, Pierre and Loic Wacquant. 1992. An Invitation to Reflexive Sociology. Chicago: University of Chicago Press. [中譯本：李猛 等譯，1998，《實踐與反思》，北京：中央編譯出版社。]\n(6)\tBourdieu, Pierre., Chamboredon, Jean-Claude. & Passeron, Jean-Claude. 1991. The Craft of Sociology: Epistemological Preliminaries. Berlin and New York: Walter de Gruyter.\n(7)\tSayer, Andrew. 1992. Method in Social Science: A Realist Approach. 2nd Edition. London: Routledge.\n(8)\tLofland, J., & Lofland, L. H. 1995. Analyzing Social Settings: A Guide to Qualitative Observation and Analysis. Belmont, CA: Wadsworth. [中譯本：任凱、王佳煌 譯，2005，《質性研究法—社會情境觀察與分析》，台北：學富文化。]\n(9)\tBauer, Martin W. and Gaskell, George. Edited. 2000. Qualitative Researching With Image Text and Sound: A Practical Handbook. London: Sage.\n(10)\tStrauss, Anselm and Corbin, Juliet. 1990. The Basics of Qualitative Research: Grounded Theory Procedures and Techniques. London: Sage. [中譯本：徐宗國譯，1997，《質性研究概論》，台北：巨流圖書公司。]\n(11)\tDenzin, Norman and Yvonna Lincoln. Eds. 2000. Handbook of Qualitative Research. 2nd Edition. London: Sage Publications.\n(12)\tFlyvbjerg, Bent. 2001. Making Social Science Matter: Why Social Inquiry Fails and How It Can Succeed Again. Steven Sampson, trans. Cambridge: Cambridge University Press.\n(13)\tSeale, Clive., Gobo, Giampietro., Gubrium, Jaber F., and Silverman, David. 2004. Qualitative Research Practice. London: Sage.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "課堂作業 40 % (2)課堂參與30% (4)期末報告30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限客家語文暨社會科學學系客家社會及政策碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限客家語文暨社會科學學系客家社會及政策碩士班、客家語文暨社會科學學系客家研究碩士在職專班、客家語文暨社會科學學系客家研究博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限客家語文暨社會科學學系。"
+    }
+  ]
+}
