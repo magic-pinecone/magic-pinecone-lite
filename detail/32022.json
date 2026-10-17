@@ -1,0 +1,18 @@
+{
+  "serial_no": "32022",
+  "objectives": "熟悉彎矩分配法和矩陣法之原理與分析方法",
+  "content": "1. Moment distribution method\n2. Matrix displacement method\n3. Direct stiffness method\n4. Energy method (option)",
+  "books": "Textbook:\nHibbeler, R.C., Structural Analysis, 9th Ed., Pearson.\nReferences:\nHsieh, Y.Y. and Mau, S.T., Elementary Theory of Structures, 4th Ed., Prentice Hall\nTauchert, T.D., Energy Principles in Structural Mechanics, McGraw-Hill, (1974).\nGere, J.M., Moment Distribution, D. Van Nostrand Company, Inc.\nHolzer, S.M., Computer Analysis of Structures, Elsevier.\nMcGuire, W., Gallagher, R.H., and Ziemian, R.D., Matrix Structural Analysis, 2nd Ed., John Wiley ＆ Sons, Inc. (2000)\nWang, C.-K., Matrix methods of structural analysis, Prentice Hall Inc. (1970),\nWang C.-K., Structural analysis on microcomputers, Macmillan (1986)\nWang C.-K., Computer methods in advanced structural analysis, Intext Educational Publishers (1973).",
+  "teaching_method": "講授",
+  "grading_policy": "Homework: 10％\nTests:\n1.  Moment Distribution Method, 30％\n2. Matrix Methods 30％\n3. Direct Stiffness Methods 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "指定課程:必須先修CI2018。"
+    },
+    {
+      "priority": 2,
+      "rule": "指定課程:必須先修CI2019。"
+    }
+  ]
+}

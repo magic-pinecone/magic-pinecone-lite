@@ -1,0 +1,22 @@
+{
+  "serial_no": "51018",
+  "objectives": "訓練學生具備積體電路設計之基礎。",
+  "content": "Chapter 10.7 回授放大器之穩定性分析與頻頻補償 Chapter 11 輸出級與功率放大器 Chapter 12 運算放大器電路 Chapter 13  濾波器與諧振放大器",
+  "books": "教科書Adel S. Sedra and Kenneth C. Smith “”Microelectric Circuits”” 8th. ed",
+  "teaching_method": "講授",
+  "grading_policy": "依學校行事曆舉行三次考試 (close book) 每次含簡答觀念題與 計算題6-8題; 總分每次100分; 平均60分及格。\n如需要線上測驗，考試方式另外說明。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系、資訊電機學院學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "33092",
+  "objectives": "本課程除提供做為一位機械工程師所應具備之電子學知識外，同時也是踏入「電路設計」工作的基本進階課程。這門課程規劃為一學期，內容涵蓋電子電路的基礎與進階應用。",
+  "content": "1\tBuilding Blocks of Integrated-Circuit Amplifiers\n2\tDifferential and Multistage Amplifiers\n3\tFrequency Response\n4\tFeedback\n5\tOutput Stages and Power Amplifiers\n6\tOperational-Amplifier Circuits\n7\tFilters\n8\tOscillators",
+  "books": "1. Microelectronic Circuits, Sedra Smith, Oxford University.\n2. Microelectronics Circuit Analysis and Design, Donald Neamen, McGraw-Hill.",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "作業：10 %\n期中考：40 %\n期末考：40 %\n平時分數：10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限工學院學士班。年級:限四年級。"
+    }
+  ]
+}

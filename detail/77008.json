@@ -1,0 +1,22 @@
+{
+  "serial_no": "77008",
+  "objectives": "本課程為期一學期。\n本課程是「客家語文暨社會科學學系」大學部二年級的選修課，亦歡迎其他系所同學選修。本課程將介紹「語言學」(linguistics) 幾個主要領域（語音phonetics、音韻phonology、構詞morphology、句法syntax等）的基礎概念，並從做中學習。",
+  "content": "IPA,\nLanguage Files, Chapter 1 to 6",
+  "books": "本課程用書：\nDepartment of Linguistics, the Ohio State University. 2016. Language Files: Materials for an Introduction to Language and Linguistics. 12th edition, Ohio State University Press [Taipei: Bookman]\n\n參考用書：\n王  旭 2018《英語的故事》，書林\nFromkin, Victoria, Robert Rodman and Nina Hyams. 2013. An Introduction to Language. 10th edition, Cengage Learning\n[P107 F76 2007] (8th ed.)\nPinker, Steven. (1994) 2007. The Language Instinct. (P.S.) Harper Perennial Modern Classics（平克著、洪蘭譯1998《語言本能》，商周）\n[P106 P476 2000] 英\n[800 1040 97] 中\n謝國平2011《語言學概論》（三版），三民\n[800 0461]（增訂版）\n趙元任《語言問題》，1968臺灣商務、1980北京商務\n[800.7 4912-2 100]",
+  "teaching_method": "講授",
+  "grading_policy": "點名 (20％)、作業 (20％)、期中考 (30％)、期末考 (30％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限客家語文暨社會科學學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限客家語文暨社會科學學系客家社會及政策碩士班、客家語文暨社會科學學系客家語文碩士班、客家語文暨社會科學學系客家研究博士班。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "53027",
+  "objectives": "讓學生了解各種路由演算法之原理及運作方式，並理解MPLS技術與SDN之理論、應用、與效能。",
+  "content": "週次 內容\n1 課程及路由概述\n2 路由資訊散佈 (1)\n3 路由資訊散佈 (2)\n4 路由原理 (1)\n5 路由原理 (2)\n6 小考及內部路由協定\n7 外部路由協定\n8 期中考試\n9 Switching IP原理\n10 IP over ATM\n11 IP Switching\n12 標籤交換 (Tag Switching, CSR, ARIS, MPLS)\n13 階層式標籤黏合\n14 MPLS訊務工程\n15 SDN架構與應用\n16 期末考試",
+  "books": "教科書：自編\n參考書：\n- Stephen A. Thomas, “IP Switching and Routing Essentials,” John Willey and Sons, Inc., 2001.\n- SDN相關規格：http://www.opennetworking.org/“",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "期中考: 20％\n期末考：40％\n期中報告：10％\n期末報告: 15％\n上課互動及出席狀況: 15％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士在職專班。學院:限資訊電機學院。"
+    }
+  ]
+}

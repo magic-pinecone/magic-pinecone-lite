@@ -1,0 +1,30 @@
+{
+  "serial_no": "22030",
+  "objectives": "1.介紹在物理專業學習上需要用到的數學方法.\n2.訓練學生數學推導和作筆記整理重點的能力.\n3.培養學生用數學分析物理問題的能力.",
+  "content": "Ch2 : Determinants and Matrice\nCh3 : Vector Analysis\nCh5 : Vector Spaces\nCh6 : Eigenvalue Problems\nCh7 : Ordinary Differential Equations",
+  "books": "Mathematical methods for physicists : A comprehensive guide / edited by George B Arfken, Hans-Jurgen Weber, Frank Harris.",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "AI課程資料 (15%)\n課後小考 (75%)\n期末口試 (10%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限物理學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限理學院學士班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限物理學系、理學院學士班。年級:限非二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-物理學系、雙主修-物理學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限第二專長-物理。"
+    }
+  ]
+}

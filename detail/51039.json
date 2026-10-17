@@ -1,0 +1,22 @@
+{
+  "serial_no": "51039",
+  "objectives": "教導學員離散時間域的觀念、傅立葉轉換分析、頻譜分析能力、濾波器設計等能力，以實際的案例學習如何上手實際分析訊號，讓學員能夠獲得實務與理論的結合應用。",
+  "content": "◎線性時不變離散時間系統(Linear-Time Invariant DSP systems) ◎Ｚ-轉換 (Z-transform) ◎離散時間數位濾波器設計(Filter Design of Discrete-Time Systems)  ◎ 類比數位轉換 (analog-to-digital conversion)  ◎數位濾波器設計 (Digital Filter Design)  ◎離散傅立葉轉換 (Discrete-time Fourier Transform)  ◎頻譜分析(Spectral Analysis)",
+  "books": "\"教科書：Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck: \"\"Discrete-Time Signal Processing\"(Second Edition), Prentice Hall, 1999.\n參考書：\"Peyton Z. Peebles. “Probability, Random Variables, and Random Signal Principles” (Third Edition), McGraw-Hill, 1993.\"",
+  "teaching_method": "講授",
+  "grading_policy": "期中考佔45%，期末考佔45%，其他佔10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系碩士班、電機工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "學院:限資訊電機學院。"
+    }
+  ]
+}

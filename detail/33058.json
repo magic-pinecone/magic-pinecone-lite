@@ -1,0 +1,26 @@
+{
+  "serial_no": "33058",
+  "objectives": "學習構機器人的基本幾何及運動學原理及在各領域的應用。學生在學期結束後應對機器人的結構, 設計及運動有充分的知識來評論市面上各類型機器人表現，也可建立自我設計機器人的基礎。",
+  "content": "Part A - Introduction to robotics\nChapter 0: Course introduction\nChapter 1: History\nChapter 2: Definition and terminology\nChapter 3: Classification\nPart B - Kinematics of serial robots\nChapter 4: Definitions and geometrical tools\nChapter 5: Forward kinematics\nChapter 6: Denavit-Hartenberg parameters\nChapter 7: Inverse kinematics\nPart C - Velocity model of robots\nChapter 8: Differential kinematics\nChapter 9: Jacobian direct formulation\nChapter 10: Singularity and manipulability",
+  "books": "教科書:\nIntroduction to Robotics: Mechanics and Control (Fourth Edition)，John J. Craig，Pearson，2004\nModern Robotics: Mechanics Planning, and Control，Kevin M. Lynch and Frank C. Park，Cambridge University Press，2017\n機器人控制原理與實務，施慶隆、李文猶，2023.",
+  "teaching_method": "講授",
+  "grading_policy": "Homeworks: 30%\nExams: 70%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系光機電工程碩士班、能源工程研究所碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系博士班、機械工程學系光機電工程博士班、能源工程研究所博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

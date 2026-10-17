@@ -1,0 +1,18 @@
+{
+  "serial_no": "41048",
+  "objectives": "依老師上課說明",
+  "content": "依老師上課說明",
+  "books": "依老師上課說明",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Case Presentation (Group): 30％\nSelf Evaluation: 30％\nParticipation in Discussion: 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限學分學程-企業資源規劃。"
+    }
+  ]
+}

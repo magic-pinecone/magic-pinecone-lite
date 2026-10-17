@@ -1,0 +1,22 @@
+{
+  "serial_no": "20008",
+  "objectives": "本課程旨在使學生建立分子基因體學之基礎知識與整合性觀念，了解基因、染色體及基因體的結構、功能與調控機制，並認識相關分子生物學技術及其在生物醫學研究上的應用。完成本課程後，學生應能：1. 說明基因、染色體與基因體的基本結構、組成及彼此間的關係。2. 了解真核生物基因結構、基因體序列特性，以及重複序列與基因群集的組織方式。3.說明基因表現的主要調控機制。4.了解蛋白質的細胞內運輸、細胞骨架及細胞訊息傳遞的基本原理。5.了解細胞週期、DNA複製及DNA損傷修復機制，並理解其與基因體穩定性及疾病發生的關聯。6.認識常用分子生物學實驗技術與分子診斷工具，並了解其原理、適用範圍及結果判讀方式。7.建立基礎分子免疫學概念，理解基因調控與免疫反應之間的關係。",
+  "content": "1. Course introduction/ gene and chromosome-I\n2. Genes and chromosomes-II\n3. Genome sequences /clusters and repeats\n4. Chromatin/transcription\n5. mRNA stability, processing, localization, and translation\n6. Molecular laboratory techniques\n7. Molecular tools for precision medicine\n8. Midterm\n9. Cytoskeleton /Cell signal transduction\n10. Cell cycle Regulation\n11. DNA damage responses-I\n12. DNA damage responses-II\n13. Basic molecular cancer biology\n14. Molecular alterations in cancer\n15. Basic immunology\n16. Final exam",
+  "books": "Lewin's GENES XII",
+  "teaching_method": "講授",
+  "grading_policy": "期中考: 40%, 期末考: 40%, 出席:20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系系統生物與生物資訊碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系系統生物與生物資訊碩士班、生醫科學與工程學系系統生物與生物資訊博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限學分學程-生科職涯。"
+    }
+  ]
+}

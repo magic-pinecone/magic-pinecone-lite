@@ -1,0 +1,18 @@
+{
+  "serial_no": "85017",
+  "objectives": "理解生醫領域方面的建模與數學方法",
+  "content": "“第01週    生物電磁\n第02週    生物電磁\n第03週    生物電磁\n第04週    微機電系統\n第05週    微機電系統\n第06週    微機電系統\n第07週    統計學習\n第08週    統計學習\n第09週    統計學習\n第10週    模態辨識\n第11週    模態辨識\n第12週    模態辨識\n第13週    監督學習\n第14週    監督學習\n第15週    監督學習\n第16週    非監督學習\n第17週    非監督學習\n第18週    期末實作成果展示\n“",
+  "books": "“1. ““Essential MATLAB for Engineers and Scientists,““ by Brian H. Hahn and Daniel T. Valentine, Academic Press, Fifth Edition, 2013.\n2. ““Pattern Recognition and Machine Learning,““ by Christopher M. Bishop; ISBN: 978-0-387-31073-2\n3. ““MEMS Linear and Nonlinear Statics and Dynamics,““ by Mohammad I Younis, Springer, 2011.\n“",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "期末實作 100％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "serial_no": "51023",
+  "objectives": "學習計算機的基礎概念，以及硬體與軟體間不同層級的關聯性，因應行動運算與大數據時代的需求，了解硬體、軟體與系統層級設計的考量",
+  "content": "\"1. 計算機層級與技術演進\n2. 計算機語言: 指令集\n3. 算術運算單元\n4. 處理器\n5. 記憶體層級規劃\n6. 平行處理器\"",
+  "books": "\"Computer Organization and Design, The Hardware and Software Interface\n\nD.A. Patterson, J. L Hennessy\n\nFifth Edition, Asian Edition\"",
+  "teaching_method": "講授",
+  "grading_policy": "\"Homework: 20%\nProject: 20%\nMidterm: 30%\nFinal Exam: 30%\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。學院:限資訊電機學院。系所:限電機工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。學院:限資訊電機學院。系所:限通訊工程學系、資訊電機學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。學院:限資訊電機學院。系所:限雙主修-電機工程學系。"
+    }
+  ]
+}

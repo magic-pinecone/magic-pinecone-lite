@@ -1,0 +1,14 @@
+{
+  "serial_no": "62010",
+  "objectives": "本課程為二學分的選修課程。\n目的為介紹地理資訊系統之基礎概念與科學。除理論之外，亦會透過地理資訊系統的實作，讓學生瞭解地理資訊系統應用於資料蒐集、分析、展示之完整流程。",
+  "content": "“本課程為二學分的選修課程。\n目的為介紹地理資訊系統之基礎概念與科學。授課內容包括：地理資訊之基本原則、技術、分析、應用及實機操作。\n\n主要授課大綱包括：\n\n(1) 課程簡介\n\n(2) 系統與科學\n\n(3) GIS應用\n\n(4) 地理表徵\n\n(5) 地理資料的天性\n\n(6) 地理參照\n\n(7) 地理資訊軟體\n\n(8) 地理資料模式\n\n(9) 地理視覺化\n\n重要時程(全程16週)\n\n2023/9/15 課程啟動\n\n2023/11/10 期中考\n\n2023/1/5 期末報告\n\n“",
+  "books": "“Geographic Information Science and Systems, 4th Edition, Paul A. Longley, Michael F. Goodchild, David J. Maguire, David W. Rhind (2016), Wiley\nISBN: 978-1-118-67695-0\n\n地理資訊系統基本原理\n作者： 蘇明道, 蔡博文, 朱健銘, 鍾明光, 林美君\n出版社：Ainosco Press\nISBN：9789864372003",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "“(1) 上課作業及隨堂測驗, 40％\n(2) 期中考試, 20％\n(3) 期末專題報告, 40％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限地球科學學院。"
+    }
+  ]
+}

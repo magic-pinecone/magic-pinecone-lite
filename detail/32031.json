@@ -1,0 +1,14 @@
+{
+  "serial_no": "32031",
+  "objectives": "依工程公司實習內容而定",
+  "content": "依工程公司實習內容而定",
+  "books": "no textbook",
+  "teaching_method": "講授",
+  "grading_policy": "依工程公司實習內容而定",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限二年級、三年級。指定課程:必須同修(含先修)CI3066。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "33023",
+  "objectives": "建立電磁理論原理與數學架構的紮實基礎，並培養應用這些概念於實際問題解決的能力",
+  "content": "向量分析、靜電學、靜磁學、時變場、馬克士威爾方程式、電磁波",
+  "books": "Edminister and Nahvi, Schaum's Outline of Electromagnetics, 4th Ed.",
+  "teaching_method": "講授",
+  "grading_policy": "二次考試 (100%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    }
+  ]
+}

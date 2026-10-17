@@ -1,0 +1,22 @@
+{
+  "serial_no": "32016",
+  "objectives": "協助同學達成以下目標\n\n1.瞭解鋼筋混凝土梁與柱之基本行為\n\n2.分析與設計鋼筋混凝土梁與柱\n\n3.認識ACI-318設計規範\n\n1. Understand the fundamental behavior of RC beams and columns\n2. Analyze and design of RC beams and short columns\n3. Familiar with the design code ACI-318",
+  "content": "1.概論\n2.撓曲梁分析與設計\n3.梁之剪力分析與設計\n4.柱之分析與設計\n\n“1. Introduction\n2. Flexural Analysis and Design of Beams\n3. Shear Analysis and Design of Beams\n4. Flexural Analysis and Design of Columns\n“",
+  "books": "土木406-112 鋼筋混凝土學，土木水利工程學會，科技圖書\n\n土木401-112 混凝土工程規範與解說，土木水利工程學會，科技圖書",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "小考1:15％, 期中考: 35％, 小考2:15％, 期末考: 35％\n\nQuiz1: 10％, Mid-term exam: 40％\nQuiz2: 10％, Final exam: 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限三年級。班別:限A。指定課程:必須先修CI2004。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限四年級。指定課程:必須先修CI2004。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。指定課程:必須先修CI2004。"
+    }
+  ]
+}

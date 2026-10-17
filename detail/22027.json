@@ -1,0 +1,18 @@
+{
+  "serial_no": "22027",
+  "objectives": "本課程旨在建立學生紮實的物理學基礎，培養其必要的背景知識與分析能力，作為日後修習高階物理課程及相關領域研究之準備。",
+  "content": "本課程主要涵蓋力學、流體力學與熱力學等主題，課程內容將以教材第 1 至第 21 章為主。",
+  "books": "H. Benson, “University Physics” third edition, Ting Lung Book Co. (滄海書局) 2023",
+  "teaching_method": "講授",
+  "grading_policy": "作業/小考 (30%) + 期中考 (35%) + 期末考 (35%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限非一年級。"
+    }
+  ]
+}

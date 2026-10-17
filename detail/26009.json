@@ -1,0 +1,22 @@
+{
+  "serial_no": "26009",
+  "objectives": "I.基礎光學\n1.基礎光-物質交互作用\n2.光譜與顏色\nII.幾何光學\n1.光束追跡\n2.光學元件\n3.像差",
+  "content": "第一部分為基礎光學, 以建立基本的光學核心概念與用字用語, 由現象學切入巨觀光與物質交互作用-反射, 穿透, 吸收, 散射四個主要現像開始討論並以一些課堂活動直接理解與觀察現像. 接著討論顏色與光譜, 並連結視覺與影像.\n第二部分為標準的幾何光學, 從基本的Snell's law與反射定律開始理解光徑追蹤, 接著說明透鏡與面鏡的光徑追蹤與成像與成像性質, 進而說明一些基礎的幾何光學系統如放大鏡, 望遠鏡, 顯微鏡. 接著介紹稜鏡等其他光學元件, 最後簡介光學像差種類.",
+  "books": "Optics, Eugene Hecht, 5th edition",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "In class exercise – 17%\nChallenge project – 5%\nResponses and duties – 3%\nMid-term – 35%\nFinal exam – 40%\n\nOver all percentage = 100%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系、理學院學士班。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。"
+    }
+  ]
+}

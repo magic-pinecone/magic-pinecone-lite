@@ -1,0 +1,14 @@
+{
+  "serial_no": "36018",
+  "objectives": "提供環境工程於成本效益（包括外溢價值）之經濟學概念，藉由學習與討論，使學生在執行環境工程專案之規劃、設計與施工時，能提出較符合可量化及不可量化經濟效益的評估方案。",
+  "content": "第一單元 環境經濟學\n第 1 章\t經濟學原理應用於環境問題\n第 2 章\t環境價值及價值評估方法\n第 3 章\t環境成本及成本效益分析\n第 4 章\t污染減輕政策之經濟手段及碳稅策略\n第二單元 工程經濟學\n第 5 章\t工程經濟學之於工程專案決策\n第 6 章\t貨幣時間價值–現金流與現值法\n第 7 章\t工程經濟分析：投資報酬率分析、投資回收期分析、成本效益、敏感度分析\n第 8 章\t工程決策分析 ：層級分析法及多目標評級法",
+  "books": "§\tBarry C. Field ＆ Martha K. Field, Environmental Economics – An Introduction, 8th Edition, McGraw-Hill Education, Inc.\n§\tWilliam G. Sullivan, Elin M. Wicks, and James T. Luxhoj, Engineering Economy, 13th Edition, Pearson Education International, Inc.\n§\tLynne Lewis ＆ Tom Tietenberg, Environmental Economics and Policy, 7th Edition, Routledge Taylor ＆ Francis Group.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "期中測驗 25％  期末報告 60％  作業練習及課堂表現 15％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限環境工程研究所碩士在職專班。"
+    }
+  ]
+}

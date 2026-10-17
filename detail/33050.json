@@ -1,0 +1,26 @@
+{
+  "serial_no": "33050",
+  "objectives": "本課程旨在培養學生掌握智慧製造與智慧機器人中的虛實整合技術，建立從模擬環境、機器人控制到AI訓練的系統整合能力。課程內容涵蓋數位孿生（Digital Twin）、虛實系統（CPS）、ROS2、Isaac Sim、Isaac Lab與強化學習（Reinforcement Learning）等核心技術，並結合感測器整合、移動機器人、IoT資料串流與Web視覺化等應用。學生將學習如何建構虛擬模擬環境、建立機器人模型、設計ROS2通訊架構，以及透過PPO等方法完成AI控制訓練，逐步建立從虛擬模擬、AI決策到實體系統整合的完整流程。課程最終將引導學生完成具備感測、控制、資料傳輸、視覺化與虛實聯動功能之智慧系統應用原型。\n\n預期成效:\n1. 學生將具備虛實整合系統之基本概念，能理解CPS、Digital Twin、IoT與智慧製造系統之架構與運作流程。\n2. 學生可熟練使用Isaac Sim與Isaac Lab進行機器人模擬、場景建構、感測器配置與虛擬環境測試，培養由虛擬模型延伸至實體系統驗證之能力。\n3. 學生將能掌握ROS2系統架構與開發流程，包括node、topic、service、TF與RViz2等功能，並完成機器人通訊與控制應用。\n4. 學生將能理解移動機器人之基本原理，包含SLAM、路徑規劃與障礙物避障等技術，並於模擬環境中完成自主移動功能驗證。\n5. 學生可建立強化學習基本概念，理解state、action、reward與policy等設計方式，並使用PPO於Isaac Lab中完成基礎機器人控制訓練。\n6. 學生能整合IoT、Web API、Node-RED與資料視覺化工具，實作即時資料串流、遠端監控與智慧資訊看板等應用。\n7. 學生將具備跨模組系統整合能力，能整合感測、模擬、AI控制、資料傳輸與人機互動等技術，完成具備虛實聯動能力之智慧應用系統。",
+  "content": "1. CPS 與數位孿生簡介\n- CPS：實體系統、計算系統、即時控制和回授迴路\n- 數位孿生：虛擬模型、同步、模擬和預測\n- 物聯網：感測器、網路、雲端通訊和資料擷取\n- 智慧應用：智慧製造、機器人、自動化和預測性維護\n\n2. Isaac Sim 和 Isaac Lab\n- Isaac Sim 基礎：USD、Stage、Scene、Prim 和模擬工作流程\n- 開發模式：互動擴展模式與獨立模式\n- 機器人建模：URDF 導入、機器人結構、剛體、關節和碰撞器\n- 機器人控制：關節系統和關節控制器\n- OmniGraph：視覺化程式設計與資料流設計\n- 感測器和執行器：攝影機、光達、慣性測量單元 (IMU) 和馬達控制\n- 機器人系統：移動機器人和機械手臂\n- Isaac Lab：強化學習環境、觀察、動作、獎勵、重置和平行仿真\n\n3. ROS 2 環境與通信\n- ROS 2 基礎：架構、通訊概念與工作空間\n- 通訊系統：節點主題、發布者、訂閱者、服務和客戶端\n- Python 程式設計：訊息通訊與機器人邏輯\n- RViz2：機器人視覺化、感測器視覺化和 TF 系統\n\n4. 移動機器人系統\n- 移動機器人基礎：運動模型與座標系\n- SLAM：定位與建圖\n- 路徑規劃：全域與局部規劃\n- 避障：基於規則和基於感測器的方法\n\n5. 強化學習和 PPO\n- 強化學習：狀態、動作、獎勵與策略\n- PPO 基礎：策略更新、優勢與裁切機制\n- 強化學習工作流程：環境互動、訓練循環與獎勵設計\n- Isaac Lab 訓練：PPO 訓練架構與基於模擬的學習\n- 機器人應用：導航、平衡與機器人控制\n\n6. 物聯網資料流和整合 (選項)\n- Node-RED：基於流程的程式設計和資料管道\n- JavaScript：API 通訊與系統邏輯\n- 資料流：MQTT 和即時監控\n- 視覺化：儀錶板和基於 Web 的監控系統\n\n7. 人體模型人機互動 (選項)\n- 人體感知：攝影機追蹤與感知系統\n- 手勢辨識：手勢和動作識別\n- 姿態估計：姿態追蹤與骨骼模型\n- 人機互動：控制工作流程和機器人回應\n\n上課方式採用自主預習，線上測試，上課實作。\n實作上，上課教室提供Nvidia RTX低階顯卡。但仍建議學生自備。",
+  "books": "[1] E. A. Lee and S. A. Seshia, Introduction to Embedded Systems: A Cyber-Physical Systems Approach, 2nd ed. Cambridge, MA, USA: MIT Press, 2017. ISBN: 978-0-262-53381-2. Available: https://ptolemy.berkeley.edu/books/leeseshia\n[2] N. Crespi, A. T. Drobot, and R. Minerva, Eds., The Digital Twin. Cham, Switzerland: Springer, 2023. doi: 10.1007/978-3-031-21343-4. Available: https://link.springer.com/book/10.1007/978-3-031-21343-4.\n[3] NVIDIA Isaac Sim Documentation, NVIDIA Corporation, accessed May 26, 2026. Available: https://docs.isaacsim.omniverse.nvidia.com/5.1.0/index.html\n[4] C. Hu and Q. Li, ROS 2智能機器人開發實踐. Beijing, China: Publishing House of Electronics Industry, China Industry and Information Technology Publishing Group, 2022.",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "單元技術實作：30%\n整合實作測試：30%。整合實作測試成績按上傳繳交速度/次序計分，超過時間但於延長期限上繳者給予及格，未繳者零分。\n技術分析報告：20%\n觀念測試：20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限工學院學士班。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。年級:限三年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限機械工程學系碩士班、機械工程學系博士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

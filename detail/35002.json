@@ -1,0 +1,22 @@
+{
+  "serial_no": "35002",
+  "objectives": "透過各界來賓專題演講，瞭解實務與學術界各領域之新知與重要經驗。",
+  "content": "報告、演講",
+  "books": "無",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "根據出席率與期末心得報告進行綜合評分",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系營建管理碩士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系營建管理博士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系營建管理博士班。"
+    }
+  ]
+}

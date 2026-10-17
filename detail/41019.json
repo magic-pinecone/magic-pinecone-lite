@@ -1,0 +1,34 @@
+{
+  "serial_no": "41019",
+  "objectives": "1. SAP 財務會計模組理論與實務操作\n2. 數位轉型相關文獻討論",
+  "content": "以老師公佈為主",
+  "books": "SAP ERP 財務會計模組講義 (統一影印)",
+  "teaching_method": "講授",
+  "grading_policy": "Class Participation (出席率):10％\nInterview (口試) 小組報告 : 45％\nOthers 1 (其他1)  上機操作 :45％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系碩士班、企業管理學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限學分學程-企業資源規劃。"
+    },
+    {
+      "priority": 4,
+      "rule": "學院:限管理學院。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限數學系。"
+    },
+    {
+      "priority": 5,
+      "rule": "學院:限非管理學院。"
+    }
+  ]
+}

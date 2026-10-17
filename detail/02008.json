@@ -1,0 +1,9 @@
+{
+  "serial_no": "02008",
+  "objectives": "建立遙測各領域基本原理之基礎及跨領域整合應用之概念",
+  "content": "遙測基本概念，遙測資料，遙測衛星系統，遙測數據影像處理，遙測影像圖形識別概念，變遷分析，地理資訊系統簡介，遙測資料幾何處理，三維資訊萃取，大氣輻射概念，大氣遙測，微波遙測，合成孔徑，雷達簡介及其應用，衛星量測及導航，全球定位系統簡介，遙測綜合定位，衛星氣象。",
+  "books": "1. T.Lilles and R.Kiefer, Remote Sensing and Image Interpretation2. S.Murai(ed.), Remote Sensing Note3. F. Sabins, Remote Sensing-Principles ＆ Interpretation",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "1.期中考(30％)\n2.期末考(30％)\n3.報告寫作(40％)",
+  "distribution_conditions": []
+}

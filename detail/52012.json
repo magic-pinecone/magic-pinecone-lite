@@ -1,0 +1,22 @@
+{
+  "serial_no": "52012",
+  "objectives": "增進學生對組合語言及相關電腦架構的基本認識，同時培養學生對於使用相關技術以提昇程式撰寫及應用的能力。",
+  "content": "1. Basic Concepts\n2. Assembly Language Fundamentals\n3. Data transfers, Addressing and Arithmetic (Homework 1)\n4. Procedures\n5. Conditional processing (Homework 2)\n6. Integer arithmetic\n7. Structures and Macros (Homework 3)\n(Mid-term exam)\n8. Advanced Procedure\n9. Structures and Macros\n10. MS-Windows Programming\n11. High Level Language Interface\n12. Protected Mode vs. Real Mode, Debug, Two-Pass Assembler ＆ Linker\n13. 16-bit MS-DOS programming\n14. BIOS-level Programming\n15. Expert MS-DOS Programming\n(Final Project)",
+  "books": "Text Book:\n1. Assembly Language for x86 Processors 7/E (GE) By Kip R. Irvine\n\nReferences:\n1. Essentials of 80x86 Assembly Language By Richard C. Detmer\n2. IBM PC Assembly language and Programming By Peter Abel",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "實習課作業 35％\nHomework 18％\nMid-term Exam 22％\nFinal Project 25％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

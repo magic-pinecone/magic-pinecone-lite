@@ -1,0 +1,26 @@
+{
+  "serial_no": "39004",
+  "objectives": "訓練同學進一步了解固態材料微觀之組織與其機械性質間之物理關係，並能利用簡單之數學模式解析其物理量，培養學生從事材料性質研究之基礎能力。",
+  "content": "固態材料物理之授課範圍包含固態材料之彈性、塑性及缺陷(差排)之基本理論及概念，以及由缺陷之滑移控制來闡述材料之強化機構、材料之高溫變形及材料之破裂行為。本課程將以物理及數學的模式引導同學去了解微觀之強化理論。",
+  "books": "“1. Teaching note.2. Text book:  “Mechanical Behavior of Materials”, M. A. Mayer and K. K. Chawla, Prentice Hall (2009) 新月圖書02-23317856 or “Mechanical Behavior of Materials”, Thomas H. Courtney, McGraw-Hill International editions (2000), 歐亞書局 02-23636141.3. Reference book:“Mechanical Metallurgy”, G. E. Dieter, McGraw-Hill (1988).“Introduction to Dislocations”, D. Hull and D. J. Bacon, Pergamon (1985).“",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "“期中考及小考40％、期末口頭及書面報告30％, 期末考30％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限材料科學與工程研究所工學博士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限材料科學與工程研究所碩士班、材料科學與工程研究所博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限非材料科學與工程研究所碩士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限。"
+    }
+  ]
+}

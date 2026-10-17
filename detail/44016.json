@@ -1,0 +1,18 @@
+{
+  "serial_no": "44016",
+  "objectives": "Unity of thought and Action: the implication and implementation of AI.\nThe Objective of this course provides students a logical thinking of the nature of AI, the introductory of various tools, the implementation of AI in real life. Students are required to attend one of AI related competitions then might be granted credit accordingly.\n知：清楚掌握 AI 的本質與可能的發展趨勢，並在使用 AI 工具時明確了解其方向與用途。\n行：讓 AI 工具能夠實現具體的想法，尤其是能夠與社區和社會互動的創新想法。\n智：除了追求效能中應用工具，也必須堅持人的意義與價值，避免工具化時代的人性異化。",
+  "content": "1 ( / )\t經濟發展與科技工具時代\n2 ( / )\t導論 - AI時代與人才定義的改變\n3 ( / )\t實作 - Colab 與 Python 入門、Python 初學語法的應用\n4 ( / )\t實作 -安裝與使用 AI 工具、AI 工具應用練習\n5 ( / )\t實作 - Python 資料型態與條件控制\n6 ( / )\t漫談 – AI興起與商業化的啟發\n7 ( / )\t漫談 – AI 對於非資工科系學生的衝擊\n8 ( / )\t專題講座 - 設計思考、美學與 CLD 介紹\n9 ( / )\t實作 - Python Pandas 與視覺化工具\n10 ( / )\tKaggle 競賽\n11 ( / )\t實作 - 深度學習基礎與 MNIST\n12 ( / )\t實作 - 貓狗分類與腦瘤影像語義分割\n13 ( / )\t專題分組討論\n14 ( / )\t實作 - Llama聊天機器人開發與 Multi-Agent 系統設計\n15 ( / )\t科技哲學與人文討論\n16 ( / )\t期末專題報告與展示",
+  "books": "暫不提供",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "■Assignment (作業)\t50%\n■Presentation (專題發表)\t50%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限雙主修-經濟學系。"
+    }
+  ]
+}

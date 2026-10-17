@@ -1,0 +1,22 @@
+{
+  "serial_no": "86005",
+  "objectives": "我國能源資源稀少，隨著工業升級及能源消費量快速成長，同時面臨2050淨零排放的問題，本課程將介紹具有綠色潔淨的氫氣儲存技術，為社會培養儲氫專業人才，奠定國內永續發展的能源科技基礎。本課程內容包含：產氫技術、固態儲氫材料、壓縮儲氫、液氫載體、氫能應用與氫安全法規等主題，以全方位的角度，探討各種儲氫技術的種類及其原理，讓學生可根據使用情境選擇適合之儲氫方式。",
+  "content": "第1週 09/11   Ch1全球儲氫發展趨勢\n第2週 09/18   Ch2產氫技術\n第3週 09/25   Ch2產氫技術\n第4週 10/02   Ch3固態儲氫材料\n第5週 10/09   Ch3固態儲氫材料\n第6週 10/16   Ch3固態儲氫材料\n第7週 10/23   Ch3固態儲氫材料\n第8週 10/30   期中考週\n--------------------------------------------------------------\n第9週 11/06   Ch4壓縮儲氫\n第10週11/13  Ch5液氫載體\n第11週11/20  Ch6氫氣純化及回收\n第12週11/27  Ch7 氫能應用\n第13週12/04  Ch7 氫能應用\n第14週12/11  Ch8氫安全\n第15週12/18  Ch8氫安全\n第16週12/25  期末考週－期末報告繳交與報告",
+  "books": "1.\tKazunari Sasaki, et. al., Hydrogen energy engineering A Japanese perspective, Springer, 1st edition, 2016\n2.\tLennie Klebanoff, Hydrogen storage technology materials and applications, CRC Press, 1st edition, 2012.\n3.\tGavin Walker, Solid-state hydrogen storage : materials and chemistry, CRC Press, 2008.\n4.\t大角泰章, 水素吸藏合金, 化學工業社 (日本東京, 1993).\n5.\t曲新生, 陳發林, 產氫與儲氫技術, 五南出版, 初版, 2007.\n6.\tISO 及CNS法規",
+  "teaching_method": "講授",
+  "grading_policy": "出席率及平時表現 Attendance and classroom performance：10%\n作業Homework：20%\n期中考Mid-term exam：25%\n期末考Final-term exam: 25%\n期末報告Final report：20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限永續去碳科技碩士學位學程、永續去碳科技博士學位學程。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限材料科學與工程研究所碩士班。"
+    }
+  ]
+}

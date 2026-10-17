@@ -1,0 +1,18 @@
+{
+  "serial_no": "85003",
+  "objectives": "修課學生將在課程中學習大腦的生理基礎、腦與人類行為的關聯。課程內容包含腦造影技術，以及其結果應用於解釋人類行為。課程中將從知覺、語言、記憶等傳統認知心理學議題介紹相關的大腦機制。課程內容將著重在訓練學生以批判式的視野理解認知神經科學之研究。課堂上會要求學生報告與討論上述相關的認知神經科學議題，期許修課學生能在上課時主動發問與討論。",
+  "content": "1. 導論\n2. 神經系統\n3. 腦影像技術\n4. 電生理反應\n5. 視知覺\n6. 注意力\n7. 記憶\n8. 聽覺\n9. 語言\n10. 情緒與決策\n11. 學生報告",
+  "books": "Textbook:\nBernard J. Baars ＆ Nicole M. Gage, Cognition, Brain, and Consciousness: Introduction to Cognitive Neuroscience (2nd Edition) ｜\n\nRecommended readings:\nSlotnick, Scott, Controversies in cognitive neuroscience｜\n漢寧．貝克 (Hennig Beck), 打破大腦偽科學：右腦不會比左腦更有創意，男生的方向感也不會比女生好｜\n安德斯‧艾瑞克森, 羅伯特‧普爾 (Anders Ericsson, Robert Pool), 刻意練習：原創者全面解析，比天賦更關鍵的學習法｜",
+  "teaching_method": "講授",
+  "grading_policy": "“1. 書面報告表現(60％)\n2. 期末報告(40％)“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    }
+  ]
+}

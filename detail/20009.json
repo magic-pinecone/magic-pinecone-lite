@@ -1,0 +1,14 @@
+{
+  "serial_no": "20009",
+  "objectives": "學之教學目標，乃在於教導學生認識藥物之作用原理及相關知識，應用與疾病治療之關係，增加學生對藥物機轉的知識。",
+  "content": "Week 1: 藥理學概論(一) General Pharmacology (I)\nWeek 2: 藥理學概論(二) General Pharmacology (II)\nWeek 3: 抗菌藥物(一) Antimicrobial Agents (I)\nWeek 4: 抗菌藥物(二) Antimicrobial Agents (II)\nWeek 5: 抗高血壓藥 Antihypertensive Agents\nWeek 6: 降血脂劑與動脈粥狀硬化Lipid-Lowering Drugs &\nAtherosclerosis\nWeek 7: 抗貧血藥 Anti-anemia\nWeek 8: 抗血栓藥 Anti-thrombosis\nWeek 9: 期中考Mid-term Examination\nWeek 10: 酒精與相關藥物 Alcohol and Related Compounds\nWeek 11: 細胞治療 Cell therapy\nWeek 12: 利尿劑與抗利尿劑Diuretics and Antiuretics\nWeek 13: 癌症化學藥物療法 Chemotherapy of Neoplasm\nWeek 14: 癌症標靶/藥物治療 Targeted Ccnaer Therapy\nWeek 15: 業界分享 Industry Expert Collaborative Teaching\nWeek 16: 期末考Final Examination",
+  "books": "\"Basic & clinical pharmacology /edited by\nBertram G. Katzung.\"",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "出席 10% 期中考 45%  報告 45%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系系統生物與生物資訊碩士班、生醫科學與工程學系系統生物與生物資訊博士班。"
+    }
+  ]
+}

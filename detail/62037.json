@@ -1,0 +1,9 @@
+{
+  "serial_no": "62037",
+  "objectives": "（本課程在秋季時以中文授課，春季時以英文授課，內容相同。The course is taught in Chinese in the Fall semester, and English in the Spring semester with the same content.）\n\n資料科學是一門古老又新穎的主題，它起源於幾個世紀以來對統計學的探索，在近二十年內又因收集資料和電腦計算的速度大幅增加，出現了許多潛力無窮的新概念與模型。本課程歡迎具有統計學與程式設計基礎的您，透過閱讀與專題實作的方式深入了解目前在環境科學領域熱門的統計模型，以及要怎麼利用這些模型解構地球系統的運作。",
+  "content": "課程大綱將在 Ee-class 上公布。\n\n本課程將需要你具備統計學和程式設計的必要知識。可以先閱讀此網頁：https://scikit-learn.org/1.4/tutorial/statistical_inference/supervised_learning.html，如果英文是主要的障礙，可以使用 Google 翻譯或類似的瀏覽器外掛。如果你能在合理的閱讀時間內理解大部分內容和步驟，那麼這門課應該蠻適合你！",
+  "books": "Hsieh, W. (2023). Introduction to Environmental Data Science. Cambridge: Cambridge University Press.\ndoi:10.1017/9781107588493",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "每週指定閱讀與課堂討論 20％，五次作業 (含程式設計) 50％，團隊專題 (含程式設計) 30％",
+  "distribution_conditions": []
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "54015",
+  "objectives": "This course is especially designed for graduate students who major in learning technology. This course aims to gain participants’ understanding of nature of learning technology, design thinking, and the core concepts of Generative AI (GenAI). Moreover, this course will explore potential applications of Generative AI in education. This course is designed to provide participants with deep insights into GenAI-based learning technology by combining conceptual understanding with hands-on design practice. Through literature reviews, group discussions, and project-based activities, the course focuses equally on the fundamental understanding of GenAI and applying the fundamental understanding of GenAI to design and validate learning technology prototypes, such as a learning website, system, or app.\n\nBy the end of the course, participants will be able to:\n1. be aware of the nature of learning technology\n2. have sufficient understanding of the nature of learning technology, the fundamental principles and historical development of Generative AI (e.g., from Transformer architecture to ChatGPT), and design thinking\n3. Gain proficiency in key Generative AI applications, including API integration, Prompt Engineering, and Multi-Agent Systems.",
+  "content": "Week 1: Course Introduction\nWeek 2: Nature of tools (1/2) Things that make us smart: Norman (77–113)\nWeek 3 (Moon Festival): Holiday (No class)\nWeek 4: Nature of tools (2/2) Distributed expertise: Ann Brown (188–224) Roy Pea (optional)\nWeek 5 (National Day): Holiday (No class)\nWeek 6: Learner-centered design (LCD) Learner-centered design: Quintana (119–134)\nWeek 7: Introduction to vibe coding\nWeek 8: [Project]: AI agent design (DT-Empathy)\nWeek 9 (midterm exam): [Project]: AI agent design (DT-Define)\nWeek 10: [Project]: AI agent design (DT-Ideate)\nWeek 11: [Project]: AI agent design (DT-Prototype) (1/2)\nWeek 12: [Project]: AI agent design (DT-Prototype) (2/2)\nWeek 13: [Project]: AI agent design (DT-Test) Final Results Presentation\nWeek 14: [Project]: AI agent design (DT-Revise)\nWeek 15: [Project]: AI agent design (DT-Revise) Final Results Submission (Final Week, no class)\nWeek 16 (Taiwan Constitution Day): Holiday (No class) Group Report & Individual Summary Reflective Journal Submission",
+  "books": "Self-edited teaching materials",
+  "teaching_method": "講授\n研討\n\n個別指導\n其他",
+  "grading_policy": "1.Process:\n*Participation (30％):\na. Classroom participation (10％)\nb. Online community participation (20％; writing and reading notes)\n*Outcomes:\na.Individual understanding on digital learning understanding of the nature of learning technology, learner-centered design (LCD), and design thinking (30％)\nb.Prototype design: (40％) (peer evaluation and expert evaluation)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限網路學習科技研究所碩士在職專班。"
+    }
+  ]
+}

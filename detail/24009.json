@@ -1,0 +1,30 @@
+{
+  "serial_no": "24009",
+  "objectives": "遺傳學是研究生物體的遺傳和變異的科學。而現代遺傳學，其目的之一是尋求了解遺傳的整個過程的機制，某些遺傳單位遵守簡單的統計學規律，這些遺傳單位現在被稱為基因。基因位於DNA上，而DNA是由四類不同的核?酸組成的鏈狀分子，DNA上的核苷酸序列就是生物體的遺傳信息，可以被細胞轉譯以合成蛋白質。雖然遺傳在決定生物體外形和行為的過程中扮演著重要的角色，但此過程是遺傳和生物體所經歷的環境共同作用的結果。這門課希望學生能學習了解基因間及基因與環境間的交互作用。",
+  "content": "1. Introduction/Mendel's Principles of Heredity\n2. Extensioins to Mendel's Laws\n3. Chromosome and Inheritance\n4. Linkage, Recombination, Mapping\n5. Using Mutation to Study Genes\n6. Midterm Exam I\n7. The Flow of Information from DNA to RNA to Protein\n8. Digital Analysis of Genomes\n9. Analyzing Genomic Information\n10. Variation and Selection in Populations\n11. Midterm Exam II\n12. Chromosomal Rearrangements\n13. Ploidy\n14. Manipulating the Genomes of Eukaryotes\n15. Genetics of Complex Traits\n16. Final Exam",
+  "books": "Genetics: From Genes to Genomes, by Hartwell et al. 8th edition, 2020, ISBN 978-1-259-09554-2",
+  "teaching_method": "講授\n研討\n\n其他",
+  "grading_policy": "1. Homework assignment (10％)\n2. Mid-term exam I (30％)\n3. Mid-term Exam II (30％)\n4. Final exam (30％)“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-生命科學系、雙主修-生命科學系、學分學程-生科職涯、第二專長-生物多樣性、第二專長-生物科技。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "53036",
+  "objectives": "本課程旨在使學生理解現代計算機系統的基本組織與設計原理，包括指令集架構、處理器、管線化、記憶體階層及輸入輸出系統。學生將能運用效能指標分析計算機系統，比較不同架構設計的取捨，並培養以英語閱讀、討論及表達計算機組織專業內容的能力。",
+  "content": "1\t課程概要及基本計算機架構\n2\t計算機技術發展概述\n3\t組合語言運算與運算元\n4\t指令集簡介與指令集架構\n5\t指令集架構與定址模式\n6\t資料表示方式\n7\t加法器與乘法器\n8\tCPU效能及其影響因素\n9\t期中考試\n10\t管線化概述\n11\t管線危障及效能分析（1）\n12\t管線危障及效能分析（2）\n13\t快取記憶體\n14\t快取記憶體及虛擬記憶體\n15\t虛擬記憶體、控制單元與微程式\n16\t期末考試",
+  "books": "教科書(英文)：D. A. Patterson and J. L. Hennessy, Computer Organization and Design MIPS Edition: The Hardware/Software Interface, 6th Edition, Morgan Kaufmann, 2020.\n參考書(英文)：John L. Hennessy, David A. Patterson, and Christos Kozyrakis, Computer Architecture: A Quantitative Approach, 7th Edition, Morgan Kaufmann/Elsevier, 2025.\nEMI說明：課堂講授、投影片、教材、測驗及主要課堂互動原則上皆使用英語。",
+  "teaching_method": "講授",
+  "grading_policy": "期中考 - 30%\n期末考 - 30%\n出席、作業及課堂表現 - 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限通訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限通訊工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班、雙主修-通訊工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。學院:限資訊電機學院。年級:限四年級。"
+    }
+  ]
+}

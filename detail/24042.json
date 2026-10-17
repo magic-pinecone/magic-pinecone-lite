@@ -1,0 +1,18 @@
+{
+  "serial_no": "24042",
+  "objectives": "本課程旨在使學生全面了解植物荷爾蒙在植物生長發育與環境應答中的調控機制。透過系統性介紹各類植物荷爾蒙的生合成、運輸與訊號傳遞途徑，培養學生對植物生理調控網絡的整體認識。",
+  "content": "第1週：課程導論\n•\t植物荷爾蒙概論\n•\t歷史發展與研究方法\n第2週：生長素（Auxin）\n•\t生合成、極性運輸與訊號傳遞\n•\t在發育中的功能\n第3週：吉貝素（Gibberellins）\n•\t生合成與分解\n•\t在種子萌發與莖伸長中的角色\n第4週：細胞分裂素（Cytokinins）\n•\t訊號傳遞與調控\n•\t在細胞分裂與器官形成中的功能\n第5週：脫落酸（ABA）\n•\t逆境反應（乾旱、鹽害）\n•\t氣孔調控機制\n第6週：乙烯（Ethylene）\n•\t合成與訊號傳遞\n•\t果實成熟與老化\n第7週：其他植物荷爾蒙\n•\t茉莉酸（JA）、水楊酸（SA）、油菜素內酯（BR）等\n第8週：期中考或文獻報告\n第9週：荷爾蒙交互作用（Crosstalk）\n•\t訊號整合與調控網絡\n第10週：植物發育中的荷爾蒙調控\n•\t根、莖、葉與花的發育\n第11週：荷爾蒙與逆境生理\n•\t生物與非生物逆境\n第12週：分子與細胞層級機制\n•\t轉錄調控與蛋白質修飾\n第13週：荷爾蒙與代謝調控\n第14週：實驗技術與研究方法\n•\t荷爾蒙定量（LC-MS/MS）\n•\t突變體與轉基因分析\n第15週：農業與生物技術應用\n•\t作物改良與抗逆境策略\n第16週：期末考或總結討論\n第17週：學生專題報告 (彈性教學)\n第18週：學生專題報告 (彈性教學)",
+  "books": "Taiz, L. et al. Plant Physiology and Development\nDavies, P. J. Plant Hormones: Physiology, Biochemistry and Molecular Biology",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "Midterm Exam: 30%\nFinal Exam or Project: 30%\nLiterature Presentation: 20%\nParticipation: 20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系碩士班、生命科學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限三年級、四年級。"
+    }
+  ]
+}
