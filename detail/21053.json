@@ -1,0 +1,22 @@
+{
+  "serial_no": "21053",
+  "objectives": "本課程從數學觀點介紹量子資訊理論的基本結構，以有限維複內積空間為主要討論場域。課程前半部建立量子態、密度算子、複合系統、糾纏、純化與測量的共同語言，並配合伴隨算子、正算子平方根、Hilbert–Schmidt 內積、奇異值分解、等距映射與極分解等線性代數工具，理解相關概念與定理的數學基礎。\n\n課程後半部以量子通道為核心，介紹完全正保跡映射（CPTP maps）、Choi–Jamiołkowski 對應、Kraus 表示、Stinespring 擴張與互補通道，並透過代表性通道理解雜訊與開放系統的狀態演化。視授課進度，選介量子態的可區分性、資訊量不等式或特殊量子通道等進階主題。\n\n本課程強調具體計算、引導證明與構造方法。修課學生將學習辨認定理的適用條件、推導基本算子恆等式，並將量子態、測量與通道視為可精確分析的數學物件，為後續閱讀量子資訊、量子通道及開放量子系統相關文獻建立基礎。",
+  "content": "本課程分為兩個主要部分。\n\n第一部分：量子資訊的基本語言與線性代數結構\n\n1. 有限維複內積空間、Dirac 記號、線性算子、伴隨、核與像空間，以及正交投影。\n2. Hermitian 譜分解、正算子與正平方根；量子態、密度矩陣、純態與混合態，以及酉演化。\n3. 張量積與複合系統、Hilbert–Schmidt 內積、矩陣單位基底、部分跡及其內積刻畫。\n4. 奇異值分解的構造、Schmidt 分解、局部態的譜，以及雙體純態糾纏的判準。\n5. 純化、最小參考維度、等距映射與純化的自由度；投影測量、條件態與非選擇性更新。\n6. 一般測量、POVM、多算子分支，以及利用極分解理解測量更新的非唯一性。\n\n上述內容以 qubit、基本量子閘及小型矩陣作為計算例子，並透過引導證明與構造題建立一般性的推理能力。\n\n第二部分：量子通道的數學理論\n\n1. 封閉系統與開放系統的演化；量子通道作為完全正保跡映射。\n2. 算子空間上的線性映射與伴隨；保持跡與保單位的關係。\n3. Choi–Jamiołkowski 對應、Choi 算子與完全正性。\n4. Kraus 表示、Stinespring 擴張、等距表示及系統與環境的描述。\n5. 互補通道與環境所取得的資訊。\n6. 代表性通道例子，例如 Pauli、dephasing、depolarizing、amplitude damping 與 erasure channels，依進度擇要介紹。\n\n進階選講\n\n視授課進度與學生背景，可從下列主題選取部分內容：trace distance、fidelity、量子熵與 Holevo quantity；entanglement-breaking、degradable、antidegradable 或 PPT channels；相對熵與 data-processing inequality；conditional mutual information、quantum Markov chains 或 recovery maps。\n\n實際進度依課堂學習情形調整，優先完成量子態、測量與量子通道表示的核心內容。",
+  "books": "主要授課教材：\n1. 李彥奇，自編《量子資訊的數學基礎》課程講義，於課堂提供並依進度更新。\n\n主要閱讀參考：\n2. Christoph Dittel, Quantum Information Theory, lecture notes, arXiv:2311.12442.\n3. Felix Leditzky, Quantum Channels, lecture notes.\n\n線性代數補充：\n4. Felix Leditzky, MATH 416: Abstract Linear Algebra, Fall 2021，選定講義單元。\n\n其他參考書：\n5. Michael A. Nielsen and Isaac L. Chuang, Quantum Computation and Quantum Information, 10th Anniversary Edition, Cambridge University Press, 2010.\n6. John Watrous, The Theory of Quantum Information, Cambridge University Press, 2018.\n7. Mark M. Wilde, Quantum Information Theory, 2nd Edition, Cambridge University Press, 2017.\n8. John Preskill, Lecture Notes for Physics 229: Quantum Information and Computation.\n\n上半學期以自編講義為主，配合 Dittel 與 Leditzky 的線性代數相關材料；下半學期以 Leditzky 的量子通道講義作為主要閱讀參考。閱讀範圍依課堂指定，不要求完整閱讀上述所有教材。",
+  "teaching_method": "講授",
+  "grading_policy": "作業或小考 30%、期中考 30%、期末考 30%、課堂參與 10%。\n\n作業與小考預計安排全學期四次作業及兩次課堂小考，每次各占學期總成績 5%。上下半學期各安排兩次作業及一次小考，分別合計 15%。\n\n作業包含基本計算、引導證明或構造，以及應用或反例題；課堂小考以個別作答方式評量基本工具的使用與概念理解。章內自測練習不全部列為繳交作業，實際繳交範圍、截止日期與考試範圍依課堂公告。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班、數學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限二年級、三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。年級:限二年級、三年級、四年級。"
+    }
+  ]
+}

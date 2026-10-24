@@ -1,0 +1,22 @@
+{
+  "serial_no": "09014",
+  "objectives": "1. 讓學生知道AI-Agent是什麼? 裡面的組件分別代表什麼意義\n2. 讓學生嘗試透過AI-Agent平台，打造一個自己的AI-Agent\n3. 讓學生嘗試新型態的與AI共學的教學方式",
+  "content": "本課程採非同步遠距教學，學生可在上課時段跟老師遠端討論\n\n老師會請學生去使用一個教學型AI-Agent，學生可在任意時間使用這個教學型AI-Agent，製作自己對AI-Agent的學習重點理解。\n\n學生必須每周交付一次學習報告，助教會交由 批閱型AI-Agent，進行解析與評分，並讓Agent跟老師匯報學生的學習狀況。\n\n期末，學生必須製作一個AI-Agent，作為期末成績考核，老師會挑出數位優秀同學，在期末以小桌分享的方式，促進同學們的交流與作品鑑賞。\n\nAI-Agent的大腦-LLM 種類、遴選、參數意義、內容解析、部屬建置與調度、計費模式\nAI-Agent的指引-Prompt 編寫風格、惡意攻擊、管理思路\nAI-Agent的記憶-Memory 重點型記憶、對話記憶、記憶壓縮\nAI-Agent的資料庫-Knowledge 向量資料庫、過濾、相似度、排序與資料再更新\nAI-Agent的外部交互-Tool 傳統系統的API, MCP, Skill, A2A\nAI-Agent的內容審查過濾-Guardrail 關鍵字審查、Agent審查\nAI-Agent的執行流程穩定化-Flow 靜態與動態Flow、workflow、chatflow\nAI-Agent如何破壞傳統程式碼的邏輯任務-Function calling\nAI-Agent的監控與效能評測- Evaluation & Testing",
+  "books": "《深談AWS雲端上的AI Agent：系統化學習AWS-AI證照，協助企業管理AI Agent》，李秉鴻、周廷諺、黃文萱、饒貫玄 著，博碩文化，2025年。ISBN：9786264142861",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "周間報告\n期末專題",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限學分學程-人工智慧跨域應用(理)、學分學程-人工智慧跨域應用(文)。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。學院:限文學院、管理學院、地球科學學院、客家學院、生醫理工學院。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

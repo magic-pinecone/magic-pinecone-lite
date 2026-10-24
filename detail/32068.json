@@ -1,0 +1,18 @@
+{
+  "serial_no": "32068",
+  "objectives": "透過能量與動量方程之理論與例題，配合數值模擬（如 HEC-RAS）計算臨界流與均勻流之水深與流速，並結合洪峰流量推估、降雨–逕流與洪水演算（如 SCS-CN、單位歷線、Muskingum），學習渠道與河川之水位與洪水傳遞實務評估。",
+  "content": "一、明渠水力\n(1) 能量方程\n(2) 動量方程\n(3) 臨界流\n(4) 均勻流\n二、水文計算\n(1) 洪峰流量推估\n(2) 降雨–逕流\n(3) 洪水演算\n三、軟體分析 (HEC-RAS)\n(1) 專案建立、幾何建置（斷面、橋涵局部損失）、邊界條件設定\n(2) 穩定流（Steady Flow）：臨界/均勻條件驗證、能量線與水位剖面判讀\n(3) 非穩定流（Unsteady Flow）：入流歷線輸入（由降雨–逕流模型產生）、糙率率定",
+  "books": "Subramanya, K. (2015) Flow In Open Channels. 4th Edition, Tata Mc Grow-Hill.\nSubramanya, K. (2020) Engineering Hydrology. 5th Edition, Tata Mc Grow-Hill.\nIoana Popescu (2014) Computational Hydraulics: Numerical Methods and Modelling, IWA Publishing.",
+  "teaching_method": "講授",
+  "grading_policy": "出席10%、課堂練習與作業50%、考試40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限三年級、四年級。"
+    }
+  ]
+}

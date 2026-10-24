@@ -1,0 +1,18 @@
+{
+  "serial_no": "32021",
+  "objectives": "“In this class, students are expected to learn: Design and Operation, Transportation systems, Transportation impacts, and Supporting elements for Transportation Engineering.“",
+  "content": "“1. Introduction and background2. Roadway design3. Traffic stream flow models4. Capacity and level of service analysis5. Transportation modes6. Urban and intelligent transportation systems7. Transportation planning8. Travel-demand forecasting9. Traffic impact and parking studies10. Air quality,noise and energy impact11. Evaluation and choice12. Elements of engineering economy13. Probability and statistics14. Queing and simulation15. Transportation software“",
+  "books": "“C.S.Papacostas and P.D.Prevedouros, ““Transportation Engineering ＆ Planning,““ SI Edition, Prentice Hall, 2005“",
+  "teaching_method": "講授",
+  "grading_policy": "“assignment, mid-term, final exam“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限工學院學士班。"
+    }
+  ]
+}

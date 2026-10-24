@@ -1,0 +1,9 @@
+{
+  "serial_no": "02015",
+  "objectives": "本課程介紹攝影測量的理論及數位處理方式，包含成像幾何、攝影測量方位求解、空中三角測量、影像匹配、及衛星影像幾何校正等。學生亦需透過作業獲得實現數位攝影測量方法之經驗。",
+  "content": "“(1) 攝影測量介紹\n(2) 攝影原則\n(3) 相機及相機率定\n(4) 影像量測及校正\n(5) 物空間坐標系統\n(6) 垂直及傾斜攝影\n(7) 攝影測量之數學模式\n(8) 影像匹配\n(9) 空中三角測量\n(10) 衛星影像幾何校正\n(11) 智慧城市模型重建“",
+  "books": "“Wolf , P.R. , and Dewitt , B.A. ,2000 , “Elements of Photogrammetry with Applications in GIS , 3rd edition” , McGraw-Hill“",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "“作業55％\n報告30％\n課程參與15％“",
+  "distribution_conditions": []
+}

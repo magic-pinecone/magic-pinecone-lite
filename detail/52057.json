@@ -1,0 +1,18 @@
+{
+  "serial_no": "52057",
+  "objectives": "1.了解網路層以下各層之基礎原理\n2. 以當前網路通訊協定說明各項原理的應用情形",
+  "content": "1. Introduction to Wireless Networks\n2. Physical Layer\n3. Data Link Layer\n4. Mac Layer\n5. Lora Spec\n6. 3GPP NTN Spec",
+  "books": "1. Ad Hoc Wireless Networks Architectures and Protocols (C. Siva Ram Murthy and B. S. Manoj)\n2. Wireless Communications and Networks (William Stallings)\n3. Paper Readings",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "\"評分標準\n期中考 30%\n論文/技術規範報告 20%\n實驗 40%\n出席 10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    }
+  ]
+}

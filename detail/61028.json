@@ -1,0 +1,9 @@
+{
+  "serial_no": "61028",
+  "objectives": "本課程回顧大氣環流的觀測特徵，並闡述其成因和維持的基本機制。課程分為兩部分。第一部分為講授，內容包括大氣環流的時間平均特徵以及角動量、質量、動能、水汽和總能量的守恆定律。第二部分要求每位學生進行1~2次基於研究文獻的批判性回顧，並向所有課堂參與者進行報告。",
+  "content": "第一部分：講座\n\n第一章 引言：大氣特徵\n第二章 觀測平均值：結構與環流\n第三章 歷史回顧\n第四章 角動量平衡\n第五章 能量平衡\n第六章 能量守恆\n\n第二部分：研究論文導讀\n\n論文導讀與討論",
+  "books": "1. James, Ian N., 1994：Introduction to Circulating Atmospheres, Cambridge Atmospheric and Space Science Series, Cambridge University Press, Great Britain, 422pp.\n2. Randall, A. David, 2000：General Circulation Model Development. International Geophysical Series, Volume 70, Academic Press, New York, 807pp.\n3. Selected classical journal articles",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "作業: 50%\n報告: 25%\n期末考: 25%",
+  "distribution_conditions": []
+}

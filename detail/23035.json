@@ -1,0 +1,18 @@
+{
+  "serial_no": "23035",
+  "objectives": "此課程主要針對各式無機與有機太陽能電池之原理、材料化學知識、研究發展、量測分析方法與太陽光電產業近況等進行介紹，希望可透過此課程使學生對於各式太陽能電池之相關知識有更深的認識和了解，並啟發其未來從事相關學術研究或產業發展的興趣與想法。",
+  "content": "預定授課大綱：[1] Principle of Various Solar Cells, [2] Crystalline Silicon Solar Cells, [3] Thin Film Technologies-amorphous Si, [4] Thin Film Technologies-CdTe, [5] Thin Film Technologies-CIGS, [6] Dye-Sensitized Solar Cells, [7] Polymer Solar Cells, [8] Perovskite Solar Cells, [9] Solar Cell Efficiency Evaluation, [10] Photovoltaic Industry and Market.",
+  "books": "Augustin McEvoy, Tom Markvart and Luis Castaner, Practical Handbook of Photovoltaics (Second Edition)- Fundamentals and Applications, Waltham, MA: Academic Press, c2012. (ISBN: 978-0-12-385934-1).",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "出席率(15％)，期中筆試(45％)，與期末口頭報告(40％)。\n註:若有異動會預先於課堂說明。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。學院:限理學院、工學院。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。學院:限理學院、工學院。"
+    }
+  ]
+}

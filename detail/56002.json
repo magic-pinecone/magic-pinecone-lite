@@ -1,0 +1,14 @@
+{
+  "serial_no": "56002",
+  "objectives": "依照教師安排",
+  "content": "依照教師安排",
+  "books": "依照教師安排",
+  "teaching_method": "個別指導",
+  "grading_policy": "依照教師安排",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊電機學院學士班。"
+    }
+  ]
+}

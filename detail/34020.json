@@ -1,0 +1,14 @@
+{
+  "serial_no": "34020",
+  "objectives": "培養學生掌握高階輸送現象中的基礎和應用學科知識。",
+  "content": "(1) 微量平衡\n(2) 動量平衡\n(3) 對流\n(4) 輻射\n(5) 質量傳遞\n(6) 層流",
+  "books": "“Transport Phenomena,“ R. B. Bird, W. E. Stewart, and E. N. Lightfoot, John Wiley ＆ Sons, Revised Second Edition, 2007.",
+  "teaching_method": "講授",
+  "grading_policy": "期中考 45％\n期末考 45％\n出席 10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系碩士班、化學工程與材料工程學系博士班、化學工程與材料工程學系工學博士班。"
+    }
+  ]
+}

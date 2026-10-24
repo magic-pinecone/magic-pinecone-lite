@@ -1,0 +1,26 @@
+{
+  "serial_no": "21044",
+  "objectives": "本課程講述金融衍生性商品定價所需的數學模型與評價理論。首先介紹離散的二項樹模型，再拓展至連續的隨機動態模型。結合隨機微積分與無套利理論，探討風險中立測度下的資產定價與風險管理方法。",
+  "content": "機率論、條件期望值、單期二項模型、多期二項模型、布朗運動、隨機微積分、無套利定價理論、平賭條件、測度轉換、希臘字母避險、評價模型應用。",
+  "books": "Textbook:\nSteven E. Shreve, Stochastic Calculus for Finance II: Continuous-Time Models\nReferences:\nSteven E. Shreve, Stochastic Calculus for Finance I: The Binomial Asset Pricing Model",
+  "teaching_method": "講授",
+  "grading_policy": "作業:30％\n期中考:30％\n期末考:40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系。年級:限三年級。班別:限B。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限理學院學士班。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系、理學院學士班。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

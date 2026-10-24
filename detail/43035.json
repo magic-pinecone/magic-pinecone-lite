@@ -1,0 +1,18 @@
+{
+  "serial_no": "43035",
+  "objectives": "“The course is designed to provide graduate students with a firm grasp of fundamentals on multivariate statistical analysis. The knowledge of basic statistics is required. On completion of the course, successful students will be able to:\n1. Explain and illustrate the fundamental principles of multivariate analysis\n2. Demonstrate competence in applying appropriate multivariate techniques to study issues confronting Information science\n3. Properly interpret the results of multivariate analysis\n4. Apply statistical software (e.g., SPSS) to perform multivariate analysis“",
+  "content": "1. Factor Analysis\n2. Simple and Multiple Regression\n3. Canonical Correlation\n4. Conjoint Analysis\n5. Multiple Discriminant Analysis and Logistic Regression\n6. ANOVA and MANOVA\n7. Structural Equations Modeling (SEM)",
+  "books": "“Textbook:\nHair, J. F., Black, B., Babin, B., Anderson, R. E., ＆ Tatham, R. L. (2010) Multivariate Data Analysis: A Global Perspective, New Jersey, USA: Pearson\nReferences:\nJohnson R.A., Wichern D.W. (2007) Applied Multivariate Statistical Analysis (6th), Pearson“",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "Midterm exam: 50％\nFinal exam: 50％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士班、資訊管理學系博士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系博士班。"
+    }
+  ]
+}

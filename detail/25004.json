@@ -1,0 +1,9 @@
+{
+  "serial_no": "25004",
+  "objectives": "本課程協助學生建立統計推論的基礎",
+  "content": "常見分配族\n多維隨機變數\n隨機樣本性質\n資料縮減原則\n點估計與區間估計\n假設檢定\n大樣本漸進性質",
+  "books": "George Casella and Roger L. Berger (2002), Statistical Inference, 2nd edition",
+  "teaching_method": "講授",
+  "grading_policy": "作業 30%\n期中考 30%\n期末考 40%",
+  "distribution_conditions": []
+}

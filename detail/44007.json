@@ -1,0 +1,22 @@
+{
+  "serial_no": "44007",
+  "objectives": "Course Objective \tThis course aims to teach students intermediate-level macroeconomic tools and apply them to real-world economic policy issues. Macroeconomics is concerned with the behavior of the aggregate economy. We will be examining macroeconomic data and studying models designed to help us comprehend it. We will pay attention to the role of policymakers in shaping macroeconomic outcomes. In this course, we will be employing graphs primarily with basic level of calculus.",
+  "content": "Course Outline\tWeek\tTopic\tNote\n1 The basic Solow model\n2 Understanding cross-country income differences\n3 Overlapping generation model\n4 Overlapping generation model\n5 A dynamic consumption-saving model\n6 A dynamic consumption-saving model\n7 A dynamic consumption-saving model\n8 Midterm exam\n9 Production, labor demand, investment, and labor supply\n10 Production, labor demand, investment, and labor supply\n11 Fiscal policy\n12 Equilibrium efficiency\n13 Equilibrium efficiency\n14 Search, matching, and unemployment\n15 Search, matching, and unemployment\n16 Final Exam",
+  "books": "Course Material\tGarin-Lester-Sims, Intermediate Macroeconomics, 2021, by Julio Garin, Robert Lester and Eric Sims. The pdf copy of this book can be found on the authors’ website (https://www3.nd.edu/~esims1/gls_textbook.html).\n\nOther Material\tCharles I. Jones, Macroeconomics, 2017 (4th edition), W.W. Norton.\nOlivier Blanchard and David R. Johnson, Macroeconomics, 2017 (7th edition), Pearson.",
+  "teaching_method": "講授",
+  "grading_policy": "出席率20％\n期中考40％\n期末考40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系。年級:限三年級、四年級。指定課程:必須先修EC2005、先修EC2006。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限輔系-經濟學系、雙主修-經濟學系。年級:限三年級、四年級。指定課程:必須先修EC2005、先修EC2006。"
+    },
+    {
+      "priority": 3,
+      "rule": "學院:限管理學院。年級:限三年級、四年級。指定課程:必須先修EC2005、先修EC2006。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "35004",
+  "objectives": "本課程主要目的是教導學生學習BIM(Building Information Modeling)有關知識與技術，並熟悉工程專案管理(Project Management)軟體與技術，透過實作練習，使學生瞭解BIM與電腦技術在營建管理之實務應用，提升學生之電腦應用能力。",
+  "content": "1.課程與資通訊技術介紹(Course Introduction and ICT Introduction)\n2. BIM介紹(BIM Introduction)\n3. BIM指引(BIM Guide)\n4. BIM應用(BIM Uses)\n5. BIM軟體與工具(BIM Software and Tools)\n6. BIM應用於工程管理之工具(BIM Tools for Management)\n7. BIM應用於問題解決之方法(BIM for Problem-solving)\n8. BIM實務與未來(BIM Practices and its Future)\n9. 期中報告與討論(Midterm Presentation & Discussion)\n10.專案管理軟體介紹(Introduction to Project Management System (PMS))\n11. 專案管理軟體之排程輔助(PMS for Scheduling)\n12. 專案管理軟體對於專案規劃之輔助(PMS for Project Planning)\n13. 專案管理軟體對於專案控制之輔助PMS for Project Controlling\n14. 專案管理軟體實務與未來(PMS Practices and its Future)\n15. 具潛力之ICT工具之討論(Potential ICT Applications in the Future)\n16. 期末報顧與討論Term Project Presentation & Discussion",
+  "books": "自行整理講義",
+  "teaching_method": "講授",
+  "grading_policy": "1.出席與上課狀況(Attendance and Discussion)：10%\n2.指定論文閱讀書面報告(Reports on Assigned Article Reading)：20%\n3.作業(Home Works)：30%\n4.專題報告(Term Report)：40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系營建管理碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系營建管理博士班。"
+    }
+  ]
+}

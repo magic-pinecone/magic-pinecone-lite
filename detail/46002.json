@@ -1,0 +1,18 @@
+{
+  "serial_no": "46002",
+  "objectives": "“The objective of this course is intended to develop student‘s intuition in operation management and serve as a fundation for students pursuing more advance topics in this field, such supply chain management.\nTopics includes Invnetory Control, MRP, JIT, and more.“",
+  "content": "“Introduction\nEOQ model and its variants\nDynamic Lot Sizing\nStatistical Reorder Point Models: Newsvendor Model\nStatistical Reorder Point Models: Base Stock Model\nStatistical Reorder Point Models: (Q,r) Model\nStatistical Reorder Point Models: (Q,r) Model\nMyopic Approach for Multiple Period Problems\nBasic Factory Dynamics\nVariability Basics\nCorrupting Influence of Variability\nCorrupting Influence of Variability\nPush and Pull Production Systems\nPush and Pull Production Systems\nShop Floor Control\nAggregate Planning“",
+  "books": "“W.J. Hopp and M.L. Spearman. Factory Physics, 3rd edition. 2008. McGraw-Hill.“",
+  "teaching_method": "講授",
+  "grading_policy": "作業與課堂表現 30％ 期中考 35％ 期末考 35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限工業管理研究所碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "52047",
+  "objectives": "“1. Introduce basic concepts and techniques of machine learning.2. Develop abilities to apply machine learning models for practical problems.“",
+  "content": "“1. Traditional supervised learning algorithms2. Traditional unsupervised learning algorithms3. Deep learning algorithms4. Recommender systems“",
+  "books": "“““The Elements of Statistical Learning““ by Trevor Hastie, Robert Tibshirani, and Jerome Friedman““Deep Learning““ by Ian Goodfellow, Yoshua Bengio, and Aaron Courville“",
+  "teaching_method": "講授",
+  "grading_policy": "“Exercise: 55％\nProject proposal and progress presentation: 10％\nProject final presentation and report: 30％\nOthers: 5％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系、資訊電機學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限學分學程-巨量資料分析、第二專長-人工智慧。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限人工智慧國際碩士學位學程。"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "serial_no": "32060",
+  "objectives": "本課程是中文授課。\n訓練學生如何針對RC結構物做耐震設計。",
+  "content": "1.  鋼筋混凝土(RC)基本設計概念 Basic Design Concepts of Reinforced Concrete [1]\n2.  RC斷面彎矩與曲率分析與應用RC Sectional Moment-Curvature Analysis [2]\n3.  RC結構耐震設計Seismic Design of RC Structures [1]\n4.  選一相關主題作簡報\n5. 期末考試",
+  "books": "[1] 土木406-112 鋼筋混凝土學， 2023，科技圖書。第十章 耐震設計。(老師提供講義)\n[2] M.P. Collins and D. Mitchell, Prestressed Concrete Structures, 1991, Prentice Hall. Chapters 1- 6. (老師提供講義)",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "期末考試占35％\n作業占35％\n簡報占30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限四年級。"
+    }
+  ]
+}

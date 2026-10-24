@@ -1,0 +1,18 @@
+{
+  "serial_no": "33084",
+  "objectives": "本課程邀請各領域專家進行專題演講與心得分享，以擴展參與學生專業知識與涵養。",
+  "content": "邀請專家學者至課堂演講",
+  "books": "由外部講者提供",
+  "teaching_method": "研討",
+  "grading_policy": "上課參與、心得報告",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系光機電工程碩士班。年級:限一年級。身份:限非外籍生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系光機電工程碩士班。"
+    }
+  ]
+}

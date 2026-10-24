@@ -1,0 +1,18 @@
+{
+  "serial_no": "48021",
+  "objectives": "認識衍生性商品、評價衍生性商品、應用衍生性商品",
+  "content": "上課內容：老師保留依上課情形，調整內容權利！\n1.\t期貨介紹、利率期貨、債券期貨\n2.\t期權介紹、BS 評價公式與相關應用\n3.\t衍生性商品介紹\n4.\t衍生性商品定價原理\n5.\t新奇選擇權介紹及定價",
+  "books": "Options, Futures, and other Derivatives.  John Hull.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "評分標準：老師保留依上課情形，調整配分權利！\n(1)\t期中考 (35％)\n(2)\t期末考 (35％)\n(3)\t報告 (20％)\n(4)\t虛擬交易 (10％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限財務金融學系碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限財務金融學系、財務金融學系碩士班。"
+    }
+  ]
+}

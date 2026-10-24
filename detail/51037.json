@@ -1,0 +1,30 @@
+{
+  "serial_no": "51037",
+  "objectives": "培養學生以DSP的知識，來訓練其相關的硬體架構設計方面的技能，並使其有能力來分析各種架構間的效能問題。",
+  "content": "◎Algorithms Representations\nDiscussions on Ethics for Engineers.\n1. DSP Algorithm\n2. Pipelining and Parallel Processing\n3. Retiming\n◎ASIC DSP\n4. Unfolding and Folding\n5. Systolic Arrays\n6. Finite Word Length Effects\n7. Bit-level and Redundant Arithmetic\n8. Synchronous and Asynchronous Architecture\n◎Programmable DSP\n9. DSP Synthesis and CAD\n10. Programmable DSP",
+  "books": "教科書：VLSI Digital Signal Procesing Systems (author : Keshab K. Parhi)\n參考書：DPS Integrated Circuit (author : Lars Wanhammar)",
+  "teaching_method": "講授",
+  "grading_policy": "●Homework & Class Participation : 30%\n●Midterm exam : 30%\n●Term Project and Presentation : 40%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。學院:限資訊電機學院。系所:限電機工程學系碩士班、電機工程學系博士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限資訊電機學院。系所:限電機工程學系碩士班、電機工程學系博士班。年級:限二年級、三年級、四年級、五年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限學士班。學院:限資訊電機學院。系所:限電機工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。學院:限資訊電機學院。系所:限資訊電機學院學士班。年級:限四年級。"
+    },
+    {
+      "priority": 5,
+      "rule": "系所:限人工智慧國際碩士學位學程。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "93009",
+  "objectives": "本課程的目的是介紹生物的基本原理，並瞭解人類跟其他生物之間的關係與責任，進而保護地球的生物，使它能永續，免於被人類破壞。",
+  "content": "Ch1: Introduction to biology\nCh2: Essential Chemistry for Biology\nCh3: The Molecules of Life\nCh4: A Tour of Cell\nCh5: The Working Cell\nExam 1\nCh6: Cell energy: cellular respiration\nCh7: Cell energy: Photosynthesis\nCh8: Cellular reproduction\nCh10 ＆ 11: Gene? How Genes are Controlled\nExam 2\nCh21: Animal Structure and Function\nCh22: Nutrition and Digestion\nCh23: Circulation and Respiration\nCh25: Hormone\nCh26: Reproduction and Development\nExam 3",
+  "books": "Campbell Essential Biology : with Physiology 6/e 2020,  滄海圖書。",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "Exam 1, 30％;\nExam 2, 35％;\nExam 3, 35％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限工學院學士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。學院:限工學院。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限學分學程-生科職涯。"
+    }
+  ]
+}

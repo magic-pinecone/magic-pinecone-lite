@@ -1,0 +1,26 @@
+{
+  "serial_no": "22021",
+  "objectives": "透過掌握物理的基本原理與定律，培養理論推導與應用計算的能力，為進階應用物理與工程的學習奠定基礎。",
+  "content": "一、力學\n二、周期運動，波動，流體\n三、熱力學",
+  "books": "Essential University Physics, 4th ed., by Richard Wolfson",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "課堂表現: 10%; 作業: 30%; 期中考: 30%; 期末考: 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系。年級:限一年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。年級:限一年級。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

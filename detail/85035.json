@@ -1,0 +1,14 @@
+{
+  "serial_no": "85035",
+  "objectives": "指導學生完成碩士論文",
+  "content": "指導研究生統合所修課程，設計碩士論文相關之研究，包括研究方向、文獻探討、確立研究題目、擬定研究方向、及彙整研究發現與結論。",
+  "books": "無",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "依各指導教授而定",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系人工智慧精準醫療碩士在職專班。"
+    }
+  ]
+}

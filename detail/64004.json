@@ -1,0 +1,14 @@
+{
+  "serial_no": "64004",
+  "objectives": "研究生論文專題內容指導。",
+  "content": "研究生論文專題內容指導。",
+  "books": "無",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "口頭報告100％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限應用地質研究所碩士班、應用地質研究所博士班。"
+    }
+  ]
+}

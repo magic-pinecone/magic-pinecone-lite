@@ -1,0 +1,22 @@
+{
+  "serial_no": "22017",
+  "objectives": "Develop a deep, conceptual understanding of the fundamental laws of nature governing motion and energy, while building the critical thinking skills necessary to solve complex, quantitative problems",
+  "content": "Basic Calculus\nNewton's Laws and Dynamics\nWork and Energy\nRotation and Angular Momentum\nNewtonian Gravity\nOscillations and Mechanical Waves\nThermodynamics and Entropy",
+  "books": "To be determined",
+  "teaching_method": "講授",
+  "grading_policy": "To be determined",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限地球科學學院學士班、太空科學與工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班、太空科學與工程學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

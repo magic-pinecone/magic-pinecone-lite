@@ -1,0 +1,18 @@
+{
+  "serial_no": "32045",
+  "objectives": "課程將詳細介紹現代結構控制理論之基礎，課程內容包含主動、半主動與被動結構控制於土木領域應用之介紹、結構動力系統於狀態空間之建立、結構控制之最佳化等。",
+  "content": "現代結構控制理論介紹\n\n被動結構控制系統\n\n主動結構系統\n\n連續時間之狀態空間\n\n離散時間之狀態空間\n\nLQR最佳化控制\n\nLQG最佳化控制",
+  "books": "講義\nActive, Hybrid, and Semi-active Structural Control: A Design and Implementation Handbook, by S. Y. Chu, T. T. Soong and A. M Reinhorn, Wiley 2005.\nPassive Energy Dissipation Systems in Structural Engineering, by T. T. Soong and G. F. Dargush, Wiley 1997.",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "期中考  25％\n期末考  25％\n課程練習 25％\n課程競賽 25％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限四年級。"
+    }
+  ]
+}
