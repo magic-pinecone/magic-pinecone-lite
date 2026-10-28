@@ -1,0 +1,22 @@
+{
+  "serial_no": "52066",
+  "objectives": "課程目標在教授一般資料庫設計與實作, 包括從需求匯整與分析, 接著採用高階資料模型來做概念設計, 此高階資料模型主要以實體關係模型為主, 用來模塑前面階段的系統需求, 包括基本結構, 屬性, 實體型態, 關係型態, 及相關的限制, 接著介紹關聯式資料庫系統, 包括基本結構- 關聯, 限制, 與運算子(操作方式), 接下來, 介紹如何將一應用的實體關係模型轉換成關聯式資料庫模型, 之後, 介紹關聯式資料庫的操作方式- 關連代數, 最後, 關聯式資料庫高階語言SQL。\n前面階段式介紹資料庫設計, 接著是資料庫實作, 如何定義資料庫包括基本結構- 關聯, 限制, 接著介紹資料庫存取的高階語言SQL的實際操作, 並實際以ACCESS 或 MySQL 為例, 實作定義資料庫, 載入資料, 及如何異動資料包括插入, 更改, 與存取。",
+  "content": "1. Database design phases\n2. Entity-Relationship Model (ER Model)\n3. Relational Databases\n4.  Convert an ER model to a relational database model\n5. Relational Algebra\n6. SQL\n7. ACCESS or MySQL\n8. SQL of ACCESS or MySQL\n9. Demo Examples",
+  "books": "資料庫系統的基本",
+  "teaching_method": "講授\n研討\n實習/實驗\n\n其他",
+  "grading_policy": "HomeWorks 40%\nFinal Project 60%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

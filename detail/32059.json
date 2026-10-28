@@ -1,0 +1,22 @@
+{
+  "serial_no": "32059",
+  "objectives": "使學生熟悉岩石力學之基本學理，內容涵蓋應力、應變分析與組成律、岩體構造與岩體分類、岩石、節理及岩體力學特性以及岩體現地應力量測。",
+  "content": "1彈性力學基礎觀念(4 hr)\n\n1.1應力分析\n\n1.2應變分析\n\n1.3組成律\n\n2認識岩體構造(8 hr)\n\n2.1不連續面特性描述\n\n2.2立體投影分析\n\n2.3岩體分類\n\n3岩體力學特性(17 hr)\n\n3.1岩石室內力學試驗\n\n3.2岩石破壞準則 (均向性及異向性)\n\n3.3節理強度與變形性\n\n3.4岩體材料之力學行為\n\n岩石單壓試驗\n\n4岩體現地應力(6 hr)\n\n4.1影響現地應力之相關因素介紹\n\n4.2現地應力量測\n\n5.岩石力學相關研究文獻選讀(9 hr)",
+  "books": "1. Bray, B.H..G., and E.T. Brown, Rock\nmechanics for underground mining, 2nd ed,\nChapman and Hall, London, 1993.\n2. Goodman, R.E. Introduction to rock\nmechanics, 2nd ed, John Wiley and Sons,\n1989.",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "隨堂考試或作業20％\n期中考30％\n文獻選讀報告10％\n期末考30％\n上課討論狀況10％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限應用地質研究所碩士班、應用地質研究所博士班。"
+    }
+  ]
+}

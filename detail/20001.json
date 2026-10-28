@@ -1,0 +1,18 @@
+{
+  "serial_no": "20001",
+  "objectives": "學習基本生物資訊與程式撰寫的能力",
+  "content": "“Introduction Programming Language 1程式語言 1\nBioinformatics tools 1 NCBI\nProgramming Language 程式語言 2\nBioinformatics tools 2 NCBI\nIntroduction to data mining資訊採礦簡介\nProgramming Language 3 程式語言3\nBioinformatics tools 3 Protein database\nProgramming Language 4 程式語言4\nBioinformatics tools 4 Protein Domain and motifShell script\nFinal Exam Week",
+  "books": "NA",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "Exam and Report 100％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系系統生物與生物資訊碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系系統生物與生物資訊碩士班、生醫科學與工程學系系統生物與生物資訊博士班。"
+    }
+  ]
+}

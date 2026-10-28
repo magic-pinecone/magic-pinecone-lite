@@ -1,0 +1,30 @@
+{
+  "serial_no": "24010",
+  "objectives": "This subject is a required course designed for undergraduate students with Life Sciences as their major. This subject is a one year course with two credits for each semester. Interested students should have basic knowledge in General Biology, and general Chemistry before they take this subject. The scope of this subject includes the basic nature of biological molecules, the construction of a cell, DNA replication and cell division, cell-cell communication, and the expression of genes and its regulation.",
+  "content": "Week\tTopics\t                                                                                      Instructors\n1\tIntroduction and Chapter 4 Gene expression and regulation\t               SL Chen\n2\tChapter 4 Gene expression and regulation\t                                       SL Chen\n3\tChapter 6 Transport of ions and small molecules across membrane\tPY WU\n4\tChapter 6 Transport of ions and small molecules across membrane\tPY WU\n5\tChapter 7 Membrane targeting of proteins\t                                        SL Chen\n6\tChapter 7 Membrane targeting of proteins\t                                        SL Chen\n7\t Chapter 8 Protein trafficing between membranes                                   PY WU\n8\tMid-term exam\t                                                                                 PY WU\n9\tChapter 8 Protein trafficing between membranes \t                                 PY WU\n10\tChapter 9 Nuclear structure and transport \t                                         SL Chen\n11\tChapter 9 Nuclear structure and transport \t                                         SL Chen\n12\tChapter 18 Principles of cell signaling\t                                                 PY WU\n13\tChapter 18 Principles of cell signaling\t                                                 PY WU\n14\tChapter 10 Chromatin and chromosomes\t                                         SL Chen\n15\tChapter 10 Chromatin and chromosomes\t                                         SL Chen\n16\tFinal examination\t                                                                                 SL Chen\n17\tself-learning: papre reading\t                                                                  SL Chen\n18\tself-learning: papre reading\t                                                                  PY WU",
+  "books": "Lewin‘s Cells, 4/5th edition.",
+  "teaching_method": "講授",
+  "grading_policy": "Midterm exam (50％)+Final exam (50％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-生命科學系、雙主修-生命科學系、學分學程-生科職涯、第二專長-生物多樣性、第二專長-生物科技。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

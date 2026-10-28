@@ -1,0 +1,9 @@
+{
+  "serial_no": "20004",
+  "objectives": "資料庫基本概念、生物資料庫的建構",
+  "content": "資料庫簡介\n資料倉庫和資料立方體\n資料表和 DBMS\n數據預處理\n數據預處理2\nSQL 1_Create table update\nSQL 2_Select\nSQL 3_Select_Multitable\nSQL 4_group by\nSQL 5_Select_Multitable\n數據庫的實現生物資料庫案例研究",
+  "books": "An Introduction to database systems",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "期末報告：   90％\n課堂表現：   10％“",
+  "distribution_conditions": []
+}

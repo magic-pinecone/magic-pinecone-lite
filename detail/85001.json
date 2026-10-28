@@ -1,0 +1,22 @@
+{
+  "serial_no": "85001",
+  "objectives": "理解計算機基本概念",
+  "content": "A1: Unix環境和C語言編程\nA2：Unix環境和vi\nA3: 變量\nA4：for loop\nA5: IF\nA6:  while\nA7 動態規劃\nA8 函數\nB: 計算機簡介\nB1. 計算機結構\nB2. IO裝置\nB3: 網路\nB4:數位安全\nB5: 數位涵養\nB6: 軟體類型",
+  "books": "陳惠貞 AI時代的計算機概論 9786264250467",
+  "teaching_method": "講授\n\n個別指導",
+  "grading_policy": "“上課表現20％\n期中考 40％\n期末考 40％“\n或\n“上課表現20％\n期末考 80％“ (班級投票決定)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生醫科學與工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-生醫科學與工程學系、雙主修-生醫科學與工程學系。"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "serial_no": "90009",
+  "objectives": "自生成式人工智慧從2019年異軍突起，便開始影響各領域的活動發展。遂為了理解生成式人工智慧中各種模型的運作原則，本門課將引領學生從技術層面的發展與演進來一窺生成式人工智慧的優與劣。",
+  "content": "1.\tDeepFake的發展歷史\n2.\tGenerative Adversarial Network (GAN) 的運作架構\n3.\tAutoEncoder 與 Variational AutoEncoder 的生成模型\n4.\tDeep Convolutional GAN架構\n5.\tProgressive Growing GAN 架構\n6.\tSemi-Supervised Learning with GAN\n7.\tConditional GAN架構\n8.\tCycleGAN架構\n9.\t第一次主題project\n10.\t擴散模型基礎與採樣方法\n11.\t擴散模型的最大似然策略\n12.\t具備流形的結構\n13.\t擴散模型與其他模型的關聯與應用\n14.\t第二次主題project\n15.\t資料的汙染方法\n16.\t資料污染的對抗方法\n17.\t最佳化求解與Deep Neural Network的比較\n18.\t第三次主題Project",
+  "books": "IEEE Journals, CVPR and MICCAI papers, and other papers from computer vision.",
+  "teaching_method": "講授",
+  "grading_policy": "每個主題式報告各30％、出席10％",
+  "distribution_conditions": []
+}

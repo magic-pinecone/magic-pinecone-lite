@@ -1,0 +1,22 @@
+{
+  "serial_no": "36005",
+  "objectives": "This course serves as a comprehensive introduction to environmental organic chemistry, designed to support students in understanding key principles such as chemical potential. It is structured to be accessible, even for individuals with limited backgrounds in chemistry, ensuring that foundational concepts are clearly explained. Beyond its role as an academic resource, the course also provides practical tools for assessing the hazards and risks associated with organic chemicals. By equipping learners with both theoretical knowledge and applied skills, it aims to empower environmental students to contribute meaningfully to the field of environmental protection.",
+  "content": "Introduction\nBackground thermodynamics and kinetics\nVapor pressure\nSolubility and activity coefficient in water\nAir-organic solvent or air-water partitioning (KH)\nOrganic liquid-water partitioning (KOW)\nSorption process and transformation reactions of organic pollutants\nIon exchange\nChemical Precipitation\nCoagulation/ Flocculation\nAdvanced Oxidation Processes and Disinfection\nPhotolysis\nElectrochemical method",
+  "books": "1.\tRene P. Schwarzenbach, Philip M. Gschwend, Dieter M. Imboden, Environmental Organic Chemistry, Wiley 2002\n2.\tTeh Fu Yen, Chemical Processes for Environmental Engineering, World Scientific Publishing Company,  2007",
+  "teaching_method": "講授",
+  "grading_policy": "“Homework 60％; midterm exam 20 ％, final exam 20％.“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限學士班。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

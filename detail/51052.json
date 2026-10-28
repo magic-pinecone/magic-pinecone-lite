@@ -1,0 +1,9 @@
+{
+  "serial_no": "51052",
+  "objectives": "修習者能了解化合物半導體材料之製備技術，特有之光電特性，掌握現有化合物半導體元件之工作原理，並據此可以發展元件結構設計之能力。",
+  "content": "CH 0 Introduction\n-\tTypical compound semiconductors and their applications\n-\tMarket trend and perspectives\nCH 1 Structural properties of semiconductors\n-\tCrystal growth – bulk growth and epitaxy\n-\tCrystal structure\nCH 2 Semiconductor band structure\n-\tBlock theorem and crystal momentum\n-\tSelected band structures\n-\tIntrinsic carriers and doping\nCH 3 Band structure modifications\n-\tSemiconductor alloys\n-\tHeterostructures\n-\tStrain effect\n-\tPolar heterostructures\nCH 4 Transport properties\n-\tDefect and carrier-carrier scattering\n-\tAlloy scattering\n-\tPhonon scattering\nCH 5 Optical properties\n-\tInterband and intraband transitions\n-\tRadiative and nonradiative recombination\n-\tExcitonic effects and modulation of optical properties\nCH 6 Devices\n-\tOptical devices\n-\tElectronic devices\nCH 7 Characterization techniques\n-\tHall effect, Photoluminescence, X-ray diffraction",
+  "books": "教科書:\n1. III–V Compound Semiconductors and Devices, An Introduction to Fundamentals, by Keh Yung Cheng, Springer, 2021. ISBN 978-3-030-51903-2\n2. Semiconductor Material and Device Characterization, 3rd ed, by D. K Schroder, John Wiley and Sons, 2006",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "作業(20％)，期中考(2x25％)，報告(30％)",
+  "distribution_conditions": []
+}

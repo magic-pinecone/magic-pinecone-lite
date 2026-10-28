@@ -1,0 +1,18 @@
+{
+  "serial_no": "90003",
+  "objectives": "本堂課程旨在教授神經網路運作如何調控完整個體之知識。內容涵蓋神經細胞構造與運作、腦功能之生理基礎、神經科學之認知議題。期望藉由這門課程得以孕育出新世代腦科學領域之年輕研究人才。",
+  "content": "“授課內容  1. Introduction : overview\n2. The anatomical organization of the central nervous system\n3. Molecular biology of the Neurons I\n4. Molecular biology of the Neurons II\n5. The anatomical and functional organization of motor system\n6. The anatomical and functional organization of sensory system\n7. Functional properties of sensorimotor cortex\n8. Motor learning and Plasticity of adult brain\n9. Visual system\n10. Auditory system\n11. Olfactory system\n12. High-level mental functions : Language\n13. High-level mental functions : Memory and thought\n14. High-level mental functions : Arousal and emotion\n15. High-level mental functions : Sleep and dreaming\n16. Disorders of Mood: Depression, mania and anxiety disorders",
+  "books": "“Text book：Mark Bear et. al, ”Neuroscience: exploring the Brain”,\ne3/2007\nReference：\n1. Toga AW, “Brain Mapping: The Systems”, Academic Press,   2000\n2. Kandel E R, “Principles of neural science”, McGraw Hill, 2000“",
+  "teaching_method": "講授\n研討\n實習/實驗\n個別指導",
+  "grading_policy": "“課堂報告 : 60％\n作業 : 20％\n期末考 20％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生醫科學與工程學系生物醫學工程碩士班、生醫科學與工程學系生物醫學工程博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限非生醫科學與工程學系生物醫學工程碩士班、非生醫科學與工程學系生物醫學工程博士班。"
+    }
+  ]
+}

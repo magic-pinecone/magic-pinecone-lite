@@ -1,0 +1,18 @@
+{
+  "serial_no": "43043",
+  "objectives": "電子商務管理是一門相當廣的科目，內容與主題包羅萬象。有鑑於電子商務能夠發揮所應有的功能，系統的開發顯得相當重要。因此，在有限的學習時間下，本課程專注在系統的開發管理與永續維運上，因此系統發展專案管理就是重點主題。課程目標則是提供學生在系統專案管理與分析設計上的專業知識與系統規劃能力。",
+  "content": "本課程內容將分兩大主題：(一)電子商務系統規劃、分析與設計，(二)系統發展管理。第一主題將會介紹UML (Universal Modeling Language)並讓學生運用該工具來進行系統的規劃。第二主題則是著重在系統開發專案管理的知識體系來實踐這些管理知識。而專案管理的知識體系則專為學理上的專案管理十大知識體系(PMBOK)以及目前實務上的採用的方法論如敏捷發展(Agile development)與極致開發(eXtreme programming)，來具體帶出軟體專案在醞釀、規劃、執行、監控與結案過程中的技術與管理方法。本課程並且介紹現今人工智慧(AI)在系統開發管理的角色與協助。課程教學內容除了教師的投影片外，尚包括企業輔導的個案以求在實務上與理論之融會貫通。",
+  "books": "The instructor‘s own teaching materials",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "Class attendance and participation: 20％\nCase or academic report: 40％\nEC system proposal & presentation: 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系碩士在職專班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系碩士在職專班。"
+    }
+  ]
+}

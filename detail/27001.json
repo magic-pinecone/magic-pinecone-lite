@@ -1,0 +1,22 @@
+{
+  "serial_no": "27001",
+  "objectives": "將認知神經科學的基本理論與發現介紹給在此領域沒有相關背景的學生並讓他們熟悉使用科學的方法研究人類的行為。",
+  "content": "每週討論並介紹認知神經科學領域相關期刊論文。",
+  "books": "“Purves D, Brannon EM, Cabeza R, Huettel SA, LaBar KS, Platt ML, ＆ Woldorff MG (Eds.). (2008) Principles of Cognitive Neuroscience. Sunderland, MA, USA: Sinauer Associates, 及其他相關期刊論文“",
+  "teaching_method": "講授",
+  "grading_policy": "“1. 課程參與情況(25％) 2. 報告表現(15％) 3. 期中考(15％) 4. 期末考(25％) 5. 期末報告(20％)“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限認知神經科學研究所碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限認知神經科學研究所碩士班、認知神經科學研究所博士班、跨領域神經科學博士學位學程(台灣聯合大學系統)、跨領域神經科學國際研究生博士學位學程。"
+    },
+    {
+      "priority": 3,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "serial_no": "51068",
+  "objectives": "本課程以能源系統與儲能技術為核心，結合微電網、智慧電網、能源管理及IoT應用，透過產業專家授課與實務案例導入，培養學生掌握能源工程實務操作與未來產業趨勢，強化就業與研發實力。\n1. 使學生瞭解能源系統之整體架構與運作。\n2. 培養學生對儲能、電網調度、再生能源整合等議題的實務理解。\n3. 與產業接軌，提升就業與實作能力。",
+  "content": "能源工程導論與產業趨勢\n電力系統與調度基礎\n再生能源技術應用\n儲能系統技術與應用\n微電網與能源管理系統(EMS)\n電力電子與能源轉換技術\n智慧電網與通訊整合\n能源IoT與邊緣運算\n能源資料分析與預測\n產業案例導入與實務操作\n能源專案規劃與實作",
+  "books": "Nasser Tleis, Power Systems Modelling and Fault Analysis, 1st Edition\nGrainger and Stevenson, Power System Analysis\nM. H. J. Bollen and I. Y. H. Gu, Signal Processing of Power Quality Disturbances, John Wiley ＆ Sons, Inc.\nRobert W. Erickson and Dragan Maksimovic, Fundamentals of Power Electronics, Springer International Publishing",
+  "teaching_method": "講授",
+  "grading_policy": "1. 期中考試: 30％\n2. 期末考試: 40％\n3. 課堂參與: 30％",
+  "distribution_conditions": []
+}

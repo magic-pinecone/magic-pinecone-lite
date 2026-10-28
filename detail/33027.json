@@ -1,0 +1,26 @@
+{
+  "serial_no": "33027",
+  "objectives": "原流力實驗與熱工實驗分上、下兩學期晚上上課，為了減輕學生負擔，特將流力實驗和熱工實驗合併成熱流實驗一門課。安排了七個流力實驗及七個熱工實驗，代號分別為F1～F7及H1~H7（詳見課程大綱），希望能讓同學們透過實際的操作與觀察，驗證書本上學習的理論與公式，也能夠更深入地了解流體力學、熱力學與熱傳學的相關實驗與應用實例，此乃本實驗課程之教學目標。",
+  "content": "實驗項目如下：\n\n───────────────流力實驗─────────────────\n\n\tF1. Fundamentals of Boundary Layers and measurements of Reynolds Number of a Pipe Flow\n\n( 新型水洞邊界層與雷諾數量測實驗 )\n\n\tF2. Stability of a Floating Body and measurements of the Position of the Pressure Center\n\n( 浮體穩定與壓力中心量測實驗 )\n\n\tF3. Practice of Flow Meters Experiment and Bernoulli’s Theorem Demonstration Experiment\n\n( 流量計操作與柏努力實驗 )\n\n\tF4. Flow Visualization Unit Experiment ( 流場視流實驗 )\n\n\tF5. Laminar and Potential Flow Analysis ( 層流和位勢流實驗 )\n\n\tF6. Impact of a jet and Particle Drag Coefficient ( 噴射衝擊實驗與粒子阻力係數實驗 )\n\n\tF7. Measurements of Pipe Friction Experiment ( 管路摩擦實驗 )\n\n────────────────熱工實驗─────────────────\n\n\tH1. Mechanical Equivalent of Heat ( 熱功當量 )\n\n\tH2. Steam Engine ( 蒸汽引擎 )\n\n\tH3. Heat of Combustion and Phase Transition ( 熱值與相變化儲能 )\n\n\tH4. Thermal Convention ( 熱對流 )\n\n\tH5. Thermal Conduction ( 熱傳導 )\n\n\tH6. Hydrogen Production via Photovoltaic-Electrolysis and Hydrogen Fuel Cell\n\n( 太陽能電解產氫與氫燃料電池 )\n\n\tH7. Refrigeration Cycle ( 冷凍循環系統 )",
+  "books": "講義",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "Attendance\n-- ~ 20 ％ of grade\n-- do not wear flip flop\n-- bring camera and USB (one per group)\n\n預習報告\n-- ~ 20 ％ of grade\n-- do not copy (hand writing)\n-- one for each person\n\n結果報告\n-- ~ 50 ％ of grade\n-- do not copy (use Word)\n-- one per group\n-- two main writers and highlight their names\n-- be a main writer no less than five times\n\n心得\n-- ~ 10 ％ of grade\n-- do not copy (use Word)\n-- one for each person\n-- be careful with APA(reference)\n-- no less than 500 words",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限機械工程學系。年級:限三年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限機械工程學系。年級:限四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限機械工程學系。年級:限三年級。班別:限A。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限工學院學士班。"
+    }
+  ]
+}

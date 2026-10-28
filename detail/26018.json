@@ -1,0 +1,14 @@
+{
+  "serial_no": "26018",
+  "objectives": "協助學生瞭解幾何光學中成像與像差之基礎知識",
+  "content": "1. Gaussian Optics\n2. Radiometry of imaging\n3. Optical Aberrations\n4. Geometrical Point-spread Function\n5. Calculation of primary aberrations: Optical systems",
+  "books": "V. N. Mahajan, Fundamentals of Geometrical Optics  (SPIE, 2014). https://doi.org/10.1117/3.1002529",
+  "teaching_method": "講授",
+  "grading_policy": "隨堂練習 (10%)\n作業 (10％)\n期中考(45％)\n期末考(45％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系碩士班、光電科學與工程學系半導體光電科技碩士班、光電科學與工程學系博士班、光電博士學位學程(台灣聯合大學系統)。年級:限一年級。"
+    }
+  ]
+}

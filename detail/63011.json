@@ -1,0 +1,22 @@
+{
+  "serial_no": "63011",
+  "objectives": "使學生對電漿物理有基本的認識,讓學生由粒子及流體觀點了解電漿,認識太空環境中的電漿粒子運動及波動現象",
+  "content": "1. 電漿基本性質及尺度\n2. 帶電粒子在電磁場中的運動\n3. 電漿流體性質\n4. 太空環境之各種電漿波動",
+  "books": "1. Introduction to Plasma Physics, R. J. Goldston and P. H. Rutherford, Taylor ＆ Francis, 1995.\n2. Physics of Space Plasmas: An Introduction, G. K. Parks, Westview Press, 2004.\n3. Introduction to plasma physics : with space and laboratory applications, D. A. Gurnett and A. Bhattacharjee, Cambridge University Press, 2005.\n4. Elementary Space Plasma Physics, Ling-Hsiao Lyu, 2010.\n5. Introduction to Plasma Physics and Controlled Fusion, Volume 1: Plasma Physics, 3rd edition, Francis F. Chen, Springer, 2016.\n6. Plasma physics: an introduction to laboratory, space, and fusion plasmas, Alexander Piel, 2nd edition, Springer, 2017.",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "作業: 20％\n報告: 20％\n筆試: 50％ (兩次考試各佔25％)\n上課表現: 10％\n隨堂: extra",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限太空科學與工程學系。年級:限三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限地球科學學院學士班。年級:限三年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限太空科學與工程學系。年級:限四年級。"
+    }
+  ]
+}

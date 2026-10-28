@@ -1,0 +1,9 @@
+{
+  "serial_no": "22036",
+  "objectives": "本課程主要介紹量子物理與統計物理的理論方法及其應用。課程首先建立必要的數學與物理基礎，隨後探討若干重要的量子與統計物理問題，培養學生分析實際物理系統的能力。",
+  "content": "本課程將介紹量子物理與統計物理中的若干重要主題，包括微擾理論、WKB 與絕熱近似、散射理論以及量子統計等。相關內容主要涵蓋教材中的下列章節：\n\nGriffiths:\n1.\tChapter 6: Time-independent Perturbation Theory\n2.\tChapter 7: The Variational Principle\n3.\tChapter 8: The WKB Approximation\n4.\tChapter 9: Time-dependent Perturbation Theory\n5.\tChapter 10: The Adiabatic Approximation\n6.\tChapter 11: Scattering\n7.\tChapter 5: Identical Particles\n\nSchroeder:\n8.\tChapter 7: Quantum Statistics\n9.\tChapter 8: Systems of Interacting Particles",
+  "books": "David J. Griffiths, “Introduction to Quantum Mechanics”, Pearson Education.\nDaniel V. Schroeder, “An Introduction to Thermal Physics”, Addison Wesley.",
+  "teaching_method": "講授",
+  "grading_policy": "Homework (30%) + Midterm exam (35%) + Final exam (35%)",
+  "distribution_conditions": []
+}

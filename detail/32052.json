@@ -1,0 +1,9 @@
+{
+  "serial_no": "32052",
+  "objectives": "學習如何分析土木工程系統受到動態載重之各類問題，瞭解結構動力行為與特性，並為日後土木工程耐震設計之基礎。",
+  "content": "(1) Introduction to Dynamics of Structures\n\n(2) Free vibration of SDOF systems\n\n(3) Forced SDOF systems\n\n(4) Numerical analyses\n\n(5) Earthquake response\n\n(6) Generalized SDOF systems\n\n(7) Free vibration of multi-degree-of-freedom systems\n\n(8) Forced multi-degree-of-freedom systems\n\n(9) Continuous systems",
+  "books": "(1) Anil K. Chopra, “Dynamics of Structures- Theory and Application to Earthquake Engineering,” 3rd Ed., Prentice-Hall.\n(2) Ray W. Clough and Joseph Penzien, “Dynamics of Structures,” 2nd Ed., McGraw-Hill.\n(3) Leonard Meirovitch, “Dynamics and Control of Structures,” John Wiley ＆ Sons.“",
+  "teaching_method": "講授",
+  "grading_policy": "Homework          50％\nMidterm Exam.   20％\nFinal Exam.        30％",
+  "distribution_conditions": []
+}

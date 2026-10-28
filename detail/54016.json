@@ -1,0 +1,18 @@
+{
+  "serial_no": "54016",
+  "objectives": "1. Understand major theories in the Learning Sciences and their applications to science education.\n2. Analyze and critically evaluate learning technologies from the perspectives of learning technology design and Science education.\n3. Integrate perspectives from Learning Sciences, Learning Technology Design, and Science Education to collaboratively design and develop a generative AI–based learning technology that is theoretically grounded and pedagogically appropriate for science education.",
+  "content": "本課程屬於進階與跨域專業課程，課程內容以「學習科學」基礎理論及「學習科技設計」為基礎，進一步應用在科學教育領域，因此，本門課程會涉及三個領域的專業，包含：「學習科學」、「學習科技設計」及「科學教育相關學習理論與研究」。本課程包含理論與實作兩個部分，理論部分將先探討認知師徒制、知識翻新理論、鷹架理論等重要學習科學理論，並進一步閱讀這些重要理論在科學教育上的應用。除此之外，本課程也會從工具的本質、分散認知理論與以學習者為中心的設計（Learner-Centred Design; LCD）等學習科技重要理論基礎解構目前的學習科技在科學教育之應用。最後，本課程將以小組方式，基於上述理論，設計一個以生成式AI為核心、應用於科學教育的學習科技。\n（修習本課程前，需先修習網學所「學習深論」與「人工智慧與學習科技」這兩門課程（或其他相關研究所課程））\n\n教學大綱\nWeek 1: Course introduction\nWeek 2: Cognitive Apprenticeship & its implications in science education\nWeek 3: Holiday (Moon Festival)\nWeek 4: Introduction to vibe coding\nWeek 5: Holiday (National Day)\nWeek 6: Knowledge Building Theory and its implications in science education\nWeek 7: Scaffolding Theory & Scaffolding Theory in Science Education\nWeek 8: Nature of tools (1/2)\nWeek 9: Nature of tools (2/2)\nWeek 10: Distributed expertise\nWeek 11: Learner-centered design (LCD)\nWeek 12: [Project]: AI agent design (DT-Empathy)\nWeek 13: [Project]: AI agent design (DT-Define)\nWeek 14: [Project]: AI agent design (DT-Ideate)\nWeek 15: [Project]: AI agent design (DT-Prototype and test)\nWeek 16: [Project]: AI agent design (Presentation)",
+  "books": "從科學教育、學習科學與學習科技領域的重要書籍或SSCI期刊中選取的論文",
+  "teaching_method": "講授\n研討\n\n個別指導\n其他",
+  "grading_policy": "1. Learning Process:\n(1) Classroom participation (11%)\n(2) Individual self-reflection (7 reflection journals) (21%)\n(3) Group progress report (4 reports) (8%)\n2. Learning Outcomes:\n(1) Final individual summary reflection (30%)\n(2) Group AI agent design (30%)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限文學院、資訊電機學院。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限網路學習科技研究所碩士班、網路學習科技研究所博士班。"
+    }
+  ]
+}

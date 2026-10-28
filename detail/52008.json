@@ -1,0 +1,30 @@
+{
+  "serial_no": "52008",
+  "objectives": "This is a course in linear algebra for CS undergraduate students. It covers basic linear algebra tools such as matrices, matrix operations and properties and determinants, vector spaces, linear transformations, eigenvalues and eigenvectors, and diagonalization. At the end of this course, the students is expected to: Accurately define and appropriately illustrate specific linear algebra concepts such as vector spaces and subspaces, linear independence, spanning sets, bases and dimension, linear transformation, kernel and range, characteristic polynomials, eigenvalues and eigenvectors, and diagonalizability. Apply the appropriate linear algebra concepts, thinking processes, tools and technologies in solving both conceptual and real-life problems.",
+  "content": "Chapter 1: Matrices and Systems of Equations\nChapter 2: Determinants\nChapter 3: Vector Spaces\nChapter 4: Linear Transformations\nChapter 5: Orthogonality\nChapter 6: Eigenvalues",
+  "books": "Steven J. Leon and Lisette G. de Pillis, Linear Algebra with Applications, 10th Ed. PEARSON",
+  "teaching_method": "講授\n研討\n實習/實驗",
+  "grading_policy": "Exercise and Class Participation: 40％\nMidterm Exam: 30％\nFinal Exam: 30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系。年級:限二年級。班別:限A。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限雙主修-資訊工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

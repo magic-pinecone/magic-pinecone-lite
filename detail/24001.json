@@ -1,0 +1,26 @@
+{
+  "serial_no": "24001",
+  "objectives": "This course aims to provide a comprehensive foundation in biology and prepare students for further study or careers in biological sciences. This course is offered under the framework of English Medium Instruction. The lectures are given in English, and students are encouraged to communicate in English in the classroom.\n\n1.\tUnderstand Fundamental Concepts: Explain key principles of biology, including cell structure and function, development, evolution, and ecology.\n2.\tExplore Biological Diversity: Recognize and categorize the diversity of life forms, including their evolutionary relationships and ecological roles.\n3.\tIntegrate Knowledge Across Disciplines: Connect biological concepts to other scientific disciplines, such as chemistry and environmental science, to understand their interrelatedness.\n4.\tEnhance Critical Thinking: Apply critical thinking and problem-solving skills to address biological questions and real-world issues.\n5.\tCommunicate Scientific Ideas: Effectively communicate biological concepts and findings through written reports, presentations, and discussions.\n6.\tPromote Ethical Awareness: Discuss the ethical implications of biological research and the impact of human activities on ecosystems and biodiversity.\n7.\tFoster Lifelong Learning: Cultivate an appreciation for biology that encourages ongoing exploration and understanding of the living world.\n8.\tEncourage Collaborative Learning: Work effectively in teams to conduct research, share findings, and engage in peer review.",
+  "content": "1. Introduction/Life definition\n2. Animal Diversity\n3. Invertebrates\n4. Vertebrates\n5. Midterm I\n6. Mid-Autum Festival\n7. Plant origin\n8. Plant structure and growth\n9. Flowering plant reproduction\n10. Plant signals and Behavior\n11. Midterm II\n12. Cell origin, cell structure (prokaryotes, eukaryotes)\n13. Cell membrane\n14. Cell signaling\n15. Cell respiration, metabolism\n16. Final Exam",
+  "books": "Campbell Biology, 12th Edition, by Lisa A. Urry (Author), Michael L. Cain (Author), Steven A. Wasserman (Author), Peter V. Minorsky (Author), Rebecca Orr (Author), Pearson Press",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Exams: 25% each, total 75%\nVideo note: 10%\nPeer evaluation: 5%\nQA: 10%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限生命科學系。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限生命科學系。年級:限非一年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限理學院學士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限輔系-生命科學系、雙主修-生命科學系、學分學程-生科職涯、第二專長-生物多樣性、第二專長-生物科技。"
+    }
+  ]
+}

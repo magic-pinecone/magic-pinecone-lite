@@ -1,0 +1,14 @@
+{
+  "serial_no": "49009",
+  "objectives": "“SAP 財務會計模組進階，了解相關的參數設定，課程結束後, 有興趣者可參與SAP Certified Application Associate - Financial Accounting 的認證考試“",
+  "content": "1.Business Process in Financial Accounting (1)\n2.Business Process in Financial Accounting (2)\n3.Configuration in General Ledger (1)\n4.Configuration in General Ledger (2)\n5.Configuration in Accounts Receivable / Accounts Payable (1)\n6.Configuration in Accounts Receivable / Accounts Payable (2)\n7.Configuration in Fixed Assets\n8. Test",
+  "books": "SAP ERP 財務會計模組進階講義 (統一影印)",
+  "teaching_method": "講授",
+  "grading_policy": "1. Class participation 30％\n2. Final test: 30％\n3. SAP system operation 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限會計研究所企業資源規劃會計碩士在職專班。年級:限二年級。"
+    }
+  ]
+}

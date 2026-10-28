@@ -1,0 +1,18 @@
+{
+  "serial_no": "26008",
+  "objectives": "“透過電子實驗操作來驗證半導體所學的原理, 並使學生熟悉各種量測儀器的操作, 訓練未來工作或研究上的基礎能力.“",
+  "content": "“1. 實驗室規則及儀器簡介\n2. 歐姆定律及電錶量測\n3. Kirchhoff電壓與電流定律\n4. 戴維寧、諾頓與重疊定理\n5. RC電路的暫態響應\n6. RC, RL and RLC之電路響應\n7. 相位量測及頻率響應\n8. 二極體之I-V特性曲線及整流電路\n9. 二極體之應用電路\n10. 電晶體之I-V特性曲線“",
+  "books": "電子學實驗講義",
+  "teaching_method": "講授\n\n實習/實驗\n個別指導",
+  "grading_policy": "“1. Preparation reports (20％)\n2. Conclusive report (50％)\n3. Final examination (20％)\n4. Classroom performance (10％)“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限光電科學與工程學系。"
+    }
+  ]
+}

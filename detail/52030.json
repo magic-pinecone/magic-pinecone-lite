@@ -1,0 +1,18 @@
+{
+  "serial_no": "52030",
+  "objectives": "認識科技設計相關之心理認知與學習理論，深入了解數位學習與一般資訊設計原理",
+  "content": "Introduction to the learning, collaboration and creativity\n\n學習學介紹\n\n認知負荷理論\n\n心流理論與電腦遊戲\n\n遊戲與學習\n\n建構主義\n\n建造主義\n\n認知學徒理論\n\n知識建造理論\n\n實務社群理論\n\n合作學習\n\n創造力認知與發展\n\n興趣動機發展\n\n動機與創造力\n\n空間與學習",
+  "books": "重要經典文獻與近年研究文獻",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "課堂出席＆回答問題 30％\n課堂報告 30％\n作業 40％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "serial_no": "32041",
+  "objectives": "\"1.本課程教導學生藉LabView程式語言，建立程式設計之基本觀念，並熟習程式設計之方法、要領。\n2.使用LabVIEW圖控軟體來實現訊號處理、影像處理、設備控制等應用技術之能力\"",
+  "content": "\"1.LabVIEW圖控軟體概論\n2.LabVIEW程式設計初步─四則運算、基本邏輯簡介、布林代數\n3.LabVIEW程式設計中階─矩陣、迴圈\n4.LabVIEW程式設計進階─圖形化程式架構、圖表與圖形輸出、檔案輸出入、建立子VI\n5.資料擷取與分析\n6.控制應用實例介紹專案計畫說明(影像處理、訊號處理等)\n7.各組專案計劃實作\n8.期末報告\"",
+  "books": "虛擬儀控程式設計－LabVIEW 201X",
+  "teaching_method": "講授\n\n實習/實驗\n\n其他",
+  "grading_policy": "Homework and practice 60%\nMidterm project 20%\nFinal Project 20%\"",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限土木工程學系碩士班、土木工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限土木工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 4,
+      "rule": "學制:限學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

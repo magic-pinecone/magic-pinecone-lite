@@ -1,0 +1,22 @@
+{
+  "serial_no": "44017",
+  "objectives": "This course is designed to give students a variety of modern macroeconomic theories which help students to hold the current macroeconomic issues and train students’ thinking and logic ability. The course concentrates on short-run fluctuations with an emphasis on the roles of fiscal policy and monetary policy. It then turns to the models of economic growth in the long-run.",
+  "content": "1\tIntroduction\n2\tDynamics\n3\tInvestment\n4\tNew Keynesian Economics I\n5\tNew Keynesian Economics II\n6\tReview\n7\tMidterm Exam\n8\tThe Solow Growth Model\n9\tEndogenous Growth I\n10\tEndogenous Growth II\n11\tR＆D I\n12\tR＆D II\n13    Real Business Cycles I\n14    Real Business Cycles II\n15\tReview\n16\tFinal Exam",
+  "books": "B. J. Heijdra (2009), The Foundations of Modern Macroeconomics, 3rd edition.\nN. G. Mankiw (2016), Macroecnomics, 9th edition.\nD. Romer (2019), Advanced Macroeconomics, 5th edition.",
+  "teaching_method": "講授",
+  "grading_policy": "Assignment (作業)30 ％\nMidterm Test (期中考)35 ％\nFinal Test (期末考)35 ％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限經濟學系碩士班。年級:限一年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限經濟學系碩士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限經濟學系。年級:限四年級。"
+    }
+  ]
+}

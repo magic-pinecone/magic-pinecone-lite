@@ -1,0 +1,18 @@
+{
+  "serial_no": "34004",
+  "objectives": "The major goal of this course is to cover practical mathematical methods important to\nengineering applications. It is expected that students already have a mathematical\nbackground, including undergraduate courses in calculus and linear algebra. In\ngeneral, this course will be focused on more advanced topics, including linear\ndifferential equations (initial and boundary value problems), the Laplace transform,\nand vector analysis. An important goal of this course is to learn how to use analytical\nmethods in concert with computer calculations. Computational parts of the course\ninclude the use of the MATLAB package.",
+  "content": "Part A Ordinary differential equations\nChap. 1  Introduction\nChap. 2  1 st -Order ODEs\nChap. 3  High -Order Linear ODEs\nSeries solutions\n* Chap. 17 Complex Numbers and Functions\nChap. 4 Laplace Transform\nChap. 5 Series Solutions of Linear ODEs\n\nPart B Vector and Vector Calculus\nChap. 7 Vectors\nChap. 9 Vector Calculus",
+  "books": "1.Advanced Engineering Mathematics (7 th Ed.), D. G. Zill\n2.Advanced Engineering Mathematics (8 th Ed.), P. V. O’Neil\n3. Portal/Learning Management System",
+  "teaching_method": "講授",
+  "grading_policy": "3 Exams (15 Oct., 19 Nov., 24 Dec.) 3 × 24％ = 72％\n3 Recitation (12 Oct., 16 Nov., 14 Dec.) 3 × 4％ = 12％\n13 Quiz (20 min. at Thurs.) 13× 2％ = 26％\nExtra Points (Q＆A, handout, report, …) (max.) 9％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學工程與材料工程學系。年級:限二年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學工程與材料工程學系、工學院學士班。"
+    }
+  ]
+}

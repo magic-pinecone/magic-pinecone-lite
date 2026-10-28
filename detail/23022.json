@@ -1,0 +1,22 @@
+{
+  "serial_no": "23022",
+  "objectives": "邀請國內外專家學者講授各自的研究新的成果，使同學了解獲得最新的研究及就業資訊。",
+  "content": "arrange around 10 or more talks and each speaker will present his/her recent research.",
+  "books": "無固定的教科書，教材由演講者提供。",
+  "teaching_method": "研討",
+  "grading_policy": "心得報告與出席",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系碩士班。年級:限一年級、二年級。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系博士班。年級:限一年級、二年級、三年級。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學學系碩士班、化學學系博士班。"
+    }
+  ]
+}

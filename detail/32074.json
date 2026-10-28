@@ -1,0 +1,18 @@
+{
+  "serial_no": "32074",
+  "objectives": "“Upon completion of this course, students will gain the knowledge of database system concepts and the ability to:\n(1) Develop and refine a data model for big data analytics\n(2) Integrate and merge database views into the conceptual model\n(3) Apply normalization techniques and perform spatial and temporal data queries\n(4) Derive a physical design from the logical design taking into account the requirements of software applications, hardware and operating systems, and communication networks\n(5) Apply database indexing and SQL techniques to further enhance the information system implemented in SQL databases\n(6) Translate the data model designed to the data warehouse model for OLAP applications\n(7) Conduct database operations on NoSQL database tools such as Hadoop, Apache Cassandra, and MongoDB to handle big data-related issues\n\nCourse objectives will be refined as the course evolves.  Each student will therefore be given the opportunity to influence the direction of the course.“",
+  "content": "“This course covers the fundamentals of database management, big data analytics and data warehousing systems.  It includes the essential concepts, principles, techniques, and mechanisms for the design, analysis, and use of engineering database systems.  Key information management concepts and techniques are examined: information modeling and representation; information interfaces - access, query, and manipulation; database implementation structures and of distribution.  The database and information management system examined in this course represents the state-of-the-art technology, including cloud databases and big data approaches.  By providing a balanced view of ““theory““ and ““practice,““ the course should allow students to understand, use, and build practical database and information management systems.  The course is intended to provide a basic understanding of the issues and problems involved in database systems, knowledge of currently practical techniques for satisfying the needs of such a system, and an indication of the current research approaches that are likely to provide a basis for tomorrow‘s solutions.“",
+  "books": "Selected case studies.  This course concentrates on the design of a database system.",
+  "teaching_method": "講授",
+  "grading_policy": "Grade components will be weighted as follows in the computation of the final course grade:\n\nAttendance/Participation 15\nAssignments 20\n2/3 Term Exam 20\nGroup Project 45\nTOTAL 100",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學制:限碩士班、博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限學士班。年級:限三年級、四年級。"
+    }
+  ]
+}

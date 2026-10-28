@@ -1,0 +1,9 @@
+{
+  "serial_no": "21006",
+  "objectives": "學習微分與積分的基本知識, 培養列式, 求解及解釋問題的應用能力",
+  "content": "In this course, we will study the following topics:\n1. Functions and Models.\n2. Limits: definition of a limit, continuity.\n3. Derivatives: differentiation rules, derivatives of trigonometric functions, chain rule, implicit differentiation, etc.\n4. Applications of Differentiation: extreme values, mean-value theorem, monotonic fucntions, concavity, optimization problems, Newton method, antiderivatives, etc.\n5. Integrals: definite integral, fundamental theorem of calculus, indefinite integrals, substitution rule, etc.\n6. Applications of Integration: areas, volumes, arc length, area of a surface of revolution, work, etc.\n7. Inverse Functions: natural logarithms, exponential functions, inverse trigonometric functions, hyperbolic functions, etc.\n8. Techniques of Integration: integration by parts, partial fractions, trigonometric integrals, trigonometric substitutions, improper integrals, etc.",
+  "books": "\"Thomas' Calculus 14/e in SI Units, Thomas.\"",
+  "teaching_method": "講授",
+  "grading_policy": "段考一33％\n段考二33％\n段考三34％",
+  "distribution_conditions": []
+}

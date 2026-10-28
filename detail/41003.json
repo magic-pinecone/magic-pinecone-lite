@@ -1,0 +1,26 @@
+{
+  "serial_no": "41003",
+  "objectives": "Objective 1:\tTo acquaint you with mathematical knowledge, modeling techniques and solution algorithms which often serve as an aid to managerial decision-making.\nObjective 2:\tTo develop your expertise in using and solving management science problems with the help of a personal computer.\nObjective 3:\tTo give you experience in analyzing results and making decisions through assigned homework exercises and performing case analyses in class.",
+  "content": "1. Functions and Graphs\n\n2. Mathematics of Finance\n\n3. System of Linear Equations\n\n4. Linear Algebra\n\n5. Linear Inequalities\n\n6. Linear Programming\n\n7. Modeling and Applications of LP",
+  "books": "Finite Mathematics for Business, Economics, Life Sciences, and Social Sciences, 14th edition (Global Edition), by Raymond A. Barnett, Merritt Ziegler, Karl E. Byleen, and Christopher J. Stocker, Pearson, 2019\n\nIntroduction to Management Science and Business Analytics: A Modeling and Case Studies Approach with Spreadsheets, 6th Edition(international version), Frederick Hillier and Mark Hillier, McGraw Hill, 2019",
+  "teaching_method": "講授",
+  "grading_policy": "Class Participation\t\t10％\nHomeworks\t\t        15％\nIn-class Quizzes\t\t15％\nMidterm Examination\t30％\nFinal Examination\t\t30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限企業管理學系。年級:限二年級。班別:限A。身份:限非交換生。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限企業管理學系。年級:限三年級、四年級。班別:限A。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-企業管理學系、雙主修-企業管理學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

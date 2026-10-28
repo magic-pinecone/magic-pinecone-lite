@@ -1,0 +1,18 @@
+{
+  "serial_no": "46009",
+  "objectives": "參見右方",
+  "content": "參見右方",
+  "books": "參見右方",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "參見右方",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限工業管理研究所碩士班。年級:限一年級。指定課程:必須同修(含先修)IA5001。"
+    },
+    {
+      "priority": 2,
+      "rule": "學制:限碩士班、博士班。指定課程:必須同修(含先修)IA5001。"
+    }
+  ]
+}

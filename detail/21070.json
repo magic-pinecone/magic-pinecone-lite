@@ -1,0 +1,9 @@
+{
+  "serial_no": "21070",
+  "objectives": "辛幾何是現代微分幾何中的核心領域之一，起源於古典力學的數學描述，並在拓撲學、動力系統以及數學物理中扮演重要角色。本課程將介紹辛幾何的基本概念與方法，包括辛向量空間、辛流形、哈密頓流、達布定理（Darboux theorem）、辛子流形以及動量映射（moment maps）等主題。透過重要範例與應用的探討，學生將培養對辛幾何的幾何直觀與計算能力。所需的微分幾何背景將於課程中適時補充。歡迎大三、大四修過高等微積分或分析導論的同學選修。",
+  "content": "1. Work with symplectic vector spaces and identify isotropic and Lagrangian subspaces.\n2. Understand the basic geometry of symplectic manifolds and symplectomorphisms.\n3. Formulate and solve basic Hamiltonian systems.\n4. Understand how group symmetries act on symplectic manifolds.\n5. Define and compute moment maps in important examples.\n6. Understand the construction and meaning of symplectic reduction.\n7. Apply reduction to concrete examples, including projective spaces.\n8. Recognize the basic similarities and differences between symplectic and contact geometry.\n9. Advanced Topics (to be determined by instructor and student interests)",
+  "books": "教科書：A. Eslami Rad, Symplectic and Contact Geometry: A Concise Introduction, Springer, 2024.\n參考書：Ana Cannas da Silva, Lectures on Symplectic Geometry, LNM 1764, Springer-Verlag, Berlin, 2001.",
+  "teaching_method": "講授",
+  "grading_policy": "作業或小考：20% + 課堂參與：20% +期中考：30% +  期末報告 : 30% (暫定)",
+  "distribution_conditions": []
+}

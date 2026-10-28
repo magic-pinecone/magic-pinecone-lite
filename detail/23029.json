@@ -1,0 +1,18 @@
+{
+  "serial_no": "23029",
+  "objectives": "培養化學專業知識 (以有機化學原理，使學生對有機反應、合成方法及其應用等更深入的了解，且可導引其應用反應機構推論反應可能之走向)\n培養發掘問題與思考的能力\n強化表達能力\n養成協調與領導的能力",
+  "content": "此課程的主要目的是以官能基及反應機構為中心來引介有機化學原理，使學生對有機反應、合成方法及其應用等知識更深入的了解，且可導引其應用反應機構推論反應可能之走向，借此可進一步微調主產物之產率，培養學生對有機反應的獨立思考及問題解決能力，並幫助學生了解有機化學與生物化學、藥學等領域之相關性，進而拓展到將來學術及工業上的研究與應用。",
+  "books": "“教科書:\n\n講義\n\n參考書:\nMichael B Smith, “Organic Synthesis” McGraw-Hill; 3rd edition , 2011\nCarey, F. A. and Sundberg R. J., ““Advanced Organic Chemistry““ A and B; Springer; 5th ed. edition (August 11, 2007).\nEliel, E. L. and Wilen, S. H.,”Stereochemistry of Organic Compounds” John Wiley ＆ Sons, 1993.\nGreene‘s Protective Groups in Organic Synthesis\nby Peter G. M. Wuts, Theodora W. Greene, Wiley-Interscience; 4 edition (October 30, 2006)\nAdvanced Organic Chemistry : Reaction Mechanisms\nby Reinhard Bruckner; Academic Press; 1st edition (July 2001)“",
+  "teaching_method": "講授",
+  "grading_policy": "1.學習態度\n2.考試",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限化學學系碩士班、化學學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限化學學系。年級:限四年級、延修生。"
+    }
+  ]
+}

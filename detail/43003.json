@@ -1,0 +1,22 @@
+{
+  "serial_no": "43003",
+  "objectives": "本課程透過C程式語言帶領學生熟悉程式設計，並且逐步培養學生的邏輯思考與問題解決能力，為日後進階課程與實務應用奠定良好基礎。",
+  "content": "(第一週因公務請假，不上課)\n本課程將涵蓋：\n- C程式語言簡介\n- 流程控制\n- 函數\n- 陣列\n- 指標\n- 字串\n- 格式化輸入輸出\n- 結構\n- 檔案處理",
+  "books": "C How to Program: With Case Studies in Applications and Systems Programming, 9/e",
+  "teaching_method": "講授\n\n其他",
+  "grading_policy": "- 作業: 40%\n- 平時小考: 60%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊管理學系。年級:限一年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊管理學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-資訊管理學系、雙主修-資訊管理學系。"
+    }
+  ]
+}

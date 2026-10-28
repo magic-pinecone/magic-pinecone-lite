@@ -1,0 +1,18 @@
+{
+  "serial_no": "87002",
+  "objectives": "“This course would help students to realize the following concepts: characteristics of power system faults, effects of short-circuit currents, practical per-unit analysis, theory of symmetrical components and sequence networks, three-phase and sequence modelling of multi-conductor multi-circuit overhead lines, multi-conductor cables, transformers, quadrature boosters, phase shifters, reactors and capacitors, modelling of ac rotating machines including wind turbine generators, computer calculation and measurement of the electrical parameters of power system equipment, analysis techniques of ac and dc short-circuit currents and multi-phase fault analysis.“",
+  "content": "“- Characteristics of power system faults\n- Effects of short-circuit currents\n- Practical per-unit analysis\n- Theory of symmetrical components and sequence networks\n- Three-phase and sequence modelling of multi-conductor multi-circuit overhead lines, multi-conductor cables, transformers, quadrature boosters, phase shifters, reactors and capacitors\n- Modelling of ac rotating machines including wind turbine generators\n- Computer calculation and measurement of the electrical parameters of power system equipment\n- Analysis techniques of ac and dc short-circuit currents and multi-phase fault analysis“",
+  "books": "“Textbook: Nasser Tleis, Power Systems Modelling and Fault Analysis, 1st Edition\nReferences: Grainger and Stevenson, Power System Analysis“",
+  "teaching_method": "講授",
+  "grading_policy": "“1. Midterm and Final Presentation: 60％ 2. Assignments: 20％ 3. Class Participation: 20％“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限永續綠能科技碩士學位學程、永續綠能科技博士學位學程。"
+    },
+    {
+      "priority": 2,
+      "rule": "學院:限永續與綠能科技研究學院。"
+    }
+  ]
+}

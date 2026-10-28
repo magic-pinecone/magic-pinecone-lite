@@ -1,0 +1,14 @@
+{
+  "serial_no": "42013",
+  "objectives": "這個課程大綱旨在提供一個全面的永續製造與 ERP 概述，涵蓋從基本概念到實踐應用的各個方面，並以理論與實踐相結合的方式，使學生深入理解永續製造與 ERP 的各個層面及管理上的應用。",
+  "content": "由於氣候變遷的影響, 永續製造與能源管理的議題; ERP 資料庫擁有企業最豐富的歷史資料, 如何利用 AI 萃取出有用的資訊, 協助企業以 data driven 為導向的改善，達成綠色永續製造的目的, 是未來很重要的課題. 本課程從基本概念到實踐應用的各個方面，並以理論與實踐相結合的方式，使學生深入理解永續製造與 ERP 的各個層面及管理上的應用。",
+  "books": "1.\tGreen manufacturing-Fundamental and applications\n2.\tERP企業資源規劃導論(第六版)",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Class Participation (出席率)\t20％\nV Assignment (作業)\t20％\nVPaper/Theses Writing (報告/論文)\t30％\nVPresentation (專題發表)\t30％",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限國際經營管理碩士學位學程。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serial_no": "33079",
+  "objectives": "本課程主要介紹光學、雷射及輻射度學與光度學等基本原理，以及顯示器、LED、太陽光能與光纖通訊等光電應用領域的概況。透過本課程之學習將可使學生對光學與光學應用技術的基本原理與應用概況有初步的認識，並期許能將所學習之基本光學原理，應用在日後工作或生活中，以提升職場競爭力或創新應用能力。",
+  "content": "第一章 簡介\n1.1 發展史\n1.2基本概念\n1.3光電應用\n第二章應用光學系統\n2.1 顯示器應用\n2.2光源(LED)應用\n2.3雷射應用\n2.4太陽光能應用\n2.5其他\n第三章波動概論\n第四章光的傳播\n第五章幾何光學\n5.1 引言\n5.2 透鏡\n5.3 光闌\n5.4 鏡子\n5.5 稜鏡\n5.6 光纖光學\n5.7光學系統\n5.8 厚透鏡和光學系統\n5.9 解析的光線追跡\n5.10 像差\n第六章 輻射度學與光度學\n6.1 輻射度學\n6.2 光度學\n第七章 雷射原理",
+  "books": "“講義\nE. Hecht,“Optics,” Addison Wesley, 5th Edition\nS. O. Kasap,“Optoelectronics and photonics principles and practices,”Prentice Hall, 2001.\nW.J. Smith, “Modern Optical Engineering,” 3rd Edition.“",
+  "teaching_method": "講授",
+  "grading_policy": "期末報告：佔 45％；期末考試：佔45％；平常成績：10％，斟酌同學平常課堂表現評分。",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "學院:限工學院。系所:限機械工程學系碩士在職專班。"
+    }
+  ]
+}

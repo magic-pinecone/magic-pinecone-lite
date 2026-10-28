@@ -1,0 +1,18 @@
+{
+  "serial_no": "47018",
+  "objectives": "人力資源是組織的策略資產，其重要性與範疇絕不亞於資金、技術或原物料。隨著科技進步與 AI 浪潮襲來，全球指標性企業正全面加速導入「數據驅動（Data-driven）」的員工管理模式。未來的人資專業人才，不能再只仰賴經驗或直覺，而必須學會將管理決策原則（Managerial Decision-making Principles）精準應用於招募、甄選、留才與薪酬設計等核心領域。無法將數據分析融入策略的企業，將在市場競爭中面臨淘汰；而無法駕馭數據的人資人員，將失去職場的核心競爭力。本課程以成本與效益（Costs & Benefits）概念為基礎，深度評估各項人資專案與方案的實質效用（Utility）。課程將以管理決策科學為框架，培養人資分析（HR Analytics）的核心能力，進而發展、優化並精準評估企業的人力資源管理實務與組織相關策略。",
+  "content": "1.\tIntroduction to Data-driven decision-making\n2.\tFoundations for Metrics\n3.\tDesign of Measurement Systems\n4.\tManagerial Decision Making\n5.\tStrategic HR Scorecards\n6.\tTurnover and Absenteeism\n7.\tEmployee Attitudes\n8.\tUtility Analysis: A Return-on-Investment Perspective\n9.\tCost-Benefit Analysis\n10.\tJob Performance\n11.\tStaffing (Recruitment and Selection)\n12.\tCompensation\n13.\tWork-life Program\n14.\tTraining\n15.\tLinking HR to Profit\n16.\tFinal Project Presentation",
+  "books": "1.\tBecker, B., Huselid, M., & Ulrich, D. (2001). The HR Scorecard: Linking People, Strategy, and Performance, Cambridge, MA: Harvard Business School Press.\n2.\tBoudreau, J.W., Cascio, W.F., Fink, A.A. (2019). Investing in People: Financial Impact of Human Resource Initiatives, 3rd edition. Alexsandrial, Virginia: Society for Human Resource Management. (ISBN: 978-1-58644-609-3)\n3.\tCasio, W.F., Boudreau, J.W., & Fink, A.A. (2011). Investing in People: Financial Impact of Human Resource Initiatives, 3rd edition. Alexsandrial, Virginia: Society for Human Resource Management.\n4.\tNoe R.A., Hollenbeck, J.R., Gerhart, B., & Wright, P.M. (2025). Human Resource Management: Gaining a Competitive Advantage. McGraw Hill.",
+  "teaching_method": "講授\n研討\n\n個別指導",
+  "grading_policy": "Class Participation (出席率)\t10%\nAssignment (作業)\t40%\nPaper/Theses Writing (報告/論文)\t30%\nPresentation (專題發表)\t20%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限人力資源管理研究所碩士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限人力資源管理研究所博士班。"
+    }
+  ]
+}

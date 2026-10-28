@@ -1,0 +1,30 @@
+{
+  "serial_no": "51064",
+  "objectives": "引導學生建立瞭解雷達系統設計與運作所需的基礎概念\n\n引導學生瞭解雷達訊號處理與系統工程",
+  "content": "雷達系統綜述\n(簡化)雷達方程式\n陣列天線分析、設計、與合成\n雷達目標特徵\n雷達波形\n雷達接收機\n雷達信號處理與完整雷達方程式\n系統級雷達模擬簡介",
+  "books": "1.\tM. I. Skolnik, Introduction to Radar Systems, 3rd Ed., New York, NY, USA: McGraw-Hill Education, 2002.\n2.\tM. I. Skolnik (Editor), Radar Handbook, 3rd Ed., New York, NY, USA: McGraw-Hill Education, 2008.\n3.\tM. Richards, Fundamentals of Radar Signal Processing, 2nd Ed., New York, NY, USA: McGraw-Hill Education, 2014.\n4.\tR. O‘Donnell. RES.LL-001 Introduction to Radar Systems. Spring 2007. ( MIT OpenCourseWare)",
+  "teaching_method": "講授",
+  "grading_policy": "作業 (30％)\n期中考 (30％)\n期末報告 (40％)",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系產業博士班。"
+    },
+    {
+      "priority": 1,
+      "rule": "系所:限電機工程學系碩士班、電機工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限電機工程學系。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限資訊電機學院學士班。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-電機工程學系、雙主修-電機工程學系。"
+    }
+  ]
+}

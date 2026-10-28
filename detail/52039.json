@@ -1,0 +1,18 @@
+{
+  "serial_no": "52039",
+  "objectives": "(EMI) This course targets at graduate students with undergraduate algorithm background. If you plan to take this course, I expect that you know what the following words mean: big-O notion, running time, sorting, worst-case analysis.",
+  "content": "The list of topics I plan to cover includes:\n•Graph algorithms.\n•Greedy algorithms.\n•Divide and conquer.\n•Dynamic programming.\n•NP and intractability.\n•Approximation algorithms.\n•Randomized algorithms.\n•Geometric algorithms.",
+  "books": "Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein (Not necessary).\nAlgorithms by Jeff Erickson (Free online) (Not necessary).",
+  "teaching_method": "講授\n研討",
+  "grading_policy": "30% Midterm\n40% Final\n30% Class activity",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系碩士班、資訊工程學系軟體工程碩士班、資訊工程學系AI碩士班、資訊工程學系博士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限人工智慧國際碩士學位學程。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "serial_no": "52005",
+  "objectives": "本課程主要介紹資料結構之基本概念和理論，訓練學生熟悉以下之資料結構，如：陣列、矩陣、堆疊、佇列、串列、樹、圖形，以及排序、搜尋等演算法。\n學習如何分析演算法的時間與空間效率;建立將資料結構應用於實際問題解決的能力; 進一步學習演算法設計、作業系統、資料庫等課程打下基礎。",
+  "content": "本課程教授學生在軟體開發中設計和評估資料結構。本課程的目標是學習資料結構在軟體開發中的作用\n主要教學9個單元：\n1. 簡介 C 語言\n2. Stack (堆疊)\n3. Queue (佇列)\n4. Linked list (鏈結串列)\n5. Tree (樹)\n6. Graph (圖)\n7. Sorting (排序)\n8. Multiway search trees (多路搜尋樹)\n9. Hashing (雜湊)",
+  "books": "“Fundamental of Data Structures in C, 2nd Edition“ , by Horowitz, Shani, M. Tenenbaum.",
+  "teaching_method": "講授\n\n實習/實驗",
+  "grading_policy": "隨堂練習 10%\n程式作業 25%\n小考 10%\n期中考 25%\n期末考 30%",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限資訊工程學系。年級:限二年級。班別:限B。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限資訊工程學系。年級:限三年級、四年級。"
+    },
+    {
+      "priority": 3,
+      "rule": "系所:限輔系-資訊工程學系、雙主修-資訊工程學系。"
+    },
+    {
+      "priority": 4,
+      "rule": "系所:限資訊電機學院學士班。"
+    },
+    {
+      "priority": 5,
+      "rule": "身份:限申請校學士。"
+    }
+  ]
+}

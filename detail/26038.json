@@ -1,0 +1,14 @@
+{
+  "serial_no": "26038",
+  "objectives": "“本課內容主要為關於光波的一般知識,其間特別加強其與傅氏光學和晶體光學相關之處,使得學生有一個較強固的基礎去修讀前述兩門本所的核心課程.“",
+  "content": "1. Vector analysis\n2. Maxwell equations\n3. Wave equations and plane wave solution\n4. Reflection and refraction of plane waves\n5. Guided waves\n6. Radiation",
+  "books": "“1. Paul Lorrain, Dale R. Corson, Electromagnetic Fields and Waves (New York : W.H. Freeman, c2000)\n2. David K. Cheng, Field and Wave Electromagnetics , 2nd ed.  (Addison-Wesley,\n1989).\n3. M.A. Heald and J.B. Marion, Classical electromagnetic radiation 3rd Ed.(Saunders College Publishing)\n4. 自寫講義“",
+  "teaching_method": "講授",
+  "grading_policy": "“本課包含三次考試及平時習作, 學期總成績由此四項成績相加而得,各佔四分之一“",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限光電科學與工程學系碩士在職專班。"
+    }
+  ]
+}

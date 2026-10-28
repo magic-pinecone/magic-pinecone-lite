@@ -1,0 +1,18 @@
+{
+  "serial_no": "21021",
+  "objectives": "課後輔導諮詢與討論",
+  "content": "課後輔導諮詢與討論",
+  "books": "\"Thomas' Calculus 14/e in SI Units, Thomas.\"、\"Applied Calculus for the Managerial, Life, and Social Sciences 10E, Soo T. Tan\"",
+  "teaching_method": "實習/實驗\n個別指導",
+  "grading_policy": "依課後輔導情況決定",
+  "distribution_conditions": [
+    {
+      "priority": 1,
+      "rule": "系所:限數學系碩士班。"
+    },
+    {
+      "priority": 2,
+      "rule": "系所:限數學系。年級:限四年級。"
+    }
+  ]
+}
